@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཟླ་བའི་ལྔ་པ་ལ། དེ་ནི་རྒྱལ་པོ་ཡོ་ཡ་ཁིན་གྱི་རྒྱང་འབུད་ལོ་ལྔ་པ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "ལྔ་པ་ལ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ཟླ་བ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "ལྔ་པ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "རྒྱང་འབུད"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "ཡོ་ཡ་ཁིན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:31:48.844015624Z",
+  "model": "glm-5.3"
+}

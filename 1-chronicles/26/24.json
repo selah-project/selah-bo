@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཤེ་བུ་ཨེལ་ནི་གེར་ཤོམ་གྱི་བུ་མོ་ཤེའི་ཚ་བོ་ཞིག་སྟེ། མཛོད་ཀུན་གྱི་དཔོན་པོར་⟨is⟩གནས།",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "ཤེ་བུ་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "གེར་ཤོམ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "དཔོན་པོ"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ལ"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "མཛོད་ཀུན"
+    }
+  ],
+  "timestamp": "2026-09-30T14:04:38.095647549Z",
+  "model": "glm-5.3"
+}

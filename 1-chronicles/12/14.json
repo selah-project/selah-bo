@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡིར་མེ་ཡ་ཧུ་བཅུ་པ། མཀ་བན་ནའེ་བཅུ་གཅིག་པ།",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ཡིར་མེ་ཡ་ཧུ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "བཅུ་པ"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "མཀ་བན་ནའེ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "བཅུ་གཅིག"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:51.352008205Z",
+  "model": "glm-5.3"
+}

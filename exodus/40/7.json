@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "ཁྱོད་ཀྱིས་ཆུ་གཞོང་⟨את⟩འདུ་བའི་གུར་དང་མཆོད་སྟེགས་ཀྱི་བར་དུ་བཞག །དེར་ཆུ་བཞག།",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཆུ་གཞོང"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ཆུ་གཞོང"
+    },
+    {
+      "surface": "בין",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "གུར"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "འདུ་བ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "དང"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "མཆོད་སྟེགས"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:56:30.131690029Z",
+  "model": "glm-5.3"
+}

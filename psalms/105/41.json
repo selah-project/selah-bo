@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 105,
+  "translation": "ཁོས་བྲག་ཕྱེ་བས་ཆུ་རྣམས་བཞུར་ཏེ། སྐམ་སའི་གནས་རྣམས་སུ་ཆུ་བོ་ལྟར་རྒྱུག",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ཕྱེ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "བྲག"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "བཞུར"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "རྒྱུག"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "སྐམ་སའི་གནས"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ཆུ་བོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:42:33.476604377Z",
+  "model": "glm-5.3"
+}

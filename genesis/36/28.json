@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 36,
+  "translation": "འདི་དག་དི་ཤན་གྱི་བུ་རྣམས་ཏེ། ཨུ་ཙ་དང་ཨ་རན་ནོ།",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "དི་ཤན"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ཨུ་ཙ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "དང་ཨ་རན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:20:26.527946162Z",
+  "model": "glm-5.3"
+}

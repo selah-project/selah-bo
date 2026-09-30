@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "མིའི་འདོད་པ་ནི་དེའི་ཧེ་སེད་ཡིན། མགོ་སྐོར་མཁན་ལས་དབུལ་བོ་ལྷག།",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "འདོད་པ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ཧེ་སེད"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ལྷག"
+    },
+    {
+      "surface": "רש",
+      "gloss": "དབུལ་བོ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "མགོ་སྐོར་མཁན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:41.879649964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "དེ་གཉིས་ལས་ཀྱང་ལེགས་པ་⟨את⟩ད་ཕྱིན་མ་སྐྱེས་པ་དེ་ཡིན་ཏེ། ཁོས་ཉི་མའི་འོག་ཏུ་བྱས་པའི་⟨את⟩བྱ་བ་ངན་པ་མ་མཐོང་བའི་ཕྱིར་རོ།",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "དེ་གཉིས་ལས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མ་སྐྱེས་པ་དེ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ད་ཕྱིན"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བྱ་བ་ངན་པ"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "བྱ་བ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "འོག"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ཉི་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:24:27.756149277Z",
+  "model": "glm-5.3"
+}

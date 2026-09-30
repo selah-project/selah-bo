@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཧ་མ་ཐ་ཡང་དེའི་མཐའ་མཚམས་སུ⟨གནས⟩། ཙོ་ར་དང་ཙི་དོན་⟨ནི⟩ ཤིན་ཏུ་མཁས་པའི་ཕྱིར་རོ།",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ཧ་མ་ཐ"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "མཐའ་མཚམས་སུ་གནས"
+    },
+    {
+      "surface": "בה",
+      "gloss": "དེའི"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ཙོ་ར"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "ཙི་དོན"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "མཁས"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ཤིན་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:16:46.491070379Z",
+  "model": "glm-5.3"
+}

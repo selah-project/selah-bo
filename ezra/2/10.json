@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "བ་ནི་ཡི་བུ་ཚ་རྣམས། དྲུག་བརྒྱ་དང་བཞི་བཅུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བ་ནི"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "དང་གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:04.012922466Z",
+  "model": "glm-5.3"
+}

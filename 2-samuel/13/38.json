@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཨ་བ་ཤ་ལོམ་བྲོས་ཏེ་གེ་ཤུ་རར་ཕྱིན་ནས་ལོ་གསུམ་དེར་སྡོད་དོ།",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ཨ་བ་ཤ་ལོམ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "བྲོས"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "གེ་ཤུ་ར"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨སྡོད⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:53:54.669818209Z",
+  "model": "glm-5.3"
+}

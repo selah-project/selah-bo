@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "ལྷུང་ཡང་རྦད་དེ་གཡུག་པར་མི་འགྱུར། ཡ་ཧ་ཝེས་ཁོ་ཡི་ལག་པ་སྐྱོར་བའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ལྷུང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "གཡུག་པར་འགྱུར"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "སྐྱོར"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ཁོ་ཡི་ལག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:27:18.574978317Z",
+  "model": "glm-5.3"
+}

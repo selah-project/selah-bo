@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཨ་ཧི་ཡོ་དང་ཤ་ཤཀ་དང་ཡེ་རེ་མོཏ།",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ཨ་ཧི་ཡོ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ཤ་ཤཀ"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ཡེ་རེ་མོཏ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:22.072447686Z",
+  "model": "glm-5.3"
+}

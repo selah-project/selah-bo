@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཆར་པ་ས་གཞིའི་སྟེང་དུ་ཉིན་ཞག་བཞི་བཅུ་དང་མཚན་མོ་བཞི་བཅུར་བབས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ཆར་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "མཚན་མོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:22.230763420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཐ་ཧ་ཐ་གི་བུ་ཨ་སིར་གྱི་བུ་ཨེ་བི་ཡ་ས་ཕ་གི་བུ་ཀོ་ར་ཁ་གི་བུ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ཐ་ཧ་ཐ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ཨ་སིར"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "ཨེ་བི་ཡ་ས་ཕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ཀོ་ར་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:12.511792073Z",
+  "model": "glm-5.3"
+}

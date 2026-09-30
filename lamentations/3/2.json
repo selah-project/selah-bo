@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོས⟨את⟩བདག་མུན་ནག་ཏུ་ཁྲིད་དེ་འོད་མེད་པར་བགྲོད་དུ་བཅུག",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "བདག"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ཁྲིད"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "བགྲོད་དུ་བཅུག"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "མུན་ནག་ཏུ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མེད་པར"
+    },
+    {
+      "surface": "אור",
+      "gloss": "འོད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:11.792711597Z",
+  "model": "glm-5.3"
+}

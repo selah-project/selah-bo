@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ལོག་གཡེམ་ཡང་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ཡང་མ་"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ལོག་གཡེམ་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:44:01.445741066Z",
+  "model": "glm-5.3"
+}

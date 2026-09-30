@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མོ་འུར་སྒྲ་ཅན་ཞིག་དང་མགོ་ར stiff ཞིག་སྟེ། ཁོ་མོའི་ཁྱིམ་དུ་རྐང་པ་གནས་མི་ཐུབ།",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "འུར་སྒྲ་ཅན"
+    },
+    {
+      "surface": "היא",
+      "gloss": "མོ"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "མགོ་གཙོ་བ"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "ཁོ་མོའི་ཁྱིམ་དུ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "གནས་ཐུབ"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "རྐང་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:53:26.740788385Z",
+  "model": "glm-5.3"
+}

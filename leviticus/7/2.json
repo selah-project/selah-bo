@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཧོ་ལ་གསོད་སར་ཨ་ཤམ་གསོད། ཁྲག་⟨את⟩མིཛ་བ་ཧའི་སྟེང་མཐའ་འཁོར་དུ་གཏོར།",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "སར"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "གསོད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཧོ་ལ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ཧོ་ལ"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "གསོད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ཤམ"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ཨ་ཤམ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཁྲག"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ཁྲག"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "གཏོར"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "མིཛ་བ་ཧ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "མཐའ་འཁོར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:12.473292532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེའི་སྐྱབས་ཀྱི་ཕྱིར་རེ་སྒུག་དང་ཁ་རོག་ཏུ་སྡོད་པ་བཟང་།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "བཟང་།"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "རེ་སྒུག་བྱེད"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ཁ་རོག་ཏུ་སྡོད"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "སྐྱབས་ཀྱི་ཕྱིར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:31.383897690Z",
+  "model": "glm-5.3"
+}

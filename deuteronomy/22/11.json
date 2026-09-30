@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཤ་ཨ་ཊ་ནེཛ་ཏེ་བལ་དང་རས་ཤིང་མཉམ་དུ་བསླoven་པའི་གོས་མི་གྱོན་པར་གྱིས།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "གྱོན"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "ཤ་ཨ་ཊ་ནེཛ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "བལ"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "དང་རས་ཤིང"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "མཉམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:52:54.429055778Z",
+  "model": "glm-5.3"
+}

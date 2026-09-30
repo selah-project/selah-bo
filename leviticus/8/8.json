@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཁོའི་སྟེང་དུ་⟨את⟩ཧོ་ཤེན་བཞག་ཧོ་ཤེན་ལ་⟨את⟩ཨུ་རིམ་དང་⟨את⟩ཐུ་མིམ་བཞག",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ཁོའི་སྟེང་དུ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཧོ་ཤེན"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ཧོ་ཤེན"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ཧོ་ཤེན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨུ་རིམ"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ཨུ་རིམ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཐུ་མིམ"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ཐུ་མིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:02:50.239375014Z",
+  "model": "glm-5.3"
+}

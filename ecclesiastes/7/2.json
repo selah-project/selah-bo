@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མྱ་ངན་གྱི་ཁང་པར་འགྲོ་བ་ནི། སྟོན་མོའི་ཁང་པར་འགྲོ་བ་ལས་ལེགས། དེ་ནི་མི་ཐམས་ཅད་ཀྱི་མཐའ་ཡིན་པས། གསོན་པོས་དེ་སེམས་ལ་འཛིན་པར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "འགྲོ་བ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ར"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "མྱ་ངན"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "འགྲོ་བ་ལས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ར"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "སྟོན་མོ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "གང་ལགས་པ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "མཐའ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད་ཀྱི"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "དང་གསོན་པོས"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "འཛིན་པར་བྱེད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "སེམས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:40.682103414Z",
+  "model": "glm-5.3"
+}

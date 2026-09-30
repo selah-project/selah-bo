@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཨ་ཡིལ་དང་ཙེ་ཝི་དང་ཡ་ཀ་མུར་དང་ཨ་ཀོ་དང་དི་ཤོན་དང་ཏེ་ཨོ་དང་ཟ་མེར།",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ཨ་ཡིལ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ཙེ་ཝི"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ཡ་ཀ་མུར"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ཨ་ཀོ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "དི་ཤོན"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ཏེ་ཨོ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ཟ་མེར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:51:39.236271132Z",
+  "model": "glm-5.3"
+}

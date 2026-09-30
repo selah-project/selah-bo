@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 16:2",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "མི་དེའི་ལམ་ཐམས་ཅད་ཁོའི་མིག་ཏུ་དག་ཀྱང་། རུ་ཨ་ཁ་ཚད་འཇལ་མཁན་ཡ་ཧ་ཝེ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི་དེའི"
+    },
+    {
+      "surface": "זך",
+      "gloss": "དག"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ཁོའི་མིག་ཏུ"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "ཚད་འཇལ་མཁན"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "རུ་ཨ་ཁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:51.132278762Z",
+  "model": "glm-5.3"
+}

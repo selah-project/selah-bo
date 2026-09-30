@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཤོག ངའི་བག་ལེབ་ཟོ ངས་བསྲེས་པའི་ཆང་འཐུང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ཤོག"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ཟོ"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "ངའི་བག་ལེབ"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "འཐུང"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ཆང"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ངས་བསྲེས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:15.857836162Z",
+  "model": "glm-5.3"
+}

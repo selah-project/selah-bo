@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཞིམ་པའི་བག་ལེབ་མ་བཟས། ཤ་དང་ཨ་རག་ཀྱང་ཁ་ལ་མ་སླེབས། བྱུག་སྣུམ་ཡང་མ་བྱུགས། ཉིན་བདུན་ཕྲག་གསུམ་མ་རྫོགས་ཀྱི་བར།",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "བག་ལེབ"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "ཞིམ་པའི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "བཟས"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ཨ་རག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "སླེབས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "བྱུག་སྣུམ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "བྱུགས"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "རྫོགས"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "བདུན་ཕྲག"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:38:56.372355538Z",
+  "model": "glm-5.3"
+}

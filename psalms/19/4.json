@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "གཏམ་མེད། ཚིག་ཀྱང་མེད། ཁོང་གི་སྒྲ་ཐོས་པ་མེད་པར།",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གཏམ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ཀྱང་མེད"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "མེད་པར"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ཐོས་པ"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ཁོང་གི་སྒྲ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:23:22.726024454Z",
+  "model": "glm-5.3"
+}

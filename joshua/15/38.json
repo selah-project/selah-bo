@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "དིལ་ཨན་དང་ཧ་མིཙ་པེ་ཧ་དང་ཡོཀ་ཐེ་ཨེལ།",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "དིལ་ཨན"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "ཧ་མིཙ་པེ་ཧ"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "ཡོཀ་ཐེ་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:17.543271858Z",
+  "model": "glm-5.3"
+}

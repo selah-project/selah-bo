@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཡེ་ཧོ་ཡ་ད་ཨ་གིས་ཁོང་ལ་བཟའ་མི་གཉིས་བླངས། ཁོང་ལ་བུ་དང་བུ་མོ་སྐྱེས།",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "བླངས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོང་ལ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ཡེ་ཧོ་ཡ་ད་ཨ་གིས"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "བཟའ་མི"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "བུ་མོ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:15:28.434214026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ངའི་སྡུག་བསྔལ་དང་ངའི་འཁྱམས་པ་དྲན་བྱོས། ལ་ཨ་ན་དང་དུག",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "དྲན་བྱོས"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ངའི་སྡུག་བསྔལ"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "ངའི་འཁྱམས་པ"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "ལ་ཨ་ན"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "དུག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:10.766467036Z",
+  "model": "glm-5.3"
+}

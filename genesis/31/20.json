@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཡ་ཨ་ཀོབ་ཀྱིས་ཨ་རམ་པ་ལ་བན་གྱི་⟨את⟩སྙིང་བརྐུས་ཏེ། ཁོ་རང་བྲོས་པ་ཡིན་ཞེས་ཁོ་ལ་མ་བཤད་པར་རོ།",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "བརྐུས"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སྙིང་"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང་"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ལ་བན"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "ཨ་རམ་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "གང་གིས་"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "མ་བཤད་པར"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "བཤད"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "བྲོས"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ་རང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:19:12.884676784Z",
+  "model": "glm-5.3"
+}

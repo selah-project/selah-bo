@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཁྱེད་རང་ཚོས་མི་མང་གི་ཁྲོད་ནས་མི་བཅུ་གཉིས་ལོངས། ཚོགས་རེ་ནས་མི་རེ་རེ།",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ལོངས"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་རང་ཚོས་"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས་"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་མང་"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "མི"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི་རེ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "རེ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི་རེ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "རེ"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "ཚོགས་རེ་ནས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:35:23.428330683Z",
+  "model": "glm-5.3"
+}

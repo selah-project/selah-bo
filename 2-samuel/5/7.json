@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ད་ཝིད་ཀྱིས་⟨את⟩ཙི་ཡོན་གྱི་མཁར་གཡུལ་བཟུང་སྟེ། དེ་ནི་ད་ཝིད་ཀྱི་གྲོང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "བཟུང"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མཁར་གཡུལ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "མཁར་གཡུལ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ཙི་ཡོན"
+    },
+    {
+      "surface": "היא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "གྲོང"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ད་ཝིད"
+    }
+  ],
+  "timestamp": "2026-09-30T09:52:28.621843932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཨེལ་ཏོ་ལད་དང་བེ་ཐུལ་དང་ཧོར་མ།",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ཨེལ་ཏོ་ལད"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "དང་བེ་ཐུལ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "དང་ཧོར་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:29.125628688Z",
+  "model": "glm-5.3"
+}

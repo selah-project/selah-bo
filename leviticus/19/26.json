@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཁྲག་གི་སྟེང་དུ་མ་ཟ། བརྟག་པ་མ་བྱེད། མཐོང་ལུང་ཡང་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ཁྲག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "བརྟག་པ་བྱེད"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ཡང་མ"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "མཐོང་ལུང་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:10:29.093842611Z",
+  "model": "glm-5.3"
+}

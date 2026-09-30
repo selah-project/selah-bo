@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཡ་ཧ་ཝེ་ལ་བསྔགས་པ། གང་ལྟར་ཁོང་གིས་ངའི་གསོལ་བའི་སྒྲ་གསན་པས་སོ།།",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "བསྔགས་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་ལྟར"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "གསན"
+    },
+    {
+      "surface": "קול",
+      "gloss": "སྒྲ"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "གསོལ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:25:00.041353251Z",
+  "model": "glm-5.3"
+}

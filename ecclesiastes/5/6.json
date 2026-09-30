@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཏེ་རྨི་ལམ་མང་བ་ན་དུ་བ་ལྟ་བུ་མང་ཞིང་ཚིག་ཀྱང་འཕེལ་བས། ⟨את⟩ཨེ་ལོ་ཧིམ་ལ་འཇིགས་ཤིག",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "མང་བ་ལ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "རྨི་ལམ"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "དུ་བ་ལྟ་བུ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "འཕེལ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "འཇིགས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:10.050640872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 78,
+  "translation": "ཡེ་ཧུ་ད་ཚོ་བ་འདེམས། རང་གི་བརྩེ་བའི་ཙི་ཡོན་རི་བོ་⟨את⟩འདེམས།",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "འདེམས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚོ་བ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ཚོ་བ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ཡེ་ཧུ་ད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "རི་བོ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "རི་བོ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ཙི་ཡོན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "བརྩེ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:36:27.713066388Z",
+  "model": "glm-5.3"
+}

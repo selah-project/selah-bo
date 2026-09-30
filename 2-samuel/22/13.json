@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཁོང་གི་མདུན་གྱི་འོད་ཟེར་ལས་མེ་ཡི་མདག་འབར།",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "འོད་ཟེར་ལས"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ཁོང་གི་མདུན་དུ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "འབར"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "མེ་ཡི་མདག"
+    },
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:02:47.904364550Z",
+  "model": "glm-5.3"
+}

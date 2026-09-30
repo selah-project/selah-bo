@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "གལ་ཏེ་གནོད་སྐྱོན་བྱུང་ན་ནེ་ཕེ་ཤའི་ཚབ་ཏུ་ནེ་ཕེ་ཤ་སྤྲོད་དོ།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "གནོད་སྐྱོན"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "སྤྲོད"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ཚབ་ཏུ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:44:02.984741138Z",
+  "model": "glm-5.3"
+}

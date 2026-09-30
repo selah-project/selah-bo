@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁྱོད་ཀྱིས་སྤྲིན་གྱིས་སྒྲིབ་སྟེ་གསོལ་བ་འདའ་མི་ནུས་པར་མཛད།",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "སྒྲིབ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "སྤྲིན་གྱིས"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "འདའ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "གསོལ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:54.042215391Z",
+  "model": "glm-5.3"
+}

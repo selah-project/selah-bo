@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཤུ་པིམ་དང་ཧུ་པིམ་ནི་ཨིར་གྱི་བུ་ཡིན། ཧུ་ཤིམ་ནི་ཨ་ཧེར་གྱི་བུ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ཤུ་པིམ"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ཧུ་པིམ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ཨིར་"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ཧུ་ཤིམ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ཨ་ཧེར་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:57.630972960Z",
+  "model": "glm-5.3"
+}

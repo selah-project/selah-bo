@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "བུ་མཁས་པ་ནི་ཕའི་བསླབ་བྱ་ལ་གནས། འོན་ཀྱང་འཕྱ་མཁན་གྱིས་ཉེས་བརྗོད་མི་གསན།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "བསླབ་བྱ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "འཕྱ་མཁན"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "གསན"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ཉེས་བརྗོད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:57.734591758Z",
+  "model": "glm-5.3"
+}

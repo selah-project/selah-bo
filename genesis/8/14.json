@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཟླ་བ་གཉིས་པའི་ཚེས་ཉེར་བདུན་ལ་ ས་གཞི་སྐམས་སོང་།",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ཟླ་བ་ལ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "གཉིས་པའི"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ཉེར"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཚེས"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ཟླ་བ་ལ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "སྐམས་སོང"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:25:12.866461525Z",
+  "model": "glm-5.3"
+}

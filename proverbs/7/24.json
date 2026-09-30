@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ད་ནི་བུ་ཚོ་ཁྱེད་རྣམས་ངའི་ཚིག་ལ་ཉོན་ལ། ངའི་ཁའི་གཏམ་ལ་རྣ་བ་གཏོད་ཅིག",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ད་ནི"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ཉོན་ལ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ངའི"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "རྣ་བ་གཏོད་ཅིག"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "གཏམ་ལ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ངའི་ཁའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:00.141416373Z",
+  "model": "glm-5.3"
+}

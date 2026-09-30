@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "དེ་ལྟར་མི་དམངས་ཀྱིས་ཉིན་བདུན་པ་ལ་ངལ་གསོས།",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ངལ་གསོས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་དམངས་ཀྱིས"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་་ལ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "བདུན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:42:36.467406598Z",
+  "model": "glm-5.3"
+}

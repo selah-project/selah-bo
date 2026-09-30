@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨ་བི་ཤུར་གྱི་ཆུང་མའི་མིང་ཨ་བི་ཧ་ཡིལ་ཡིན། ཁོ་ལ་⟨את⟩ཨ་ཧ་བན་དང་⟨את⟩མོ་ལིད་སྐྱེས།",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ཆུང་མ"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "ཨ་བི་ཤུར"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "ཨ་བི་ཧ་ཡིལ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ཧ་བན"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "ཨ་ཧ་བན"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "མོ་ལིད"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "མོ་ལིད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:17.538535105Z",
+  "model": "glm-5.3"
+}

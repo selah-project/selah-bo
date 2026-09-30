@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "མ་ཧ་ལི་མཁར་ནས་ཨེ་ལ་ཛ་ར་ཡིན་ལ། ཁོ་ལ་བུ་ཚ་མེད་དོ།",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "མ་ཧ་ལི་མཁར་ལ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ཨེ་ལ་ཛ་ར"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་མིན"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ཡིན⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ་ཚ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:06:11.550742018Z",
+  "model": "glm-5.3"
+}

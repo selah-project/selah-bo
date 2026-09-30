@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཡ་ཧ་ཝེ་གྱིས་མོ་ཤེ་ལ་གསུངས་སྟེ་འདི་སྐད་གསུང་དོ་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་སྟེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་གསུང་དོ་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:41:05.335699616Z",
+  "model": "glm-5.3"
+}

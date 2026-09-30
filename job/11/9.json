@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དེའི་ཚད་ནི་ས་གཞི་ལས་རིང་ཞིང་རྒྱ་མཚོ་ལས་ཀྱང་ཡངས།",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "རིང"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ས་གཞི་ལས"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ཚད"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "ཡངས"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "ים",
+      "gloss": "རྒྱ་མཚོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:06:00.685227346Z",
+  "model": "glm-5.3"
+}

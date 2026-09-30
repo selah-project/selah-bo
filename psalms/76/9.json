@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 76,
+  "translation": "ནམ་མཁའ་ནས་ཁྱོད་ཀྱིས་⟨the⟩ཁྲིམས་གོ་བར་མཛད། ས་གཞི་དངངས་ཤིང་ལྷིང་གནས།",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ནམ་མཁའ་ནས"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "གོ་བར་མཛད"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "དངངས"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ལྷིང་གནས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:34:45.775249965Z",
+  "model": "glm-5.3"
+}

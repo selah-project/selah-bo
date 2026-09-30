@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "བེ་བའི་ཡི་བུ་ཚ་རྣམས། དྲུག་བརྒྱ་དང་ཉི་ཤུ་གསུམ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "བེ་བའི"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "དང་གསུམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:04.013062718Z",
+  "model": "glm-5.3"
+}

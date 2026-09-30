@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 42,
+  "translation": "ང་ཚོ་དྲང་པོ་བ་ཡིན་གྱི་ས་མུལ་བ་མ་ཡིན་ཞེས་ཁོང་ལ་ང་ཚོས་ཞུས་སོ།",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "ཞུས་སོ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ཁོང་ལ"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "དྲང་པོ་བ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ང་ཚོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ་ཡིན"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ས་མུལ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:28:22.206638315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "བེ་ཐ་ལེ་ཧེམ་གྱི་བུ་ཚ་བརྒྱ་དང་ཉི་ཤུ་རྩ་གསུམ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ལེ་ཧེམ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "རྩ་གསུམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:39:42.670159453Z",
+  "model": "glm-5.3"
+}

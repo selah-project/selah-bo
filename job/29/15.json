@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ལོང་བ་ལ་མིག་ང་ཡིན། འཁུམས་པོ་ལ་རྐང་བ་ང་ཡིན།",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ང་ཡིན"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "ལོང་བ་ལ"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "རྐང་བ"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "འཁུམས་པོ་ལ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    }
+  ],
+  "timestamp": "2026-09-30T13:11:23.756898729Z",
+  "model": "glm-5.3"
+}

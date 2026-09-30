@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "དེ་ནས་མོ་བཙའ་བའི་དུས་ལ་བབ་པ་ན། ལྟ་ཞོག མངལ་དུ་མཚེ་མ་གཉིས་ཡོད་དོ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "དེ་ནས"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "དུས"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "བཙའ་བ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ལྟ་ཞོག"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "མཚེ་མ་གཉིས"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "མངལ་ནང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:23:08.478086116Z",
+  "model": "glm-5.3"
+}

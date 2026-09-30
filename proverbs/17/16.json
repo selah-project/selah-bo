@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཅིའི་ཕྱིར་འདི་ལྟར་བླུན་པོའི་ལག་ཏུ་རིན་ཡོད་དེ། ཤེས་རབ་ཉོ་བ་ལ་ནི་སེམས་མེད།",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ཅིའི་ཕྱིར"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི་ལྟར"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "རིན"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ལག་ཏུ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "ཉོ་བ་ལ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "སེམས"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:54.322546152Z",
+  "model": "glm-5.3"
+}

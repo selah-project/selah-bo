@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ནོ་ཧ་བཞི་པ་དང་། ར་ཕ་ཨ་ལྔ་པ་⟨ཡིན⟩།",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "ནོ་ཧ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "བཞི་པ"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ར་ཕ་ཨ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ལྔ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:52.552652646Z",
+  "model": "glm-5.3"
+}

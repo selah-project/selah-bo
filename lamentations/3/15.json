@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོང་གིས་ཚ་བ་རྣམས་ཀྱིས་ང་ཚིམས་པར་བྱས། ཁོང་གིས་ལ་ཨ་ནས་ང་བྲོས་པར་བྱས།",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "ཚིམས་པར་བྱས"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "ཚ་བ་རྣམས་ཀྱིས"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "བྲོས་པར་བྱས"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "ལ་ཨ་ན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:52.766631176Z",
+  "model": "glm-5.3"
+}

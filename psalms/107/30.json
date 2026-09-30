@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 107,
+  "translation": "རླབས་ཞི་བ་ན་ཁོ་ཚོ་དགའ་ཞིང་། ཡ་ཧ་ཝེས་ཁོ་ཚོ་འདོད་པའི་གྲུ་ཁར་⟨את⟩ཁོ་ཚོ་དྲངས།",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ན"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "ཞི་བ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "དྲངས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "གྲུ་ཁ"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "འདོད་པའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:43:35.025045976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 17:28",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "གླེན་པ་ཡང་ཁ་རོག་འདུག་ན་མཁས་པར་བརྩི། ཁ་འགེབས་པ་ནི་བློ་ལྡན་དུ་བརྩིའོ།",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ཡང་"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "གླེན་པ"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "ཁ་རོག་འདུག"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "བརྩི"
+    },
+    {
+      "surface": "אטם",
+      "gloss": "ཁ་འགེབས་པ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "བློ་ལྡན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:23.217551188Z",
+  "model": "glm-5.3"
+}

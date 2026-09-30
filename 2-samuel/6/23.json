@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མི་ཀལ་ཤེ་ཨོལ་གྱི་བུ་མོ་ལ་ནི་འཆི་བའི་ཉིན་བར་དུ་བུ་གཅིག་ཀྱང་སྐྱེས་པ་མེད།",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "མི་ཀལ་ལ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ཤེ་ཨོལ་གྱི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "היה",
+      "gloss": "སྐྱེས་པ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "འཆི་བའི"
+    }
+  ],
+  "timestamp": "2026-09-30T09:51:28.486507863Z",
+  "model": "glm-5.3"
+}

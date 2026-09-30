@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཨེ་ནོ་ཤའི་ཉིན་མོ་ཐམས་ཅད་ལོ་དགུ་བརྒྱ་དང་ལྔ་ལྔ་བཅུ་བྱུང་ནས་འདས།",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་མོ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ཨེ་ནོ་ཤ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ་ལྔ་བཅུ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "དགུ་བརྒྱ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "འདས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:03:25.313191395Z",
+  "model": "glm-5.3"
+}

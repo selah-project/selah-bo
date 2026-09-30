@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མ་ཏ་ན་ཡ་ཧ། མ་ཏེ་ནའི། ཡ་ཨ་ཤ་ཝ།",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "མ་ཏ་ན་ཡ་ཧ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "མ་ཏེ་ནའི"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ཡ་ཨ་ཤ་ཝ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:44:10.692079850Z",
+  "model": "glm-5.3"
+}

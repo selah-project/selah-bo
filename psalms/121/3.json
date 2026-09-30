@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 121,
+  "translation": "ཁྱོད་ཀྱི་རྐང་པ་གཡོ་བར་མ་གནང་། ཁྱོད་སྲུང་མཁན་ལོག་གཉིད་མི་ལྡང་།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "གནང"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "གཡོ་བ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ཁྱོད་ཀྱི་རྐང་པ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ལོག་གཉིད"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ཁྱོད་སྲུང་མཁན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:47:25.832625924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "དེ་ནས་ཁོང་དེ་ནས་བེ་ཨར་ཤེ་བའ་ལ་གཤེགས།",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "གཤེགས།"
+    },
+    {
+      "surface": "משם",
+      "gloss": "དེ་ནས།"
+    },
+    {
+      "surface": "באר",
+      "gloss": "བེ་ཨར།"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ཤེ་བའ།"
+    }
+  ],
+  "timestamp": "2026-09-30T07:15:29.408388559Z",
+  "model": "glm-5.3"
+}

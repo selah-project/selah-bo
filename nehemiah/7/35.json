@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཧ་རིམ་གྱི་བུ་ཚ་རྣམས་བརྒྱ་གསུམ་དང་ཉི་ཤུ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ཧ་རིམ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "དང་ཉི་ཤུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:35.459620979Z",
+  "model": "glm-5.3"
+}

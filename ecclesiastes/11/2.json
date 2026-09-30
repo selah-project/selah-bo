@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཆ་ཤས་བདུན་ལ་སྦྱིན་ལ་བརྒྱད་ལའང་སྦྱིན། གང་ཡིན་པས་ས་གཞིའི་སྟེང་དུ་ངན་པ་གང་འབྱུང་བ་ཁྱོད་ཀྱིས་མི་ཤེས།",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "སྦྱིན"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ཆ་ཤས"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "བདུན་ལ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ལའང"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "བརྒྱད"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་ཡིན་པས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "מה",
+      "gloss": "གང"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:08.403294843Z",
+  "model": "glm-5.3"
+}

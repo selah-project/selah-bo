@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "ཁོའི་ཐག་པ་ས་ལ་སྦས། ཁོའི་རྙི་ལམ་ལ་⟨ཡོད⟩དོ།",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "སྦས"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་ལ"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "ཁོའི་ཐག་པ"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "དང་ཁོའི་རྙི"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "ལམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:07:59.784008806Z",
+  "model": "glm-5.3"
+}

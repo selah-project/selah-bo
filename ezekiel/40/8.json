@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "ཁོས་⟨את⟩ཁང་པའི་ཕྱོགས་ཀྱི་སྒོའི་སྒོ་ཁྱམས་ཀ་ནེ་གཅིག་བཟུང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "བཟུང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སྒོ་ཁྱམས"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "སྒོ་ཁྱམས"
+    },
+    {
+      "surface": "השער",
+      "gloss": "སྒོའི"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ཁང་པའི་ཕྱོགས་སུ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ཀ་ནེ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:52:34.130452816Z",
+  "model": "glm-5.3"
+}

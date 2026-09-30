@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཀ་ན་ཨན་གྱིས་⟨את⟩ཙི་དོན་ཁོང་གི་སྔ་མ་བུ་དང་⟨את]]ཧེ་ཐ་བཙས།",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ཀ་ན་ཨན་གྱིས་"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཙི་དོན"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ཙི་དོན"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ཁོང་གི་སྔ་མ་བུ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧེ་ཐ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ཧེ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:06:47.331699497Z",
+  "model": "glm-5.3"
+}

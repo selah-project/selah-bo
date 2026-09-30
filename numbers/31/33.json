@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "དང་བ་ཕྱུགས་སྟོང་ཕྲག་བདུན་ཅུ་དོན་གཉིས།",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "དང་བ་ཕྱུགས"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "དང་བདུན་ཅུ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང་ཕྲག"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:08.266589337Z",
+  "model": "glm-5.3"
+}

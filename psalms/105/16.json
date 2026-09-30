@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 105,
+  "translation": "ཁོང་གིས་ས་གཞི་ལ་མུ་གེ་བོས། བག་ལེབ་ཀྱི་འཁར་བ་ཡོངས་རྫོགས་བཅག",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "བོས"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "མུ་གེ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཡོངས་རྫོགས"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "འཁར་བ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "བག་ལེབ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "བཅག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:42:46.141230872Z",
+  "model": "glm-5.3"
+}

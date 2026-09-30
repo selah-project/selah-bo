@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "དྲག་ཤུགས་ཀྱི་མི་ལ་ཕྲག་དོག་མ་བྱེད། དང་ཁོའི་ལམ་གང་ཡང་མ་འདེམས།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ཕྲག་དོག་བྱེད"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ལ་མི"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "དྲག་ཤུགས"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་མ"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "འདེམས"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ལ་ཐམས་ཅད"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ལམ་ཁོའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:59.919889566Z",
+  "model": "glm-5.3"
+}

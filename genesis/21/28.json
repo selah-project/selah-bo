@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཨབ་ར་ཧམ་གྱིས་⟨את⟩ལུག་གི་བལ་མོ་བདུན་རང་ས་ལ་བཞག",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བལ་མོ་བདུན"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "བལ་མོ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ལུག"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "རང་ས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:11:38.728453770Z",
+  "model": "glm-5.3"
+}

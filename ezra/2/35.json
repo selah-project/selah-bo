@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "སེ་ན་ཨ་ཧའི་བུ་ཚ་ སུམ་སྟོང་དྲུག་བརྒྱ་དང་སུམ་བཅུ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "སེ་ན་ཨ་ཧ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "སུམ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "དང་དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "དང་སུམ་བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:05.111616516Z",
+  "model": "glm-5.3"
+}

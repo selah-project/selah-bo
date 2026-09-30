@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 101,
+  "translation": "ལོག་པའི་སྙིང་བདག་ལས་བཟློག་པར་འགྱུར། ངན་པ་བདག་གིས་མི་ཤེས།",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ལོག་པའི"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "བཟློག་པར་འགྱུར"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "བདག་ལས"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "བདག་གིས་ཤེས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:41:57.688068024Z",
+  "model": "glm-5.3"
+}

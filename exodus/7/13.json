@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཕ་རོའི་སྙིང་བརྟན་དུ་གྱུར། ཁོང་གིས་ཡ་ཧ་ཝེ་གསུངས་པ་ལྟར་ཁོ་ཚོའི་ཚིག་ལ་མ་ཉན།",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "བརྟན་དུ་གྱུར"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ཕ་རོ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ཁོ་ཚོའི་"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ལྟར"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:35:15.665470162Z",
+  "model": "glm-5.3"
+}

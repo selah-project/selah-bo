@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "གླང་ཞིག་འབྲུ་རྡུང་བྱེད་པའི་ཚེ་དེའི་ཁ་བཀག་པར་མི་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ཁ་བཀག་བྱེད"
+    },
+    {
+      "surface": "שור",
+      "gloss": "གླང"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "འབྲུ་རྡུང་བྱེད་པའི་ཚེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:56:34.409028188Z",
+  "model": "glm-5.3"
+}

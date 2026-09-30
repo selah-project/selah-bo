@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "བླ་མ་དག་གི་ནང་གི་སྐྱེས་པ་ཐམས་ཅད་ཀྱིས་⟨את⟩དེ་བཟའ་ཞིང་། དེ་ནི་ཀོ་དེ་ཤ་དག་གི་ཀོ་དེ་ཤ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "སྐྱེས་པ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "བླ་མ་དག་གི་ནང་"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "བཟའ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "དེ (the offering)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཀོ་དེ་ཤ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ཀོ་དེ་ཤ་དག"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ་ནི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:58:05.036220159Z",
+  "model": "glm-5.3"
+}

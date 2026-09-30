@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་གསུངས་ནས་འདི་སྐད་ཅེས་གསུངས།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་ནས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་ཅེས་གསུངས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:07:52.717429418Z",
+  "model": "glm-5.3"
+}

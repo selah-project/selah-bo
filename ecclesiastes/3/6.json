@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "དུས་ཤིག་འཚོལ་བ་དང་། དུས་ཤིག་བོར་བ། དུས་ཤིག་སྲུང་བ་དང་། དུས་ཤིག་འཕེན་པའོ།",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "དུས་ཤིག"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "འཚོལ་བ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "དང་དུས་ཤིག"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "བོར་བ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "དུས་ཤིག"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "སྲུང་བ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "དང་དུས་ཤིག"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "འཕེན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:09.385251435Z",
+  "model": "glm-5.3"
+}

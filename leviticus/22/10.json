@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཕྱི་མི་གང་ཡིན་ཡང་ཀོ་དེ་ཤ་ཟ་མི་རུང་སྟེ། མཆོད་པ་པོའི་གནས་མི་དང་གླ་པས་ཀྱང་ཀོ་དེ་ཤ་ཟ་མི་རུང་།",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "གང་ཡིན་ཡང་"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ཕྱི་མི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཀོ་དེ་ཤ"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "གནས་མི"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "མཆོད་པ་པོ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "གླ་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཀོ་དེ་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:11:43.266247034Z",
+  "model": "glm-5.3"
+}

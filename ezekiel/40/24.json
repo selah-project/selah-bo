@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 40:24",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "ཁྲིད་པ་ཕྱོགས་ལྷོ། ལྟ་སྒོ་ཕྱོགས་ལྷོ། འཇལ་བ་ཀ་བ་དང་སྒོ་ཁང་ཚད་ལྟར་འདི་དག",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "ཁྲིད"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ཕྱོགས"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ལྷོ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ལྟ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ཕྱོགས"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ལྷོ"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "འཇལ"
+    },
+    {
+      "surface": "אילו",
+      "gloss": "ཀ་བ"
+    },
+    {
+      "surface": "ואילמו",
+      "gloss": "སྒོ་ཁང"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "ཚད་ལྟར"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "འདི་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:51:39.014222830Z",
+  "model": "glm-5.3"
+}

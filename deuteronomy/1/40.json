@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 1:40",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ད་ཁྱེད་རྣམས་ཁྱེད་ཉིད་ལོག་ལ། འཕགས་པོའི་མཚོའི་ལམ་ནས་ཐང་སྟོང་དུ་འགྲོ་བར་གྱིས།",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ཡང་ཁྱེད་རྣམས"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་ཉིད"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "འགྲོ་བར་གྱིས"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "ཐང་སྟོང་དུ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "མཚོ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "འཕགས་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:42:36.826732346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཡ་ཧ་ཝེ་གིས་མོ་ཤེ་དང་ཨ་ཧ་རོན་ལ་གསུང་ཞེས་བྱས།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་ལ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ཨ་ཧ་རོན"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:32:50.542790558Z",
+  "model": "glm-5.3"
+}

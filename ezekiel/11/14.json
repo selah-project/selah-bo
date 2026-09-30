@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 11:14",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ང་ལ་བྱུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:35:32.989503472Z",
+  "model": "glm-5.3"
+}

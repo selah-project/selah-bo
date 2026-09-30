@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ང་ཡང་བསྐྱར་ཏེ་ཉི་མའི་འོག་ཏུ་ཧེ་བུ་མཐོང་།",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "བསྐྱར་ཏེ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ཧེ་བུ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "འོག་ཏུ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ཉི་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:50.490720580Z",
+  "model": "glm-5.3"
+}

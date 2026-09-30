@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 44,
+  "translation": "གང་ཞིག་ནང་གི་ར་བར་འཛུལ་བའི་ཚེ་ཀོ་ཧེན་གང་གིས་ཀྱང་ཨ་རག་མི་འཐུང་བར་བྱ།",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "ཨ་རག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "འཐུང་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང་གིས་ཀྱང་"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ཀོ་ཧེན"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "འཛུལ་བའི་ཚེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ར་བ"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ནང་གི"
+    }
+  ],
+  "timestamp": "2026-09-30T11:54:14.891180540Z",
+  "model": "glm-5.3"
+}

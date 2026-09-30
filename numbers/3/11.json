@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་འདི་སྐད་དུ་གསུང།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:18:22.433181532Z",
+  "model": "glm-5.3"
+}

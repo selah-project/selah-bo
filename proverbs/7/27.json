@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཤེ་ཨོལ་གྱི་ལམ་དག་ནི་མོའི་ཁང་པ་སྟེ། འཆི་བའི་ནང་ཁང་དག་ཏུ་འབབ་པའོ།",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ལམ་དག"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ཤེ་ཨོལ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "མོའི་ཁང་པ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "འབབ་པ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ནང་ཁང་དག"
+    },
+    {
+      "surface": "מות",
+      "gloss": "འཆི་བའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:53:44.181212889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "རྩིག་པ་མེད་པའི་གྲོང་ཆག་པ་〈ལྟར〉། གང་ལ་རང་གི་རུ་ཨ་ཁ་བཀག་པ་མེད་པའི་མི་〈དེའོ〉། །",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "གྲོང"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "ཆག་པ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད་པ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "རྩིག་པ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད་པ"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "བཀག་པ"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "རུ་ཨ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:13.391025055Z",
+  "model": "glm-5.3"
+}

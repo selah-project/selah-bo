@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "བླུན་པོའི་ཁྲོ་བ་ ོ(ཉིན་གཅིག་ལ་ ༼ཤེས།༽ བག་ཡོད་པས་ ོ(ངོ་ཚ་ ོ(སྒྲིབ།)",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་ལ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "ཁྲོ་བ"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "སྒྲིབ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ངོ་ཚ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "བག་ཡོད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:23.389285736Z",
+  "model": "glm-5.3"
+}

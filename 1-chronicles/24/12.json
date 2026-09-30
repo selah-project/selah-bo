@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "བཅུ་གཅིག་པ་ཨེ་ལི་ཡ་ཤིབ་ལ། བཅུ་གཉིས་པ་ཡ་ཀིམ་ལ།",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ཨེ་ལི་ཡ་ཤིབ་ལ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "བཅུ་གཅིག་པའི་⟨ཆ་ཤས⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ཡ་ཀིམ་ལ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:40.607518966Z",
+  "model": "glm-5.3"
+}

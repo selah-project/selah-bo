@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "འདི་དག་ཐམས་ཅད་སི་དིམ་གྱི་ལུང་གཤོངས་སུ་འདུས་ཏེ། དེ་ནི་ཚྭའི་རྒྱ་མཚོ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "འདུས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ལུང་གཤོངས"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "སི་དིམ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ་ནི"
+    },
+    {
+      "surface": "ים",
+      "gloss": "རྒྱ་མཚོ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ཚྭའི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:08:13.473315436Z",
+  "model": "glm-5.3"
+}

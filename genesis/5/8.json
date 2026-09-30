@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཤེ་ཏའི་ཉིན་མ་ཐམས་ཅད་ལོ་དགུ་བརྒྱ་དང་བཅུ་གཉིས་⟨ཡིན་ལ⟩། ⟨དེ⟩ཤི་བར་གྱུར།",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་མ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ཤེ་ཏ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "དགུ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ཤི་བར་གྱུར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:24.445147336Z",
+  "model": "glm-5.3"
+}

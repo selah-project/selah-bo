@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཟླ་བ་དང་པོའི་ཚེས་ཉེར་བཞིའི་ཉིན་ ང་ ཆུ་ཀླུང་ཆེན་པོ་ ཧི་དེ་ཀེལ་གྱི་⟨འགྲམ⟩དུ་⟨སྡད⟩།",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "བཞི"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ཟླ་བ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "དང་པོ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨སྡད⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "⟨འགྲམ⟩"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ཆུ་ཀླུང"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "ཧི་དེ་ཀེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:38:56.372518980Z",
+  "model": "glm-5.3"
+}

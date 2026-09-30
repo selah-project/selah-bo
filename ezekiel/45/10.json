@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 45,
+  "translation": "ཚད་འཇལ་ཙེ་དེག་དང་ཨེ་ཕ་ཙེ་དེག་དང་བཏ་ཙེ་དེག་ཁྱེད་ལ་ཡོད།",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ཚད་འཇལ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "དང་ཨེ་ཕ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "དང་བཏ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:53:46.405537799Z",
+  "model": "glm-5.3"
+}

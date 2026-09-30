@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "ཁོས་ཟ་བའི་ལྷག་མ་མེད། དེའི་ཕྱིར་ཁོའི་བཟང་པོ་མི་གནས།",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ལྷག་མ"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "ཟ་བ"
+    },
+    {
+      "surface": "על",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "ཁོའི་བཟང་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:09:18.945502275Z",
+  "model": "glm-5.3"
+}

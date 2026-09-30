@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཡ་ཧ་ཝེ་གྱིས་མོ་ཤེ་ལ་གསུངས་ཏེ་⟨འདི་སྐད་ཅེས་⟩།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨འདི་སྐད་ཅེས་⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T08:05:10.291251623Z",
+  "model": "glm-5.3"
+}

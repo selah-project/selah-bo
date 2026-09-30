@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "མོ་ཤེས་ཐོས་ནས་ཁོ་རང་གི་གདོང་ལ་ཕྱག་འཚལ་ཏེ་ལྟུངས།",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ཐོས"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ལྟུངས"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ལ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "གདོང་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:29:36.676906588Z",
+  "model": "glm-5.3"
+}

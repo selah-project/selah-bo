@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨུལ་ལ་ཨའི་བུ་རྣམས་ནི་ཨ་ར་ཁ་དང་ཧ་ནི་ཨེལ་དང་རི་ཙི་ཡ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ཨུལ་ལ་ཨ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ཨ་ར་ཁ"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ཧ་ནི་ཨེལ"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "རི་ཙི་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:05.497785563Z",
+  "model": "glm-5.3"
+}

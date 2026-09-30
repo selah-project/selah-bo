@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 147,
+  "translation": "ཁོང་གིས་ཁ་བ་བལ་ལྟར་སྩོལ། བ་མོ་ཐལ་བ་ལྟར་གཏོར།",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ཁོང་གིས་སྩོལ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ཁ་བ"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "བལ་ལྟར"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "བ་མོ"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "ཐལ་བ་ལྟར"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "གཏོར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:50:56.886008778Z",
+  "model": "glm-5.3"
+}

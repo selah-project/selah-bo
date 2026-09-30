@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 35,
+  "translation": "ར་ཁེལ་གྱི་བུ་རྣམས་ནི ཡོ་སེཕ་དང་ བིན་ཡ་མིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ར་ཁེལ་གྱི"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "བིན་ཡ་མིན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:20:40.104146525Z",
+  "model": "glm-5.3"
+}

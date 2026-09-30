@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ནེ་བོ་གཞན་གྱི་མི་རྣམས་ལྔ་བཅུ་དང་གཉིས།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་རྣམས"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ནེ་བོ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "གཞན"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "དང་གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:35.459132399Z",
+  "model": "glm-5.3"
+}

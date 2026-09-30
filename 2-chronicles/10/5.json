@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཁོ་ཚོར་སླར་ཡང་ཉིན་གསུམ་ནང་ངའི་དྲུང་དུ་ལོག་ཅིག་ཅེས་སྨྲས་པ་དང་། མི་མང་སོང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས་པ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ཁོ་ཚོར"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "སླར་ཡང"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ལོག་ཅིག"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངའི་དྲུང་དུ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་མང"
+    }
+  ],
+  "timestamp": "2026-09-30T15:07:03.470064618Z",
+  "model": "glm-5.3"
+}

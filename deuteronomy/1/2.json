@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཧོ་རེབ་ནས་སེ་ཨིར་རིའི་ལམ་བརྒྱུད་ཁ་དེཤ་བར་ནེ་ཨ་བར་ལ་ཉིན་བཅུ་གཅིག་གི་ལམ་མོ།",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ཧོ་རེབ་ནས"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ལམ་བརྒྱུད"
+    },
+    {
+      "surface": "הר",
+      "gloss": "རི"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "སེ་ཨིར"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཁ་དེཤ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "བར་ནེ་ཨ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:43:36.273174395Z",
+  "model": "glm-5.3"
+}

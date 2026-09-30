@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "མ་གབ་ཨི་ཤའི་བུ་ཚ་རྣམས་བརྒྱ་དང་ལྔ་བཅུ་དང་དྲུག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "མ་གབ་ཨི་ཤ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "དང་དྲུག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:23.304767930Z",
+  "model": "glm-5.3"
+}

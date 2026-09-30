@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "དེ་ནས་ཕྱིས་ལ་ལེ་ཨ་ཡིས་བུ་མོ་ཞིག་བཙས། ཁོ་མོའི་⟨את⟩ མིང་ལ་དི་ན་ཧ་བཏགས།",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "དེ་ནས་ཕྱིས་ལ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ་ཞིག"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "བཏགས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མིང"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "དི་ན་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:17:02.813684597Z",
+  "model": "glm-5.3"
+}

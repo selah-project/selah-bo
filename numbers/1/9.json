@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཟ་བུ་ལུན་གྱི་ཕྱོགས་ནས་ཨེ་ལི་ཨབ་ནི་ཧེ་ལོན་གྱི་བུ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ཟ་བུ་ལུན་གྱི་ཕྱོགས་ནས"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ཨེ་ལི་ཨབ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ཧེ་ལོན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:16:00.850093292Z",
+  "model": "glm-5.3"
+}

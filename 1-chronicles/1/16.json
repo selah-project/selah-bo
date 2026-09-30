@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དང་⟨את⟩ཨ་ར་ཝ་དི་པ་དང་⟨את⟩ཙེ་མ་རི་པ་དང་⟨את⟩ཧ་མ་ཐི་པ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ར་ཝ་དི་པ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ཨ་ར་ཝ་དི་པ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཙེ་མ་རི་པ"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ཙེ་མ་རི་པ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་མ་ཐི་པ"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ཧ་མ་ཐི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:37.870839001Z",
+  "model": "glm-5.3"
+}

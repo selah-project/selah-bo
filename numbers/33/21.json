@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ལིབ་ན་ཧ་ནས་འཕོས་ཏེ་རི་ས་ཧ་ལ་འདུག",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "འཕོས་ཏེ"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "ལིབ་ན་ཧ་ནས"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "འདུག"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "རི་ས་ཧ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:13.338195193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡ་ཧ་ཝེ་གིས་མོ་ཤེ་དང་ཨ་ཧ་རོན་ལ་གསུངས་པར།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་པར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་ལ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ཨ་ཧ་རོན"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་ཅེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:06:02.925337581Z",
+  "model": "glm-5.3"
+}

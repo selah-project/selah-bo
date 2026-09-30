@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "གལ་ཏེ་མི་ཞིག་ལ་ཤི་བའི་ཁྲིམས་ཀྱི་ཉེས་པ་ཡོད་དེ་ཁོ་བསད་ཟིན་ན། ཁྱོད་ཀྱིས་⟨את⟩ཁོ་ཤིང་གི་སྟེང་དུ་བཀལ་ན།",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "མི་ཞིག་ལ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ཉེས་པ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ཤི་བ"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "བསད"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "བཀལ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ཤིང"
+    }
+  ],
+  "timestamp": "2026-09-30T08:52:49.514289242Z",
+  "model": "glm-5.3"
+}

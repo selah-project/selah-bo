@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "དེ་ནས་ཨི་ཛེ་བེལ་ལ་ཞེས་བཏང་སྟེ་ན་བོ་ཐ་རྡོས་རྡེག་ནས་ཤིའོ།",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "བཏང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ཨི་ཛེ་བེལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "རྡོས་རྡེག"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "ན་བོ་ཐ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ཤི"
+    }
+  ],
+  "timestamp": "2026-09-30T10:18:53.822229660Z",
+  "model": "glm-5.3"
+}

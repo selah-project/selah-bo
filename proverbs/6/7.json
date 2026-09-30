@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "གང་ལ་དེར་དཔོན་གཙོ་མེད། ལྟ་སྐུལ་བ་དང་དབང་སྒྱུར་བ་ཡང་མེད་ཀྱང་།",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "לה",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "དཔོན་གཙོ"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ལྟ་སྐུལ་བ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "དང་དབང་སྒྱུར་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:53:25.386164366Z",
+  "model": "glm-5.3"
+}

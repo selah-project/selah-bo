@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཁོས་ང་ལ་ཁང་པ་བཞེངས་ལ། ངས་⟨את⟩དེའི་ཁྲི་དུས་མཐའ་མེད་པར་བརྟན་པོར་བྱེད་དོ།",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "བཞེངས"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ངས་བརྟན་པོར་བྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "དེའི་ཁྲི"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "དེའི་ཁྲི"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ཡུན་དུ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "དུས་མཐའ་མེད"
+    }
+  ],
+  "timestamp": "2026-09-30T14:00:47.802736150Z",
+  "model": "glm-5.3"
+}

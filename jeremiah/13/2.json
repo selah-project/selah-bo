@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡ་ཧ་ཝེའི་གསུང་བཞིན་དུ་ངས་⟨את⟩སྐ་རགས་དེ་ཉོས་ཤིང་རང་གི་དཔྱི་ལ་བཅིངས།",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "ཉོས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སྐ་རགས་དེ"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "སྐ་རགས་དེ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "གསུང་བཞིན་དུ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "བཅིངས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ངའི་དཔྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:48:41.929410275Z",
+  "model": "glm-5.3"
+}

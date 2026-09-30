@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "ཡོད་ལམ་ཞིག་མིའི་མདུན་དུ་དྲང་བོར་སྣང་། འོན་ཀྱང་དེའི་མཐའ་མ་ནི་ཤི་བའི་ལམ་དག་ཡིན།",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "དྲང་བོ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "དེའི་མཐའ་མ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ལམ་དག"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ཤི་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:42.997269190Z",
+  "model": "glm-5.3"
+}

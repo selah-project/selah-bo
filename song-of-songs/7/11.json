@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ང་ངའི་དགའ་བོ་ལ་དབང་བ་ཡིན་ལ། ཁོའི་སྨོན་འདུན་ངའི་སྟེང་དུ་ཡོད།",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ངའི་དགའ་བོ་ལ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "དང་ངའི་སྟེང་དུ"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ཁོའི་སྨོན་འདུན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:18:58.795856546Z",
+  "model": "glm-5.3"
+}

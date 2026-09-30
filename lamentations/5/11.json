@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "བུད་མེད་ཙི་ཡོན་དུ་བརྙས་གཞོན་ནུ་མ་ཡེ་ཧུ་དའི་གྲོང་ཁྱེར་དག་ཏུ།",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ཙི་ཡོན་དུ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "བརྙས"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "གཞོན་ནུ་མ"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "གྲོང་ཁྱེར་དག་ཏུ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ཡེ་ཧུ་ད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:55.412164388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "སྙིང་འཁྱོག་པོ་ཅན་གྱིས་ལེགས་པ་མི་རྙེད། རང་གི་ལྕེ་ལོག་པ་⟨he⟩ངན་པ་ལ་ལྷུང་།",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "འཁྱོག་པོ་ཅན"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "རྙེད"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས་པ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ལོག་པ"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "རང་གི་ལྕེ་ལ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ལྷུང"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ངན་པ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:04.150051853Z",
+  "model": "glm-5.3"
+}

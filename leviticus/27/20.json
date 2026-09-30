@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཡང་གལ་ཏེ་ཁོས་⟨את⟩ཞིང་བླུ་མི་འདོད་ལ། ཡང་གལ་ཏེ་⟨את⟩ཞིང་མི་གཞན་ཞིག་ལ་བཙོངས་ན། དེ་ཡང་བསྐྱར་བླུ་མི་ཐུབ།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ཡང་གལ་ཏེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "བླུ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཞིང"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ཞིང"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ཡང་གལ་ཏེ"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "བཙོངས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཞིང"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ཞིང"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "མི་...ལ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "གཞན"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "བླུ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ཡང་བསྐྱར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:17:31.630440276Z",
+  "model": "glm-5.3"
+}

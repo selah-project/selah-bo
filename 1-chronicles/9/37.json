@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "དང་གེ་དོར་དང་ཨ་ཧི་ཡོ་དང་ཛ་ཀ་རི་ཡ་ཧ་དང་མི་ཀ་ལོད།",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "དང་གེ་དོར"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "དང་ཨ་ཧི་ཡོ"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "དང་ཛ་ཀ་རི་ཡ་ཧ"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "དང་མི་ཀ་ལོད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:14.264299861Z",
+  "model": "glm-5.3"
+}

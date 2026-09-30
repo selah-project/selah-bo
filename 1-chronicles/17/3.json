@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "མཚན་མོ་དེའི་དུས་སུ་ཨེ་ལོ་ཧིམ་གྱི་ཚིག་ན་ཐན་ལ་འབྱོར། འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "མཚན་མོ་"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེའི་"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "འབྱོར་"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག་"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ་"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ན་ཐན་"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ།"
+    }
+  ],
+  "timestamp": "2026-09-30T15:05:28.091896311Z",
+  "model": "glm-5.3"
+}

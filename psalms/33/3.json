@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཁོང་ལ་གླུ་གསར་ལེན། འུར་སྒྲ་དང་བཅས་ལེགས་པར་སྒྲ་དཀྲོལ།",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "གླུ་ལེན"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོང་ལ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "གླུ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "གསར"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ལེགས་པར"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "སྒྲ་དཀྲོལ"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "འུར་སྒྲ་དང་བཅས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:26:44.671241885Z",
+  "model": "glm-5.3"
+}

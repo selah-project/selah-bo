@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ལྟོས། ཁོང་ཚོ་ང་ལ་ཟེར་བ་ནི། ཡ་ཧ་ཝེའི་ཚིག་གང་ན་ཡོད། ད་ལྟ་འབྱོན་པར་གསོལ།",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ཁོང་ཚོ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ཟེར་བ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "གང་ན་ཡོད"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "འབྱོན"
+    },
+    {
+      "surface": "נא",
+      "gloss": "གསོལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:10:55.098864735Z",
+  "model": "glm-5.3"
+}

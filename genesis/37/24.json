@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "ཁོང་གིས་ཁོ་བཟུང་སྟེ་ཁོ་⟨את⟩ཁྲོན་པ་ལ་འཕངས། ཁྲོན་པ་⟨is⟩སྟོང་སྟེ དེའི་ནང་དུ་ཆུ་མེད་དོ།",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "བཟུང"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "འཕངས"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ཁྲོན་པ་ལ"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ཁྲོན་པ་ལ"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ཁྲོན་པ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ནང་དུ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:24:01.911286545Z",
+  "model": "glm-5.3"
+}

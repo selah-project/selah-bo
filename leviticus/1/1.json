@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡ་ཧ་ཝེ་གིས་མོ་ཤེ་ལ་བོས་ཤིང་། ཐུག་འཕྲད་ཀྱི་གུར་ནས་ཁོང་་ལ་གསུངས་ཏེ་ཟེར་ཞིང་།",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "བོས་ཤིང་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་ཏེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ཁོང་་ལ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "གུར"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ཐུག་འཕྲད"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཟེར་ཞིང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:57:48.794655715Z",
+  "model": "glm-5.3"
+}

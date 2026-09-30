@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 128,
+  "translation": "ཁྱོད་ཀྱི་ལག་མཐིལ་གྱི་ལས་ཀ་ཁྱོད་ཀྱིས་ཟ་ན། ཁྱོད་བདེ་ཞིང་ཁྱོད་ལ་ལེགས་སོ།",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "ལས་ཀ"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ལག་མཐིལ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ན"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "བདེ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:47:39.360987223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ཡུ་བེལ་འདིའི་ལོ་ལ་མི་རེ་རེ་⟨ཡང་སེམ⟩རང་གི་བཟུང་དངོས་ལ་ཕྱིར་ལོག་དགོས།",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ལོ་ལ"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "ཡུ་བེལ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདིའི"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ལོག་དགོས"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི་རེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "རང་གི་བཟུང་དངོས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:14:03.332027554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 29:19",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ངའི་རྩ་བ་ཆུ་ལ་ཁྱབ་ཅིང་། བཟ་རླན་ངའི་ཡལ་ག་ལ་མཚན་མོར་གནས།",
+  "tokens": [
+    {
+      "surface": "שרשי",
+      "gloss": "ངའི་རྩ་བ"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ཁྱབ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "וטל",
+      "gloss": "བཟ་རླན"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "בקצירי",
+      "gloss": "ངའི་ཡལ་ག་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:11:50.506934262Z",
+  "model": "glm-5.3"
+}

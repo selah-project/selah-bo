@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "མིའི་སྙིང་དུ་སེམས་ངལ་གྱིས་དེ་མནན། ཚིག་བཟང་པོས་དེ་དགའ་བར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "སེམས་ངལ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "སྙིང་དུ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "དེ་མནན"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "བཟང་པོ"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "དེ་དགའ་བར་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:23.485146451Z",
+  "model": "glm-5.3"
+}

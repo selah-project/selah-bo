@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "སྐྱེས་པས་⟨את⟩ཕའི་ཆུང་མ་མི་ལེན་ཞིང་ཕའི་གོས་མཐའ་མི་ཕྱེ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "איש",
+      "gloss": "སྐྱེས་པ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཕའི་ཆུང་མ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ཆུང་མ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ཕའི"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ཞིང་མི"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ཕྱེ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "གོས་མཐའ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ཕའི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:56:48.548086268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་གསུངས་པ་། འདི་སྐད་ཅེས་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་ཅེས་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:10:32.044638960Z",
+  "model": "glm-5.3"
+}

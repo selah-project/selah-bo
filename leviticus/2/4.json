@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 2:4",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཐབ་<oven>ཀྱི་ནང་བསྲེགས་པའི་ཀོར་བན་མིན་ཧ་<grain offering>ཞིག་དབུལ་ན། ཏིལ་མར་བསྲེས་པའི་རྩབ་མེད་<unleavened>ཕྱེ་མ་སྲབ་མོའི་བག་ལེབ་<cakes>དང་། ཏིལ་མར་བྱུགས་པའི་རྩབ་མེད་གྱེད་མ་<wafers>རྣམས་⟨ཡིན⟩ནོ།",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "དབུལ"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ཀོར་བན"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "མིན་ཧ"
+    },
+    {
+      "surface": "מאפה",
+      "gloss": "བསྲེགས་པ"
+    },
+    {
+      "surface": "תנור",
+      "gloss": "ཐབ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ཕྱེ་མ་སྲབ་མོ"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "བག་ལེབ"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "རྩབ་མེད"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "བསྲེས་པ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ཏིལ་མར་ལ"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "གྱེད་མ་རྣམས"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "རྩབ་མེད"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "བྱུགས་པ"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ཏིལ་མར་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:57:48.792794849Z",
+  "model": "glm-5.3"
+}

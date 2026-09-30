@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཙུཕ་གྱི་བུ། ཨེལ་ཀ་ན་ཧའི་བུ། མ་ཧ་ཏའི་བུ། ཨ་མ་སའི་བུ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "ཙུཕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ཨེལ་ཀ་ན་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "མ་ཧ་ཏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ཨ་མ་ས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:17.002253333Z",
+  "model": "glm-5.3"
+}

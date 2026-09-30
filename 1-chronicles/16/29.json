@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 16:29",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "ཡ་ཧ་ཝེ་ལ་<span class=\"hebrew\">שמו<\/span> hmm",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "སྦྱིན"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ཟིལ་གནོན"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "ས抬起"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "མིན་ཧ"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "དང་སྔོན"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "ཕྱག"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "བརྗིད་ཆགས"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཀོ་དེ་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:59:52.956845321Z",
+  "model": "glm-5.3"
+}

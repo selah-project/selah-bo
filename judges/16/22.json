@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "བཞར་ཟིན་པ་ལྟར་ཁོང་གི་མགོའི་སྐྲ་སླར་སྐྱེ་འགོ་ཚུགས།",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "འགོ་ཚུགས"
+    },
+    {
+      "surface": "שער",
+      "gloss": "སྐྲ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ཁོང་གི་མགོའི"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "སླར་སྐྱེ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ལྟར"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "བཞར་ཟིན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:27:43.407608903Z",
+  "model": "glm-5.3"
+}

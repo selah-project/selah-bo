@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཡ་ཧ་ཝེ་གིས་ད་ཝིད་ཀྱི་མཐོང་བ་པོ་གད་ལ་འདི་སྐད་ཅེས་གསུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གད"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "མཐོང་བ་པོ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:01:44.383037922Z",
+  "model": "glm-5.3"
+}

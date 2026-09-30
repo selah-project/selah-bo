@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ཤ་ལོ་མོ་ཧ་ལ་བྱུང་། འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤ་ལོ་མོ་ཧ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:08:20.144701715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཡི་ཤ་ཕན། དང་ཨེ་བེར། དང་ཨེ་ལི་ཨེལ།",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "དང་ཡི་ཤ་ཕན"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "དང་ཨེ་བེར"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "དང་ཨེ་ལི་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:08.732969116Z",
+  "model": "glm-5.3"
+}

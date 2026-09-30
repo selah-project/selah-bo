@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་ཛ་གད་ཀྱི་བུ་ཚ་སྟོང་གཉིས་དང་བརྒྱ་གསུམ་དང་ཉི་ཤུ་གཉིས་ཏེ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ཨ་ཛ་གད"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "སྟོང་གཉིས"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "དང་གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:38.146542679Z",
+  "model": "glm-5.3"
+}

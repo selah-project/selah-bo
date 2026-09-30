@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "དམག་དཔོན་མིན་པ་ལས་ཀེད་ཨེ་ཡ་དང་། ཡེ་ཧོ་ཡ་རིབ་དང་། ཡ་ཁིན།",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "མིན་པ་ལས",
+      "gloss": ""
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ཀེད་ཨེ་ཡ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ཡེ་ཧོ་ཡ་རིབ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "ཡ་ཁིན"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:35.845988911Z",
+  "model": "glm-5.3"
+}

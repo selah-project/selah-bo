@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 129,
+  "translation": "ཙི་ཡོན་ལ་སྡང་བ་པོ་ཀུན་ངོ་ཚ་ཞིང་རྒྱབ་ཏུ་ལོག་པར་གྱུར།",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ངོ་ཚ"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "རྒྱབ་ཏུ་ལོག"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "རྒྱབ་ཕྱོགས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "སྡང་བ་པོ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ཙི་ཡོན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:47:58.728713517Z",
+  "model": "glm-5.3"
+}

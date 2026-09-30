@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཡི་ཙ་ཧག་དེ་ནས་ཕྱིན་ནས་གེ་ར་རའི་ལུང་གཤོངས་སུ་གུར་ཕུབ་དེ་དེར་གནས།",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ཕྱིན་ནས"
+    },
+    {
+      "surface": "משם",
+      "gloss": "དེ་ནས"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ཡི་ཙ་ཧག"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "གུར་ཕུབ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ལུང་གཤོངས་སུ"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "གེ་ར་ར"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:14:48.453405859Z",
+  "model": "glm-5.3"
+}

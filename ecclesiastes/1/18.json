@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཤེས་རབ་མང་བ་ན་སྡུག་བསྔལ་མང་ཞིང་། ཤེས་པ་སྦྱོར་མཁན་གྱིས་སྡུག་བསྔལ་སྦྱོར་བར་བྱེད་དོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཞིང"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "མང་བ་ན"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "མང"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "སྡུག་བསྔལ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "སྦྱོར་མཁན་གྱིས"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་པ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "སྦྱོར"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "སྡུག་བསྔལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:03.518204805Z",
+  "model": "glm-5.3"
+}

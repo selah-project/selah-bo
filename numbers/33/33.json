@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 33:33",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "དང་ཧོ་ར་གིད་གད་ནས་འཕོས་ཏེ་ཡ་ཏབ་ཐ་ལ་བྲོས་གནས་བཅས།",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "འཕོས་ཏེ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ནས་"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "ཧོ་ར་གིད་གད"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "བྲོས་གནས་བཅས"
+    },
+    {
+      "surface": "ביטבתה",
+      "gloss": "ཡ་ཏབ་ཐ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:18.831571890Z",
+  "model": "glm-5.3"
+}

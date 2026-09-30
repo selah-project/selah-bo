@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཧ་རིམ་གྱི་བུ་ཚ་སྟོང་ཆིག་སྟོང་བཅུ་བདུན།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ཧ་རིམ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང་ཆིག་སྟོང"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བདུན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:36.057885794Z",
+  "model": "glm-5.3"
+}

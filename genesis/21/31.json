@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "དེའི་ཕྱིར་གནས་དེ་ལ་བེ་ཨེར་ཤེ་བ་ཟེར་ གཉིས་ཀས་དེ་རུ་དམ་བཅའ་བྱས་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "དེའི་ཕྱིར་ལ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "གནས་ལ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "བེ་ཨེར"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ཤེ་བ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་ཞིག"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེ་རུ"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "དམ་བཅའ་བྱས"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "གཉིས་ཀས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:12:17.208348643Z",
+  "model": "glm-5.3"
+}

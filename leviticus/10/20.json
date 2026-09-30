@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མོ་ཤེས་ཐོས་པ་ན་དེ་ཁོང་གི་སྤྱན་སྔར་ལེགས་པར་གྱུར།",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ཐོས་པ་ན"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེས"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ལེགས་པར་གྱུར"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ཁོང་གི་སྤྱན་སྔར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:03:34.671645196Z",
+  "model": "glm-5.3"
+}

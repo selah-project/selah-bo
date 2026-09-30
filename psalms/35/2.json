@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 35,
+  "translation": "ཟུངས་ཤིག སྲུང་དང་གོ་ཆ་ཆེན་པོ། ངའི་རོགས་ལ་ལངས་ཤིག",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "ཟུངས་ཤིག"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "སྲུང"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "གོ་ཆ་ཆེན་པོ"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ལངས་ཤིག"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ངའི་རོགས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:26:39.182178803Z",
+  "model": "glm-5.3"
+}

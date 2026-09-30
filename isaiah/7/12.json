@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་ཧ་ཛས་ ཞུ་བ་མི་བྱེད། ⟨את⟩ ཡ་ཧ་ཝེ་ལ་ཚོད་ལྟའང་མི་བྱེད་ཞེས་སྨྲས།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "དང་སྨྲས"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ཨ་ཧ་ཛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ཞུ་བ་བྱེད"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་མི"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ཚོད་ལྟ་བྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:38:03.957627654Z",
+  "model": "glm-5.3"
+}

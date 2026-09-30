@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "དེའི་རྗེས་སུ་ཡོ་ཨ་ཤའི་སེམས་ལ་ཡ་ཧ་ཝེའི་ཁང་⟨את⟩གསར་དུ་སྒྱུར་བར་འདོད་པ་སྐྱེས།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "དེའི་རྗེས་སུ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "རྗེས"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སེམས"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ཡོ་ཨ་ཤའི"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "གསར་དུ་སྒྱུར་བར"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཧ་ཝེའི་ཁང་"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:15:28.434364756Z",
+  "model": "glm-5.3"
+}

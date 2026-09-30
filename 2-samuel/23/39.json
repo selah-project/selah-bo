@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཨུ་རི་ཡ་ཧི་ཏི་པ། བརྒྱད་དང་སུམ་ཅུ་རྫོགས་ལྡན་ནོ།",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ཨུ་རི་ཡ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ཧི་ཏི་པ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "རྫོགས"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "སུམ་ཅུ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "བརྒྱད་དང"
+    }
+  ],
+  "timestamp": "2026-09-30T10:02:57.454231505Z",
+  "model": "glm-5.3"
+}

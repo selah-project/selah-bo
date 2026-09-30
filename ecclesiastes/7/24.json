@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "གང་ཞིག་འབྱུང་བ་དེ་རིང་དུ་གནས། ཟབ་ཅིང་ཟབ་པ། སུ་ཞིག་གིས་དེ་རྙེད།",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "རིང་དུ་གནས"
+    },
+    {
+      "surface": "מה",
+      "gloss": "གང་ཞིག"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "འབྱུང་བ"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ཟབ་ཅིང་"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ཟབ་པ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ་ཞིག་གིས"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "དེ་རྙེད"
+    }
+  ],
+  "timestamp": "2026-09-30T15:02:05.423256211Z",
+  "model": "glm-5.3"
+}

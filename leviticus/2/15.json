@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "དེ་ལ་སྣུམ་བླུགས། དེའི་སྟེང་ལ་ལི་བོ་ན་བཞག་སྟེ། དེ་མིན་ཧ་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "བླུགས"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "སྣུམ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "དེའི་སྟེང་ལ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ལི་བོ་ན"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "མིན་ཧ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:58:02.135209524Z",
+  "model": "glm-5.3"
+}

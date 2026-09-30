@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "མ་ཧ་རའི་ནེ་ཏོ་ཕ་ཐ་བ་དང་ཁེ་ལེད་ནི་བ་ཨ་ན་ཧའི་བུ་ནེ་ཏོ་ཕ་ཐ་བ།",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "མ་ཧ་རའི"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ནེ་ཏོ་ཕ་ཐ་བ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ཁེ་ལེད"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "བ་ཨ་ན་ཧ"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "ནེ་ཏོ་ཕ་ཐ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:09.769393003Z",
+  "model": "glm-5.3"
+}

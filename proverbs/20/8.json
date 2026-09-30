@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "ཁྲིམས་ཀྱི་ཁྲི་ལ་བཞུགས་པའི་རྒྱལ་པོས། མིག་གིས་ངན་པ་ཐམས་ཅད་ཕྱེ་སེལ་བར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "བཞུགས་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ཁྲི"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ཁྲིམས་ཀྱི"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "ཕྱེ་སེལ་བར་བྱེད"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "མིག་གིས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:51.197884803Z",
+  "model": "glm-5.3"
+}

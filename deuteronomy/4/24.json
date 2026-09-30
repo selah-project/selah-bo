@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "གང་ལགས་པ་ཡ་ཧ་ཝེ་ཁྱོད་ཀྱི་ཨེ་ལོ་ཧིམ་ནི་ཟ་བའི་མེ་ཡིན་ཏེ། ཕྲག་དོག་ཅན་གྱི་ཨེལ་ཞིག་ཡིན།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གང་ལགས་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ཁྱོད་ཀྱི་ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ཟ་བ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ཕྲག་དོག་ཅན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:45:26.794891959Z",
+  "model": "glm-5.3"
+}

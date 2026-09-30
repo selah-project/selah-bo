@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཟླ་བ་བཅུ་གཉིས་ཀྱི་མཐའ་ལ་⟨he⟩བ་བེལ་གྱི་རྒྱལ་སྲིད་ཀྱི་ཕོ་བྲང་ཐོག་ཏུ་འཆག་བཞིན་ཡོད།",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "མཐའ་ལ"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "ཟླ་བ"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ཐོག་ཏུ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ཕོ་བྲང"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "རྒྱལ་སྲིད"
+    },
+    {
+      "surface": "די",
+      "gloss": "ཀྱི"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "བ་བེལ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "འཆག་བཞིན་ཡོད"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T13:35:15.795301835Z",
+  "model": "glm-5.3"
+}

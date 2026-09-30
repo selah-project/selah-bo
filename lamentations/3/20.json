@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "དྲན་ཞིང་དྲན་པར་བྱས་ན། ངའི་ནེ་ཕེ་ཤ་ངའི་སྟེང་དུ་སྒུར་ཞིང་གནས་སོ།",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "དྲན"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "དྲན་པར་བྱས"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "སྒུར་ཞིང་གནས"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ངའི་སྟེང་དུ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ངའི་ནེ་ཕེ་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:10.766597300Z",
+  "model": "glm-5.3"
+}

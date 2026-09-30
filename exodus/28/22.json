@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཧོ་ཤེན་གྱི་སྟེང་དུ་ཐག་སྒྲིལ་སྒྲིལ་བའི་བཟོས་ཐག་པ་གསེར་གཙང་མའི་བྱོས།",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "བྱོས"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ཧོ་ཤེན"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "ཐག་སྒྲིལ"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "སྒྲིལ་བ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "བཟོས"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ཐག་པ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "གཙང་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:42.814721400Z",
+  "model": "glm-5.3"
+}

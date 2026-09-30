@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ངལ་བ་ཀུན་ལ་ཁེ་བཟང་ཡོད། མཆུ་ཏོའི་ཚིག་ཙམ་ནི་དཀོན་ཆ་ཁོ་ནའོ།",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ཀུན་ལ།"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ངལ་བ།"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡོད་པར་འགྱུར།"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "ཁེ་བཟང་།"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "དང་ཚིག"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "མཆུ་ཏོའི་"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ཁོ་ན།"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "དཀོན་ཆ།"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:18.695120105Z",
+  "model": "glm-5.3"
+}

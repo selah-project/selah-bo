@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ར་མ་དང་གེ་བའི་མི་རྣམས་ལ་དྲུག་བརྒྱ་ཉི་ཤུ་གཅིག",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་རྣམས"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ར་མ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "དང་གེ་བ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:49.627412294Z",
+  "model": "glm-5.3"
+}

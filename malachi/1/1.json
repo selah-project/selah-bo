@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་གི་ཁུར། ཡི་སི་ར་ཨེལ་ལ་མ་ལ་ཨ་ཁིའི་ལག་ནས་ཕེབས་པ།",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ཁུར"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ལག་ནས"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "མ་ལ་ཨ་ཁི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:18:36.971407461Z",
+  "model": "glm-5.3"
+}

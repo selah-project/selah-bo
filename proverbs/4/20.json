@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "བུ་ངའི། ངའི་གཏམ་ལ་གསན་ཅིག ངའི་ཚིག་ལ་རྣ་བ་གཏོད་ཅིག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ངའི"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "གཏམ་ལ"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "ཉན་ཅིག"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ཚིག་ལ"
+    },
+    {
+      "surface": "הט",
+      "gloss": "གཏོད་ཅིག"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "རྣ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:43.767459571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ན་ཕ་ཐ་ལི་གི་ས་ནས། ཨ་ཧི་ར་ནི་ཨེ་ནན་གི་བུ།",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ན་ཕ་ཐ་ལི་གི་ས་ནས"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ཨ་ཧི་ར"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ཨེ་ནན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:16:17.852068128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཨེ་ལོ་ཧིམ་གྱིས་ནོ་ཨ་ཁ་ལ་འདི་སྐད་དུ་གསུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:25:27.469081676Z",
+  "model": "glm-5.3"
+}

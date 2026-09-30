@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ང་ཡེ་རུ་ཤ་ལ་ཡིམ་ལ་འབྱོར་ནས་ཉིན་གསུམ་དེར་⟨བསྡད⟩དོ།",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "འབྱོར་ནས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ཡེ་རུ་ཤ་ལ་ཡིམ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "⟨བསྡད⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "གསུམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:47:10.096165460Z",
+  "model": "glm-5.3"
+}

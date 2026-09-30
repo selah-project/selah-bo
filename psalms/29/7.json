@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ཡ་ཧ་ཝེའི་སྒྲ་ཡིས་མེའི་མེ་ལྕེ་དག་⟨གཅོད⟩།",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "སྒྲ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "གཅོད"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "མེ་ལྕེ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:56:31.658710385Z",
+  "model": "glm-5.3"
+}

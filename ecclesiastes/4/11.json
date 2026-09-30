@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཡང་གལ་ཏེ་གཉིས་ཀྱིས་ཉལ་ན་ཁོ་ཚོ་ལ་དྲོད་ཡོད། འོན་ཀྱང་གཅིག་པུ་ལ་ཇི་ལྟར་དྲོད་ཡོང་།",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ཉལ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས་ཀྱིས"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "དྲོད་ཡོད"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ཁོ་ཚོ་ལ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "གཅིག་པུ་ལ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ཇི་ལྟར"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "དྲོད་ཡོང"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:14.417436583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ན aspirants ཌོ་རའི་ཡུལ་གྱི་ཌོ་རའི་རྒྱལ་པོ་གཅིག གིལ་གཱལ་གྱི་མི་རིགས་རྣམས་ཀྱི་རྒྱལ་པོ་གཅིག",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ཌོ་ར"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "ཡུལ་གྱི"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ཌོ་ར"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "མི་རིགས་རྣམས"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "གིལ་གཱལ་གྱི"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:32.346192937Z",
+  "model": "glm-5.3"
+}

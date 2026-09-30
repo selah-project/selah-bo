@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "བུད་མེད་ཀྱིས་སྦྲུལ་ལ་ཟེར་རོ། ལྡུམ་རའི་ཤིང་གི་འབྲས་བུ་ལས་ནི་ང་ཚོ་ཟའོ།",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "སྦྲུལ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "འབྲས་བུ་ལས"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ཤིང"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ལྡུམ་ར"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ཟ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:01.276838351Z",
+  "model": "glm-5.3"
+}

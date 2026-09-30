@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཁྱོད་ནི་གདུག་རྩུབ་ལ་དགའ་བའི་ཨེལ་མིན་ཏེ། ངན་པ་ཁྱོད་དང་མི་གནས་སོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཞེས་ཏེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "དགའ་བ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "གདུག་རྩུབ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ཁྱོད་དང་གནས"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:19:28.374686347Z",
+  "model": "glm-5.3"
+}

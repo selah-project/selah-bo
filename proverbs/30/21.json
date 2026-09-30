@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "གསུམ་གྱི་འོག་ཏུ་ས་གཞི་འདར་ཞིང་། བཞི་ཡི་འོག་ཏུ་ཁུར་ཐུབ་པར་མི་ནུས།",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "འོག་ཏུ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "འདར"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "དང་འོག་ཏུ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "བཞི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ནུས"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ཁུར་ཐུབ་པར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:02.929796831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡང་གང་གི་ཉིན་ལ་ཤ་གསོན་ཁོའི་ལུས་ལ་མཐོང་བ་ན། ཁོ་མི་གཙང་བ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ཉིན་ལ"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "མཐོང་བ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ཁོའི་ལུས་ལ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "གསོན"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "མི་གཙང་བ་ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:04:21.981419671Z",
+  "model": "glm-5.3"
+}

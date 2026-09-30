@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ལོ་འཁོར་བདུན་གྱི་མཐར་དུ་ཁྱོད་ཀྱིས་བུན་གློད་ཅིག་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "מקץ",
+      "gloss": "མཐར"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "བུན་གློད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:51:11.357649937Z",
+  "model": "glm-5.3"
+}

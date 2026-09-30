@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཨེ་ལམ་ལྔ་པ། ཡ་ཧོ་ཧ་ནན་དྲུག་པ། ཨེ་ལི་ཧོ་ཨེ་ནའི་བདུན་པའོ།",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "ཨེ་ལམ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ལྔ་པ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "ཡ་ཧོ་ཧ་ནན"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "དྲུག་པ"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "ཨེ་ལི་ཧོ་ཨེ་ནའི"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "བདུན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:04:07.597355095Z",
+  "model": "glm-5.3"
+}

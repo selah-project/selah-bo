@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ནང་གི་མ་འོངས་པ་ཅི་འབྱུང་མི་ཤེས་ཏེ། ནང་གི་འབྱུང་འགྱུར་གྱི་དུས་སུ་སུ་ཞིག་གིས་ཁོ་ལ་བརྗོད།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ནང་གི"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ནང་གི"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "དུས་སུ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "འབྱུང་འགྱུར"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ་ཞིག་གིས"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "བརྗོད"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:53.008812928Z",
+  "model": "glm-5.3"
+}

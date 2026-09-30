@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 17:24",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཨབ་ར་ཧམ་ནི་ལོ་དགུ་བཅུ་གོ་དགུའི་བུ་ཡིན་པ་ན། རང་གི་ཚིམས་ཤུན་གྱི་ཤ་བཅད་དོ།",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "དགུ་བཅུ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "དང་དགུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "བཅད"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ཚིམས་ཤུན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:10:24.694094952Z",
+  "model": "glm-5.3"
+}

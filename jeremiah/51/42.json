@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 51,
+  "translation": "རྒྱ་མཚོ་བ་བེལ་གྱི་སྟེང་དུ་འཕགས། དེའི་རླབས་ཀྱི་མང་པོས་⟨དེ⟩གཡོགས་སོ།",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "འཕགས"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "བ་བེལ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "རྒྱ་མཚོ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "མང་པོས"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "དེའི་རླབས"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "གཡོགས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:50:50.268461421Z",
+  "model": "glm-5.3"
+}

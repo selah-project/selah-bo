@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "གནས་མཁན་〈there〉གིས་ན་ཚོད་ཟ་བར་མི་ཟེར་བར། གནས་མཁན་〈there〉ནི་ནོངས་པ་བཏེགས་ཟིན་པའི་མི་རིགས་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "དང་མི་"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ཟེར་བར"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "གནས་མཁན"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "ན་ཚོད་ཟ་བར"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་རིགས"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "གནས་མཁན"
+    },
+    {
+      "surface": "בה",
+      "gloss": "〈there〉"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "བཏེགས་ཟིན"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ནོངས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:47:30.515826762Z",
+  "model": "glm-5.3"
+}

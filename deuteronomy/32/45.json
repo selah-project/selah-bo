@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "མོ་ཤེ་ཡིས་ཚིག་འདི་དག་ཐམས་ཅད⟨את⟩ཡི་སི་ར་ཨེལ་ཐམས་ཅད་ལ་སྨྲ་བ་མཐར་ཕྱིན།",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "མཐར་ཕྱིན"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ་ཡིས"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "སྨྲ་བ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚིག་འདི་དག་ཐམས་ཅད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:01:33.714511949Z",
+  "model": "glm-5.3"
+}

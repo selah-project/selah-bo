@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡི་ཙ་ཧར་གྱི་བུ་ཀེ་ཧ་ཐ་གི་བུ་ལེ་ཝི་གི་བུ་ཡི་སི་ར་ཨེལ་གྱི་བུ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ཡི་ཙ་ཧར"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ཀེ་ཧ་ཐ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ལེ་ཝི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:12.511904387Z",
+  "model": "glm-5.3"
+}

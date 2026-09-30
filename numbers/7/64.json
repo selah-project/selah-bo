@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ར་ཚོགས་ཀྱི་ར་ཕོ་གཅིག །ཧ་ཏཏའི་དོན་དུ།",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ར་ཕོ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ར་ཚོགས"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ཧ་ཏཏའི་དོན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:23:15.753561011Z",
+  "model": "glm-5.3"
+}

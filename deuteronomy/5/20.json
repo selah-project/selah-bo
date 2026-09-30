@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཁྱོད་ཀྱི་གྲོགས་པོའི་སྐོར་ལ་དཔང་པོ་རྫུན་མ་ཡང་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ཡང་མ་"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ལན་འདེབས"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ཁྱོད་ཀྱི་གྲོགས་པོའི་སྐོར་ལ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "དཔང་པོ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "རྫུན་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:44:01.445990280Z",
+  "model": "glm-5.3"
+}

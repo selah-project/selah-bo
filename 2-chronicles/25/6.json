@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ཡི་སི་ར་ཨེལ་ནས་དཔའ་བོ་སྟོང་ཕྲག་བརྒྱ་བོ་ཤེ་ཀེལ་དངུལ་འབུམ་བརྒྱའི་གླ་ཆ་ལ་གླས།",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "གླས"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ་ནས"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང་ཕྲག"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "དཔའ་བོ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "དཔའ་ངར"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ཤེ་ཀེལ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:17:56.503583988Z",
+  "model": "glm-5.3"
+}

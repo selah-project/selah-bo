@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "སྒོ་མོ་རང་གི་གཟེར་ལ་འཁོར་བ་ལྟར་ལེ་ལོ་ཅན་ཡང་རང་གི་ཉལ་ཁྲི་ལ་འཁོར།",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "སྒོ་མོ"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "འཁོར"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "རང་གི་གཟེར"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "ལེ་ལོ་ཅན་ཡང"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "རང་གི་ཉལ་ཁྲི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:58:53.422942141Z",
+  "model": "glm-5.3"
+}

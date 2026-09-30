@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཨ་ཧི་ཡམ་ས་ཀར་ཧ་ར་རི་བ་པའི་བུ། ཨེལི་ཕལ་ཨུར་གྱི་བུ།",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "ཨ་ཧི་ཡམ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ས་ཀར"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ཧ་ར་རི་བ་པ"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "ཨེལི་ཕལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ཨུར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:44.654520874Z",
+  "model": "glm-5.3"
+}

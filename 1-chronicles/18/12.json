@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "ཨ་བི་ཤའི་ ཙེ་རུ་ཡའི་སྲས་ཀྱིས་⟨את⟩ཨེ་དོམ་ལ་ཚྭ་ཡི་ལུང་པར་ཕོག་སྟེ་ཁྲི་བཅོ་བརྒྱད་དོ།",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "ཨ་བི་ཤའི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "སྲས"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ཙེ་རུ་ཡ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ཕོག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨེ་དོམ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ཨེ་དོམ"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ལུང་པར"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ཚྭ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "བཅོ་བརྒྱད"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ཁྲི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:01:37.163301053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡང་ཡ་ཧ་ཝེའི་ཚིག་ངའི་ཕྱོགས་ལ་ཐེངས་གཉིས་པར་བྱུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ཡང…བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངའི་ཕྱོགས་ལ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ཐེངས་གཉིས་པ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:49:01.203985519Z",
+  "model": "glm-5.3"
+}

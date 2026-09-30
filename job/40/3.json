@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "དེ་ནས་ཨི་ཡོབ་ཀྱིས་⟨את⟩ ཡ་ཧ་ཝེ་ལ་ལན་བཏབ་སྟེ་ཞུས།",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ལན་བཏབ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ཨི་ཡོབ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ཞུས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:15:45.485647230Z",
+  "model": "glm-5.3"
+}

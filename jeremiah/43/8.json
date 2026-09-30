@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 43,
+  "translation": "ཏ་ཁ་ཕན་ཁེས་སུ་ཡ་ཧ་ཝེའི་ཚིག་ཡི་རྨ་ཡ་ཧུའི་ཕྱག་ཏུ་བྱུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཕྱག་ཏུ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ཡི་རྨ་ཡ་ཧུ"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "ཏ་ཁ་ཕན་ཁེས་སུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:25:55.642361287Z",
+  "model": "glm-5.3"
+}

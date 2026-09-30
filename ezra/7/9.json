@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 7:9",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ག་ཟོག་? no — གང་ཡིན་ནམ། ཧ་ནཾ། ཏཱ། དེ་ལྟར་: ཡི་གེ.",
+  "tokens": [],
+  "timestamp": "2026-09-30T13:42:35.235006601Z",
+  "model": "glm-5.3"
+}

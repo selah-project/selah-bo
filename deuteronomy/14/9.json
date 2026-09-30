@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "⟨את⟩འདི་ཁྱོད་ཚོས་ཆུ་ལ་གནས་པ་ཀུན་ལས་ཟ་ཆོག གང་ལ་གཤོག་སོ་དང་ཁྲབ་ལེབ་ཡོད་པ་ཀུན་ཁྱོད་ཚོས་ཟོ།",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "འདི"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ་ཆོག"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ཀུན་ལས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ཆུ་ལ་གནས་པ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "གཤོག་སོ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ཁྲབ་ལེབ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟོ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:29.881689983Z",
+  "model": "glm-5.3"
+}

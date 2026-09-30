@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 52,
+  "translation": "ཁྱོད་ཀྱིས་མིད་པའི་ཚིག་ཐམས་ཅད་ལ་དགའ། མགོ་སྐོར་གྱི་ལྕེ་འདིས།",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "མིད"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ལྕེ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "མགོ་སྐོར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:31:28.134818564Z",
+  "model": "glm-5.3"
+}

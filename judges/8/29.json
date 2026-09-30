@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དེ་ནས་ཡེ་རུབ་བཱལ་ཡོ་ཨ་ཤའི་བུ་སོང་སྟེ་རང་གི་ཁྱིམ་དུ་གནས།",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "ཡེ་རུབ་བཱལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ཡོ་ཨ་ཤ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "རང་གི་ཁྱིམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:22:57.449114464Z",
+  "model": "glm-5.3"
+}

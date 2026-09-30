@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "སྐྱེ་གནས་རྨས་ཤིང་བཅོམ་པ་དང་སྐྱེ་གནས་གཏུབ་པ་ཅན་ཡ་ཧ་ཝེའི་ཚོགས་སུ་མི་འཇུག",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "འཇུག"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "རྨས་ཤིང་"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "བཅོམ་པ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "དང་གཏུབ་པ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "སྐྱེ་གནས"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ཚོགས་སུ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:56:48.548336251Z",
+  "model": "glm-5.3"
+}

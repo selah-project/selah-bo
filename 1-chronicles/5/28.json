@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཀེ་ཧཏའི་བུ་རྣམས། ཨམ་རམ། ཡི་ཙ་ཧར། ཧེ་བརོན། ཨུ་ཛི་ཨེལ།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ཀེ་ཧཏ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ཨམ་རམ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ཡི་ཙ་ཧར"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ཧེ་བརོན"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ཨུ་ཛི་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:26.863955122Z",
+  "model": "glm-5.3"
+}

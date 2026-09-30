@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "ངས་ནམ་མཁའ་ལ་ལག་པ་ཡར་བཏེགས་ནས། ང་ནམ་ཡང་གསོན་པོར་གནས་ཞེས་ཟེར་ངེས།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "⟨དེའི་ཕྱིར⟩"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ཡར་བཏེགས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ནམ་མཁའ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ཞེས་ཟེར་ངེས"
+    },
+    {
+      "surface": "חי",
+      "gloss": "གསོན་པོར་གནས"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ནམ་ཡང་"
+    }
+  ],
+  "timestamp": "2026-09-30T09:01:20.698544752Z",
+  "model": "glm-5.3"
+}

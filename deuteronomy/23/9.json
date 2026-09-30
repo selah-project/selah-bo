@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "དེ་ཚོར་སྐྱེས་པའི་བུ་ཚོ་མི་རབས་གསུམ་པ་ལ་ཡ་ཧ་ཝེའི་ཚོགས་སུ་འཇུག་པར་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "སྐྱེས་པའི་"
+    },
+    {
+      "surface": "להם",
+      "gloss": "དེ་ཚོར"
+    },
+    {
+      "surface": "דור",
+      "gloss": "མི་རབས"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "གསུམ་པ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "འཇུག་པར་འགྱུར"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ཚོགས་སུ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:55:47.478447787Z",
+  "model": "glm-5.3"
+}

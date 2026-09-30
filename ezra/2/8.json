@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཛ་ཏུ་ཡི་བུ་རྒྱུད། དགུ་བརྒྱ་ཞེ་ལྔ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ཛ་ཏུ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "དགུ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ཞེ་"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ཞེ་ལྔ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:39:51.486258515Z",
+  "model": "glm-5.3"
+}

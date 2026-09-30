@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "བུ་མོ་དེ་རྒྱུག་སྟེ་མ་ཡི་ཁྱིམ་དུ་གཏམ་འདི་ལྟར་བཤད་དོ། །",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "རྒྱུག"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "བུ་མོ་དེ"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "བཤད"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ཁྱིམ་དུ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "མ"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "གཏམ་ལྟར"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "འདི་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:13:58.791415787Z",
+  "model": "glm-5.3"
+}

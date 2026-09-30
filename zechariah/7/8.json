@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ཛ་ཀ་རི་ཡ་ལ་བྱུང་བར་གྱུར་ཅིང་ཞེས་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང་བར་གྱུར་ཅིང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ཛ་ཀ་རི་ཡ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:15:51.503849159Z",
+  "model": "glm-5.3"
+}

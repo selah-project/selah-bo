@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དང་ཨེ་ལོན་དང་ཐིམ་ན་ཧ་དང་ཨེ་ཀ་རོན།",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "ཨེ་ལོན"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "ཐིམ་ན་ཧ"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ཨེ་ཀ་རོན"
+    }
+  ],
+  "timestamp": "2026-09-30T09:14:43.669764161Z",
+  "model": "glm-5.3"
+}

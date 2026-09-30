@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "གླུ་དབྱངས་མཁན་ལ་ཕྱག་འཚལ། ད་ཝིད་ཀྱི་སྙན་ངག་འདི།",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "གླུ་དབྱངས་མཁན་ལ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "སྙན་ངག"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ད་ཝིད་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:21:38.278040487Z",
+  "model": "glm-5.3"
+}

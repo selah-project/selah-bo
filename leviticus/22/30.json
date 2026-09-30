@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཉིན་དེ་ཉིད་ལ་⟨དེ⟩ཟ་བར་བྱ། དེ་ལས་ཞོགས་ཀས་བར་དུ་ལྷག་མ་མ་འཇོག ང་ཡ་ཧ་ཝེ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་ལ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ཟ་བར་བྱ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ཁྱེད་ཀྱིས་ལྷག་མ་འཇོག"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "དེའི་ལས"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ཞོགས་ཀས"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:11:27.735270464Z",
+  "model": "glm-5.3"
+}

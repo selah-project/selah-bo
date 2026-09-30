@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "གཏི་མུག་ཅན་གྱི་ཁ་ནི་རང་ལ་འཇིག་པ་སྟེ་ ཁོའི་མཆུ་ཏོ་ནེ་ཕེ་ཤའི་རྙི་ཡིན།",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "གཏི་མུག་ཅན"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "འཇིག་པ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "རང་ལ"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "ཁོའི་མཆུ་ཏོ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "རྙི"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ནེ་ཕེ་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:22.303378754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཁ་ཟེར་བ་པོས་ཤེས་རབ་འཚོལ་ཡང་མི་རྙེད། ཤེས་ལྡན་ལ་ཤེས་པ་ནི་ཡང་མོར་ཡོད།",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "འཚོལ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ཁ་ཟེར་བ་པོ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ཤེས་པ"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "ཤེས་ལྡན"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "ཡང་མོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:57.660929544Z",
+  "model": "glm-5.3"
+}

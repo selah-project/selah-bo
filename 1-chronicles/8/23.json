@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཨ་བ་དོན། དང་ཛི་ཁ་རི། དང་ཧ་ནན།",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "དང་ཨ་བ་དོན"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "དང་ཛི་ཁ་རི"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "དང་ཧ་ནན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:08.733207085Z",
+  "model": "glm-5.3"
+}

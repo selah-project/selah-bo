@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེ་གིས་སི་ནའི་ཐང་སྟོང་དུ་མོ་ཤེ་ལ་འདི་སྐད་དུ་གསུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ་གྱིས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ཐང་སྟོང་དུ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "སི་ནའི"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:18:50.143312610Z",
+  "model": "glm-5.3"
+}

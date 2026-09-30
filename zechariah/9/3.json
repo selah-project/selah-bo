@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 9:3",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཙོ་ར་ཡིས་རང་ལ་མཁར་བརྩིགས། དངུལ་རྡུལ་ལྟར་བསགས། གསེར་ཡང་ལམ་གྱི་འདམ་ལྟར་བསགས་སོ།",
+  "tokens": [
+    {
+      "surface": "ותבן",
+      "gloss": "བརྩིགས"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ཙོ་ར་ཡིས"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "མཁར"
+    },
+    {
+      "surface": "לה",
+      "gloss": "རང་ལ"
+    },
+    {
+      "surface": "ותצבר",
+      "gloss": "བསགས"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "རྡུལ་ལྟར"
+    },
+    {
+      "surface": "וחרוץ",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "כטיט",
+      "gloss": "འདམ་ལྟར"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "ལམ་གྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:16:46.491243041Z",
+  "model": "glm-5.3"
+}

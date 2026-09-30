@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཁོ་རང་གི་ཕ་ག་ལ་སླེབས་ནས་ཨ་ཕ་ལགས་ཟེར་བ་དང་། ཕས་འདིར་བདག་ཡོད། བུ་ཁྱོད་སུ་ཡིན་ཞེས་སྨྲས།",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "སླེབས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ག་ལ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "རང་གི་ཕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཨ་ཕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "འདིར་བདག་ཡོད"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:16:46.212802771Z",
+  "model": "glm-5.3"
+}

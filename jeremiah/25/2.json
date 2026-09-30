@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ན་བི་ཡེ་ར་མི་ཡ་ཧུས་ཡེ་ཧུ་དའི་མི་རིགས་ཀུན་དང་ཡེ་རུ་ཤ་ལ་ཡིམ་གྱི་གནས་པ་ཀུན་ལ་ཞེས་སྨྲས་པ།",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ཡེ་ར་མི་ཡ་ཧུ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ན་བི"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "עם",
+      "gloss": "མི་རིགས"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ཡེ་ཧུ་ད"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "གནས་པ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ཡེ་རུ་ཤ་ལ་ཡིམ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:14:45.771509079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མཁས་པའི་བཀའ་སློབ་ཉན་པ་ནི་གླེན་པ་རྣམས་ཀྱི་གླུ་ལ་ཉན་པ་ལས་ལེགས།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ཉན་པ"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "བཀའ་སློབ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པའི"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ཉན་པ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "གླུ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "གླེན་པ་རྣམས་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:26:51.938851734Z",
+  "model": "glm-5.3"
+}

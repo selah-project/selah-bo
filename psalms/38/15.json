@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ང་ཐོས་མི་ནུས་པའི་མི་ལྟར་གྱུར་ཅིང་། ཁའི་ནང་ལན་གྱི་ཚིག་མེད་དོ།",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ཕཨཧག"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ཀཨགཤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ཐཤר"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ལא"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ཤמע"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ཕאགན"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "བפགཝ"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ལན་གྱི་ཚིག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:27:48.225962423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "གསེར་ཡོད་ལ་མུ་ཏིག་ཀྱང་མང་། རིན་ཐང་ཆེ་བའི་སྣོད་ནི་ཤེས་པའི་མཆུ་ཏོ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ཡོད་ལ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ཀྱང་མང་"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "མུ་ཏིག"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "དང་སྣོད"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "རིན་ཐང་ཆེ་བ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "མཆུ་ཏོ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:59:33.798769128Z",
+  "model": "glm-5.3"
+}

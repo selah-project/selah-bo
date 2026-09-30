@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཨ་ཧ་ཛ་དེའི་བུ། ཡི་ཙ་ཀི་ཡ་ཧུ་དེའི་བུ། མ་ན་ཤེ་དེའི་བུ།",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "ཨ་ཧ་ཛ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ཡི་ཙ་ཀི་ཡ་ཧུ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "མ་ན་ཤེ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:41.268684771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་གསུངས་ཞེས།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:14:41.738253399Z",
+  "model": "glm-5.3"
+}

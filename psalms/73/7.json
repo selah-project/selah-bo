@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 73,
+  "translation": "ཁོ་ཚོའི་མིག་ནི་ཞག་ལས་⟨ཐོན⟩ཏེ། སྙིང་གི་འཆར་སྣང་ལས་⟨འདས⟩སོ།",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ཐོན"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ཞག་ལས"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ཁོ་ཚོའི་མིག"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "འདས"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "འཆར་སྣང"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "སྙིང"
+    }
+  ],
+  "timestamp": "2026-09-30T12:35:06.306161407Z",
+  "model": "glm-5.3"
+}

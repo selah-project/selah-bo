@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ས་གཞི། ས་གཞི། ས་གཞི། ཡ་ཧ་ཝེའི་ཚིག་འདི་ཐོས།",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ཐོས"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:10:21.170948853Z",
+  "model": "glm-5.3"
+}

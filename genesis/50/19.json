@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 50,
+  "translation": "ཡོ་སེབ་ཀྱིས་ཁོང་ཚོ་ལ་སྨྲས་<...> འཇིགས་<...> ང་ཨེ་ལོ་ཧིམ་གྱི་ཚབ་<...>་<...>",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ཁོང་ཚོ་ལ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེབ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "འཇིགས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཀྱི"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "ཚབ་<...>"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    }
+  ],
+  "timestamp": "2026-09-30T07:33:24.125883133Z",
+  "model": "glm-5.3"
+}

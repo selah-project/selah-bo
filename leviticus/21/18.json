@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "གང་གི་ལུས་སུ་སྐྱོན་ཡོད་པའི་མི་ཐམས་ཅད་ཉེ་བར་མི་འགྲོ། ལོང་བ་འམ་རྐང་ཞན་འམ་སྣ་ཉགས་འམ་ཡན་ལག་ལྷག་པ་ཅན་གྱི་མི།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གང་ཡང"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "בו",
+      "gloss": "དེའི་ལུས་སུ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "སྐྱོན"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ཉེ་འགྲོ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ལོང་བ"
+    },
+    {
+      "surface": "או",
+      "gloss": "འམ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "རྐང་ཞན"
+    },
+    {
+      "surface": "או",
+      "gloss": "འམ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "སྣ་ཉགས"
+    },
+    {
+      "surface": "או",
+      "gloss": "འམ"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "ཡན་ལག་ལྷག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:11:35.359624078Z",
+  "model": "glm-5.3"
+}

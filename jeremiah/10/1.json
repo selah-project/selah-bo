@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཡི་སི་ར་ཨེལ་གྱི་ཁྱིམ་ཚང་ལྟས་འབུམ་ལྟས་དག་དང་ནམ་མཁའི་རྟགས་དག་ལ་མ་སྐྲག་ཅིག",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚིག"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ཁྱེད་ཚོའི་ཐོག་ཏུ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁྱིམ་ཚང"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:07:43.539050715Z",
+  "model": "glm-5.3"
+}

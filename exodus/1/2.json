@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "རུ་ཨུ་བེན་ ཤི་མ་ཨོན་ ལེ་ཝི་ དང་ ཡ་ཧུ་ད།",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "རུ་ཨུ་བེན"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ཤི་མ་ཨོན"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ལེ་ཝི"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "དང་ཡ་ཧུ་ད"
+    }
+  ],
+  "timestamp": "2026-09-30T07:32:09.155528038Z",
+  "model": "glm-5.3"
+}

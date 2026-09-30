@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཁོང་ཚོས་མོ་ལ་ལག་པ་བཞག་ནས་རྒྱལ་པོའི་ཁང་གི་རྟ་སྒོའི་འཛུལ་སྒོར་སླེབས་སྐབས་དེར་བསད་དོ།",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "לה",
+      "gloss": "མོ་ལ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "སླེབ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "འཛུལ་སྒོ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "རྟ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "བསད"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེར"
+    }
+  ],
+  "timestamp": "2026-09-30T14:15:59.260588552Z",
+  "model": "glm-5.3"
+}

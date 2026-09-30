@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ད་དུང་ཨེ་དོ་མི་དག་〈is〉འོངས་ཏེ་ཡེ་ཧུ་ད་ལ་རྡུང་སྟེ་བཙོན་པ་དག་འཕྲོག",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ད་དུང"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "ཨེ་དོ་མི་དག"
+    },
+    {
+      "surface": "באו",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "རྡུང"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ཡེ་ཧུ་ད་ལ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "འཕྲོག"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "བཙོན་པ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T14:18:08.607942630Z",
+  "model": "glm-5.3"
+}

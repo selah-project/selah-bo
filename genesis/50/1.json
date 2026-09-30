@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 50,
+  "translation": "ཡོ་སེཕ་<ཁོའི་>ཕ་ཡི་གདོང་ལ་ལྷུང་ཞིང་ཁོ་ལ་ངུས་ཤིང་ཁོ་ལ་འོ་བྱས།",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ལྷུང་ཞིང"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "གདོང"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ཁོའི་ཕ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ངུས་ཤིང"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "འོ་བྱས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:32:30.726945567Z",
+  "model": "glm-5.3"
+}

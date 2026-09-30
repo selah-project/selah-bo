@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ངས་རང་ལ་ལྡུམ་ར་དག་དང་ནགས་ཚལ་དག་བྱས། དེ་དག་ལ་འབྲས་བུ་ཐམས་ཅད་ཀྱི་ཤིང་བཙུགས།",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "לי",
+      "gloss": "རང་ལ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ལྡུམ་ར་དག"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "དང་ནགས་ཚལ་དག"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "དང་བཙུགས"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "དེ་དག་ལ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ཤིང"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད་ཀྱི"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "འབྲས་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:59.798830678Z",
+  "model": "glm-5.3"
+}

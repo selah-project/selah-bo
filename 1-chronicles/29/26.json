@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ད་ཝིད་ཡི་ཤའི་བུས་ཡི་སི་ར་ཨེལ་ཡོངས་ལ་རྒྱལ་སྲིད་མཛད་དོ།",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ཡི་ཤ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་སྲིད་མཛད"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཡོངས"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:05:23.355868587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "མི་ཙ་ར་ཡིམ་ལ་ང་ཚོས་ལག་པ་བྱིན། ཨ་ཤུ་ར་ལའང་། བག་ལེབ་ཀྱིས་ང་ཚོ་འགྲངས་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "མི་ཙ་ར་ཡིམ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ང་ཚོས་བྱིན"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ཨ་ཤུ་ར"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "འགྲངས་པའི་ཕྱིར"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "བག་ལེབ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:55.806211701Z",
+  "model": "glm-5.3"
+}

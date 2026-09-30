@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཡང་ཤེས་རབ་མེད་ན་ནེ་ཕེ་ཤ་ལ་མི་ལེགས་ལ། རྐང་པ་བྲེལ་བ་བྱེད་པོ་ནི་ཉེས་པ་ཅན་ནོ།",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "མེད་ན"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "བྲེལ་བ་བྱེད་པོ"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "རྐང་པ"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "ཉེས་པ་ཅན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:20.057297737Z",
+  "model": "glm-5.3"
+}

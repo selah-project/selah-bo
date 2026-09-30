@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "སྦྲེལ་བའི་ཕྲག་པ་གཉིས་དེ་ལ་⟨ཡོད⟩དེ། དེའི་མཐའ་སྣེ་གཉིས་སུ་སྦྲེལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "ཕྲག་པ"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "སྦྲེལ་བ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ཡོད⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "དེའི་མཐའ་སྣེ"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "སྦྲེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:32.381302985Z",
+  "model": "glm-5.3"
+}

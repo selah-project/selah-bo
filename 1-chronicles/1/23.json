@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དང་⟨את⟩ཨོ་ཕིར་དང་⟨את⟩ཧ་བི་ལཧ་དང་⟨את⟩ཡོ་བབ། འདི་དག་ཐམས་ཅད་ཡོཀ་ཏན་གྱི་བུ་རྣམས་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨོ་ཕིར"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ཨོ་ཕིར"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་བི་ལཧ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ཧ་བི་ལཧ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཡོ་བབ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ཡོ་བབ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ཡོཀ་ཏན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:12.947506005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ལྟོས་དང་། ང་ཡིས་དེ་རིང་ཁྱེད་ཀྱི་མདུན་དུ་བཀྲ་ཤིས་དང་དམོད་པ་འཇོག་གོ།",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ལྟོས་དང་"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང་ཡིས"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "འཇོག"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ཁྱེད་ཀྱི་མདུན་དུ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "དེ་རིང་"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "བཀྲ་ཤིས"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "དང་དམོད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:47:20.138501252Z",
+  "model": "glm-5.3"
+}

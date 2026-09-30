@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཨེལ་ཀ་ན་ཧའི་བུ་རྣམས་ནི་ཨ་མ་ས་ཡི་དང་ཨ་ཧི་མོ་ཐའོ།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "དང་... ཀྱི་བུ་རྣམས"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ཨེལ་ཀ་ན་ཧ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ཨ་མ་ས་ཡི"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "དང་ཨ་ཧི་མོ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:49.336350068Z",
+  "model": "glm-5.3"
+}

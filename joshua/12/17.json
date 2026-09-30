@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཏ་ཕུ་ཨ་ཁའི་རྒྱལ་པོ་གཅིག ཧེ་ཕེར་གྱི་རྒྱལ་པོ་གཅིག",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ཏ་ཕུ་ཨ་ཁ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ཧེ་ཕེར"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:37.894196453Z",
+  "model": "glm-5.3"
+}

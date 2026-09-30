@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཁྲོ་བའི་མི་ཡིས་རྩོད་པ་སློང་། ཁྲོ་བ་ལ་རིང་བ་ཡིས་རྩོད་པ་ཞི་བར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ཁྲོ་བ"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "སློང"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "རྩོད་པ"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "དང་རིང་བ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ཁྲོ་བ"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "ཞི་བར་བྱེད"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "རྩོད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:17.814169520Z",
+  "model": "glm-5.3"
+}

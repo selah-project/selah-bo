@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "ཡོ་སི་ཕས་ཁོ་ལ་སྨྲས་པ། དེའི་འགྲེལ་བ་ནི་འདི་ཡིན། ཡལ་ག་གསུམ་པོ་ནི་ཉིན་གསུམ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སི་ཕ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "འགྲེལ་བ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ཡལ་ག"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ནི...ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:24:02.075498178Z",
+  "model": "glm-5.3"
+}

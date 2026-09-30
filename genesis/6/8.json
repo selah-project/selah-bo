@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "འོན་ཀྱང་ནོ་ཨ་ཁ་ཡ་ཧ་ཝེའི་སྤྱན་སྔར་བཀའ་དྲིན་རྙེད།",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "འོན་ཀྱང་ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "རྙེད"
+    },
+    {
+      "surface": "חן",
+      "gloss": "བཀའ་དྲིན"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:06:09.126218327Z",
+  "model": "glm-5.3"
+}

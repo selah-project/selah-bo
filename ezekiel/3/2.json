@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ངས་⟨את⟩ཁ་ཕྱེ་བ་དང་། ཁོང་གིས་ང་ལ་⟨את⟩ ཤོག་ཡིག་འདི་ཟ་རུ་བཅུག",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "ཕྱེ་"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཁ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "ཟ་རུ་བཅུག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཤོག་ཡིག་འདི"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "ཤོག་ཡིག"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T11:33:57.368737488Z",
+  "model": "glm-5.3"
+}

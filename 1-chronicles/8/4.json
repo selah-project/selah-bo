@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཨ་བི་ཤུ་ཨ་དང་། ན་ཨ་མ་ན་དང་། ཨ་ཧོ་ཧ་⟨ཡིན⟩།",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ཨ་བི་ཤུ་ཨ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "ན་ཨ་མ་ན"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "ཨ་ཧོ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:52.552886983Z",
+  "model": "glm-5.3"
+}

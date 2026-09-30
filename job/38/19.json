@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "འོད་གནས་པའི་ལམ་འདི་གང་ན་ཡོད། མུན་ནག་གི་གནས་ཡུལ་གང་ན་ཡོད།",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "གང་ན"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "אור",
+      "gloss": "འོད"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "དང་མུན་ནག"
+    },
+    {
+      "surface": "אי",
+      "gloss": "གང་ན"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "གནས་ཡུལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:15:50.874018357Z",
+  "model": "glm-5.3"
+}

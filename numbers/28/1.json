@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་གསུང་ཞིང་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་ཞིང་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ་"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ་"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ།"
+    }
+  ],
+  "timestamp": "2026-09-30T08:36:55.414519234Z",
+  "model": "glm-5.3"
+}

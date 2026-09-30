@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "གསེར་གྱི་ཁ་གང་གཅིག ཤེ་ཀེལ་བཅུ། བདུག་སྤོས་ཀྱིས་ཁེངས་པའོ།",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ཁ་གང"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ཁེངས་པ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "བདུག་སྤོས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:29:56.822569960Z",
+  "model": "glm-5.3"
+}

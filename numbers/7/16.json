@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ར་གནག་སྨ་ར་ཅན་གཅིག་སྟེ། ཉེས་སྲེག་གི་ཕྱིར་རོ།",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ར་གནག་སྨ་ར་ཅན"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ར་ཡི"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ཉེས་སྲེག་གི་ཕྱིར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:20:33.579818420Z",
+  "model": "glm-5.3"
+}

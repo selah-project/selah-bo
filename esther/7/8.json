@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 7:8",
+  "book": "esther",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "རྒྱལ་པོ་<the king>ཁང་པའི་<palace>ཚལ་<garden>ནས་<from>ཆང་<wine>སྟོན་མོ་<banquet>ཡི་<of>ཁང་དུ་<house>ལོག<returned>། ཧ་མན་<Haman>ཨེ་ས་ཐེར་<Esther>ཉལ་<was>བའི་<on>མལ་ཁྲི་<couch>དེའི་སྟེང་<on>དུ་ལྷུང་<was falling>འདུག<was>། རྒྱལ་པོས་གསུངས། ཁང་<in the house>པའི་<house>ནང་<in>ང་<me>དང་མཉམ་<with>་དུ་<with>རྒྱལ་མོ་⟨את⟩<queen>ལ་<to subdue>མནན་<subdue>པར་<even>ཡང་<even>ཨེ་<also>འདོད་དམ། རྒྱལ་པོའི་<king>ཁ་<mouth>ནས་<from>ཚིག་<word>ཐོན་<went out>མ་ཐག<as soon as>ཏུ་<as>ཧ་མན་གྱི་<Haman's>གདོང་<face>ལ་གཡོགས<covered>སོ།",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "ཚལ་ནས"
+    },
+    {
+      "surface": "הביתן",
+      "gloss": "ཁང་པའི"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "སྟོན་མོ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ཆང་"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ཧ་མན"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ལྷུང"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "མལ་ཁྲི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ཨེ་ས་ཐེར"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "དེའི་སྟེང"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོས"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ཡང་"
+    },
+    {
+      "surface": "לכבוש",
+      "gloss": "མནན་པར"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "རྒྱལ་མོ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "རྒྱལ་མོ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ང་དང་མཉམ་དུ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ཁང་པའི་ནང་"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ཐོན"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ཁ་ནས"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོའི"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "གདོང"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ཧ་མན་གྱི"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "གཡོགས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:33:35.716983683Z",
+  "model": "glm-5.3"
+}

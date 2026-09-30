@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཁྱོད་མིའི་བུ་ཡིན་པས་ ས་ཚི་ ཙོར་གྱི་དབང་དུ་ངུ་གླུ་ཞིག་ཁྱེར།",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ཁྱེར་ཞིག"
+    },
+    {
+      "surface": "על",
+      "gloss": "གྱི་དབང་དུ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ཙོར"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ངུ་གླུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:45:07.076074071Z",
+  "model": "glm-5.3"
+}

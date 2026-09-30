@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨ་ན་ ཏོཐསི་སྐྱེས་པ་བརྒྱ་དང་ཉི་ཤུ་རྩ་བརྒྱད།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "སྐྱེས་པ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ཨ་ན་ཏོཐ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "རྩ་བརྒྱད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:39:42.670709987Z",
+  "model": "glm-5.3"
+}

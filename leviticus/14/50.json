@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "བྱེའུ་གཅིག་⟨את⟩ས་ཕྱིའི་སྣོད་ཆུ་གསོན་པོའི་སྟེང་དུ་བཤས་པར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "བཤས་པར་བྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བྱེའུ་གཅིག"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "བྱེའུ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ནང་དུ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "སྣོད"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ས་ཕྱི"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "གསོན་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:28:32.421948895Z",
+  "model": "glm-5.3"
+}

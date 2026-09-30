@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཤ་དང་བག་ལེབ་ལྷག་མ་ནི་མེས་བསྲེགས་ཤིག",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ལྷག་མ"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "ཤ་"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "དང་བག་ལེབ་"
+    },
+    {
+      "surface": "באש",
+      "gloss": "མེས"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "བསྲེགས་ཤིག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:02:26.599252864Z",
+  "model": "glm-5.3"
+}

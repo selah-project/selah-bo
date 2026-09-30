@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ངས་སྨྲས་པ། ངའི་རྒྱུན་སྲིང་ཡལ་ཞིང་། ངའི་རེ་བ་ཡ་ཧ་ཝེ་ལས་ཡལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ངས་སྨྲས་པ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ཡལ"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "ངའི་རྒྱུན་སྲིང"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "ངའི་རེ་བ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:10.766353395Z",
+  "model": "glm-5.3"
+}

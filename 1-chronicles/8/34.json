@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཡ་ཧོ་ན་ཐན་གྱི་བུ་ནི་མེ་རིབ་བ་ཨལ་ཡིན། མེ་རིབ་བ་ཨལ་གྱིས་⟨את⟩མི་ཁ་བཙས།",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ཡ་ཧོ་ན་ཐན་གྱི"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "མེ་རིབ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "བ་ཨལ"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "མེ་རིབ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "བ་ཨལ་གྱིས་"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མི་ཁ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "མི་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:39.843676187Z",
+  "model": "glm-5.3"
+}

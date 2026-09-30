@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་སྲ་ནད་དང་། སྒང་ནད་དང་། དཀར་ཐིག་གི་ཡང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "སྲ་ནད"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "སྒང་ནད"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "དཀར་ཐིག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:04:58.296921628Z",
+  "model": "glm-5.3"
+}

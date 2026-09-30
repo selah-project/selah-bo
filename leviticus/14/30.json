@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཁོའི་ལག་གིས་ཟིན་ཐུབ་པའི་རི་ཕུག་རོན་ལས་སམ་ཕུག་རོན་ཕྲུག་ལས་གཅིག་ལ་⟨את⟩བྱའོ།",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གཅིག"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "རི་ཕུག་རོན"
+    },
+    {
+      "surface": "או",
+      "gloss": "སམ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ཕྲུག"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ཕུག་རོན"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "ཟིན"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ལག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:05:00.677839942Z",
+  "model": "glm-5.3"
+}

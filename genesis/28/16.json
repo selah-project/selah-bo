@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཡ་ཨ་ཀོབ་རྨི་ལམ་ལས་སད་དེ་ཟེར་ཞིང་། ངོ་མ་ཡ་ཧ་ཝེ་གནས་འདི་ན་བཞུགས་ཀྱང་ངས་མ་ཤེས་སོ།",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "སད"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "རྨི་ལམ་ལས"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ངོ་མ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "གནས་ན"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ང་ཡང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ཤེས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:17:17.630099391Z",
+  "model": "glm-5.3"
+}

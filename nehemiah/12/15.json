@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཧ་རིམ་གྱི ⟨ཁྱིམ་ལ་⟩ཨད་ན། མེ་ར་ཡོཐ་ཀྱི ⟨ཁྱིམ་ལ་⟩ཧེལ་ཀ།",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ཧ་རིམ་གྱི"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "ཨད་ན"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "མེ་ར་ཡོཐ་ཀྱི"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ཧེལ་ཀ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:49.401598263Z",
+  "model": "glm-5.3"
+}

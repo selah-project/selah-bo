@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཁོས་⟨את⟩གཅིག་བེཏ་ཨེལ་དུ་བཞག་པ་དང་⟨את⟩གཅིག་དན་དུ་བཞག",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གཅིག"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "བེཏ་ཨེལ་དུ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "གཅིག"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "དན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:14:20.865357962Z",
+  "model": "glm-5.3"
+}

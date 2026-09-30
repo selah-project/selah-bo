@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 36,
+  "translation": "མི་ཁ་ཡ་ཧུ་གེ་མ་ར་ཡ་ཧུའི་བུ་ཤ་ཕན་གྱི་བུས་ཡ་ཧ་ཝེའི་ཚིག་མཐའ་དག་⟨את⟩དེབ་ལས་ཐོས།",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ཐོས"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "མི་ཁ་ཡ་ཧུ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "གེ་མ་ར་ཡ་ཧུ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "ཤ་ཕན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚིག་མཐའ་དག"
+    },
+    {
+      "surface": "כל",
+      "gloss": "མཐའ་དག"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "དེབ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:51:28.197121436Z",
+  "model": "glm-5.3"
+}

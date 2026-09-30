@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དང་ ཀེ་དེ་ཤ་ དང་ ཨེད་རེ་ཨི་ དང་ ཨེན་ ཧ་ཙོར།",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "དང་ ཀེ་དེ་ཤ"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "དང་ ཨེད་རེ་ཨི་"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "དང་ ཨེན"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ཧ་ཙོར"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:45.918831507Z",
+  "model": "glm-5.3"
+}

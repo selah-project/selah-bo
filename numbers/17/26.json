@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "མོ་ཤེ་ཡིས་ཡ་ཧ་ཝེ་ཡིས་⟨את⟩བཀའ་སྩལ་བ་ལྟར་བྱས་ཏེ། དེ་ལྟར་བྱས།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "བྱས་ཏེ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ལྟར"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "བཀའ་སྩལ་བ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "བཀའ་སྩལ་བ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:30:22.769724096Z",
+  "model": "glm-5.3"
+}

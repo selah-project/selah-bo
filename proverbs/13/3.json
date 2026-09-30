@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "རང་གི་ཁ་སྲུང་བ་དེས་རང་གི་ནེ་ཕེ་ཤ་སྲུང་། ཁ་གདངས་པ་ལ་ནི་འཇིག་པ་ཡོད།",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "སྲུང"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "རང་གི་ཁ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "སྲུང"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "རང་གི་ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "གདངས"
+    },
+    {
+      "surface": "שפת་יו",
+      "gloss": "མཆུ"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "འཇིག་པ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "དེ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:57.734947280Z",
+  "model": "glm-5.3"
+}

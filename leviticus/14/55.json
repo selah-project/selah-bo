@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་གོས་ཀྱི་ཙ་ར་ཨ་ཐ་དང་ཁང་པའི་ཡང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "ཙ་ར་ཨ་ཐ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "གོས"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ཁང་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:04:58.296816228Z",
+  "model": "glm-5.3"
+}

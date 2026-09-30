@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དང་⟨את⟩ཧི་ཝི་པ་དང་⟨את⟩ཨ་ར་ཀི་པ་དང་⟨את⟩སི་ནི་པ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧི་ཝི་པ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ཧི་ཝི་པ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ར་ཀི་པ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ཨ་ར་ཀི་པ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "སི་ནི་པ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "སི་ནི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:37.870678632Z",
+  "model": "glm-5.3"
+}

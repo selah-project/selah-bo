@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "⟨Is it⟩ therefore ⟨upon this⟩ that he empties his net, and continually slays ⟨the⟩ མི་རིགས, not sparing?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "དེའི་སྟེང་དུ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "སྟོང་པར་བྱེད"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "ཁོའི་དྲ་བ"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "དང་རྒྱུན་དུ"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "གསོད་པར"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "མི་རིགས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "བྱམས་སྐྱོང་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:09:08.225965099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "དངུལ་གྱི་རྔོད་པ་ལག་ཏུ་ཁྱེར་ནས། ཚེས་གང་གི་ཉིན་རང་གི་ཁང་པར་འོང་།",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "རྔོད་པ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "དངུལ་གྱི"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ཁྱེར"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ལག་ཏུ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "ཚེས་གང"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "འོང"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "རང་གི་ཁང་པར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:04.539002066Z",
+  "model": "glm-5.3"
+}

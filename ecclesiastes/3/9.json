@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "དཀའ་སྤྱད་བྱེད་པ་པོ་ལ་རང་གིས་ངལ་རྩོལ་བྱེད་ས་དེར་ཁེ་ཕན་ཅི་ཞིག་ཡོད།",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ཅི་ཞིག"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ཁེ་ཕན"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "བྱེད་པ་པོ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "རང་གིས"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ངལ་རྩོལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:28.693734307Z",
+  "model": "glm-5.3"
+}

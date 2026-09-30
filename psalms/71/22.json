@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 71,
+  "translation": "ང་ཡང་ནེ་བེལ་ལ་སྦྱར་ནས་ཁྱོད་ལ་ཐུགས་རྗེ་<e>...<\/e>",
+  "tokens": [],
+  "timestamp": "2026-09-30T12:33:36.014099562Z",
+  "model": "glm-5.3"
+}

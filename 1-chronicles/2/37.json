@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཛཱ་བད་ཀྱིས་⟨את⟩ཨེཕ་ལལ་བཙས། ཨེཕ་ལལ་གྱིས་⟨את⟩ཨོ་བེད་བཙས།",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ཛཱ་བད་ཀྱིས་"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨེཕ་ལལ"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ཨེཕ་ལལ"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ཨེཕ་ལལ་གྱིས་"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨོ་བེད"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ཨོ་བེད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:56.556298324Z",
+  "model": "glm-5.3"
+}

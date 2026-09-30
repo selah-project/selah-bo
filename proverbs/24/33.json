@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཉུང་ཙམ་གཉིད། ཉུང་ཙམ་གཉིད་ལོག ཉུང་ཙམ་ལག་པ་གཉིས་སྦྲེལ་ནས་ཉལ་བ།",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ཉུང་ཙམ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "གཉིད"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ཉུང་ཙམ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "གཉིད་ལོག"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ཉུང་ཙམ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "སྦྲེལ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ལག་པ་གཉིས"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ཉལ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:54.135657772Z",
+  "model": "glm-5.3"
+}

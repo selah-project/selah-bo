@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་འདི་སྐད་གསུངས་པ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་ཅེས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:50.532734583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "ཁྲིམས་མཚན་མེད་ཐང་ས་གཞིར་འབྱོར། ཧོ་ལོན་དང་ཡ་ཧ་ཙ་ཧ་དང་མོ་ཕ་ཨ་ཐ་ལ་ཡང་།",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འབྱོར"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "མཚན་མེད་ཐང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ཧོ་ལོན"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ཡ་ཧ་ཙ་ཧ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "མོ་ཕ་ཨ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:27:28.373376664Z",
+  "model": "glm-5.3"
+}

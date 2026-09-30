@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཤ་མ་ཧ་ར་རི་པ། ཨ་ཧི་ཡམ་ཤ་རར་གྱི་བུ་ཧ་ར་རི་པ།",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ཤ་མ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ཧ་ར་རི་པ"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "ཨ་ཧི་ཡམ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "ཤ་རར"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ཧ་ར་རི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:03:27.325556899Z",
+  "model": "glm-5.3"
+}

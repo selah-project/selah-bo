@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཁྱོད་དེ་རིང་མོ་ཨ་བའི་⟨את⟩ མཚམས་⟨את⟩ཨར་བརྒལ་བར་བྱ།",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "བརྒལ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "དེ་རིང་"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མཚམས"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "མཚམས་"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "མོ་ཨ་བ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨར"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ཨར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:42:32.724337720Z",
+  "model": "glm-5.3"
+}

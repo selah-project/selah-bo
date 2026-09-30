@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཁོང་གིས་ལམ་གཞན་ཞིག་ཏུ་ཕྱིན་། བེད་ཨེལ་དུ་འོངས་པའི་ལམ་དུ་ཕྱིར་མ་ལོག་གོ།",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ་"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "གཞན"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་མ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ་དུ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "בה",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེད་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:13:38.086967950Z",
+  "model": "glm-5.3"
+}

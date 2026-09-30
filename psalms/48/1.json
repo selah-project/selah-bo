@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "གླུ་དང་མཛད་གླུ། ཀོ་ར་ཁའི་བུ་རྣམས་ཀྱི།",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "གླུ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "མཛད་གླུ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "བུ་རྣམས་ཀྱི"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ཀོ་ར་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:29:57.921838677Z",
+  "model": "glm-5.3"
+}

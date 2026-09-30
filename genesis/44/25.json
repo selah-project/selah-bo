@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 44,
+  "translation": "ཨབ་ར་ཧམ་གྱིས་གསུང་། ལོག་སྟེ་ང་ཚོར་ཁ་ལག་ཅུང་ཟད་ཉོ་ཞིག",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ལོག་སྟེ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ཉོ་ཞིག"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ང་ཚོར"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ཅུང་ཟད"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ཁ་ལག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:28:52.727193566Z",
+  "model": "glm-5.3"
+}

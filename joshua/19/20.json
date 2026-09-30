@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དེ་བཞིན་ར་བིཏ་དང་། ཀི་ཤི་ཡོན་དང་། ཨ་བེཛ་བཅས།",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ར་བིཏ"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "ཀི་ཤི་ཡོན"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "ཨ་བེཛ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:59.104905413Z",
+  "model": "glm-5.3"
+}

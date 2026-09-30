@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཡི་སི་ར་ཨེལ་གྱིས་ད་ལྟའི་ཉིན་བར་ད་ཝིད་ཀྱི་ཁྱིམ་ལ་ངོ་ལོག་གོ།",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "ངོ་ལོག"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ་གྱིས"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ཁྱིམ་ལ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ད་ལྟའི་ཉིན"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:09:38.024445652Z",
+  "model": "glm-5.3"
+}

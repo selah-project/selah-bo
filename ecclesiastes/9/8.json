@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "དུས་ཀུན་ཏུ་ཁྱོད་ཀྱི་གོས་དཀར་པོར་གྱུར་ཅིག་ལ་ ཁྱོད་ཀྱི་མགོར་མར་ཁུ་མ་མེད་པར་མ་གྱུར་ཅིག",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ཀུན་ཏུ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "དུས"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "གྱུར་ཅིག"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ཁྱོད་ཀྱི་གོས"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "དཀར་པོར"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "མར་ཁུ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ཁྱོད་ཀྱི་མགོ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "མེད་པར་གྱུར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:13.854643104Z",
+  "model": "glm-5.3"
+}

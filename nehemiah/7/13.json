@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཛ་ཏུ་ཡི་བུ་ཚ་དག་ བརྒྱད་བརྒྱ་དང་བཞི་བཅུ་ལྔ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ཛ་ཏུ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "བརྒྱད"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ལྔ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:35.815028423Z",
+  "model": "glm-5.3"
+}

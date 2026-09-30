@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "མི་ཤ་མན་ན་ཧ་བཞི་པ། ཡེ་རེ་མི་ཡ་ཧ་ལྔ་པ།",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "མི་ཤ་མན་ན་ཧ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "བཞི་པ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ཡེ་རེ་མི་ཡ་ཧ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ལྔ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:01.836674600Z",
+  "model": "glm-5.3"
+}

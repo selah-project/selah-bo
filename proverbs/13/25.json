@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཙེ་དིག་གིས་རང་གི་ནེ་ཕེ་ཤ་ངོམས་པར་ཟ། ངན་པ་རྣམས་ཀྱི་ཕོ་བ་ནི་ཆད།",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དིཀ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ཟ།"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ངོམས་པར"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "ཕོ་བ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ངན་པ་"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "ཆད།"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:35.968989846Z",
+  "model": "glm-5.3"
+}

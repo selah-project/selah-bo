@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཉིན་དང་པོར་⟨འདུ་ཚོགས⟩ཀོ་དེ་ཤ་ཡིན་པས་ལས་ཀྱི་བྱ་བ་གང་ཡང་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་...ར"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "དང་པོ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "འདུ་ཚོགས"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཀོ་དེ་ཤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང་ཡང་"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ལས་ཀ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "བྱ་བ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:13:01.174057996Z",
+  "model": "glm-5.3"
+}

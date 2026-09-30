@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཨ་ཧ་ཛ་རྒྱལ་པོ་འདས་པའི་ལོ་ལ་ ཁུར་འདི་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ལོ་ལ་"
+    },
+    {
+      "surface": "מות",
+      "gloss": "འདས་པའི་"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ཨ་ཧ་ཛ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང་།"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ཁུར"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:46:56.817015111Z",
+  "model": "glm-5.3"
+}

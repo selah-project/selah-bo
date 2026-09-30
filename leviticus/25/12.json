@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ཀྱང་ཡོ་བེལ་དེ་ ཁྱེད་ལ་ཀོ་དེ་ཤ་འགྱུར། ཞིང་ནས་⟨את⟩ དེའི་ཐོན་སྐྱེད་ཟ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཀྱང"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ཡོ་བེལ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཀོ་དེ་ཤ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་ལ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ཞིང"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཐོན་སྐྱེད"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "དེའི་ཐོན་སྐྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:14:45.272323928Z",
+  "model": "glm-5.3"
+}

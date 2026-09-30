@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "འདི་ལ་ཡ་ཧ་ཝེས་ཐུགས་བཟློགས། འདི་མི་འབྱུང་ཞེས་ཡ་ཧ་ཝེས་གསུང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ཐུགས་བཟློགས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:04:25.156338748Z",
+  "model": "glm-5.3"
+}

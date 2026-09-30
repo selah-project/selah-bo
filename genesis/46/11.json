@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 46,
+  "translation": "ལེ་ཝིའི་བུ་ཚ་དག་ཨིན་པས་ གེར་ཤོན་དང་ ཀོ་ཧད་དང་ མེ་ར་རི།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ལེ་ཝི"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "གེར་ཤོན"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ཀོ་ཧད"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "མེ་ར་རི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:28:46.922661605Z",
+  "model": "glm-5.3"
+}

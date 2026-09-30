@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 65,
+  "translation": "མདུན་འདྲེན་པ་ལ། ད་ཝིད་ཀྱི་མཛད་བྱང་། གླུ་ཞིག",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "མདུན་འདྲེན་པ་ལ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "མཛད་བྱང་"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ད་ཝིད་ཀྱི"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "གླུ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:32:56.650668557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དུས་དེའི་ཚེ་ཡ་ར་བོ་ཨམ་གྱི་བུ་ཨ་བི་ཡ་ཧ་ལ་ན་ཚ་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "དུས་"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "དེའི་ཚེ"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ན་ཚ་བྱུང"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ཨ་བི་ཡ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ཡ་ར་བོ་ཨམ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:15:17.937380080Z",
+  "model": "glm-5.3"
+}

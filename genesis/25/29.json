@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ཡ་ཨ་ཀོབ་ཀྱིས་ཐུག་པ་བཙོས། ཨེ་ཤ་ཝ་ཞིང་ཁ་ནས་འོངས་ཏེ་ཁོ་ངལ་ཞིང་དུབ།",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "བཙོས"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "ཐུག་པ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ཨེ་ཤ་ཝ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ཞིང་ཁ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ཁོ"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ངལ་ཞིང་དུབ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:15:02.653455338Z",
+  "model": "glm-5.3"
+}

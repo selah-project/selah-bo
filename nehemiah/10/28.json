@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མ་ལུག ། ཧ་རིམ། བ་ཨ་ན",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "མ་ལུག"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ཧ་རིམ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "བ་ཨ་ན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:58.188774261Z",
+  "model": "glm-5.3"
+}

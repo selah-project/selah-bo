@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 39:29",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 39,
+  "translation": "དེ་ནས་⟨དེས⟩ཟས་བཙལ་ཏེ་རིང་བོ་ནས་དེའི་མིག་གིས་ལྟ་བར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "དེ་ནས"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "བཙལ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ཟས"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "རིང་བོ་ནས"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ལྟ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:15:10.313573042Z",
+  "model": "glm-5.3"
+}

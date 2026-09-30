@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཤེཐ་⟨את⟩སྐྱེས་རྗེས་ཨ་དམ་གྱི་ལོ་བརྒྱད་བརྒྱ་བྱུང་ཞིང་། ཁོས་བུ་དང་བུ་མོ་དག་བཙས།",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་མ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ཨ་དམ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "རྗེས"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "སྐྱེས་པ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཤེཐ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ཤེཐ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "བརྒྱད"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "བུ་མོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:40.424199813Z",
+  "model": "glm-5.3"
+}

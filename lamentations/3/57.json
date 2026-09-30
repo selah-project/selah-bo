@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "བདག་གིས་ཁྱོད་ལ་འབོད་པའི་ཉིན་ལ་ཁྱོད་ཉེ་བར་བྱོན། ཁྱོད་ཀྱིས་མ་འཇིགས་ཞེས་གསུང་།",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "ཉེ་བར་བྱོན"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་ལ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "བདག་གིས་ཁྱོད་ལ་འབོད་པའི"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "འཇིགས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:12.982382274Z",
+  "model": "glm-5.3"
+}

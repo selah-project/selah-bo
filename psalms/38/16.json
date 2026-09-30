@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ཡ་ཧ་ཝེ་ཁྱེད་ལ་རེ་བ་བྱས་སོ། ཨ་དོ་ནའི་ཨེ་ལོ་ཧིམ་ཁྱེད་ཀྱིས་ལན་འདེབས་པར་འགྱུར་རོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཛག"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ལཛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཙཧוה"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "54.17.28"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "85.10"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "6032"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "136"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "430"
+    }
+  ],
+  "timestamp": "2026-09-30T12:27:48.226088148Z",
+  "model": "glm-5.3"
+}

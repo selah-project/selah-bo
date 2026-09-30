@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཙ་དོཀ་དེའི་བུ། ཨ་ཧི་མ་ཨ་ཙ་དེའི་བུ།",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "ཙ་དོཀ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ཨ་ཧི་མ་ཨ་ཙ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:38.647638705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "གང་ཟག་གིས་དབུལ་པོའི་འབོད་སྒྲ་ལ་རྣ་བ་བཀག་ན། ཁོ་རང་ཡང་འབོད་ཀྱང་ལན་མི་འཐོབ།",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "བཀག"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "རྣ་བ"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "འབོད་སྒྲ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "དབུལ་པོ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ་རང"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "འབོད"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ལན་འཐོབ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:03.308741408Z",
+  "model": "glm-5.3"
+}

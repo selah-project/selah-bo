@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཧ་བ་ཀུཀ་ན་བིས་མཇལ་བའི་ཁུར།",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ཁུར"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "མཇལ"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ཧ་བ་ཀུཀ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ན་བི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:53:32.452323210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "དང་བག་བཀ་ཀར་ ཧེ་རེཤ་ ག་ལལ་ དང་མ་ཏ་ན་ཡ་ཧ་ མི་ཀའི་བུ་ ཙི་ཀ་རིའི་བུ་ ཨ་སཕ་ཡི་བུ།",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "དང་བག་བཀ་ཀར"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ཧེ་རེཤ"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "དང་ག་ལལ"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "དང་མ་ཏ་ན་ཡ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "མི་ཀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ཙི་ཀ་רི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ཨ་སཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:14.210234603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "དེ་ནས་ཡ་ཧ་ཝེའི་ཚིག་ང་ལ་འོངས། ཞེས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:08:43.810649596Z",
+  "model": "glm-5.3"
+}

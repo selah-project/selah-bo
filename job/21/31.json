@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 21:31",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཁོའི་ལམ་ཁོའི་གདོང་ལ་སུ་ཡིས་གླེང་། ཁོས་བྱས་ཟིན་ན་སུ་ཡིས་ཁོ་ལ་ལན་འཇལ།",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "སུ་ཡིས"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "གླེང"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "གདོང"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "དང་ཁོས"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ་ཡིས"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ལན་འཇལ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:00:29.262128681Z",
+  "model": "glm-5.3"
+}

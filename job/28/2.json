@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ལྕགས་ནག་རྡུལ་ལས་ལེན་ལ། རྡོ་ལས་ཟངས་སུ་བཞུ་བ་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ལྕགས་ནག"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "རྡུལ་ལས"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "རྡོ"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "བཞུ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ཟངས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:11:29.093883545Z",
+  "model": "glm-5.3"
+}

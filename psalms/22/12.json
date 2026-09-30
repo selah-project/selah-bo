@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ང་དང་ཐག་མི་རིང་བར་མཛོད། དཀའ་ངལ་ཉེ་བར་ཡོད་པའི་ཕྱིར། གེས་རོགས་མཁན་མེད་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ཐག་རིང"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ང་དང"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "དཀའ་ངལ"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ཉེ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གེས"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "རོགས་མཁན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:23:00.839535331Z",
+  "model": "glm-5.3"
+}

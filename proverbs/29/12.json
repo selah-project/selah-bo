@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "རྫུན་གྱི་ཚིག་ལ་ཉན་པའི་དཔོན་པོའི་ཞབས་ཞུ་བ་ཐམས་ཅད་⟨་⟩ངན་པ་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "དཔོན་པོ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "རྫུན"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ཁོའི་ཞབས་ཞུ་བ་དག"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ངན་པ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:52.656870750Z",
+  "model": "glm-5.3"
+}

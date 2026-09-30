@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མཁལ་མ་གཉིས་⟨את⟩དང་དེའི་སྟེང་གི་ཞག་སྐེད་པའི་སྟེང་གི་དེ་⟨את⟩དང་མཆིན་པའི་ཉ་མཁལ་མའི་སྟེང་བློག་དགོས།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "མཁལ་མ་གཉིས"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "མཁལ་མ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཞག"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ཞག"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "དེའི་སྟེང"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "སྐེད་པ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "མཆིན་པའི་ཉ"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "མཆིན་པའི་ཉ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "མཆིན་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "མཁལ་མ"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "བློག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:12.474067066Z",
+  "model": "glm-5.3"
+}

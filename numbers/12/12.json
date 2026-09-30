@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 12:12",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "མོ་མངལ་ནས་ཐོན་མ་ཐག་ཤ་ཁྲག་ཕྱེད་ཆ་ཟོས་ཚར་བའི་རོ་ལྟར་མ་འགྱུར་བར་ཞུ།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ཞུ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "རོ་ལྟར་མ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ཐོན་མ་ཐག"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "མངལ་ནས"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ཨ་མའི"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ཟོས་ཚར་བ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ཕྱེད་ཆ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ཤ་ཁྲག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:34.117282444Z",
+  "model": "glm-5.3"
+}

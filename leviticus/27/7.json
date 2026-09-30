@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 27:7",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ལོ་དྲུག་ཅུ་ཡན་ཆད་ལ་ཕོ་ཡིན་ན་རིན་ཐང་ཤེ་ཀེལ་བཅོ་ལྔ་དང་མོའི་རིན་ཐང་ཤེ་ཀེལ་བཅུ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ལོ་"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "དྲུག་ཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "ཡན་ཆད"
+    },
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ཕོ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "རིན་ཐང་"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ཤེ་ཀེལ"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "མོ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "ཤེ་ཀེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:17:19.379430379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 36,
+  "translation": "ཁོས་⟨את⟩གུར་ཡོལ་ལྔ་གཅིག་དང་གཅིག་སྦྲེལ་ཞིང་། གུར་ཡོལ་ལྔ་ཡང་གཅིག་དང་གཅིག་སྦྲེལ།",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "སྦྲེལ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གུར་ཡོལ་ལྔ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "གུར་ཡོལ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "གུར་ཡོལ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "སྦྲེལ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:54:30.228240042Z",
+  "model": "glm-5.3"
+}

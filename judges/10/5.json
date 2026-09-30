@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཡ་ཨིར་འདས་ནས་ཀ་མོན་དུ་སྦས།",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "འདས"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ཡ་ཨིར"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "སྦས"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "ཀ་མོན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:23:55.242096185Z",
+  "model": "glm-5.3"
+}

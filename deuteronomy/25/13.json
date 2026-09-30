@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ཁྱོད་ཀྱི་ཁུག་མའི་ནང་དུ་རྡོ་དང་རྡོ། ཆེན་པོ་དང་ཆུང་བ་འགྱུར་མི་རུང་།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "ཁྱོད་ཀྱི་ཁུག་མའི་ནང་དུ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "རྡོ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "དང་རྡོ"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "དང་ཆུང་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:55:45.368145281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཨབ་ར་ཧམ་གྱི་བུ་ཚ་རྣམས་ནི་ཡི་ཙ་ཧག་དང་ཡི་ཤ་མ་ཨེལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ཡི་ཙ་ཧག"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "དང་ཡི་ཤ་མ་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:31.095108054Z",
+  "model": "glm-5.3"
+}

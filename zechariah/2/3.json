@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡ་ཧ་ཝེས་ང་ལ་⟨the⟩བཟོ་བ་བཞི་བསྟན།",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ང་ལ་བསྟན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "བཞི"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "བཟོ་བ་རྣམས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:16:05.569119942Z",
+  "model": "glm-5.3"
+}

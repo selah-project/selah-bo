@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 47,
+  "translation": "ཡ་ཧ་ཝེ་མཐོན་པོ་འཇིགས་སུ་རུང་བ་སྟེ། ས་གཞི་ཀུན་ལ་རྒྱལ་པོ་ཆེན་པོའོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "མཐོན་པོ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "འཇིགས་སུ་རུང་བ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:29:57.390008524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཨ་ཤེར་གྱི་བུ་ཚུ་ཡི་དཔུང་ཚོགས་ཀྱི་དམག་གི་དཔོན་པ་གེལ་ཨོ་ཁ་རན་གྱི་བུ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "དམག"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "དཔུང་ཚོགས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚུ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ཨ་ཤེར"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "པ་གེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ཨོ་ཁ་རན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:23:18.859328225Z",
+  "model": "glm-5.3"
+}

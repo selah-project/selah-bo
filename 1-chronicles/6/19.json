@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཨེལ་ཀ་ན་ཧའི་བུ། ཡེ་རོ་ཧམ་གྱི་བུ། ཨེ་ལི་ཨེལ་གྱི་བུ། ཏོ་ཨ་ཁ་ཡི་བུ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ཨེལ་ཀ་ན་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ཡེ་རོ་ཧམ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ཨེ་ལི་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "ཏོ་ཨ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:17.002145140Z",
+  "model": "glm-5.3"
+}

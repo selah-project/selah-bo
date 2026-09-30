@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "བདག་ནི་མི་ལས་ཀྱང་བ་གླང་ལྟར་རྨོངས་ལ། མིའི་བློ་གྲོས་ཀྱང་བདག་ལ་མེད།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "བདག་ནི"
+    },
+    {
+      "surface": "בער",
+      "gloss": "བ་གླང་ལྟར་རྨོངས"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "བདག"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "མི་ལས་ཀྱང"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "བློ་གྲོས"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "לי",
+      "gloss": "བདག་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:02:06.667349994Z",
+  "model": "glm-5.3"
+}

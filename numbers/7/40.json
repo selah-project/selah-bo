@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ར་གླང་སྣ་ལྔའི་ལུ་གཅིག སྡིག་པ་ཁྲུས་ཀྱི་མཆོད་པའོ།",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ལུ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ར་གླང"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "སྡིག་པ་ཁྲུས་ཀྱི་མཆོད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:20:16.438939254Z",
+  "model": "glm-5.3"
+}

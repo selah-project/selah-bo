@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཨ་བི་མེ་ལེཁ་གིས་ཡི་སི་ར་ཨེལ་ལས་ལོ་གསུམ་རིང་དབང་བྱས།",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "དབང་བྱས"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ཨ་བི་མེ་ལེཁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:36:55.889987448Z",
+  "model": "glm-5.3"
+}

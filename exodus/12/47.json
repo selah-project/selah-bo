@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡི་ཤེ་ར་ཨེལ་གི་འདུས་ཚོགས་ཡོངས་ཀྱིས་⟨את⟩དེ་སྒྲུབ་དགོས།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཡོངས"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "འདུས་ཚོགས"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་ཤེ་ར་ཨེལ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "སྒྲུབ་དགོས"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "དེ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:39:09.777823448Z",
+  "model": "glm-5.3"
+}

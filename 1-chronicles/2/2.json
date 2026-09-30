@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "དན། ཡོ་སེཕ། བིན་ཡ་མིན། ནབ་ཐ་ལི། གད། ཨ་ཤེར་རོ།",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "དན"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "དང་བིན་ཡ་མིན"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ནབ་ཐ་ལི"
+    },
+    {
+      "surface": "སגד",
+      "gloss": "གད"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "དང་ཨ་ཤེར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:24.914567012Z",
+  "model": "glm-5.3"
+}

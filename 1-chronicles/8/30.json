@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཁོའི་བུ་བག་ཆེན་ཨབ་དོན་དང་། ཙུར་དང་། ཀི་ཤ་དང་། བ་ཨལ་དང་། ན་དབ་བོ།",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "དང་ཁོའི་བུ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "བག་ཆེན"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ཨབ་དོན"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "དང་ཙུར"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "དང་ཀི་ཤ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "དང་བ་ཨལ"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "དང་ན་དབ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:10.503192906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "མིཀ་མས་ཀྱི་མི་རྣམས། བརྒྱ་དང་ཉི་ཤུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་རྣམས"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "མིཀ་མས"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:12.270470693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཡི་དི་ཨེལ་གྱི་བུ་ཤིམ་རི་དང་ དེའི་སྤུན་ཟླ་ཡོ་ཧ་ ཏི་ཙི་བ།",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "ཡི་དི་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ཤིམ་རི"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "ཡོ་ཧ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "སྤུན་ཟླ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "ཏི་ཙི་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:52.347990317Z",
+  "model": "glm-5.3"
+}

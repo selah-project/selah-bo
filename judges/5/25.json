@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཆུ་⟨ཁོས⟩ཞུས་པ་ན་འོ་མ་བྱིན། སྣོད་ཆེན་པོའི་ནང་དུ་ཞོ་ཕུལ།",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ཞུས"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "འོ་མ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "བྱིན"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "སྣོད་ཀྱི་ནང"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "ཕུལ"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "ཞོ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:19:35.105852486Z",
+  "model": "glm-5.3"
+}

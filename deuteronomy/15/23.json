@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "འོན་ཀྱང་⟨את⟩དེའི་ཁྲག་ནི་ཟ་མི་བྱ་ཞིང་ས་གཞིའི་སྟེང་དུ་ཆུ་བཞིན་དུ་བླུགས་པར་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "འོན་ཀྱང་"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "དེའི་ཁྲག"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "དེའི་ཁྲག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ཟ་བྱ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞིའི"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "བླུགས་པར་བྱ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ཆུ་བཞིན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:29.510901362Z",
+  "model": "glm-5.3"
+}

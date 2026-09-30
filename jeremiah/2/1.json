@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ངའི་དྲུང་དུ་འོངས་ཞེས་ཟེར།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངའི་དྲུང་དུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:02:05.406408274Z",
+  "model": "glm-5.3"
+}

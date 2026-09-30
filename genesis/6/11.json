@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ས་གཞི་ཨེ་ལོ་ཧིམ་གྱི་སྤྱན་སྔར་རུལ་ཞིང་། ས་གཞི་གནོད་འཚེས་ཁེངས་སོ།",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "རུལ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ཁེངས"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "གནོད་འཚེ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:09.694657978Z",
+  "model": "glm-5.3"
+}

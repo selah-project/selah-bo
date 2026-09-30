@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཁྱོད་ཀྱིས་གཡོགས་པར་བྱེད་པའི་གོས་ཀྱི་ཟུར་བཞིའི་སྟེང་དུ་ཐག་སྣེ་བྱེད་པར་གྱིས།",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ཐག་སྣེ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "བྱེད"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ཀྱིས"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "བཞི"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "ཟུར"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "གོས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "གཡོགས་པར་བྱེད"
+    },
+    {
+      "surface": "בה",
+      "gloss": "དེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:52:54.429173680Z",
+  "model": "glm-5.3"
+}

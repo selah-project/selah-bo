@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "ཧི་ཛ་ཀི་ཡ་ཧུས་ཡ་ཧ་ཝེ་ལ་གསོལ་བ་བཏབ་སྟེ་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "གསོལ་བ་བཏབ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ཧི་ཛ་ཀི་ཡ་ཧུ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:50:26.913094504Z",
+  "model": "glm-5.3"
+}

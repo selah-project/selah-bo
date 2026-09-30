@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "བེ་ལ་ཨ་ཛ་ཛའི་བུ། ཤེ་མའི་བུ། ཡོ་ཨེལ་གྱི་བུ། ཁོ་ཨ་རོ་ཨེར་དང་ནེ་བོ་དང་བ་ཨལ་མེ་ཨོན་ལ་ཐུག་པར་གནས།",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "བེ་ལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "ཨ་ཛ་ཛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ཤེ་མ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ཡོ་ཨེལ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "ཨ་རོ་ཨེར"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ལ་ཐུག་པར"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ནེ་བོ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "བ་ཨལ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "མེ་ཨོན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:07.666818110Z",
+  "model": "glm-5.3"
+}

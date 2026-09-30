@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "དང་རེ་ཀེམ་དང་ཡིར་ཕེ་ཨེལ་དང་ཏ་ར་ལ་ཧ།",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "དང་རེ་ཀེམ"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "དང་ཡིར་ཕེ་ཨེལ"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "དང་ཏ་ར་ལ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:05.830387473Z",
+  "model": "glm-5.3"
+}

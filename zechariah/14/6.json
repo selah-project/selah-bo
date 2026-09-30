@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དེའི་ཉིན་འོད་⟨ཡོད⟩མི་སྟེ། གསལ་བ་མིན་པར་འཁྱགས་⟨འཁེངས⟩ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེའི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན་པར"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "אור",
+      "gloss": "འོད"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "གསལ་བ"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "འཁྱགས་འཁེངས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:17:52.467249129Z",
+  "model": "glm-5.3"
+}

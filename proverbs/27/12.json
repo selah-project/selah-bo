@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "མཁས་པས་ངན་པ་མཐོང་ནས་སྦས། གླེན་པ་རྣམས་མདུན་དུ་ཕྱིན་ནས་ཆད་པ་ཕོག",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "མཁས་པས"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "སྦས"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "གླེན་པ་རྣམས"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "མདུན་དུ་ཕྱིན"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "ཆད་པ་ཕོག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:47.509285423Z",
+  "model": "glm-5.3"
+}

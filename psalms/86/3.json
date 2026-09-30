@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 86,
+  "translation": "ཨ་དོ་ནའི་ང་ལ་བརྩེ་གདུང་མཛོད། ང་ཉིན་ཀུན་ཁྱེད་ལ་འབོད་པས་སོ།",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ང་ལ་བརྩེ་གདུང་མཛོད"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ཨ་དོ་ནའི"
+    },
+    {
+      "surface": "כי",
+      "gloss": "པས"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ཁྱེད་ལ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "འབོད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ཉིན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:38:59.206900424Z",
+  "model": "glm-5.3"
+}

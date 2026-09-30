@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོའི་ཁ་རྡུལ་ལ་སྦྱར་བར་བྱེད། གལ་སྲིད་རེ་བ་ཞིག་ཡོད་སྲིད།",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "སྦྱར་བར་བྱེད"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "རྡུལ་ལ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ཁོའི་ཁ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "གལ་སྲིད"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "རེ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:23.679717794Z",
+  "model": "glm-5.3"
+}

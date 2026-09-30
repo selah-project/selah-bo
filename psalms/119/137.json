@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 119,
+  "translation": "ཁྱོད་ཙེ་དེག་⟨is⟩ཡ་ཧ་ཝེ་ ཁྱོད་ཀྱི་ཁྲིམས་དག་⟨are⟩དྲང་བོ།",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "དྲང་བོ"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ཁྱོད་ཀྱི་ཁྲིམས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:46:59.879692212Z",
+  "model": "glm-5.3"
+}

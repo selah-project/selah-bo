@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ལེ་ཝིའི་བུ་ཚ་དག་སྟེ། གེ་རེ་ཤོམ་དང་། ཀེ་ཧATH་…",
+  "tokens": [],
+  "timestamp": "2026-09-30T13:54:41.058898479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 46,
+  "translation": "དན་གྱི་བུ་ཚ་ནི་ཧུ་ཤིམ་མོ། །",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "དན"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ཧུ་ཤིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:28:34.636293123Z",
+  "model": "glm-5.3"
+}

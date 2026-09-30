@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "རླངས་པ་རླངས་པ་རྣམས་ཀྱི་རླངས་པ། ཀོ་ཧེ་ལེད་ཀྱིས་ཞེས་སྨྲས། ཐམས་ཅད་རླངས་པའོ། །",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "རླངས་པ"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "རླངས་པ་རྣམས"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ཞེས་སྨྲས"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "ཀོ་ཧེ་ལེད"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "རླངས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:29:26.674917373Z",
+  "model": "glm-5.3"
+}

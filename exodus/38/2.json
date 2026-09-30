@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ཁོས་དེའི་ཟུར་བཞིའི་སྟེང་དུ་རྭ་དག་བཟོས་ཤིང་། རྭ་དག་དེ་ཉིད་ལས་⟨was⟩བྱུང་། ཁོས་དེ་ལ་ཟངས་ཀྱིས་⟨את⟩གཡོགས།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "བཟོས"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "རྭ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "བཞི"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "ཟུར"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "དེ་ལས"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨was⟩"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "རྭ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "གཡོགས"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "དེ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ཟངས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:27:48.544888014Z",
+  "model": "glm-5.3"
+}

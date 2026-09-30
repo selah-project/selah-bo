@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཨེ་ས་ཝུས་གསུངས། ངའི་སྤུན་ལགས། ང་ལ་མང་པོ་ཡོད། ཁྱོད་ལ་ཡོད་པ་དེ་ཁྱོད་ལ་གནང་བར་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ཨེ་ས་ཝུས"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "མང་པོ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ངའི་སྤུན་ལགས"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:19:13.223808213Z",
+  "model": "glm-5.3"
+}

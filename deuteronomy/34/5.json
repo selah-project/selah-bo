@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "ཡ་ཧ་ཝེའི་ཞབས་འབངས་མོ་ཤེ་ཡ་ཧ་ཝེའི་⟨ཞལ་⟩བཀའ་བཞིན་མོ་ཨབ་ཀྱི་ས་གཞི་དེ་རུ་ཚེ་ལས་འདས་སོ།",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ཚེ་ལས་འདས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེ་རུ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ཞབས་འབངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞི་ན"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "མོ་ཨབ"
+    },
+    {
+      "surface": "על",
+      "gloss": "བཞིན"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ཞལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:02:47.534146042Z",
+  "model": "glm-5.3"
+}

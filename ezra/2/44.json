@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཀེ་རོ་སའི་བུ་ཚ་དང་སི་ཡ་ཧའི་བུ་ཚ་དང་ཕ་དོན་གྱི་བུ་ཚ་དག་གོ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "ཀེ་རོ་ས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "སི་ཡ་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "ཕ་དོན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:41:39.387444545Z",
+  "model": "glm-5.3"
+}

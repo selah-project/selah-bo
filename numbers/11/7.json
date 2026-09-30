@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "མ་ན་ནི་ཨུ་ཏའི་ས་བོན་ལྟ་བུ་སྟེ་དེའི་མདོག་ནི་བེ་དལ་ཁའི་མདོག་ལྟ་བུའོ།",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "མ་ན"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ས་བོན་ལྟ་བུ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ཨུ་ཏ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "དེའི་མདོག"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "ལྟ་བུ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "བེ་དལ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:17.617589741Z",
+  "model": "glm-5.3"
+}

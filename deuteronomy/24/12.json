@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "གལ་ཏེ་མི་དེ་དབུལ་བོ་ཡིན་ན་ཁོའི་གཏའ་མ་དང་མཉམ་དུ་མ་ཉལ།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "עני",
+      "gloss": "དབུལ་བོ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ཉལ"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ཁོའི་གཏའ་མ་དང་མཉམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:55:33.803074639Z",
+  "model": "glm-5.3"
+}

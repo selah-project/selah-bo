@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "འོན་ཀྱང་འདི་དག་གིས་ཀྱང་ཁྱེད་ཚོས་ང་ལ་མ་ཉན་པར་ང་དང་ངོ་ལོག་ཏེ་སྤྱོད་ན།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "འོན་ཀྱང…ན"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "འདི་དག་གིས་ཀྱང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "སྤྱོད"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ང་དང"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ངོ་ལོག་ཏེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:16:18.369280070Z",
+  "model": "glm-5.3"
+}

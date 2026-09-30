@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཀི་ཤིལ་གྱི་སྐོར་ལ། ཀི་ཤིལ་གྱི་བུ་ནི་ཡེ་ར་ཁ་མེལ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "ཀི་ཤིལ་གྱི་སྐོར་ལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "ཀི་ཤིལ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ཡེ་ར་ཁ་མེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:03:45.444809333Z",
+  "model": "glm-5.3"
+}

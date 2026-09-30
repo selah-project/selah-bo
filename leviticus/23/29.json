@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "གང་ཞིག་རང་ཉིན་འདིར་ནེ་ཕེ་ཤ་མ་མནར་ན་མི་རིགས་ནས་གཅོད་པར་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གང་ཞིག"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "མནར"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "རང"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "གཅོད་པར་འགྱུར"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "མི་རིགས་ནས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:14:02.402929402Z",
+  "model": "glm-5.3"
+}

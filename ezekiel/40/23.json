@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 40:23",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "ནང་གི་ར་བའི་སྒོ་⟨is⟩མདུན་⟨the⟩སྒོ་བྱང་དང་ཤར་ལ། འཇལ་བ་སྒོ་ནས་སྒོ་ལ་བརྒྱ་ཨ་མ།",
+  "tokens": [
+    {
+      "surface": "ושער",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ར་བ"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ནང"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "མདུན"
+    },
+    {
+      "surface": "השער",
+      "gloss": "⟨the⟩སྒོ"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "བྱང"
+    },
+    {
+      "surface": "ולקדים",
+      "gloss": "ཤར"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "འཇལ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "སྒོ་ནས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ཨ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:51:39.014085092Z",
+  "model": "glm-5.3"
+}

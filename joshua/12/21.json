@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཏ་ཨ་ན་ཀའི་རྒྱལ་པོ་གཅིག མི་གིད་དོའི་རྒྱལ་པོ་གཅིག",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ཏ་ཨ་ན་ཀ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "མི་གིད་དོ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:32.345830221Z",
+  "model": "glm-5.3"
+}

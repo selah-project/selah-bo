@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "བདག་གིས་ཁྱེད་ཤེས་པའི་ཉིན་ནས་⟨את⟩ཁྱེད་ཡ་ཧ་ཝེ་ལ་ངོ་ལོག་པར་གནས་སོ།",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "ངོ་ལོག་པ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ཉིན་ནས"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "བདག་གིས་ཤེས་པའི"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ཁྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:47:17.762658622Z",
+  "model": "glm-5.3"
+}

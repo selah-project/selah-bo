@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ད་ལྟ་ངའི་མིག་ཁ་ཕྱེ་ཞིང་ངའི་རྣ་བ་གསན་པར་གནས་སྲིད་དོ། གནས་འདིའི་གསོལ་བ་ལ།",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ད་ལྟ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ངའི་མིག"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "ཁ་ཕྱེ"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ངའི་རྣ་བ"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ཉན་པ"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "གསོལ་བ་ལ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:11:03.244311620Z",
+  "model": "glm-5.3"
+}

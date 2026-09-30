@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཤེ་ར་ཡ་ཧ་དང་ཨ་ཙ་ར་ཡ་ཧ་དང་ཡི་ར་མི་ཡ་ཧའོ།",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "ཤེ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ཨ་ཙ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ཡི་ར་མི་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:54.721795679Z",
+  "model": "glm-5.3"
+}

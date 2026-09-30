@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 94,
+  "translation": "རྣ་བ་བཙུགས་པ་པོས་⟨ཁོས⟩མི་གོའམ། ཡང་མིག་གཟུགས་སུ་བྱེད་པ་པོས་མི་ལྟའམ།",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "བཙུགས་པ་པོ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "རྣ་བ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ཡིན་ནམ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "གོ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "གཟུགས་སུ་བྱེད"
+    },
+    {
+      "surface": "עין",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ཡིན་ནམ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ལྟ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:39:52.317295323Z",
+  "model": "glm-5.3"
+}

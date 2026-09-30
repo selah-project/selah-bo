@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ང་ལ་བྱུང་ཞིང་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:39:47.296147010Z",
+  "model": "glm-5.3"
+}

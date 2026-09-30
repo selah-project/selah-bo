@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཨེལ་ཀ་ན་ཧ་ཁོའི་བུ། དང་ཨེ་བི་ཡ་ས་ཕ་ཁོའི་བུ། དང་ཨ་སི་ར་ཁོའི་བུ།",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ཨེལ་ཀ་ན་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "དང་ཨེ་བི་ཡ་ས་ཕ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "དང་ཨ་སི་ར"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:41.500065069Z",
+  "model": "glm-5.3"
+}

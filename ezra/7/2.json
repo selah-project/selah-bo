@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཤ་ལུམ་གྱི་བུ་དང་ཙ་དོཀ་གྱི་བུ་དང་ཨ་ཧི་ཏུབ་གྱི་བུ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ཤ་ལུམ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ཙ་དོཀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ཨ་ཧི་ཏུབ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:43:17.421443806Z",
+  "model": "glm-5.3"
+}

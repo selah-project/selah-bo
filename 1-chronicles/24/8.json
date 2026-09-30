@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "གསུམ་པ་ཧ་རིམ་ལའོ། བཞི་པ་ཤོ་རིམ་ལའོ།",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ཧ་རིམ་ལ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "གསུམ་པ"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "ཤོ་རིམ་ལ"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "བཞི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:03:21.814063027Z",
+  "model": "glm-5.3"
+}

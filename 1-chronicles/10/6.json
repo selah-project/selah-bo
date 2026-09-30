@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཤ་ཨོལ་ཤི་ཞིང་དེའི་བུ་གསུམ་དང་ཁོའི་ཁྱིམ་ཐམས་ཅད་ཀྱང་མཉམ་དུ་ཤིའོ།",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ཤི"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ཤ་ཨོལ"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ཁྱིམ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "མཉམ་དུ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ཤི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:10.342306843Z",
+  "model": "glm-5.3"
+}

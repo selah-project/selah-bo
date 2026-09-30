@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "དང་བ་ལང་སུམ་ཅུ་སོ་དྲུག་སྟོང།",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "བ་ལང"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "וושלשים",
+      "gloss": "སུམ་ཅུ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:24.285421776Z",
+  "model": "glm-5.3"
+}

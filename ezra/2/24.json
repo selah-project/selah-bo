@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨཛ་མ་ཝེཐ་གྱི་བུ་ཚ་བཞི་བཅུ་རྩ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ཨཛ་མ་ཝེཐ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "རྩ་གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:39:42.670810148Z",
+  "model": "glm-5.3"
+}

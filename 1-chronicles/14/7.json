@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་ཨེ་ལི་ཤ་མ་དང་བ་ཨེ་ལི་ཡ་ད་དང་ཨེ་ལི་ཕ་ལེཏ།",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ཨེ་ལི་ཤ་མ"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "བ་ཨེ་ལི་ཡ་ད"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ཨེ་ལི་ཕ་ལེཏ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:34.809343220Z",
+  "model": "glm-5.3"
+}

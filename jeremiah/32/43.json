@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 32:43",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "དང་ ⟨the⟩ས་ཞིང་⟨will be bought⟩ ས་གཞི་འདིར། ཁྱེད་ཚོས་ཞེས་ སྨྲ་བ་ འདི་ ⟨is⟩ ས་སྟོང་ མི་མེད་ དང་ ཕྱུགས་མེད་པར། འདི་ ཀ་ཤི་དིམ་ གི་ ལག་ཏུ་ ⟨has been⟩ སྤྲད་ཟིན།",
+  "tokens": [
+    {
+      "surface": "ונקנה",
+      "gloss": "⟨will be bought⟩ ཉོ་བྱེད་པར་འགྱུར"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ས་ཞིང"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞིར"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ཁྱེད་ཚོས"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "སྨྲ་བ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ས་སྟོང"
+    },
+    {
+      "surface": "היא",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "མེད་པར"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "དང་ཕྱུགས"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "སྤྲད་ཟིན"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ལག་ཏུ"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "ཀ་ཤི་དིམ་གི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:50:44.702665876Z",
+  "model": "glm-5.3"
+}

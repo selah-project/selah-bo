@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "གད་ཀྱི་ཚོ་བ་ནས་གེ་ཨུ་ཨེལ་མ་ཀིའི་བུ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ཚོ་བ་ནས"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གད"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "གེ་ཨུ་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "མ་ཀི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:37.298985317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "དོན་འདི་སྡིག་པར་གྱུར་ མི་མང་གཅིག་གི་མདུན་དུ་དན་བར་ཕྱིན",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "དོན"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "སྡིག་པར"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་མང"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "דן",
+      "gloss": "དན"
+    }
+  ],
+  "timestamp": "2026-09-30T10:14:20.865585035Z",
+  "model": "glm-5.3"
+}

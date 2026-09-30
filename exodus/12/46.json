@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཁང་པ་གཅིག་གི་ནང་ཟ་དགོས། ཤ་དེ་ཁང་པ་ནས་ཕྱི་རུ་འདོན་མི་ཆོག རུས་པ་གཅིག་ཀྱང་བཅག་མི་ཆོག།",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "ཁང་པའི་ནང་"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ཟ་དགོས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "འདོན"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ཕྱི་རུ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "དང་རུས་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "བཅག"
+    },
+    {
+      "surface": "בו",
+      "gloss": "དེའི་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:39:09.777698421Z",
+  "model": "glm-5.3"
+}

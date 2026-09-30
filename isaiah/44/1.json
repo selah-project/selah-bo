@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 44,
+  "translation": "ད་ནི་ཉོན། ཡ་ཨ་ཀོབ་ངའི་བྲན་པོ། ཡི་སི་ར་ཨེལ་ངས་⟨ཁོ་⟩བདམས།",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ད་ནི"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ངའི་བྲན་པོ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ངས་བདམས"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ཁོ་⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T10:53:26.559211210Z",
+  "model": "glm-5.3"
+}

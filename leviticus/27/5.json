@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 27:5",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ལོ་ལྔ་ནས་ལོ་ཉི་ཤུའི་བར་དུ་ཕོའི་རིན་ཐང་ཤེ་ཀེལ་ཉི་ཤུ་དང་མོའི་རིན་ཐང་ཤེ་ཀེལ་བཅུ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ལོ་"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ལོ་"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "རིན་ཐང་"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "ཕོ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "ཤེ་ཀེལ"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "མོ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "ཤེ་ཀེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:17:19.378984405Z",
+  "model": "glm-5.3"
+}

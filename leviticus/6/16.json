@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "སྔགས་འཆང་གི་མིན་ཁ་མཐའ་དག་ཡོངས་སུ་〈བདུག་པར་བྱ་〉། ཟ་མི་རུང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "མཐའ་དག"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "མིན་ཁ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "སྔགས་འཆང་"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ཡོངས་སུ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "〈བདུག་པར་བྱ་〉"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་རུང"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ཟ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:47.639682693Z",
+  "model": "glm-5.3"
+}

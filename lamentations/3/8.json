@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཐ་ན་ངས་འོ་དོད་འབོད་ཅིང་རོགས་སྐྱབས་འཚོལ་ཡང་། ཁོང་གིས་ངའི་གསོལ་བ་བཀག",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཐ་ན"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "འོ་དོད་འབོད"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "རོགས་སྐྱབས་འཚོལ"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "བཀག"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ངའི་གསོལ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:49.867558665Z",
+  "model": "glm-5.3"
+}

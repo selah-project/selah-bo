@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 8:26",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཡེ་ཧོ་ཤུ་ཨས་ཀི་དོན་གྱིས་བརྐྱངས་པའི་ལག་པ་མ་ཕྱིར་བསྒྱུར་⟨he⟩ཨ་ཡིའི་གནས་པོ་⟨את⟩ ཐམས་ཅད་གཏན་བརླག་⟨until⟩མན་ཏེ།",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "ཡེ་ཧོ་ཤུ་ཨ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "ཕྱིར་བསྒྱུར"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨he⟩"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "བརྐྱངས"
+    },
+    {
+      "surface": "בכידון",
+      "gloss": "ཀི་དོན་གྱིས"
+    },
+    {
+      "surface": "עד",
+      "gloss": "མན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨until⟩"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "གཏན་བརླག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གནས་པོ་ཐམས་ཅད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "གནས་པོ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ཨ་ཡི"
+    }
+  ],
+  "timestamp": "2026-09-30T09:07:05.313575869Z",
+  "model": "glm-5.3"
+}

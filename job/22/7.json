@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "དུབ་པ་ལ་ཆུ་མི་སྦྱིན་ལ། ལྟོགས་པ་ལས་བག་ལེབ་འགོག་གོ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "དུབ་པ་ལ"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "སྦྱིན"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "ལྟོགས་པ་ལས"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "འགོག"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "བག་ལེབ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:09:00.008226483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཡིཛ་རེ་ཨེལ་ ཡོཀ་དེ་ཨམ་ དང་ཛ་ནོ་ཨ་ཁ།",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "ཡིཛ་རེ་ཨེལ"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "ཡོཀ་དེ་ཨམ"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "ཛ་ནོ་ཨ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:19.607469015Z",
+  "model": "glm-5.3"
+}

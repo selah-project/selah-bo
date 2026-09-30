@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "དང་⟨את⟩ཧི་ལེན་དང་⟨את⟩དེའི་ས་ཐང་ དང་⟨את⟩དེ་བིར་དང་⟨את⟩དེའི་ས་ཐང་།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧི་ལེན"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "ཧི་ལེན"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ས་ཐང"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "དེའི་ས་ཐང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "དེ་བིར"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "དེ་བིར"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ས་ཐང"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "དེའི་ས་ཐང"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:20.820245667Z",
+  "model": "glm-5.3"
+}

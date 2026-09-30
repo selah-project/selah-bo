@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཁོང་ལངས་ནས་ཕེབས་པ་དང་། ཡ་ཧོ་ན་ཐན་གྲོང་ཁྱེར་དུ་འབྱོར།",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ལངས"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ཕེབས"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ཡ་ཧོ་ན་ཐན"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འབྱོར"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "གྲོང་ཁྱེར་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:43:11.070812109Z",
+  "model": "glm-5.3"
+}

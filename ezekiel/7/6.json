@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མཐའ་འོངས། མཐའ་འོངས། མཐའ་དེ་ཁྱོད་ལ་གཉིད་ལས་སད། ལྟོས། དེ་འོངས།",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "མཐའ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "མཐའ་དེ"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "གཉིད་ལས་སད"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "באה",
+      "gloss": "འོངས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:32:50.385555356Z",
+  "model": "glm-5.3"
+}

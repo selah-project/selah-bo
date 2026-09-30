@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "མི་དྲག་པོ་རྣམས་ལ་ཞི་བདེ་མེད་ཅེས་ཡ་ཧ་ཝེས་གསུང་།",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ཞི་བདེ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "མི་དྲག་པོ་རྣམས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:47:51.997017307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 18:19",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "དང་། ངའི་མིང་གིས་གང་སྨྲ་བའི་ངའི་ཚིག་ལ་མི་ཉན་པའི་མི་དེ་ལ་ང་རང་གིས་རྩད་གཅོད་བྱའོ།།",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "དང་།"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "མི་དེ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "སྨྲ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ངའི་མིང་གིས"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང་རང་"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "རྩད་གཅོད་བྱ"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "ཁོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:52:46.194018132Z",
+  "model": "glm-5.3"
+}

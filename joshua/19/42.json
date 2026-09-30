@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དང་ཤ་ཨ་ལ་བིན་དང་ཨ་ཡ་ལོན་དང་ཡི་ཐ་ལ།",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ཤ་ཨ་ལ་བིན"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ཨ་ཡ་ལོན"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "ཡི་ཐ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:14:43.669657994Z",
+  "model": "glm-5.3"
+}

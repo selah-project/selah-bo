@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཡ་ཧ་ཝེ་ཙེ་བ་ཨོད་ཀྱི་ཚིག་བྱུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ཙེ་བ་ཨོད"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:16:37.603117775Z",
+  "model": "glm-5.3"
+}

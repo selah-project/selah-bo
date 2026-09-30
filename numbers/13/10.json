@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཛེ་བུ་ལུན་གྱི་ཚོ་བ་ལས། སོ་དིའི་བུ་གད་དི་ཨེལ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ཚོ་བ་ལས"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ཛེ་བུ་ལུན"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "གད་དི་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "སོ་དི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:29.168521880Z",
+  "model": "glm-5.3"
+}

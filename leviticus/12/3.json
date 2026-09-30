@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཉིན་མ་བརྒྱད་པ་ལ་ཁོའི་པགས་པའི་མཚན་མའི་པགས་པ་གཅོད་དགོས།",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ཉིན་མ་ལ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "བརྒྱད་པ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "གཅོད་དགོས"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "པགས་པ"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ཁོའི་མཚན་མའི་པགས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:03:16.967768298Z",
+  "model": "glm-5.3"
+}

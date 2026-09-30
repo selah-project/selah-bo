@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡ་ཧ་ཝེ་གིས་ང་ལ་གསུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ་"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:42:32.724069089Z",
+  "model": "glm-5.3"
+}

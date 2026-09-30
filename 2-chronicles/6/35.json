@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ནམ་མཁའ་ལས་ཁོ་ཚོའི་⟨את⟩ གསོལ་བ་དང་⟨את⟩ཞུ་བ་གསན་ཏེ། ཁོ་ཚོའི་ཁྲིམས་མཛད་འཚལ།",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "གསན"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ནམ་མཁའ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གསོལ་བ"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "གསོལ་བ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཞུ་བ"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ཞུ་བ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "མཛད"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ཁྲིམས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:07:46.629235921Z",
+  "model": "glm-5.3"
+}

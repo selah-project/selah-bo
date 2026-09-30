@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡོ་ཧ་ནན་བརྒྱད་པ། ཨེལ་ཛ་བད་དགུ་པ།",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "ཡོ་ཧ་ནན"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "བརྒྱད་པ"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "ཨེལ་ཛ་བད"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "དགུ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:51.351776872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མི་ཞིག་གིས་པང་པར་མེ་ཉར་ན་དེའི་གོས་མི་འཚིག་པར་འགྱུར་རམ།",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "པང་པར་འཛིན་ནམ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "པང་པར"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "དང་གོས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི…"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "འཚིག་བར་འགྱུར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:00.101533513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 3:21",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཧ་ནན་ཡ་ཧའི་བུ་<PLACE>པེ་ལ་ཏ་ཡ་ཧ<PLACE>དང་ཡི་ཤ་ཡ་ཧ<PLACE>རེ་ཕ་ཡ་ཧའི་བུ་<PLACE>ཨར་ནན་གྱི་བུ་<PLACE>ཨོ་བ་ད་ཡ་ཧའི་བུ་<PLACE>ཤེ་ཀན་ཡ་ཧའི་བུ་<PLACE>ཚ་རྒྱུད་<PLACE>ཀྱི་ཚིག",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "དང་...གི་བུ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ཧ་ནན་ཡ་ཧ"
+    },
+    {
+      "surface": "פלטיה",
+      "gloss": "པེ་ལ་ཏ་ཡ་ཧ"
+    },
+    {
+      "surface": "וישעיה",
+      "gloss": "དང་ཡི་ཤ་ཡ་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "...གི་བུ"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "རེ་ཕ་ཡ་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "...གི་བུ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ཨར་ནན"
+    },
+    {
+      "surface": "בני",
+      "gloss": "...གི་བུ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ཨོ་བ་ད་ཡ་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "...གི་བུ"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "ཤེ་ཀན་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:51.414730983Z",
+  "model": "glm-5.3"
+}

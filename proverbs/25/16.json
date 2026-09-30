@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "སྦྲང་རྩི་རྙེད་ན་ཁྱོད་ཀྱི་ཚོད་ཟོ། འགྲངས་དོགས་ནས་སྐྱུགས་གཞིར།",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "སྦྲང་རྩི"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "རྙེད"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ཟོ"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "ཁྱོད་ཀྱི་ཚོད"
+    },
+    {
+      "surface": "פן",
+      "gloss": "དོགས་ནས་མ་གཏོགས"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "འགྲངས"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "སྐྱུགས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:07.087062354Z",
+  "model": "glm-5.3"
+}

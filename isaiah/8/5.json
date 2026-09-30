@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཡ་ཧ་ཝེ་གིས་ང་ལ་ཡང་བསྐྱར་གསུང་ཞིང་འདི་སྐད་དུ་གསུང་བ་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ཡང་བསྐྱར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "གཞན་ཡང"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:39:44.761035278Z",
+  "model": "glm-5.3"
+}

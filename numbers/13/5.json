@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཤི་མོ་ནའི་སྡེ་ལས་ཧོ་རིའི་བུ་ཤ་ཕཏ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "སྡེ་ལས"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ཤི་མོ་ན"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ཤ་ཕཏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ཧོ་རི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:30.682778800Z",
+  "model": "glm-5.3"
+}

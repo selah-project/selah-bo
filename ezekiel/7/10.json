@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ལྟོས། ཉིན་མོ་ལྟོས། དེ་འོངས། ཐོ་རངས་ཐོན། དབྱུག་པ་ཁ་འབུས། ང་རྒྱལ་མེ་ཏོག་⟨བཞད⟩།",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ཉིན་མོ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "באה",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ཐོན"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "ཐོ་རངས"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "ཁ་འབུས"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "དབྱུག་པ"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "མེ་ཏོག་བཞད"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "ང་རྒྱལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:32:37.782421608Z",
+  "model": "glm-5.3"
+}

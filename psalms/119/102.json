@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 119,
+  "translation": "ཁྱོད་ཀྱི་ཁྲིམས་ལས་ང་མ་འདས་ཏེ། ཁྱོད་ཀྱིས་ང་ལ་བསླབས་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "ཁྲིམས་ལས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "འདས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད་ཀྱིས"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "བསླབས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:46:18.434618164Z",
+  "model": "glm-5.3"
+}

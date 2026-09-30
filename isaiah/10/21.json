@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ལྷག་མ་⟨སླར⟩ལོག་པར་འགྱུར། ཡ་ཨ་ཀོབ་ཀྱི་ལྷག་མ་དཔའ་བོའི་ཨེལ་ལའོ།",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "ལྷག་མ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ལོག་པར་འགྱུར"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ལྷག་མ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "དཔའ་བོ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:41:58.262825554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "ཁྱོད་ཀྱི་གྲོགས་ཀྱི་དགོངས་ལ་རྫུན་གྱི་དཔང་པོ་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ལན་འདེབས"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ཁྱོད་ཀྱི་གྲོགས་ལ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "དཔང་པོ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "རྫུན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:41:15.796864721Z",
+  "model": "glm-5.3"
+}

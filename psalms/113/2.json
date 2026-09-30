@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 113,
+  "translation": "ཡ་ཧ་ཝེའི་མཚན་བསྔགས་པར་གྱུར། ད་ནས་མཐའ་མེད་ཀྱི་བར་དུ།",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མཚན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "བསྔགས་པར"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ད་ནས"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ཀྱི་བར་དུ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "མཐའ་མེད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:44:02.579784642Z",
+  "model": "glm-5.3"
+}

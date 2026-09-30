@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཁྱོད་ནི་ཡོངས་སུ་མཛེས་སྡུག་ལྡན། ངའི་གྲོགས་མོ། ཁྱོད་ལ་སྐྱོན་ཅི་ཡང་མེད་དོ།",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "ཁྱོད་ཡོངས་སུ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "མཛེས་སྡུག་ལྡན"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ངའི་གྲོགས་མོ"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "སྐྱོན"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ཁྱོད་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:18:03.806902331Z",
+  "model": "glm-5.3"
+}

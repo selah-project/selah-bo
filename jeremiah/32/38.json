@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "ཁོང་ཚོ་ངའི་མི་མང་དུ་འགྱུར་ལ། ང་ཁོང་ཚོའི་ཨེ་ལོ་ཧིམ་དུ་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ངའི"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "མི་མང"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "དང་ང"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ཁོང་ཚོའི"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:50:40.266956042Z",
+  "model": "glm-5.3"
+}

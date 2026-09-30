@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ངས་ངའི་ནང་དུ་གཏམ་སྨྲ་བའི་ཕོ་ཉ་དེ་ལ་ཞུས། ཁོང་ཚོས་⟨את⟩ཨེ་ཕ་གར་འཁྱེར་འགྲོ་བ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ཞུས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ཕོ་ཉ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "གཏམ་སྨྲ་བ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ངའི་ནང"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "གར"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ཁོང་ཚོ"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "འཁྱེར"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨེ་ཕ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ཨེ་ཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:15:09.019728206Z",
+  "model": "glm-5.3"
+}

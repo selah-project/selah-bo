@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ཁྱེད་ཚོས་ཡ་ཧ་ཝེས་བ་བེལ་དུ་ང་ཚོར་ན་བི་བསྐོས་སོ་ཞེས་སྨྲས་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "བསྐོས"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ང་ཚོར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "ན་བི"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "བ་བེལ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:17:40.610755503Z",
+  "model": "glm-5.3"
+}

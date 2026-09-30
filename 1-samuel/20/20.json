@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "⟨and⟩ང་ ཨེ་ཛེལ་གྱི་འགྲམ་དུ་མདའ་གསུམ་ཟུར་དུ་འཕེན་ དམིགས་བྱར་འཕེན་ཁུལ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "མདའ"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ཟུར་དུ"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "འཕེན"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "གཏོང"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་རང་གི"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "དམིགས་བྱར"
+    }
+  ],
+  "timestamp": "2026-09-30T09:41:38.008296380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཉི་མ་ཡང་མཐོང་བ་མེད་ལ་ཤེས་པ་ཡང་མེད། འདི་ལ་དེ་ལས་ལྷག་པའི་ངལ་གསོ་ཡོད།",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ཡང་"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ཉི་མ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "མཐོང་བ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ཤེས་པ་ཡང་མེད"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ངལ་གསོ"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "འདི་ལ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "དེ་ལས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:00.094234458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "དང་ཨ་ཛ་ར་ཡ་ཧ་དང་ཨེ་ཛ་ར་དང་མ་ཤུ་ལམ།",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ཨ་ཛ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ཨེ་ཛ་ར"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "མ་ཤུ་ལམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:52.618575407Z",
+  "model": "glm-5.3"
+}

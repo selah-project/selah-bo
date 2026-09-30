@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 33:22",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "རི་ས་ཧ་ནས་འཕོས་ཏེ་ཀེ་ཧེ་ལ་ཐ་ལ་འདུག",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "འཕོས་ཏེ"
+    },
+    {
+      "surface": "מרסה",
+      "gloss": "རི་ས་ཧ་ནས"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "འདུག"
+    },
+    {
+      "surface": "בקהלתה",
+      "gloss": "ཀེ་ཧེ་ལ་ཐ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:13.338441962Z",
+  "model": "glm-5.3"
+}

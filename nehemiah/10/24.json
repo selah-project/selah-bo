@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཧོ་ཤེ་ཨ་ ཧ་ནན་ཡ་ཧ་ ཧ་ཤུབ།",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "ཧོ་ཤེ་ཨ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ཧ་ནན་ཡ་ཧ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ཧ་ཤུབ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:47.140057646Z",
+  "model": "glm-5.3"
+}

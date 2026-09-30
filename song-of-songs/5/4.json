@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ངའི་བྱམས་པས་ཧོལ་ཁུང་ནས་ལག་པ་བརྐྱངས་པ་ན། དེའི་ཚེ་ངའི་ནང་ཁོག་ཁོང་ལ་འཁྲུགས་སོ།",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "བྱམས་པ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "བརྐྱངས"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "החר",
+      "gloss": "ཧོལ་ཁུང་"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "དེའི་ཚེ་ངའི་ནང་ཁོག"
+    },
+    {
+      "surface": "המו",
+      "gloss": "འཁྲུགས"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ཁོང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:18:00.914612665Z",
+  "model": "glm-5.3"
+}

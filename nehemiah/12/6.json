@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཤེ་མ་ཡ་ཧ་དང་ཡོ་ཡ་རིབ་ · ཡེ་ད་ཡ་ཧ་།",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "ཤེ་མ་ཡ་ཧ"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "དང་ཡོ་ཡ་རིབ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ཡེ་ད་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:36.126659323Z",
+  "model": "glm-5.3"
+}

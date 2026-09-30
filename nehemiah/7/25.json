@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "གིབ་ཨོན་གྱི་བུ་ཚ་དགུ་བཅུ་ལྔ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "གིབ་ཨོན"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "དགུ་བཅུ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ལྔ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:41.682887457Z",
+  "model": "glm-5.3"
+}

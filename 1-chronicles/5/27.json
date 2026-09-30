@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ལེ་ཝིའི་བུ་རྣམས། གེར་ཤོན། ཀེ་ཧཏ། མེ་ར་རི།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ལེ་ཝི"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "གེར་ཤོན"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ཀེ་ཧཏ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "མེ་ར་རི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:26.863827301Z",
+  "model": "glm-5.3"
+}

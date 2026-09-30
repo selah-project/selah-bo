@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཉིན་མ་བདུན་འདས་པ་ན། ཆུ་ལོག་ཆེན་པོའི་ཆུ་དེ་ས་གཞིའི་སྟེང་དུ་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "བདུན་"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ཉིན་མ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ཆུ་ལོག་ཆེན་པོ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨བྱུང⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:22.230315631Z",
+  "model": "glm-5.3"
+}

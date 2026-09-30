@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཧ་རིམ། མེ་རེ་མོད། ཨོ་བ་ད་ཡ་ཧ།",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ཧ་རིམ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "མེ་རེ་མོད"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ཨོ་བ་ད་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:57.239255411Z",
+  "model": "glm-5.3"
+}

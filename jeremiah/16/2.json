@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "ཁྱོད་ཀྱིས་རང་ལ་བུད་མེད་མི་ལེན་པ་དང་། གནས་འདིར་ཁྱོད་ལ་བུ་དང་བུ་མོ་མི་འབྱུང་།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ཀྱིས་རང་ལ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་མི"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "དང་བུ་མོ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "གནས་སུ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:44.480351390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཉིན་མོ་ཐམས་ཅད་སྡུག་བསྔལ་ཞིང་ཁོའི་ལས་ཀ་ནི་ཁོང་ཁྲོའོ།། མཚན་མོ་ཡང་ཁོའི་སེམས་ཉལ་བ་མེད། འདི་ཡང་ཧེ་བེལ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཅ་ག་ཡང"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ཁོའི་ཉིན་མོ"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "སྡུག་བསྔལ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "དང་ཁོང་ཁྲོ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ཁོའི་ལས་ཀ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "མཚན་མོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ཉལ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ཁོའི་སེམས"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ཧེ་བེལ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:48.503003047Z",
+  "model": "glm-5.3"
+}

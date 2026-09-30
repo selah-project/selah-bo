@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "དེ་ལས་ཞོགས་ཀྱི་བར་དུ་མ་ལུ་ཞིག །ཞོགས་ཀྱི་བར་དུ་ལུས་པ་དེ་མེ་ལ་བསྲེག་གོ།",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "ལུ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "དེ་ལས"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ཞོགས"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "ལུས་པ་དེ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "དེ་ལས"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ཞོགས"
+    },
+    {
+      "surface": "באש",
+      "gloss": "མེ་ལ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "བསྲེག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:38:39.923060929Z",
+  "model": "glm-5.3"
+}

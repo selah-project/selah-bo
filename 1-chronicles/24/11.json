@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "དགུ་པ་ཡེ་ཤུ་ཨ་ལ། བཅུ་པ་ཤེ་ཀ་ནི་ཡ་ཧུ་ལ།",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "ཡེ་ཤུ་ཨ་ལ"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "དགུ་པ"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "ཤེ་ཀ་ནི་ཡ་ཧུ་ལ"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "བཅུ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:40.607383393Z",
+  "model": "glm-5.3"
+}

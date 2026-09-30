@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཧེ་ཙེ་རོ་ ཀར་མེལ་པ་དང་ ན་ཨ་རའེ་ ཨེ་ཛ་བའེ་ཡི་བུ།",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ཧེ་ཙེ་རོ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ཀར་མེལ་པ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ན་ཨ་རའེ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "ཨེ་ཛ་བའེ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:39.945550225Z",
+  "model": "glm-5.3"
+}

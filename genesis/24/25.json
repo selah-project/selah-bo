@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "མོས་ཁོ་ལ་ཡང་བཤད་པར། སོག་མ་དང་གཟན་མང་དུ་ངེད་དང་ལྷན་དུ་ཡོད་ལ། ཉལ་ས་ཡང་ཡོད་དོ། །",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "མོས་བཤད"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཀྱང"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "སོག་མ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཀྱང"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "གཟན"
+    },
+    {
+      "surface": "רב",
+      "gloss": "མང"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ངེད་དང་ལྷན"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཀྱང"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ས"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "ཉལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:13:58.790816221Z",
+  "model": "glm-5.3"
+}

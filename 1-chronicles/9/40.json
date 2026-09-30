@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཡེ་ཧོ་ན་ཐ་ན་གི་སྲས་མེ་རིབ་བ་ཨལ། མེ་རིབ་བ་ཨལ་གྱིས་⟨את⟩མི་ཀ་ཧ་བཙས།",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "སྲས"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ཡེ་ཧོ་ན་ཐ་ན"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "མེ་རིབ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "བ་ཨལ"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "མེ་རི"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "བ་ཨལ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མི་ཀ་ཧ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "མི་ཀ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:14.264931Z",
+  "model": "glm-5.3"
+}

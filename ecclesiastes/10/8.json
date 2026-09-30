@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "དོང་བྲུས་པ་དེ་ཉིད་དོང་ནང་དུ་ལྷུང་ངོ་། ར་བ་བཤིག་པ་ལ་སྦྲུལ་གྱིས་རྒྱབ་བོ།",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "དོང་བྲུས་པ"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "དོང"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ནང་དུ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ལྷུང་"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "བཤིག་པ་ལ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ར་བ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "རྒྱབ་"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "སྦྲུལ་གྱིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:26:56.987814771Z",
+  "model": "glm-5.3"
+}

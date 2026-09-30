@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 65:6",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 65,
+  "translation": "ཀྱེ་ངའི་མདུན་དུ་⟨འདི⟩བྲིས་ཟིན་ཏེ་ང་ཁ་རོག་ཏུ་མི་འདུག་སྟེ་ལན་འཇལ་ཏེ་ཁོ་ཚོའི་བྲང་ལ་ལན་འཇལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ཀྱེ"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "བྲིས"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "ཁ་རོག"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "ལན་འཇལ"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "ལན་འཇལ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "བྲང"
+    }
+  ],
+  "timestamp": "2026-09-30T11:01:24.878073990Z",
+  "model": "glm-5.3"
+}

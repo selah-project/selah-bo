@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ལྟོས། ད་ནི་ཨེལ་ལས་ཁྱོད་མཁས་ཤིང་། གསང་བ་གང་ཡང་ཁྱོད་ལ་སྦས་མེད།",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "ད་ནི་ཨེལ་ལས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང་ཡང་"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "གསང་བ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "ཁྱོད་ལ་སྦས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:46:15.999672050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཨེལ་ཀ་ན་ཧ་གི་བུ་ཡོ་ཨེལ་གྱི་བུ་ཨ་ཙ་རི་ཡ་ཧ་གི་བུ་ཙེ་ཕ་ནི་ཡ་ཧ་གི་བུ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ཨེལ་ཀ་ན་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ཡོ་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ཨ་ཙ་རི་ཡ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ཙེ་ཕ་ནི་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:12.511577712Z",
+  "model": "glm-5.3"
+}

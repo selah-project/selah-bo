@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཚིག་འདི་དག་ཐམས་ཅད་དང་མཐོང་སྣང་འདི་ཐམས་ཅད་ལྟར་ན་ཐན་གྱིས་ད་ཝིད་ལ་དེ་ལྟར་སྨྲས།",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ཐམས་ཅད་ལྟར"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "དང་ཐམས་ཅད་ལྟར"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "མཐོང་སྣང"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ན་ཐན"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ད་ཝིད"
+    }
+  ],
+  "timestamp": "2026-09-30T14:00:44.729950271Z",
+  "model": "glm-5.3"
+}

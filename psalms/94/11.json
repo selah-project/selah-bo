@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 94,
+  "translation": "ཡ་ཧ་ཝེ་མཁྱེན་ཏེ་མིའི་བསམ་བློ་དག དེ་དག་སྟོང་པ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "མཁྱེན"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "བསམ་བློ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "དེ་དག"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "སྟོང་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:39:52.317760223Z",
+  "model": "glm-5.3"
+}

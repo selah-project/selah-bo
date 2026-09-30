@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཀེ་རོས་ཀྱི་བུ་རྒྱུད། སི་ཡའི་བུ་རྒྱུད། པ་དོན་གྱི་བུ་རྒྱུད།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "ཀེ་རོས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "སི་ཡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "པ་དོན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:39.311616037Z",
+  "model": "glm-5.3"
+}

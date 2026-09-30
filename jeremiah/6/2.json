@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མཛེས་ཤིང་བདེ་མོ་དེ་ཙི་ཡོན་གྱི་བུ་མོ་ངས་རྩ་མེད་དུ་བཏང་ངོ་།།",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "མཛེས་ཤིང"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "བདེ་མོ"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "རྩ་མེད་དུ་བཏང་"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ཙི་ཡོན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:04:57.154265664Z",
+  "model": "glm-5.3"
+}

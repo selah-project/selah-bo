@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "བ་ར་ཀོ་སིའི་བུ་ཚ་དག སི་སེ་ར་གྱི་བུ་ཚ་དག ཏེ་མ་ཧ་གི་བུ་ཚ་དག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "བ་ར་ཀོ་སི"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "སི་སེ་ར་"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ཏེ་མ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:52.137517212Z",
+  "model": "glm-5.3"
+}

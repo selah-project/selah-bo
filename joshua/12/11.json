@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡར་མུ་ཐའི་རྒྱལ་པོ་གཅིག །ལ་ཀི་ཤའི་རྒྱལ་པོ་གཅིག",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "ཡར་མུ་ཐ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ལ་ཀི་ཤ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:32.442254Z",
+  "model": "glm-5.3"
+}

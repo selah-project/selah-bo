@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཨེ་ལོ་ཧིམ་གྱིས་⟨את⟩ཁྱེད་ཚོའི་ཨ་ཕའི་ཕྱུགས་འཕྲོག་སྟེ་ང་ལ་བྱིན།",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "འཕྲོག་སྟེ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཕྱུགས"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ཕྱུགས"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ཁྱེད་ཚོའི་ཨ་ཕ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "བྱིན"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:19:08.513216191Z",
+  "model": "glm-5.3"
+}

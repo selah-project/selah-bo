@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "མིའི་ནང་ནས་བཀར་བའི་དངོས་པོ་གང་ཡིན་ཡང་ཚང་མ་བླུ་བར་མི་བྱ། ཤི་བ་ངེས་པར་ཤི་བར་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཚང་མ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "བཀར་བའི་དངོས་པོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "བཀར་བ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "བླུ་བར་བྱ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ཤི་བ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ཤི་བར་བྱ་ངེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:17:12.755747314Z",
+  "model": "glm-5.3"
+}

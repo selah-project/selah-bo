@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཀེ་ཧ་ཐའི་བུ་རྣམས་ནི་ཨམ་ན་དབ་ཁོའི་བུ། ཀོ་ར་ཧ་ཁོའི་བུ། ཨ་སི་ར་ཁོའི་བུ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ཀེ་ཧ་ཐ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ཨམ་ན་དབ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ཀོ་ར་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ཨ་སི་ར"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:41.499934874Z",
+  "model": "glm-5.3"
+}

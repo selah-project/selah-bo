@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "དབུལ་བོའི་ཞིང་རྨོད་ལ་ཁ་ལག་མང་ཡང་། ཁྲིམས་མེད་པར་⟨it⟩བརླག་པའང་ཡོད།",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "མང"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ཁ་ལག"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "ཞིང་རྨོད"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "དབུལ་བོའི"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ཡང་…ཡོད"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "བརླག་པ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "མེད་པར"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ཁྲིམས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:11.514823493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "མོ་ཤེ་གྱིས་ཁོང་ཚོའི་⟨את⟩ གྱོད་དོན་ཡ་ཧ་ཝེའི་མདུན་དུ་ཕུལ།",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ཕུལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གྱོད་དོན"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "གྱོད་དོན"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:37:16.215630610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཤི་མེ་ཨོན་ལ། ཤེ་ལུ་མི་ཨེལ་ཙུ་རི་ཤད་དའི་ཡི་བུ།",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "ཤི་མེ་ཨོན་ལ"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ཤེ་ལུ་མི་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ཙུ་རི་ཤད་དའི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:15:40.550067343Z",
+  "model": "glm-5.3"
+}

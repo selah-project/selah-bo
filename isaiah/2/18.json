@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ལྷ་རྫུན་པ་དག་ཀྱང་ཡོངས་སུ་མེད་པར་འགྱུར་རོ།",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "ལྷ་རྫུན་པ་དག"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ཡོངས་སུ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "མེད་པར་འགྱུར"
+    }
+  ],
+  "timestamp": "2026-09-30T10:36:10.285034160Z",
+  "model": "glm-5.3"
+}

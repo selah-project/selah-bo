@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 44,
+  "translation": "ཁྱོད་ཀྱི་བྲན་ངེད་ཀྱི་ཕས་ང་ཚོར་གསུང་། ཁྱེད་ཚོས་ཤེས་ཏེ་ངའི་ཆུང་མས་ང་ལ་བུ་གཉིས་བཙས།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ཁྱོད་ཀྱི་བྲན"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ང་ཚོར"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ཁྱེད་ཚོས"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ཆུང་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:28:52.727721330Z",
+  "model": "glm-5.3"
+}

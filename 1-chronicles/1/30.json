@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "མི་ཤ་མ་དང་། དུ་མ་དང་། མཱ་སཱ་དང་། ཧ་ད་ད་དང་། ཏེ་མ་མོ།",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "མི་ཤ་མ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "དང་དུ་མ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "མཱ་སཱ"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ཧ་ད་ད"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "དང་ཏེ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:52.360334279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ངའི་ངོ་གདོང་གི་སྟེང་དུ་ཁྱོད་ལ་གཞན་པ་དག་གི་ཨེ་ལོ་ཧིམ་ཡོད་པར་མི་བྱ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡོད་པར་བྱ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "གཞན་པ་དག"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ངོ་གདོང་གི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:44:38.191061484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "རེ་ཙིན་གྱི་བུ་ཚ། ནེ་ཀོ་ད་ཡི་བུ་ཚ། ག་ཛམ་གྱི་བུ་ཚ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "རེ་ཙིན"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ནེ་ཀོ་ད"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ག་ཛམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:41:38.180611284Z",
+  "model": "glm-5.3"
+}

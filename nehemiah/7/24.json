@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཧ་རིཕ་ཡི་བུ་ཚོ༑ བརྒྱ་དང་བཅུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ཧ་རིཕ་ཡི"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:33.361279437Z",
+  "model": "glm-5.3"
+}

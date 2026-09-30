@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "མི་བདེན་པའི་དཔང་པོ་⟨is⟩ཆད་ལས་དག་པར་མི་འགྱུར་ལ་རྫུན་གཏམ་འབྱིན་པ་ཡང་⟨shall⟩མི་ཐར།",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "དཔང་པོ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "མི་བདེན་པའི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "ཆད་ལས་དག་པར་མི་འགྱུར"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "འབྱིན་པ་ཡང"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "རྫུན་གཏམ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "མི་ཐར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:17.828763380Z",
+  "model": "glm-5.3"
+}

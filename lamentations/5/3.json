@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ང་ཚོ་ཕ་མེད་དྭ་ཕྲུག་ཏུ་གྱུར། ང་ཚོའི་ཨ་མ་དག་བྱ་བྲལ་མ་ལྟ་བུ་⟨⟨ལྟར⟩⟩།",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "དྭ་ཕྲུག"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད་པ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ང་ཚོའི་ཨ་མ་དག"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "བྱ་བྲལ་མ་ལྟ་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:04.509172645Z",
+  "model": "glm-5.3"
+}

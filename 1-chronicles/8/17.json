@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཛེ་བ་དི་ཡ་ཧ། དང་མེ་ཤུ་ལམ། དང་ཧི་ཛེ་ཆི། དང་ཧེ་བེར།",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "དང་ཛེ་བ་དི་ཡ་ཧ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "དང་མེ་ཤུ་ལམ"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "དང་ཧི་ཛེ་ཆི"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "དང་ཧེ་བེར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:43.395144218Z",
+  "model": "glm-5.3"
+}

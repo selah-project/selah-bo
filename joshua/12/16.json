@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "མ་ཀེ་ད་ཧའི་རྒྱལ་པོ་གཅིག །བེ་ཐ་ཨེལ་གྱི་རྒྱལ་པོ་གཅིག །",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "མ་ཀེ་ད་ཧ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:36.848566872Z",
+  "model": "glm-5.3"
+}

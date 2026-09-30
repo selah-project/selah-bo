@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཀོ་ར་ཁའི་བུ་དག་ཤི་བ་མ་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་དག"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ཀོ་ར་ཁའི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ཤི་བ་བྱུང་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:35:02.462406582Z",
+  "model": "glm-5.3"
+}

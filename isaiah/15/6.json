@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཅེས་ནིམ་རིམ་གྱི་ཆུ་དག་སྟོང་⟨འགྱུར་རོ།⟩ ཅེས་རྩྭ་སྐམ། འབུར་ཟད། སྔོ་ལྡན་⟨གཅིག་⟩མེད་དོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཅེས"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "ནིམ་རིམ"
+    },
+    {
+      "surface": "משמות",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨འགྱུར⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཅེས"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "སྐམ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "རྩྭ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ཟད"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "འབུར"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "སྔོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ཡོད⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T10:43:47.569547969Z",
+  "model": "glm-5.3"
+}

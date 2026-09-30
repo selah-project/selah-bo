@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཉིན་དེར་ཡིད་དུ་འོང་བའི་ཆང་གི་སྐོར་དེ་ལ་གླུས་ལན་ཐོབ།",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་དེར"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ཆང་གི་སྐོར"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ཡིད་དུ་འོང་བ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "གླུས་ལན་ཐོབ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "དེ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:46:46.339782888Z",
+  "model": "glm-5.3"
+}

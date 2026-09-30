@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "གཱལ་ཤེ་ཁེམ་གྱི་⟨དཔོན་⟩མདུན་དུ་ཐོན་ནས་ཨ་བི་མེ་ལེཁ་དང་འཐབ།",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ཐོན"
+    },
+    {
+      "surface": "געל",
+      "gloss": "གཱལ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ཤེ་ཁེམ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "འཐབ"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "ཨ་བི་མེ་ལེཁ་དང"
+    }
+  ],
+  "timestamp": "2026-09-30T09:22:34.181683124Z",
+  "model": "glm-5.3"
+}

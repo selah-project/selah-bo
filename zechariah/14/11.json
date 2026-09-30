@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "མི་རྣམས་དེར་གནས་ཤིང་བརླག་བཅོམ་སླར་ཡང་མི་འབྱུང་། ཡེ་རུ་ཤ་ལ་ཡིམ་བདེ་བར་གནས་སོ།",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "בה",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "བརླག་བཅོམ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "སླར་ཡང"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ཡེ་རུ་ཤ་ལ་ཡིམ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "བདེ་བར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:17:58.558597014Z",
+  "model": "glm-5.3"
+}

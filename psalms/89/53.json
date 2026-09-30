@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 89,
+  "translation": "ཡ་ཧ་ཝེ་ནི་ནམ་ཡང་བསྔགས་པར་འོས། ཨ་མེན། ཨ་མེན།",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "བསྔགས་པར་འོས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ནམ་ཡང་"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ཨ་མེན"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ཨ་མེན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:39:24.992868931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ལོད་ཀྱི་བུ་ཚ་དག ཧ་དིད་དང་ཨོ་ནོ་བཅས་ལ་བདུན་བརྒྱ་ཉི་ཤུ་རྩ་གཅིག།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ལོད"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ཧ་དིད"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "དང་ཨོ་ནོ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "དང་ཉི་ཤུ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "དང་གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:48.494402123Z",
+  "model": "glm-5.3"
+}

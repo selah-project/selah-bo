@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "<as> ཁྱོད་ཀྱིས་ <as> ཁྱོད་ལ་གཏོར་གཟུགས་སམ་<as> གཟུགས་བརྙན་གང་ཡང་མི་བྱེད་ཅིག་<as> གནམ་ལ་ཡོད་པ་<as> གོང་གི་<as> དང་ <as> ས་གཞི་ལ་ཡོད་པ་<as> འོག་གི་<as> དང་ <as> ཆུ་ལ་ཡོད་པ་<as> ས་གཞིའི་འོག་གི་<as> །",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "བྱེད་ཅིག"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "གཏོར་གཟུགས"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "སམ་གང་ཡང་"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "<as> གཟུགས་བརྙན་ <as>"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<as> ཡོད་པ་ <as>"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "<as> གནམ་ལ་ <as>"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "<as> གོང་གི་ <as>"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "<as> དང་ <as>"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "<as> ས་གཞི་ལ་ <as>"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "<as> འོག་གི་ <as>"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "<as> དང་ <as>"
+    },
+    {
+      "surface": "במים",
+      "gloss": "<as> ཆུ་ལ་ <as>"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "<as> འོག་གི་ <as>"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "<as> ས་གཞིའི་ <as>"
+    }
+  ],
+  "timestamp": "2026-09-30T07:43:04.835964184Z",
+  "model": "glm-5.3"
+}

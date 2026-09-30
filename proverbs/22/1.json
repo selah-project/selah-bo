@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "མིང་བཟང་པོ་ནི་ཕྱུག་པོ་མང་པོ་ལས་བདམས་ཏེ། དངུལ་དང་གསེར་ལས་ཀ་ན་ལེགས་པ་མཆོག",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "བདམས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ཕྱུག་པོ་ལས"
+    },
+    {
+      "surface": "רב",
+      "gloss": "མང་པོ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "དངུལ་ལས"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "དང་གསེར"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ཀ་ན"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "བཟང"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:52.703447349Z",
+  "model": "glm-5.3"
+}

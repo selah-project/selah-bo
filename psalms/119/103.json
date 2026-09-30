@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 119,
+  "translation": "ཁྱོད་ཀྱི་ཚིག་ངའི་ལྕེ་ལ་ཅི་འདྲ་ཞིམ་པ། སྦྲང་རྩི་ལས་ཀྱང་ཁ་ལ་ཞིམ།",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ཅི་འདྲ"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "ཞིམ"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ལྕེ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "སྦྲང་རྩི་ལས"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ཁ་"
+    }
+  ],
+  "timestamp": "2026-09-30T12:46:18.434761909Z",
+  "model": "glm-5.3"
+}

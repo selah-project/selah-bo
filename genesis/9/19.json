@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "གསུམ་པོ་འདི་དག་ནོ་ཨ་ཁའི་བུ་ཡིན། དེ་དག་ལས་ས་གཞི་ཡོད་ཚད་ཁྱབ་པར་གྱུར།",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "དེ་དག་ལས"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "ཁྱབ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཡོད་ཚད"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:55.321165349Z",
+  "model": "glm-5.3"
+}

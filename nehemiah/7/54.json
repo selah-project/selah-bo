@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "བ་ཙ་ལིད་ཀྱི་བུ་ཚ་དག མེ་ཧི་ད་གྱི་བུ་ཚ་དག ཧ་ར་ཤ་ཨ་གྱི་བུ་ཚ་དག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "བ་ཙ་ལིད"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "མེ་ཧི་ད་"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "ཧ་ར་ཤ་ཨ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:52.137378006Z",
+  "model": "glm-5.3"
+}

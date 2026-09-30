@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 97,
+  "translation": "ཙེ་དེག་པོ་དག་ལ་འོད་⟨བཏབ།⟩ སེམས་དྲང་བ་དག་ལ་དགའ་བ།",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "འོད"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "བཏབ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ཙེ་དེག་པོ་དག་ལ"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "དྲང་བ་དག་ལ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སེམས"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "དགའ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:57:50.689000094Z",
+  "model": "glm-5.3"
+}

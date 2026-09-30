@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དེ་ནས་ཁོས་ཁོ་ཚོའི་ཚིག་དེ་ལ་ཉན་ཏེ། ཉིན་བཅུ་ཚོད་ལྟ་བྱས།",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ཉན་ཏེ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ཁོ་ཚོའི"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "ཚོད་ལྟ་བྱས"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:31:57.645396876Z",
+  "model": "glm-5.3"
+}

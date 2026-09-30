@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ཆར་བ་ལ་ཕ་⟨ཡོད་དམ⟩། ཡང་ན་སུ་ཡིས་ཟིལ་བའི་ཐིགས་པ་བསྐྱེད།",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ཡོད་དམ"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ཆར་བ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ཡང་ན"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བསྐྱེད"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "ཐིགས་པ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ཟིལ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:15:03.976272776Z",
+  "model": "glm-5.3"
+}

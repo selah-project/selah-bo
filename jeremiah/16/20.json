@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "མིས་རང་གི་དོན་དུ་ལྷ་རྫུན་མ་བྱེད་དམ། དེ་དག་ནི་ལྷ་ཡང་མ་ཡིན་ནམ།",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "བྱེད་དམ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "རང་གི་དོན་དུ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མིས"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ལྷ་རྫུན་མ"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "དེ་དག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ལྷ་ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:20.022612143Z",
+  "model": "glm-5.3"
+}

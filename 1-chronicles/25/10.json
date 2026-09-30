@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "གསུམ་པ་ཛ་ཀུར་ལ། ཁོང་གི་བུ་རྣམས་དང་སྤུན་རྣམས་བཅུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "གསུམ་པ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ཛ་ཀུར"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ཁོང་གི་བུ་རྣམས"
+    },
+    {
+      "surface": "וואחיו",
+      "gloss": "དང་སྤུན་རྣམས"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "བཅུ་"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:38.008352655Z",
+  "model": "glm-5.3"
+}

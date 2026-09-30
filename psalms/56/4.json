@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 56,
+  "translation": "ང་འཇིགས་པའི་ཉིན་ལ། ང་ཁྱེད་ལ་ཡིད་ཆེས་བྱེད་དོ།",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ང་འཇིགས་པའི"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ཁྱེད་ལ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ཡིད་ཆེས་བྱེད་དོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:31:42.420612898Z",
+  "model": "glm-5.3"
+}

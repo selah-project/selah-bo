@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ང་ལ་བྱུང་བ་ཞེས་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས་འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:14:48.415911774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "འདི་དག་ལས་ཁྱོད་ཚོས་མ་ཟ་བ་ནི་འདི་ཡིན། གླག་དང་པེ་རེ་སུ་དང་ཨ་ཛི་ནི་ཡ།",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ནི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "འདི་དག་ལས"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "གླག"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "པེ་རེ་སུ"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ཨ་ཛི་ནི་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:29.882234581Z",
+  "model": "glm-5.3"
+}

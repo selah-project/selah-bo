@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 7:7",
+  "book": "esther",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "རྒྱལ་པོ་<the king>རང་གི་<his>ཁྲོས་པའི་<wrath>དབང་<in>གྱིས་ཆང་<wine>སྟོན་མོ་<banquet>ནས་<from>ལངས་ཏེ་ཁང་པའི་<palace>ཚལ་<garden>དུ་གཤེགས། ཧ་མན་<Haman>ནི་<remained>རང་གི་སྲོག་<life>གི་ཆེད་<for>དུ་ཨེ་ས་ཐེར་རྒྱལ་མོ་<from>ལ་ཞུ་བར་བསྡད། གང་<for>ལ་རྒྱལ་པོའི་<from>ལས་⟨את⟩<evil>ངན་པ་<the evil>རང་<against him>ལ་<toward>སྨིན་<determined>པ་<that>མཐོང་<he saw>ཕྱིར་རོ།",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ལངས"
+    },
+    {
+      "surface": "בחמתו",
+      "gloss": "ཁོའི་ཁྲོས་པའི་དབང་"
+    },
+    {
+      "surface": "ממשתה",
+      "gloss": "སྟོན་མོ་ནས"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ཆང་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "ཚལ"
+    },
+    {
+      "surface": "הביתן",
+      "gloss": "ཁང་པའི"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ཧ་མན"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "བསྡད"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ཞུ་བར"
+    },
+    {
+      "surface": "על",
+      "gloss": "ཆེད་དུ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ཁོའི་སྲོག"
+    },
+    {
+      "surface": "מאסתר",
+      "gloss": "ཨེ་ས་ཐེར་ལ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "རྒྱལ་མོ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་ལ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "སྨིན"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:33:35.716771068Z",
+  "model": "glm-5.3"
+}

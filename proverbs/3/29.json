@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "གྲོགས་པོ་ལ་ངན་ཇུས་མ་འདིང། ཁོ་⟨he⟩⟨את⟩ ཁྱོད་དང་ལྷན་དུ་བག་ཕེབས་ཀྱིས་སྡོད་པས།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ངན་ཇུས་འདིང"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "གྲོགས་པོ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "དང་ཁོ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "སྡོད"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "བག་ཕེབས་ཀྱིས"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ཁྱོད་དང་ལྷན་དུ",
+      "marks": "ཁྱོད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:59.919461823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 23:7",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "དང་ལེ་ཝི་<the>་<Levites>རྣམས་ཀྱིས་⟨את⟩རྒྱལ་པོ་<the>་<king>མཐའ་<around>་<around>འཁོར་<around>་<around>དུ་<around>བསྐོར། མི་<each>་<each>སོ་སོས་<each>རང་<his>་<his>ལག་<his>་<his>པར་<his>རང་<his>་<his>མཚོན་<weapon>་<weapon>ཆ་<weapon>་<weapon>ཐོགས། <the>ཁང་པའི་<the>ནང་དུ་<whoever>འཇུག་<whoever>་<whoever>མཁན་<whoever>་<whoever>བསད་<put to death>་<put to death>པར་<put to death>་<put to death>བྱ། དང་<be ye>རྒྱལ་པོ་<the>་<king>དྲུང་དུ་<with>་<with>ཁོང་<king>་<king>འབྱོར་<comes in>་<comes in>བའི་<comes in>་<comes in>སྐབས་<when>་<when>དང་<when>ཁོང་<king>་<king>གཤེགས་<goes out>་<goes out>པའི་<goes out>་<goes out>སྐབས་<when>་<when>སུ་<be>་<be>སྡོད་<be>།",
+  "tokens": [
+    {
+      "surface": "והקיפו",
+      "gloss": "དང་<surround>མཐའ་<surround>་<surround>བསྐོར"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ལེ་ཝི་<the>་<Levites>རྣམས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ་<the>"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "མཐའ་<around>་<around>འཁོར"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི་<each>་<each>སོ་སོ"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "དང་<his>མཚོན་<weapons>་<weapons>ཆ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "<his>ལག་<his>་<his>པར"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "དང་<the one>འཇུག་<entering>་<entering>མཁན"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཏེ<to>་<to>"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ཁང་པའི་<the>ནང་དུ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "བསད་<put to death>་<put to death>པར་<put to death>བྱ"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "དང་<be>"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ དང་<with>ལྷན་<with>དུ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ་<the>"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ཁོང་<his>་<his>འབྱོར་<coming in>་<coming in>བའི་<when>་<when>སྐབས"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "དང་<his>ཁོང་<his>་<his>གཤེགས་<going out>་<going out>པའི་<when>་<when>སྐབས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:16:35.175641486Z",
+  "model": "glm-5.3"
+}

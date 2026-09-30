@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ངན་པ་རྒྱལ་པོའི་མདུན་ནས་བསལ་ཞིང་། ཁྲི་ནི་ཙེ་དེག་གིས་བརྟན་པར་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "བསལ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན་ནས"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "བརྟན་པར་འགྱུར"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ཙེ་དེག་གིས"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ཁྲི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:11.193586058Z",
+  "model": "glm-5.3"
+}

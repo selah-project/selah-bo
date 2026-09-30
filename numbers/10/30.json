@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "དེས་ཁོ་ལ་སྨྲས་པ། ང་མི་འགྲོ་སྟེ་ ང་ངའི་ཡུལ་དང་ངའི་སྐྱེ་ཡུལ་དུ་འགྲོའོ།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས་པ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ་"
+    },
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ་མིན་ན"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དུ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ངའི་ཡུལ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་...དུ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ངའི་སྐྱེ་ཡུལ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "འགྲོའོ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:24:43.891274570Z",
+  "model": "glm-5.3"
+}

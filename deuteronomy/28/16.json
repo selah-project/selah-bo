@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཁྱོད་གྲོང་ཁྱེར་དུ་དམོད་པ་ཅན། ཁྱོད་ས་ཞིང་དུ་དམོད་པ་ཅན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "དམོད་པ་ཅན"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "གྲོང་ཁྱེར་དུ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "དམོད་པ་ཅན"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ས་ཞིང་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:59:02.641138902Z",
+  "model": "glm-5.3"
+}

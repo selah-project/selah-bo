@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཤ་ལོ་མོ་ཧས་ཁོང་གི་དོན་⟨את⟩ཀུན་གསལ་བར་བྱས། ཤ་ལོ་མོ་ཧས་ཁོང་མོ་ལ་མ་བསྟན་པའི་དོན་གང་ཡང་གབ་མེད།",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "གསལ་བར་བྱས"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ཁོང་མོ་ལ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤ་ལོ་མོ་ཧ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "དོན་ཀུན"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ཁོང་གི་དོན"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "གབ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "དོན"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "ཤ་ལོ་མོ་ཧ་ལས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "བསྟན"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ཁོང་མོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:11:41.319645475Z",
+  "model": "glm-5.3"
+}

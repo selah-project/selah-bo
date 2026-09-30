@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དེ་དག་རེ་རེ་ལ་གདོང་བཞི་དང་གཤོག་པ་བཞི་རེ་ཡོད་དོ།།",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "དང་བཞི"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "གདོང་"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "གཅིག་ལ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "དང་བཞི"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "གཤོག་པ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "གཅིག་ལ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "དེ་དག་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:31:00.129367939Z",
+  "model": "glm-5.3"
+}

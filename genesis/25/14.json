@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "མི་ཤ་མ། དུ་མ། མ་ས།",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "མི་ཤ་མ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "དུ་མ"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "མ་ས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:14:24.365570172Z",
+  "model": "glm-5.3"
+}

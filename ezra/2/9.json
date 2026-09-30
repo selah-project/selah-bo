@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཛ་ཀའི་ཡི་བུ་ཚ་རྣམས། བདུན་བརྒྱ་དང་དྲུག་ཅུ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ཛ་ཀའི"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དང་དྲུག་ཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:04.012695742Z",
+  "model": "glm-5.3"
+}

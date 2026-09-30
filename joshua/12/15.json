@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ལིབ་ན་ཧའི་རྒྱལ་པོ་གཅིག །ཨ་དུལ་ལམ་གྱི་རྒྱལ་པོ་གཅིག །",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ལིབ་ན་ཧ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ཨ་དུལ་ལམ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:36.848414257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "རྒྱལ་པོ་ཤ་ལོ་མོ་ཧས་མངགས་ཤིང་ཙོར་ནས་ཧི་རམ་⟨את⟩བླངས།",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "མངགས་ཤིང"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤ་ལོ་མོ་ཧ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "བླངས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཧི་རམ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ཧི་རམ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ཙོར་ནས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:09:10.188495083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 42,
+  "translation": "ཡོ་སེཕ་གི་སྤུན་བཅུ་མི་ཙ་རིམ་ནས་འབྲུ་རིགས་ཉོ་བར་མར་ཕྱིན་ནོ། །",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "མར་ཕྱིན"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "སྤུན"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ་གི"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ཉོ་བར"
+    },
+    {
+      "surface": "בר",
+      "gloss": "འབྲུ་རིགས"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "མི་ཙ་རིམ་ནས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:27:51.445133812Z",
+  "model": "glm-5.3"
+}

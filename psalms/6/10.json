@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡ་ཧ་ཝེ་གིས་ངའི་ཞུ་བ་གསན། ཡ་ཧ་ཝེ་གིས་ངའི་གསོལ་བ་བཞེས།",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "གསན།"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "ངའི་ཞུ་བ།"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ངའི་གསོལ་བ།"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "བཞེས།"
+    }
+  ],
+  "timestamp": "2026-09-30T12:19:09.414983654Z",
+  "model": "glm-5.3"
+}

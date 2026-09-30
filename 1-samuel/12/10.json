@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཁོང་ཚོས་ཡ་ཧ་ཝེ་ལ་ཀླད་ཅེས་ངེད་ཀྱིས་སྡིག་པ་བྱས། ཡ་ཧ་ཝེ་εἰverted",
+  "tokens": [],
+  "timestamp": "2026-09-30T09:36:08.865089694Z",
+  "model": "glm-5.3"
+}

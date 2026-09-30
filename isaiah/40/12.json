@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 40:12",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "སུ་<lhug>ཡིས་<lhug>ཁོའི་<lhug>མཐིལ་<lhug>ལ་ཆུ་རྣམས་<lhug>འཇལ། ནམ་མཁའ་<lhug>ཁྲུ་<lhug>གང་<lhug>གིས་<lhug>ཚད། ས་གཞིའི་ཐལ་བ་སོར་གསུམ་<lhug>གྱིས་<lhug>བླངས། རི་<lhug>བོ་རྣམས་<lhug>སྲང་<lhug>གིས་<lhug>ལྗིད། སིབ་<lhug>རྣམས་<lhug>སྲང་<lhug>ཁྱེར་<lhug>གྱིས།",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "འཇལ"
+    },
+    {
+      "surface": "בשעלו",
+      "gloss": "ཁོའི་<lhug>མཐིལ་<lhug>ལ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ་<lhug>རྣམས"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "དང་ནམ་མཁའ"
+    },
+    {
+      "surface": "בזרת",
+      "gloss": "ཁྲུ་<lhug>གང་<lhug>གིས"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ཚད"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "དང་<lhug>ཀུན"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "སོར་<lhug>གསུམ་<lhug>གྱིས"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ཐལ་<lhug>བ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་<lhug>གཞིའི"
+    },
+    {
+      "surface": "ושקל",
+      "gloss": "དང་<lhug>ལྗིད"
+    },
+    {
+      "surface": "בפלס",
+      "gloss": "སྲང་<lhug>གིས"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "རི་<lhug>བོ་<lhug>རྣམས"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "དང་<lhug>སིབ་<lhug>རྣམས"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "སྲང་<lhug>ཁྱེར་<lhug>གྱིས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:52:20.609211172Z",
+  "model": "glm-5.3"
+}

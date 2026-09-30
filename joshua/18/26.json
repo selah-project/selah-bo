@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "དང་མི་ཙ་ཕེ་དང་ཀེ་ཕི་ར་དང་མོ་ཙ་ཧ།",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "དང་མི་ཙ་ཕེ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "དང་ཀེ་ཕི་ར"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "དང་མོ་ཙ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:05.830249525Z",
+  "model": "glm-5.3"
+}

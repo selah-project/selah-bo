@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "རྒྱ་མཚོ་ལས་ཆུ་སྟོངས་ཤིང་། གཙང་པོ་སྐམ་ལ་སྐེམས་སོང་།",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "སྟོངས་ཤིང་"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "ים",
+      "gloss": "རྒྱ་མཚོ"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "གཙང་པོ"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "སྐེམས"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "སྐམ་སོང་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:06:55.501800285Z",
+  "model": "glm-5.3"
+}

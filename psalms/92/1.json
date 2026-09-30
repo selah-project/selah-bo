@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 92,
+  "translation": "དུས་སྐབས་ཀྱི་སྒྲ་སྙན། གླུ། ཤ་བད་ཀྱི་ཉིན་ལ་<span class=\"nope\">བརྗོད།<\/span>",
+  "tokens": [],
+  "timestamp": "2026-09-30T12:40:18.216559073Z",
+  "model": "glm-5.3"
+}

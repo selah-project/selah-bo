@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཧ་ཤ་བ་ཡའི་བུ། ཨ་མ་ཙ་ཡའི་བུ། ཧིལ་ཀི་ཡའི་བུའོ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ཧ་ཤ་བ་ཡ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ཨ་མ་ཙ་ཡ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ཧིལ་ཀི་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:11.586308579Z",
+  "model": "glm-5.3"
+}

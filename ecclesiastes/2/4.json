@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "བདག་གིས་⟨the⟩< >",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "⟨the⟩< >"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "< >"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "< >"
+    },
+    {
+      "surface": "לי",
+      "gloss": "< >"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "< >"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "< >"
+    },
+    {
+      "surface": "לי",
+      "gloss": "< >"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "< >"
+    }
+  ],
+  "timestamp": "2026-09-30T15:02:37.043686377Z",
+  "model": "glm-5.3"
+}

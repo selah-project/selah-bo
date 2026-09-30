@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེ་གནམ་ནས་གཟིགས་ཤིང་མཐོང་བར་དུ།",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "གཟིགས"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "གནམ་ནས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:45.532912618Z",
+  "model": "glm-5.3"
+}

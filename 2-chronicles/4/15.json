@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "མཚོ་གཅིག་དང་། ⟨את⟩དེའི་འོག་ཏུ་བ་ལང་བཅུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མཚོ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "མཚོ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "བ་ལང"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "བ་ལང"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "དེའི་འོག་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:07:36.771361897Z",
+  "model": "glm-5.3"
+}

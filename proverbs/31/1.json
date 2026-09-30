@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ལེ་མུ་ཨེལ་རྒྱལ་པོའི་ཚིག །ཁོའི་ཨ་མས་བསླབས་པའི་ཁུར།",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ལེ་མུ་ཨེལ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ཁུར"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "བསླབས"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ཁོའི་ཨ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:02:30.841612143Z",
+  "model": "glm-5.3"
+}

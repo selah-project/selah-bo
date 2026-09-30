@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཁོའི་བུ་བགྲེན་པོ་ཨབ་དོན་དང་། ཙུར་དང་། ཀིཤ་དང་། བ་ཨལ་དང་། ནེར་དང་། ན་དབ་བོ།",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "བགྲེན་པོ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ཨབ་དོན"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ཙུར"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ཀིཤ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "བ་ཨལ"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ནེར"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ན་དབ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:24.085296662Z",
+  "model": "glm-5.3"
+}

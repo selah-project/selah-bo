@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "⟨את⟩ཧི་ཏི་དང་⟨את⟩པ་རི་ཛི་དང་⟨את⟩རེ་ཕ་ཡིམ་དག་ལའོ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧི་ཏི"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ཧི་ཏི"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "པ་རི་ཛི"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "པ་རི་ཛི"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "རེ་ཕ་ཡིམ"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "རེ་ཕ་ཡིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:09:27.457008064Z",
+  "model": "glm-5.3"
+}

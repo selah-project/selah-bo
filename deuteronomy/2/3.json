@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "རི་འདི་⟨את⟩བསྐོར་བ་ཁྱེད་ལ་འདངས་ཟིན། ཁྱེད་རང་བྱང་ཕྱོགས་སུ་གཏོད་ཅིག",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "འདངས"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་ལ"
+    },
+    {
+      "surface": "סב",
+      "gloss": "བསྐོར་བ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "རི་འདི"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "རི"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "གཏོད"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་རང་"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "བྱང་ཕྱོགས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:42:51.605302232Z",
+  "model": "glm-5.3"
+}

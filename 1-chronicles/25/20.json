@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "བཅུ་གསུམ་པ་ཤུ་བ་ཨེལ། ཁོའི་བུ་ཚ་རྣམས་དང་ཁོའི་སྤུན་རྣམས་ཏེ་བཅུ་གཉིས་སོ།",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "བཅུ་གསུམ་པ་⟨for the thirteenth⟩ གསུམ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "ཤུ་བ་ཨེལ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ཁོའི་བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "དང་ཁོའི་སྤུན་རྣམས"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:47.608848296Z",
+  "model": "glm-5.3"
+}

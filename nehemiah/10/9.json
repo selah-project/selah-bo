@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མ་ཨ་ཛ་ཡ་ཧ། བིལ་གཱི། ཤེ་མ་ཡ་ཧ། འདི་དག་ནི་མཆོད་པ་པོ་དག་ཡིན།",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "མ་ཨ་ཛ་ཡ་ཧ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "བིལ་གཱི"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ཤེ་མ་ཡ་ཧ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "མཆོད་པ་པོ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:53.623585588Z",
+  "model": "glm-5.3"
+}

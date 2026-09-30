@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཉིན་གཅིག་འབྱུང་སྟེ་དེ་ཡ་ཧ་ཝེ་⟨ཁོ་ནས་⟩ཤེས་ཀྱི་ཉིན་མིན་ལ་མཚན་མོ་ཡང་མིན། དགོང་དྲོའི་དུས་སུ་འོད་⟨ཡོད⟩དོ།",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་མིན"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "མཚན་མོ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "དུས་སུ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "དགོང་དྲོའི"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "אור",
+      "gloss": "འོད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:17:52.467407263Z",
+  "model": "glm-5.3"
+}

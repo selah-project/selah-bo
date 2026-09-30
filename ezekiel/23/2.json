@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "མིའི་བུ། བུད་མེད་གཉིས་ཡོད་⟨དེ་དག⟩མ་གཅིག་གི་བུ་མོ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "མ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:43:15.774132802Z",
+  "model": "glm-5.3"
+}

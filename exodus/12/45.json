@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "གནས་སྡོད་པ་པོ་དང་གླ་པས་དེའི་ནང་ཟ་མི་ཆོག",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "གནས་སྡོད་པ་པོ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "དང་གླ་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "དེའི་ནང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:39:09.777464573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ཁང་པ་བཞེངས་ཤིག་དང་⟨the⟩དེར་སྡོད་ཅིག ལྡུམ་ར་འཛུགས་ཤིག་དང་⟨את⟩དེའི་འབྲས་བུ་ཟོ་ཤིག",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "བཞེངས"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "སྡོད"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "འཛུགས"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ལྡུམ་ར"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ཟོ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "དེའི་འབྲས་བུ"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "འབྲས་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:16:57.540713958Z",
+  "model": "glm-5.3"
+}

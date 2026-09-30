@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "བྱ་གཙང་མ་ཀུན་ཁྱོད་ཚོས་ཟ་ཆོག།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "གཙང་མ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ་ཆོག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:29.882079870Z",
+  "model": "glm-5.3"
+}

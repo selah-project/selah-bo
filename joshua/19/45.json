@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དང་ཡེ་ཧུད་དང་བེ་ནེ་བེ་རཀ་དང་གཐ་རི་མོན།",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "དང་ཡེ་ཧུད"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "དང་བེ་ནེ"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "བེ་རཀ"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "དང་གཐ"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "རི་མོན"
+    }
+  ],
+  "timestamp": "2026-09-30T09:14:38.125297295Z",
+  "model": "glm-5.3"
+}

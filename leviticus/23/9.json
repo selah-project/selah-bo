@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཡ་ཧ་ཝེ་གིས་མོ་ཤེ་ལ་འདི་སྐད་གསུང་བར་མཛད་དོ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་བར་མཛད"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་ཅེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:12:01.751632855Z",
+  "model": "glm-5.3"
+}

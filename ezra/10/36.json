@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཝ་ན་ཡ་ཧ་ མེ་རེ་མོཏ་ ཨེ་ལི་ཡ་ཤིབ།",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ཝ་ན་ཡ་ཧ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "མེ་རེ་མོཏ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ཨེ་ལི་ཡ་ཤིབ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:44:20.335976098Z",
+  "model": "glm-5.3"
+}

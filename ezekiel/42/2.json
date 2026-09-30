@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 42,
+  "translation": "བྱང་གི་སྒོའི་མདུན་དུ ⟨is⟩ རིང་ཚད་ཨ་མཱ་བརྒྱ་དང་ཞེང་ཚད་ཨ་མཱ་ལྔ་བཅུ།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "མདུན"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "རིང་ཚད"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ཨ་མཱ"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "བྱང་"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ཞེང་ཚད"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ཨ་མཱ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:52:33.856254419Z",
+  "model": "glm-5.3"
+}

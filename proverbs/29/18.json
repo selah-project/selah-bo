@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 29:18",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "མཐོང་སྣང་མེད་ན་མི་སྡེ་ཁ་འཆུལ་ལ། ཏོ་ར་སྲུང་བ་པོ་ནི་བདེ་བ་ཅན་ནོ།",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "མེད་ན"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "མཐོང་སྣང"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "ཁ་འཆུལ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "མི་སྡེ"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "སྲུང་བ་པོ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ཏོ་ར"
+    },
+    {
+      "surface": "אשרהו",
+      "gloss": "བདེ་བ་ཅན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:44.337430306Z",
+  "model": "glm-5.3"
+}

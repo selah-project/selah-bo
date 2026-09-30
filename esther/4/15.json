@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཨེ་སི་ཐེར་གྱིས་མོར་དེ་ཀ་ཡི་ལ་ལན་བསྐྱོན་པར་གསུངས་པ།",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ཨེ་སི་ཐེར"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ལན་བསྐྱོན་པར"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "མོར་དེ་ཀ་ཡི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:29:45.693966831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡ་ཨ་ཀོབ་ཀྱི་ཁྱིམ། ཤོག ལ་ཡ་ཧ་ཝེའི་འོད་ནང་དུ་ང་ཚོས་འགྲོའོ།",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ཁྱིམ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ཤོག"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ང་ཚོས་འགྲོ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "འོད་ནང་དུ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:36:19.282334778Z",
+  "model": "glm-5.3"
+}

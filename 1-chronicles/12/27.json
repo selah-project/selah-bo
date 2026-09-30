@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ལེ་ཝིའི་བུ་ཚ་ལས་བཞི་སྟོང་དང་དྲུག་བརྒྱའོ།",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ལེ་ཝི"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "བཞི"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "དང་དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:29.363708039Z",
+  "model": "glm-5.3"
+}

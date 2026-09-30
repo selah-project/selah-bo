@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 92,
+  "translation": "བླུན་པོའི་མི་དེས་མི་ཤེས་ལ། བྱིས་པོས་⟨את⟩འདི་མི་གོ་བ།",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "མི་དེ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "བླུན་པོའི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ལ་བྱིས་པོས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "གོ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "འདི"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:40:37.107647848Z",
+  "model": "glm-5.3"
+}

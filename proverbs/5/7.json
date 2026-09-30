@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ད་ནི་བུ་ཚོ་ཁྱེད་ཚོས་ང་ཉོན། ངའི་ཁའི་ཚིག་དག་ལས་མ་འདའ།",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ད་ནི"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "འདའ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ཚིག་དག་ལས"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ངའི་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:20.070463304Z",
+  "model": "glm-5.3"
+}

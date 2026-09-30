@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "ཁོང་གིས་⟨את⟩གདོང་གྱོང་ལ་ཕྱོགས་ནས་ཡ་ཧ་ཝེ་ལ་གསོལ་བ་བཏབ། ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "ཕྱོགས་ནས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གདོང"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ཁོང་གི་གདོང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "གྱོང"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "གསོལ་བ་བཏབ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:33:44.856063739Z",
+  "model": "glm-5.3"
+}

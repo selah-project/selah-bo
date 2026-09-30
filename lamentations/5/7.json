@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ང་ཚོའི་ཕ་ཚོས་སྡིག་པ་བྱས། ཁོ་ཚོ་ད་ལྟ་མེད། ང་ཚོས་ཁོ་ཚོའི་ནག་ཉེས་ཁུར།",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ང་ཚོའི་ཕ་ཚོས"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "སྡིག་པ་བྱས"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ཁོ་ཚོ་མེད"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ང་ཚོས"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ཁོ་ཚོའི་ནག་ཉེས"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "ཁུར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:55.806337006Z",
+  "model": "glm-5.3"
+}

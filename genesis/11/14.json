@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཤེ་ལག་ལོ་སུམ་ཅུ་བཞུགས་ཏེ་⟨את⟩ཨེ་བེར་བཙས།",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ཤེ་ལག"
+    },
+    {
+      "surface": "חי",
+      "gloss": "བཞུགས"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "སུམ་ཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨེ་བེར"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ཨེ་བེར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:07:17.805468603Z",
+  "model": "glm-5.3"
+}

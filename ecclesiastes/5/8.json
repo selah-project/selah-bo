@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ས་གཞིའི་ཁེ་ཕན་ནི་ཀུན་ལ་⟨ཡིན⟩ཏེ། རྒྱལ་པོ་ཡང་ཞིང་གི་ཞབས་ཏོག་ལ་བརྟེན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ཁེ་ཕན"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ཀུན་ལ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ཡིན⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ཞིང་གི"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ཞབས་ཏོག་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:10.050936116Z",
+  "model": "glm-5.3"
+}

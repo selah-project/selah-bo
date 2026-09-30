@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ལྔ་པ་ནེ་ཐ་ན་ཡ་ཧུ་ལ། ཁོང་གི་བུ་རྣམས་དང་སྤུན་རྣམས་བཅུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "ལྔ་པ"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "ནེ་ཐ་ན་ཡ་ཧུ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ཁོང་གི་བུ་རྣམས"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "དང་སྤུན་རྣམས"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "བཅུ་"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:38.008686035Z",
+  "model": "glm-5.3"
+}

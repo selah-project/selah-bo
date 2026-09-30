@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་དང་ཨ་ཧ་རོན་ལ་འདི་སྐད་དུ་གསུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ཨ་ཧ་རོན"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:27:06.457865644Z",
+  "model": "glm-5.3"
+}

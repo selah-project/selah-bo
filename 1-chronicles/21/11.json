@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "གད་ད་ཝིད་ལ་འོངས་ནས་ཁོ་ལ་ཡ་ཧ་ཝེ་གིས་འདི་སྐད་གསུང། ཁྱོད་རང་གིས་ལོངས་ལ།",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "འོངས་ནས"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "འདི་སྐད"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ལོངས་ལ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་རང་གིས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:01:44.383526921Z",
+  "model": "glm-5.3"
+}

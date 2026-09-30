@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཨུ་ཐའེ། ཨ་མི་ཧུད་ཀྱི་བུ། ཨོམ་རིའི་བུ། ཨིམ་རིའི་བུ། བ་ནིའི་བུ། ཡེ་ཧུ་དའི་བུ་ཕེ་རེཙའི་བུ་ཚ་ལས་ལ་ལ་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "ཨུ་ཐའེ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ཨ་མི་ཧུད"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ཨོམ་རི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ཨིམ་རི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "བ་ནི"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ཕེ་རེཙ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ཡེ་ཧུ་ད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:45.811444362Z",
+  "model": "glm-5.3"
+}

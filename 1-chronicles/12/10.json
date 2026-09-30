@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཨེ་ཛེར་དང་པོ། ཨོ་བ་དི་ཡ་ཧ་གཉིས་པ། ཨེ་ལི་ཨབ་གསུམ་པ།",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "ཨེ་ཛེར"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "དང་པོ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ཨོ་བ་དི་ཡ་ཧ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "གཉིས་པ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ཨེ་ལི་ཨབ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "གསུམ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:01.836535814Z",
+  "model": "glm-5.3"
+}

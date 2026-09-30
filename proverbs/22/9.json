@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "མིག་བཟང་བ་དེ་བཀྲ་ཤིས་ཤིང་། དབུལ་བོ་ལ་རང་གི་བག་ལེབ་ལས་སྤྲད་པས་སོ།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "བཟང"
+    },
+    {
+      "surface": "עין",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ཁོ་ཉིད⟩"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "བཀྲ་ཤིས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཀྱིས"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "སྤྲད"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "རང་གི་བག་ལེབ"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "དབུལ་བོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:06.093155124Z",
+  "model": "glm-5.3"
+}

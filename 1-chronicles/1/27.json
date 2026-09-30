@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཨབ་རམ། ⟨དེ་⟨他就是⟩⟩ ཨབ་ར་ཧམ།",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "ཨབ་རམ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ་ག"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:31.095010268Z",
+  "model": "glm-5.3"
+}

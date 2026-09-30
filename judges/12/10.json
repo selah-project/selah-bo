@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཨིབ་ཙན་འདས་ཤིང་བེ་ལེམ་དུ་ས་སྦས་སོང་།",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "འདས"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ཨིབ་ཙན"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ས་སྦས"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "བེ་ལེམ་དུ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "བེ་ལེམ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:25:02.981441351Z",
+  "model": "glm-5.3"
+}

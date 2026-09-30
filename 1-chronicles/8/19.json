@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཡ་ཆིམ། དང་ཛི་ཁ་རི། དང་ཛ་བ་དི།",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "དང་ཡ་ཆིམ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "དང་ཛི་ཁ་རི"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "དང་ཛ་བ་དི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:43.395473058Z",
+  "model": "glm-5.3"
+}

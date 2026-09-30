@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཏ་ར་ཁས་⟨ཁོང་གིས⟩འཕྲོས་ཏེ་མི་ཐ་ཀར་⟨ཁོང་གིས⟩གཡིས་བཞག",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "འཕྲོས་ཏེ"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "ཏ་ར་ཁས་"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "གཡིས་བཞག"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "མི་ཐ་ཀར་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:13.052491261Z",
+  "model": "glm-5.3"
+}

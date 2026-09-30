@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཨ་ད་མ་ཧ་དང་ར་མ་ཧ་དང་ཧ་ཙོར་བཅས་སོ།",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "ཨ་ད་མ་ཧ"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ར་མ་ཧ"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "ཧ་ཙོར"
+    }
+  ],
+  "timestamp": "2026-09-30T09:14:31.923350476Z",
+  "model": "glm-5.3"
+}

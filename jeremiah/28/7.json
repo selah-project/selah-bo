@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "འོན་ཀྱང་ད་ལྟ་ང་གང་གིས་ཁྱོད་ཀྱི་རྣ་བར་དང་། མི་མང་ཡོངས་ཀྱི་རྣ་བར་སྨྲ་བའི་ཚིག་འདི་ཉོན།",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "འོན་ཀྱང"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ད་ལྟ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "སྨྲ"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "ཁྱོད་ཀྱི་རྣ་བར"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "དང་……ཀྱི་རྣ་བར"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཡོངས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་མང"
+    }
+  ],
+  "timestamp": "2026-09-30T14:48:51.754769516Z",
+  "model": "glm-5.3"
+}

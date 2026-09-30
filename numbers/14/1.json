@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཚོགས་ཀུན་གྱིས་⟨את⟩ ངུ་སྐད་ཕྱུང་ཞིང་མི་རྣམས་ཀྱིས་མཚན་མོ་དེར་ངུས།",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ཕྱུང"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན་གྱིས"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ཚོགས"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "བཏང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ངུ་སྐད"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ངུ་སྐད"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ངུས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་རྣམས་ཀྱིས"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "མཚན་མོར"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:26:22.038616533Z",
+  "model": "glm-5.3"
+}

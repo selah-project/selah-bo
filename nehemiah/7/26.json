@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "བེ་ཐ་ལེ་ཁམ་དང་ནེ་ཏོ་ཕ་ཧ་ཡི་མི་དག་བརྒྱ་དང་བརྒྱད་ཅུ་བརྒྱད།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་དག"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ལེ་ཁམ"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "ནེ་ཏོ་ཕ་ཧ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "བརྒྱད་ཅུ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "བརྒྱད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:41.683126614Z",
+  "model": "glm-5.3"
+}

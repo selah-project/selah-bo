@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཡང་བླུན་པོ་ལམ་དུ་འགྲོ་བ་ན་དེའི་སྙིང་ཆད་དེ། ཁོས་ཐམས་ཅད་ལ་⟨ཁོ་རང་⟩བླུན་པོ་ཡིན་པ་སྟོན།",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ་དུ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "བླུན་པོ་བཞིན"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "དེའི་སྙིང"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ཆད"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "དང་ཟེར"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ཐམས་ཅད་ལ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ་ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:30.564689926Z",
+  "model": "glm-5.3"
+}

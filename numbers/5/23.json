@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཀོ་ཧེན་གྱིས་⟨את⟩དམོད་ཚིག་འདི་དག་དེབ་ལ་བྲིས་ཏེ་ཁ་བའི་ཆུའི་ནང་དུ་སུབ་བོ།",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "བྲིས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "དམོད་ཚིག"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "དམོད་ཚིག"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ཀོ་ཧེན"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "དེབ་ལ"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "སུབ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ནང་དུ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "ཁ་བའི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:21:10.934946520Z",
+  "model": "glm-5.3"
+}

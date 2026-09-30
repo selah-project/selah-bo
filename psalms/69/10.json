@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 69,
+  "translation": "ཡ་ཧ་ཝེ absent —",
+  "tokens": [],
+  "timestamp": "2026-09-30T12:33:32.482413870Z",
+  "model": "glm-5.3"
+}

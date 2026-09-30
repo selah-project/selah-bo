@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ད་ལྟ་ཁྱོད་ཀྱིས་གཟབ་གཟབ་གྱིས་ཤིག ཆང་དང་ཆང་བཅུད་མ་འཐུང་། མི་གཙང་བ་གང་ཡང་མ་ཟ།",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ད་ལྟ"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "གཟབ་གཟབ་གྱིས"
+    },
+    {
+      "surface": "נא",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "འཐུང་"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ཆང"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ཆང་བཅུད"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང་ཡང་"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "མི་གཙང་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:26:28.155476327Z",
+  "model": "glm-5.3"
+}

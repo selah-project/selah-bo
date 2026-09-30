@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཙེ་དིག་པ་དཀའ་ངལ་ལས་ཐར། ཉེས་ཅན་ཁོའི་ཚབ་ཏུ་འོངས།",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དིག་པ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "དཀའ་ངལ་ལས"
+    },
+    {
+      "surface": "נחלץ",
+      "gloss": "ཐར"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ཉེས་ཅན"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ཁོའི་ཚབ་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:10.063203064Z",
+  "model": "glm-5.3"
+}

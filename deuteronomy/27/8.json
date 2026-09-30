@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "རྡོ་དེ་དག་གི་སྟེང་དུ་ཏོ་ར་འདིའི་ཚིག་ཐམས་ཅད་⟨את⟩ཤིན་ཏུ་གསལ་བར་འབྲིས།",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "འབྲིས"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "རྡོ་དེ་དག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཏོ་རའི་ཚིག་ཐམས་ཅད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ཏོ་ར"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "באר",
+      "gloss": "གསལ་བར"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ཤིན་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:56:59.471417502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཀོ་ཧེ་ལེཏ་གིས་སིམ་པའི་ཚིག་རྣམས་རྙེད་པར་འཚོལ་བ་དང་བདེན་པའི་ཚིག་རྣམས་དྲང་པོར་བྲིས།",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "འཚོལ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ཀོ་ཧེ་ལེཏ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "རྙེད་པར"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག་རྣམས"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "སིམ་པའི"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "བྲིས་པ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "དྲང་པོར"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག་རྣམས"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "བདེན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:29:16.325897554Z",
+  "model": "glm-5.3"
+}

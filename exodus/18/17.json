@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "མོ་ཤེའི་མནའ་མའི་ཕས་ཁོ་ལ་སྨྲས་པ། ཁྱོད་ཀྱིས་བྱེད་བཞིན་པའི་དོན་དེ་ལེགས་པ་མིན།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས་པ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "མནའ་མའི་ཕ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས་པ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "དོན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T07:43:07.600451764Z",
+  "model": "glm-5.3"
+}

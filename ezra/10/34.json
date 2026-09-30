@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "བ་ནིའི་བུ་རྒྱུད་ལས། མ་ཨ་དའི་ ཨམ་རམ་ དང་ཨུ་ཨེལ།",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "བུ་རྒྱུད་ལས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བ་ནི"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "མ་ཨ་དའི"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ཨམ་རམ"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "དང་ཨུ་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:44:20.335700342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཁྱོད་ཀྱིས་རྫུན་པའི་གཏམ་མི་ཁུར། དྲག་ཤུགས་ཀྱི་དཔང་པོར་⟨མི་⟩འགྱུར་བར་གདུག་ཅན་དང་ལག་པ་མི་སྦྱར།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ཁུར"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "གཏམ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "རྫུན་པ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "སྦྱར"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "གདུག་ཅན"
+    },
+    {
+      "surface": "להית",
+      "gloss": "འགྱུར་བར"
+    },
+    {
+      "surface": "עד",
+      "gloss": "དཔང་པོ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "དྲག་ཤུགས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:45:31.082818413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 78,
+  "translation": "ཡོ་སེཕ་གྱི་སྦྲ་ཁང་ཁོང་གིས་དོར། ཨེ་ཕ་ར་ཡིམ་གྱི་ཚོ་བ་མ་འདེམས།",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "དོར"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "སྦྲ་ཁང"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ཚོ་བ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ཨེ་ཕ་ར་ཡིམ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "འདེམས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:36:27.712837429Z",
+  "model": "glm-5.3"
+}

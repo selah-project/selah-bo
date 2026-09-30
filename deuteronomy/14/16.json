@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "⟨את⟩ཀོ་ས། དང་⟨את⟩ཡེ་ནེ་ཤོཕ། དང་ཧ་ནེ་ཤེ་མེད།",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཀོ་ས"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ཀོ་ས"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཡེ་ནེ་ཤོཕ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ཡེ་ནེ་ཤོཕ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ཧ་ནེ་ཤེ་མེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:30.690055015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ང་ཡབ་ཅིག་གི་བུ་ཡིན་ཞིང་། དེ་བས་ཞི་ཞིང་གཅིག་པུ་ཡིན་ནའང་ཨ་མའི་མདུན་དུ་ནར་སོན་ཏོ་",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཞིང"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "ཡབ་ཅིག་གི"
+    },
+    {
+      "surface": "רך",
+      "gloss": "ཞི"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "གཅིག་པུ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ཨ་མའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:53:03.715561822Z",
+  "model": "glm-5.3"
+}

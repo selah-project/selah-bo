@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "མང་པོས་གྱ་ནོམ་པའི་ཞལ་⟨face⟩ལ་གསོལ་བ་འདེབས་ལ་ལེགས་སྐྱེས་སྟེར་བའི་མི་ལ་ཀུན་གྲོགས་⟨is⟩ཡིན།",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "མང་པོས"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "གསོལ་བ་འདེབས"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ཞལ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "གྱ་ནོམ་པའི"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ལ་ཀུན"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "གྲོགས"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "མི་ལ"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "ལེགས་སྐྱེས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:17.829036342Z",
+  "model": "glm-5.3"
+}

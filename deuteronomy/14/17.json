@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་ ཀ་ཨ་ཏ་ དང་ ⟨את⟩ར་ཧ་མ་ཧ་ དང་ ⟨את⟩ཤ་ལ་ཁ།",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ཀ་ཨ་ཏ་"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ར་ཧ་མ་ཧ་"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ར་ཧ་མ་ཧ་"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཤ་ལ་ཁ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ཤ་ལ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:33.584074004Z",
+  "model": "glm-5.3"
+}

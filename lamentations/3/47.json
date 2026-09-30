@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "འཇིགས་སྣང་དང་དོང་ང་ཚོ་ལ་བྱུང་། སྟོང་བཤིག་དང་འཐོར་ཞིག།",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "འཇིགས་སྣང"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "དང་དོང"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ང་ཚོ་ལ"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "སྟོང་བཤིག"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "དང་འཐོར་ཞིག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:07.017389969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "མོ་ཤེ་ཡིས་ང་ཚོར་ཏོ་ར་བཀའ་གནང་། ཡ་ཨ་ཀོབ་འདུ་ཚོགས་ཀྱི་ཤུལ་ནོར་ལྟ་བུའོ།",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ཏོ་ར"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "བཀའ་གནང"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ང་ཚོར"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ་ཡིས"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ཤུལ་ནོར"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "འདུ་ཚོགས་ཀྱི"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:01:55.865317486Z",
+  "model": "glm-5.3"
+}

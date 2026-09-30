@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 51,
+  "translation": "གཙོ་སྒྲིག་མཁན་ལ། ད་ཝིད་ཀྱི་མི་ཛི་མོར།",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "གཙོ་སྒྲིག་མཁན་ལ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "མི་ཛི་མོར"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ད་ཝིད་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:30:38.102582721Z",
+  "model": "glm-5.3"
+}

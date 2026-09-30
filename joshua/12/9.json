@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡེ་རི་ཅོའི་རྒྱལ་པོ་གཅིག །ཧ་ཡིའི་རྒྱལ་པོ་གཅིག །གང་གིས་བེད་ཨེལ་གྱི་ཟུར་ལ་གནས།",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ཡེ་རི་ཅོ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ཧ་ཡི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ཟུར་ལ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེད་ཨེལ་"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:32.441904626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མི་ཀ་ཧ། རེ་ཧོབ། ཧ་ཤབ་ཡ་ཧའོ།",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "མི་ཀ་ཧ"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "རེ་ཧོབ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ཧ་ཤབ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:53.624103923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཁྱེད་ཀྱི་ཨེ་ལོ་ཧིམ་ཡ་ཧ་ཝེ་ལ་དེ་ལྟར་བྱ་མི་ཉན་ནོ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི་ཉན"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ཁྱེད་ཀྱིས་བྱ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ཁྱེད་ཀྱི་ཨེ་ལོ་ཧིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:50:29.570181359Z",
+  "model": "glm-5.3"
+}

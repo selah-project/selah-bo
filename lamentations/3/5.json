@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོང་གིས་ངའི་སྟེང་དུ་བརྩིགས་ཤིང་མཐའ་ནས་བསྐོར། དུག་དང་དཀའ་སྡུག་གིས།",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "བརྩིགས"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ངའི་སྟེང་དུ"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "མཐའ་ནས་བསྐོར"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "དུག"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "དཀའ་སྡུག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:49.867106057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་ འཕུར་བའི་སྲོག་ཆགས་ཕྲ་འབུ་ཐམས་ཅད་མི་གཙང་བ་ཡིན་ ⟨the⟩ཁྱེད་ཚོའི་དོན་དུ། ཟ་མི་རུང་།",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ཕྲ་འབུའི་རིགས"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "འཕུར་བ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "མི་གཙང་བ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་ཚོའི་དོན་དུ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་རུང"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ཟ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:33.584494693Z",
+  "model": "glm-5.3"
+}

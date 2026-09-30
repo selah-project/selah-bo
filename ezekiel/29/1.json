@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ལོ་བཅུ་པར་ཟླ་བ་བཅུ་པའི་ཚེས་བཅུ་གཉིས་ལ་ཡ་ཧ་ཝེའི་ཚིག་ང་ལ་བྱུང་ཞེས་གསུང་།",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "བཅུ་པ"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "ཚེས་བཅུ་"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "བཅུ་གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ཟླ་བ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:46:10.674492719Z",
+  "model": "glm-5.3"
+}

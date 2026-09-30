@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཤེ་ཨོལ་གྱི་〈shir〉〈shir-ha-shirim〉... གླུ་གླུ་རྣམས་ཀྱི་གླུ་⟨the⟩གླུ་དག་⟨is⟩ཤེ་ལོ་མོ་ཧ་ལ་དབང་〈of Solomon〉།",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "གླུ"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "གླུ་རྣམས་ཀྱི་"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ཤེ་ལོ་མོ་ཧ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:01:19.351987776Z",
+  "model": "glm-5.3"
+}

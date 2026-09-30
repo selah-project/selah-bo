@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཡི་ཙ་ཧ་རི་ལས་ཤེ་ལོ་མོད། ཤེ་ལོ་མོད་ཀྱི་བུ་རྣམས་ལས་ཡ་ཧད།",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "ཡི་ཙ་ཧ་རི་ལས"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ཤེ་ལོ་མོད"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "བུ་རྣམས་ལས"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "ཤེ་ལོ་མོད"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ཡ་ཧད"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:39.767697477Z",
+  "model": "glm-5.3"
+}

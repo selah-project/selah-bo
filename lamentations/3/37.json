@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "སུ་ཞིག་གིས་སྨྲས་ཤིང་དེ་⟨ལྟར⟩གྱུར་ཏེ་ཨ་དོ་ནའེ་ཡིས་དེ་བཀའ་མ་སྩལ་བར།",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "སུ་ཞིག"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ཞིག"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "དེ་གྱུར"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ཨ་དོ་ནའེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "བཀའ་སྩལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:14.980836328Z",
+  "model": "glm-5.3"
+}

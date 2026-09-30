@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཉིན་བཞི་བཅུ་དང་མཚན་བཞི་བཅུའི་མཐར་ ཡ་ཧ་ཝེས་ང་ལ་⟨את⟩རྡོ་ཡི་ལུ་ཧ་གཉིས་ བེ་རིད་ཀྱི་ལུ་ཧ་གནང་།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "དེ་བྱུང"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "མཐར"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "མཚན"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "གནང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལུ་ཧ་གཉིས"
+    },
+    {
+      "surface": "שני",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ལུ་ཧ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "རྡོ་ཡི"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "ལུ་ཧ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "བེ་རིད་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:06.628157447Z",
+  "model": "glm-5.3"
+}

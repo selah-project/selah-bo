@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 17:11",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "⟨Like⟩⟨the⟩partridge brooding ⟨eggs⟩ and not hatching ⟨them⟩: ⟨so is⟩ he who makes wealth, and not by justice — in half his days it will forsake him, and at his end he will be a fool.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "རྒོ་བ་"
+    },
+    {
+      "surface": "דגר",
+      "gloss": "སྒོ་ང་སྲུང་བ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ཡང་མིན"
+    },
+    {
+      "surface": "ཡལד",
+      "gloss": "སྐྱེད་མི་ཐུབ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱེད་པ་པོ"
+    },
+    {
+      "surface": "ཡུསྲ",
+      "gloss": "ནོར་"
+    },
+    {
+      "surface": "ཝལא",
+      "gloss": "དང་མིན"
+    },
+    {
+      "surface": "བམིཤ་པཊ",
+      "gloss": "ཁྲིམས་ཀྱིས་"
+    },
+    {
+      "surface": "བཆི",
+      "gloss": "ཕྱེད་དུ"
+    },
+    {
+      "surface": "ཡམཝ",
+      "gloss": "ཚེ་ཡི"
+    },
+    {
+      "surface": "ཡལཛབནཝ",
+      "gloss": "དེ་མི་འདོར"
+    },
+    {
+      "surface": "ཝབཨཆིཏཏཝ",
+      "gloss": "དང་མཐའ་མར"
+    },
+    {
+      "surface": "ཡཧཡ",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "ནཝལ",
+      "gloss": "རྨོངས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:28.164542744Z",
+  "model": "glm-5.3"
+}

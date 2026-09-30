@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཡ་ཧ་ཝེས་གསུངས་སོ། ཁྱོད་ལ་ཁྲོ་བ་འདི་ལེགས་སམ།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ལེགས་སམ"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ཁྲོ་བ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:07:00.271914816Z",
+  "model": "glm-5.3"
+}

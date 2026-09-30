@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཉེས་ཅན་མིའི་ལམ་ནི་འཁྱོག་ཅིང་རྒྱང་གྱེས་པ། དྲི་མེད་ཀྱི་བྱ་བ་ནི་དྲང་པོའོ།",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "འཁྱོག་ཅིང་"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "ཉེས་ཅན"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "དྲི་མེད"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "དྲང་པོ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "བྱ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:12.247629846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "ཨེ་ཤེམ་གྱི་ཕ་ཧ་མོར་ཡ་ཨ་ཀོབ་ལ་གཏམ་གླེང་བར་ཕྱིན།",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ཧ་མོར"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ཨེ་ཤེམ་གྱི"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "གཏམ་གླེང་བར"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ཁོང་དང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:22:22.616184445Z",
+  "model": "glm-5.3"
+}

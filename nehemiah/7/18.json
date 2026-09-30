@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་དོ་ནི་ཀམ་གྱི་བུ་ཚ་དྲུག་བརྒྱ་དང་དྲུག་ཅུ་དང་བདུན་ཏེ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "ཨ་དོ་ནི་ཀམ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "དྲུག་ཅུ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "དང་བདུན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:38.146776877Z",
+  "model": "glm-5.3"
+}

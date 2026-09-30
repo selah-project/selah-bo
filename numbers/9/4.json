@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "མོ་ཤེ་གིས་ཡི་སྲ་ཨེལ་གྱི་བུ་ཚོར་པ་ས་ཁ་བྱེད་དགོས་པ་འདི་སྐད་དུ་གསུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོར"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སྲ་ཨེལ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "བྱེད་དགོས་པ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "པ་ས་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:24:57.552993273Z",
+  "model": "glm-5.3"
+}

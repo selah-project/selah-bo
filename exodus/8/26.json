@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "མོ་ཤེ་ཕ་རོའི་དྲུང་ནས་ཕྱིར་ཐོན་ཏེ་ ཡ་ཧ་ཝེ་ལ་གསོལ་བ་བཏབ་བོ།",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ཐོན་ཏེ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "དྲུང་ནས"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ཕ་རོ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "གསོལ་བ་བཏབ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:36:55.424958104Z",
+  "model": "glm-5.3"
+}

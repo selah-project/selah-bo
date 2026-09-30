@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "འོན་ཀྱང་གལ་ཏེ་ཁོ་གཙང་བའི་རྗེས་སུ་ནེ་ཐེག་པགས་པ་ལ་ཀུན་ཏུ་རྒྱས་ན།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "རྒྱས"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "ཀུན་ཏུ་རྒྱས"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ནེ་ཐེག"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "པགས་པ་ལ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "རྗེས་སུ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ཁོའི་གཙང་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:04:38.791068076Z",
+  "model": "glm-5.3"
+}

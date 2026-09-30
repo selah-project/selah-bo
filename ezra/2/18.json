@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡོ་ར་ཧའི་བུ་ཚ་རྣམས་འབོར་བརྒྱ་དང་བཅུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ཡོ་ར་ཧ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "དང་གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:24.589964368Z",
+  "model": "glm-5.3"
+}

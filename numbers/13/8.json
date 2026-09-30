@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཨེ་ཕ་ར་ཡིམ་གྱི་སྡེ་ལས་ནུན་གྱི་བུ་ཧོ་ཤེ་ཨ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "སྡེ་ལས"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ཨེ་ཕ་ར་ཡིམ"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ཧོ་ཤེ་ཨ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ནུན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:30.683304748Z",
+  "model": "glm-5.3"
+}

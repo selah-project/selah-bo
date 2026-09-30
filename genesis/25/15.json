@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ཧ་དད། ཏེ་མ། ཡེ་ཏུར། ན་ཕི་ཤ། ཀེ་དེ་མ།",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ཧ་དད"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ཏེ་མ"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ཡེ་ཏུར"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ན་ཕི་ཤ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ཀེ་དེ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:14:24.365705256Z",
+  "model": "glm-5.3"
+}

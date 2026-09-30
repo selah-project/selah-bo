@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "དེ་བས་མི་རིགས་དེ་ནི་བློ་གྲོས་བརླགས་པ་ཞིག་ཡིན་ཏེ་ཁོ་ཚོའི་ནང་དུ་བློ་གྲོས་མེད།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "དེ་བས"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "མི་རིགས"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "བརླགས་པ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "བློ་གྲོས"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ཁོ་ཚོ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ཁོ་ཚོའི་ནང་དུ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "བློ་གྲོས"
+    }
+  ],
+  "timestamp": "2026-09-30T09:02:51.046144949Z",
+  "model": "glm-5.3"
+}

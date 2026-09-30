@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ང་ཚོའི་ཆུ་དངུལ་གྱིས་འཐུང་། ང་ཚོའི་ཤིང་རིན་གྱིས་འབྱོར།",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ང་ཚོའི་ཆུ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "དངུལ་གྱིས"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "འཐུང"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ང་ཚོའི་ཤིང"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "རིན་གྱིས"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "འབྱོར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:04.509309894Z",
+  "model": "glm-5.3"
+}

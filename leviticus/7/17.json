@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མཆོད་སྦྱིན་གྱི་ཤ་ལྷག་མ་ཉིན་གསུམ་པར་མེས་བསྲེག་པར་བྱ།",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ལྷག་མ"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "ཤ་ལས"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "མཆོད་སྦྱིན"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "གསུམ་པ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "བསྲེག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:09.860003925Z",
+  "model": "glm-5.3"
+}

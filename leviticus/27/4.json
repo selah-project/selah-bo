@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "གལ་ཏེ་མོ་ཡིན་ན་ཁྱོད་ཀྱི་རིན་ཐང་ཤེ་ཀེལ་སུམ་ཅུ་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "མོ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "⟨འགྱུར⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ཁྱོད་ཀྱི་རིན་ཐང"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "སུམ་ཅུ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ཤེ་ཀེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:16:55.894216201Z",
+  "model": "glm-5.3"
+}

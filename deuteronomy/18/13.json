@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "ཁྱོད་ཡ་ཧ་ཝེ་ཨེ་ལོ་ཧིམ་ཁྱོད་ཀྱི་དང་ལྷན་དུ་སྐྱོན་མེད་དུ་གནས།",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "སྐྱོན་མེད"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་ལྷན་དུ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ཨེ་ལོ་ཧིམ་ཁྱོད་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:53:36.091626164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "རྔ་མོང་བཞི་བརྒྱ་སོ་ལྔ་དང་། བོང་བུ་དྲུག་སྟོང་བདུན་བརྒྱ་ཉི་ཤུའོ།",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "རྔ་མོང"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "བཞི"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "སུམ་ཅུ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "དང་ལྔ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "བོང་བུ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ཉི་ཤུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:06.622869890Z",
+  "model": "glm-5.3"
+}

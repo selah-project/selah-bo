@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "བུ་ང་ཡི་ ཁྱོད་ཀྱི་ཕའི་བཀའ་སྲུངས་ཤིག ཁྱོད་ཀྱི་མའི་ཏོ་ར་མ་དོར།",
+  "tokens": [
+    {
+      "surface": "נצור",
+      "gloss": "སྲུངས་ཤིག"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ང་ཡི"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "བཀའ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ཁྱོད་ཀྱི་ཕའི"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תטוש",
+      "gloss": "དོར"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ཏོ་ར"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ཁྱོད་ཀྱི་མའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:53:42.481084687Z",
+  "model": "glm-5.3"
+}

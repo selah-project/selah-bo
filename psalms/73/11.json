@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 73,
+  "translation": "ཁོ་ཚོས་ཨེལ་གྱིས་ག་ལ་ཤེས་ཞེས་ཟེར་ལ་མཐོ་ཤོས་ལ་ཤེས་པ་ཡོད་དམ་ཟེར་རོ།",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ག་ལ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ཡོད་དམ"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ཤེས་པ"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "མཐོ་ཤོས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:34:46.257865747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "འདི་ང་ཡི་སེམས་ལ་བསྐྱར་དུ་དྲན་བྱེད། དེའི་ཕྱིར་ང་ཡིས་རེ་སྒུག་བྱེད།",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "བསྐྱར་དུ་དྲན་བྱེད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ང་ཡི་སེམས"
+    },
+    {
+      "surface": "על",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "རེ་སྒུག་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:51.874961144Z",
+  "model": "glm-5.3"
+}

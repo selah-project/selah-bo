@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ས་གཞི⟨དེ⟩སྟོང་ཞིང་དབེན་ལ། མུན་པ་ཟབ་མོའི་ངོས་ལ་ཁྱབ། ཨེ་ལོ་ཧིམ་གྱི་རུ་ཨ་ཁ་གཤེར་ཆུའི་ངོས་ལ་གཡོགས།",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨དེ⟩"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "དབེན"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "མུན་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ངོས"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ཟབ་མོ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "རུ་ཨ་ཁ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "གཡོགས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ངོས"
+    },
+    {
+      "surface": "המים",
+      "gloss": "གཤེར་ཆུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:03:07.542358503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཨ་ཏའི་དྲུག་པ། ཨེ་ལི་ཨེལ་བདུན་པ།",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "ཨ་ཏའི"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "དྲུག་པ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ཨེ་ལི་ཨེལ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "བདུན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:01.836774412Z",
+  "model": "glm-5.3"
+}

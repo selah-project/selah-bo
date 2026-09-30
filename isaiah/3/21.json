@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "གདུ་བུ་དང་སྣ་རྒྱན།",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "གདུ་བུ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "སྣ་རྒྱན"
+    },
+    {
+      "surface": "האף",
+      "gloss": "སྣ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:44:24.422896769Z",
+  "model": "glm-5.3"
+}

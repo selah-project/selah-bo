@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 35,
+  "translation": "ར་ཧེལ་ཤི་སྟེ། ཨེ་ཕ་ར་ཐའི་ལམ་དུ་སྦས་པ་སྟེ། དེ་⟨is⟩བེད་ལེ་ཧེམ་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "וותמת",
+      "gloss": "ཤི་སྟེ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ར་ཧེལ"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "སྦས་པ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ་དུ"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ཨེ་ཕ་ར་ཐ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེད"
+    },
+    {
+      "surface": "ལחם",
+      "gloss": "ལེ་ཧེམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:21:31.444062367Z",
+  "model": "glm-5.3"
+}

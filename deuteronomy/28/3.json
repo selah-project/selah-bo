@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "གྲོང་ཁྱེར་དུ་ཁྱོད་བཀྲ་ཤིས་པ་དང་། ཞིང་སར་ཡང་ཁྱོད་བཀྲ་ཤིས་པར་འགྱུར་ཅིག",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "བཀྲ་ཤིས་པ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "གྲོང་ཁྱེར་དུ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ཡང་…བཀྲ་ཤིས་པ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ཞིང་སར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:59:22.923601539Z",
+  "model": "glm-5.3"
+}

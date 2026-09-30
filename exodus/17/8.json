@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཨ་མ་ལེཀ་འོངས་ནས་རེ་ཕི་དིམ་དུ་ཨིས་ར་ཨེལ་དང་འཐབ་བོ།",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ཨ་མ་ལེཀ"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "འཐབ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཨིས་ར་ཨེལ"
+    },
+    {
+      "surface": "ברפידים",
+      "gloss": "རེ་ཕི་དིམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:42:49.040248617Z",
+  "model": "glm-5.3"
+}

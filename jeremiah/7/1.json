@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "⟨את⟩ ཡ་ཧ་ཝེ་ལས་ཡི་རི་མི་ཡ་ཧུ་ལ་བྱུང་བའི་ཚིག འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ཡི་རི་མི་ཡ་ཧུ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:05:35.904754435Z",
+  "model": "glm-5.3"
+}

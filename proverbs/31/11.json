@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཁྱོ་གའི་སྙིང་གིས་མོ་ལ་ཡིད་ཆེས་ཤིང་། ཁེ་བཟང་གིས་ནམ་ཡང་མི་དབུལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ཡིད་ཆེས་ཤིང་"
+    },
+    {
+      "surface": "בה",
+      "gloss": "མོ་ལ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང་གིས"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ཁྱོ་གའི"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ཁེ་བཟང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ནམ་ཡང་མི"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "དབུལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:02:21.089799923Z",
+  "model": "glm-5.3"
+}

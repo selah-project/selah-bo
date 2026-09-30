@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 1:13",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཨ་ཤེར་གི་ས་ནས། པ་གི་ཨེལ་ནི་ཨོ་ཀ་རན་གི་བུ།",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "ཨ་ཤེར་གི་ས་ནས"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "པ་གི་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ཨོ་ཀ་རན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:16:17.851744247Z",
+  "model": "glm-5.3"
+}

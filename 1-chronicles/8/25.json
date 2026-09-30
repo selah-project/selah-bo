@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཡི་ཕ་ད་ཡ་ཧ་དང་ཕེ་ནུ་ཨེལ་ ཤ་ཤག་གི་བུ་དག",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "ཡི་ཕ་ད་ཡ་ཧ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "ཕེ་ནུ་ཨེལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་དག"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ཤ་ཤག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:57.395995837Z",
+  "model": "glm-5.3"
+}

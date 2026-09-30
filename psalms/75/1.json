@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 75,
+  "translation": "མདོ་འཛིན་པ་ལ། མ་བརླག། ཨ་ས་ཕའི་མི་ཛོ་མོར། གླུ།",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "མདོ་འཛིན་པ་ལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "བརླག"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "མི་ཛོ་མོར"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ཨ་ས་ཕའི"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "གླུ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:35:36.675531807Z",
+  "model": "glm-5.3"
+}

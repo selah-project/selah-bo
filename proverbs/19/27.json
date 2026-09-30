@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "བུ་ང་ཡི། ཤེས་པའི་ཚིག་ལས་འགལ་དུ་འཇུག་པའི་བསླབ་བྱ་ཉན་པ་ཐོངས།",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "ཐོངས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ང་ཡི"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ཉན་པ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "བསླབ་བྱ"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "འགལ་བར་འགྱུར་བ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ཚིག་རྣམས"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:38.760963641Z",
+  "model": "glm-5.3"
+}

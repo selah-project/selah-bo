@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "མ་ཕྲད་པར་གཉིས་མཉམ་དུ་འགྲོའམ།",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "འགྲོའམ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "མཉམ་དུ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "མ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "གལ་སྟེ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ཕྲད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:01:48.323112953Z",
+  "model": "glm-5.3"
+}

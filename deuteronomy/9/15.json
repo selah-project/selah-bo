@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ང་ཕྱིར་འཁོར་ཏེ་རི་ལས་བབས་ རི་དེ་མེ་ལ་འབར་ བེ་རིད་ཀྱི་ཕྱི་ཤོག་གཉིས་ངའི་ལག་པ་གཉིས་ཀྱི་སྟེང་ན་ཡོད།",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ཕྱིར་འཁོར"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "བབས"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "རི"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "རི་དེ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "འབར"
+    },
+    {
+      "surface": "באש",
+      "gloss": "མེ་ལ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ཕྱི་ཤོག"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "བེ་རིད"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ལག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:48:04.144303930Z",
+  "model": "glm-5.3"
+}

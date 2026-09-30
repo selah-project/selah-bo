@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ལ་བན་རང་གི་⟨את⟩ ལུག་བྲེག་པར་སོང་བའི་ཚེ། ར་ཧེལ་གྱིས་རང་གི་ཕའི་⟨את⟩ཏེ་ར་ཕིམ་རྐུས།",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "ལ་བན"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "སོང་"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "བྲེག་པར"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལུག"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ལུག"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "རྐུས"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ར་ཧེལ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཏེ་ར་ཕིམ"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ཏེ་ར་ཕིམ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ཕའི་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:19:12.884512155Z",
+  "model": "glm-5.3"
+}

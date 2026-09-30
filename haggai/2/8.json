@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ང་<to me>ལ་<to>⟨the⟩དངུལ་<silver>ཡིན་<is>། དང་<and>ང་ལ་<to me>⟨the⟩གསེར་<gold>ཡིན། ཡ་ཧ་ཝེ་ཙེ་བ་ཨོད་ཀྱི་གསུང་ངོ།",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "དང་ང་ལ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ཙེ་བ་ཨོད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:13:19.208675454Z",
+  "model": "glm-5.3"
+}

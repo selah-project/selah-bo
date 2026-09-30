@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 56,
+  "translation": "ཨེ་ལོ་ཧིམ་ལ་ངས་ཚིག་བསྔགས། ཡ་ཧ་ཝེ་ལ་ངས་ཚིག་བསྔགས།",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ་ལ་"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ངས་བསྔགས"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ་"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ངས་བསྔགས"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:31:00.748731469Z",
+  "model": "glm-5.3"
+}

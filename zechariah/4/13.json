@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཁོང་གིས་ང་ལ་གསུང་ནས་ཞེས་པར། ཁྱོད་ཀྱིས་འདི་དག་ག་རེ་ཡིན་པ་མི་ཤེས་སམ། ངས་མི་ཤེས་ལགས་དཔོན་པོ་ཞེས་ཞུས།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "མིན་ནམ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ག་རེ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ཞུས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "དཔོན་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:14:51.161979870Z",
+  "model": "glm-5.3"
+}

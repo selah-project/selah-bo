@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཡ་ཨ་ལའི་བུ་ཚ་དག། དར་ཀོན་གྱི་བུ་ཚ་དག། གི་དེལ་གྱི་བུ་ཚ་དག།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "ཡ་ཨ་ལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "དར་ཀོན"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "གི་དེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:51.032592840Z",
+  "model": "glm-5.3"
+}

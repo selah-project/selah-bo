@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ལེ་ལོ་ཅན་གྱིས་ལག་པ་ལྟེ་བའི་འོག་ཏུ་སྦེད། ཁ་ལ་ཡང་ཕྱིར་མི་སྐྱེལ།",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "སྦེད"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ལེ་ལོ་ཅན"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "ལྟེ་བའི་འོག"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ཕྱིར་སྐྱེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:41.879951145Z",
+  "model": "glm-5.3"
+}

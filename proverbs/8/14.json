@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ང་ལ་བློ་གྲོས་ཀྱི་སྙན་zag དང་ལེགས་པའི་ཐབས་ཡོད། ང་ནི་བློ་གྲོས་ཡིན་ལ། ང་ལ་དཔའ་སྟོབས་ཡོད་དོ།།",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "སྙན་zag"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ལེགས་པའི་ཐབས"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "བློ་གྲོས"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "དཔའ་སྟོབས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:53:47.846913200Z",
+  "model": "glm-5.3"
+}

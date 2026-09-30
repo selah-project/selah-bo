@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 39,
+  "translation": "ང་ཁ་རོག་ཏུ་གནས་ཏེ་ཁ་མ་ཕྱེ། ཁྱེད་ཀྱིས་⟨དེ⟩མཛད་པའི་ཕྱིར་རོ།",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ང་ཁ་རོག་ཏུ་གནས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ཕྱེ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱེད་ཀྱིས"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "མཛད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:27:46.555963689Z",
+  "model": "glm-5.3"
+}

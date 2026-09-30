@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "དངུལ་གྱི་ལྷ་ང་དང་ལྷན་དུ⟨את⟩མ་བྱེད། གསེར་གྱི་ལྷ་ཁྱེད་རང་ལ་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "བྱེད"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ལྷ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ལྷ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "བྱེད"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་རང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:28:24.389457123Z",
+  "model": "glm-5.3"
+}

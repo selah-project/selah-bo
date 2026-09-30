@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ལེ་ཝིའི་ཁྱིམ་གྱི་མི་ཞིག་སོང་སྟེ་ལེ་ཝིའི་⟨את⟩བུ་མོ་བླངས།",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ཁྱིམ་ནས"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ལེ་ཝི"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "བླངས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བུ་མོ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ལེ་ཝི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:33:03.862666558Z",
+  "model": "glm-5.3"
+}

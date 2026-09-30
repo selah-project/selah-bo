@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 15:29",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "བ་ཨ་ལ་ཧ་དང་ཨི་ཡིམ་དང་ཨ་ཛེམ།",
+  "tokens": [
+    {
+      "surface": "בעלה",
+      "gloss": "བ་ཨ་ལ་ཧ"
+    },
+    {
+      "surface": "ועיים",
+      "gloss": "ཨི་ཡིམ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ཨ་ཛེམ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:07.514886888Z",
+  "model": "glm-5.3"
+}

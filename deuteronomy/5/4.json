@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "གདོང་དང་གདོང་ཐུག་སྟེ་ཡ་ཧ་ཝེས་རི་ལ་མེའི་དབུས་ནས་ཁྱེད་ཅག་ལ་གསུངས།",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "གདོང"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "གདོང་དང་གདོང་ཐུག་སྟེ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ཁྱེད་ཅག་ལ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "རི་ལ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "དབུས་ནས"
+    },
+    {
+      "surface": "האש",
+      "gloss": "མེ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:53.646378087Z",
+  "model": "glm-5.3"
+}

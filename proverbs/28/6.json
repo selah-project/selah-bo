@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "སྐྱོན་མེད་དུ་འགྲོ་བའི་དབུལ་པོ་ནི་ལམ་འཁྱོག་ཅིང་ཕྱུག་པོ་ལས་ལེགས།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "רש",
+      "gloss": "དབུལ་པོ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "འགྲོ་བ"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "སྐྱོན་མེད་དུ"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "འཁྱོག"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "⟨ཅིང་⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ཕྱུག་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:36.555323035Z",
+  "model": "glm-5.3"
+}

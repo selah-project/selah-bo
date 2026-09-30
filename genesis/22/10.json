@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཨབ་ར་ཧམ་གྱིས་ལག་པ་⟨את⟩བརྐྱངས་ནས་བུ་གསོད་པའི་ཕྱིར་⟨את⟩གྲི་བླངས།",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "བརྐྱངས"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལག་པ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "བླངས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གྲི"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "གྲི"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "གསོད་པའི་ཕྱིར"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོའི་བུ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:12:12.917283680Z",
+  "model": "glm-5.3"
+}

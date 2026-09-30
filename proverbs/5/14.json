@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཚོགས་དང་འདུས་པའི་དབུས་སུ་བདག་ཕལ་ཆེར་ཉེས་པ་ཐམས་ཅད་ཀྱི་ནང་དུ་གྱུར།",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ཕལ་ཆེར"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ཐམས་ཅད་ཀྱི་ནང་"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ཉེས་པ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "དབུས་སུ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ཚོགས"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "འདུས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:50.884311803Z",
+  "model": "glm-5.3"
+}

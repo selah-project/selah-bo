@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཡ་ཧ་ཝེ་སྤྲིན་གྱི་ཀ་བ་ལས་གུར་དུ་མངོན་ཏེ། སྤྲིན་གྱི་ཀ་བ་གུར་གྱི་སྒོའི་སྟེང་དུ་ལངས་སོ།",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "མངོན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "གུར"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ཀ་བ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "སྤྲིན"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ལངས"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ཀ་བ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "སྤྲིན"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "གུར"
+    }
+  ],
+  "timestamp": "2026-09-30T09:03:28.103018533Z",
+  "model": "glm-5.3"
+}

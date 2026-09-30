@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "དགའ་བའི་སྙིང་གིས་སྨན་བཟང་བྱེད་ལ་ རྨས་པའི་རུ་ཨ་ཁ་གིས་རུས་པ་སྐམ་པར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "དགའ་བ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "བཟང་བྱེད"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "སྨན"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "རུ་ཨ་ཁ"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "རྨས་པ"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "སྐམ་པར་བྱེད"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "རུས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:32.410978374Z",
+  "model": "glm-5.3"
+}

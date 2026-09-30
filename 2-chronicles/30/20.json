@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ཡ་ཧ་ཝེ་ཡིས་ཡི་ཧི་ཙ་ཀི་ཡ་ཧུ་ལ་གསན་ཏེ་⟨את⟩མི་རྣམས་གསོས་སོ།",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "གསན་ཏེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ཡི་ཧི་ཙ་ཀི་ཡ་ཧུ"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "གསོས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མི་རྣམས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་རྣམས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:20:53.299725838Z",
+  "model": "glm-5.3"
+}

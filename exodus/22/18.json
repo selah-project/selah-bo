@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "དུད་འགྲོ་དང་མཉམ་དུ་ཉལ་བ་པོ་ཀུན་ཤི་བས་ཤི་བར་བྱ།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ཉལ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་མཉམ་དུ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "དུད་འགྲོ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ཤི་བས"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ཤི་བར་བྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:45:16.744195091Z",
+  "model": "glm-5.3"
+}

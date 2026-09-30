@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "བིན་ཡ་མིན་དང་ཡེ་ཧུ་དའི་བུ་ཚ་ཁ་ཤས་ལས་ད་ཝིད་ཀྱི་མཁར་རྫོང་དུ་འབྱོར་རོ།",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "འབྱོར"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "བིན་ཡ་མིན"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "དང་ཡེ་ཧུ་ད"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "མཁར་རྫོང་"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ད་ཝིད་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:59:10.903001195Z",
+  "model": "glm-5.3"
+}

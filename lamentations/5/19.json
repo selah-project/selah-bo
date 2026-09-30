@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཁྱོད་ཡ་ཧ་ཝེ་ནི་ནམ་ཡང་བཞུགས་ཤིང་། ཁྱོད་ཀྱི་ཁྲི་ནི་རིགས་རབས་ནས་རིགས་རབས་བར་དུའོ།",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ནམ་ཡང"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "བཞུགས"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ཁྱོད་ཀྱི་ཁྲི"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "རིགས་རབས་ནས"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "རིགས་རབས་བར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:52.876733069Z",
+  "model": "glm-5.3"
+}

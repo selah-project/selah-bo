@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "དང་ལུ་གུ་རེ་ལ་ཨེ་ཤ་རོན་རེ་ ལུ་གུ་བཅུ་བཞི་ལའོ། །",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "དང་ཨེ་ཤ་རོན"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ཨེ་ཤ་རོན"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ལུ་གུ་རེ་ལ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "བཞི་ལ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ལུ་གུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:37:13.708810423Z",
+  "model": "glm-5.3"
+}

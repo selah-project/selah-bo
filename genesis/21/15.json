@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "སྒལ་ཆུའི་ཆུ་ཟད་པ་དང་། མོས་⟨את⟩བྱིས་པ་རྩི་ཤིང་གི་གྲས་གཅིག་གི་འོག་ཏུ་བཞག",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "ཟད"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "སྒལ་ཆུ"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "བཞག\/གཡུག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བྱིས་པ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "བྱིས་པ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "འོག་ཏུ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གྲས་གཅིག"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "རྩི་ཤིང"
+    }
+  ],
+  "timestamp": "2026-09-30T07:12:34.182985297Z",
+  "model": "glm-5.3"
+}

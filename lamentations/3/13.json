@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོང་གི་མདའ་ཁུག་གི་བུ་དག་⟨ང་ཡི⟩མཁལ་མའི་ནང་དུ་འཕངས།",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "འཕངས་ནང་དུ་བཅུག"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "⟨ང་ཡི⟩མཁལ་མའི་ནང་"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་དག"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "ཁོང་གི་མདའ་ཁུག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:52.766235772Z",
+  "model": "glm-5.3"
+}

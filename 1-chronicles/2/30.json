@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ན་དབ་ཀྱི་བུ་རྣམས་ནི་སེ་ལེད་དང་ཨ་ཕ་ཡིམ་ཡིན། སེ་ལེད་ནི་བུ་མེད་པར་ཤི།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ན་དབ"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "སེ་ལེད"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "ཨ་ཕ་ཡིམ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ཤི"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "སེ་ལེད"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:17.538798149Z",
+  "model": "glm-5.3"
+}

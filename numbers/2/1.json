@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡ་ཧ་ཝེ་གིས་མོ་ཤེ་ལ་དང་ཨ་ཧ་རོན་ལ་འདི་སྐད་དུ་གསུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་།"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་ལ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ཨ་ཧ་རོན"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:17:40.576873173Z",
+  "model": "glm-5.3"
+}

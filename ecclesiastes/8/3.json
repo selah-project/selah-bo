@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཁོའི་སྤྱན་སྔར་མྱུར་དུ་མ་འགྲོ། ངན་པའི་གནས་སུ་མ་ལངས། གང་ལ་ཁོ་དགའ་བ་ཀུན་ཁོ་བྱེད་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "མྱུར་དུ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ཁོའི་སྤྱན་སྔར"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ལངས"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "གནས་སུ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པའི"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:23.419093222Z",
+  "model": "glm-5.3"
+}

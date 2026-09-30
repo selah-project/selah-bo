@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "དི་བོན་གད་ནས་ཁོང་རྣམས་ཨི་ཡིམ་ལས་གཤེགས་ཏེ་དེར་བཞུགས།",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ཁོང་རྣམས་གཤེགས"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "ཨི་ཡིམ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "བཞུགས"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "དི་བོན"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:19.843257175Z",
+  "model": "glm-5.3"
+}

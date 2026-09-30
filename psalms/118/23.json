@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 118,
+  "translation": "འདི་ཡ་ཧ་ཝེའི་⟨את⟩ལས་བྱུང་བ་ཡིན། འདི་ངེད་ཀྱི་མིག་ཏུ་ངོ་མཚར་རོ།",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ལས",
+      "marks": "འདི (this deed)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "བྱུང་བ་ཡིན"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨འདི⟩"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ངོ་མཚར"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "ངེད་ཀྱི་མིག་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:45:06.506708847Z",
+  "model": "glm-5.3"
+}

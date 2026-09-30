@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "རྣ་བས་ཚིག་བརྟག་པ་མིན་ནམ། ཁ་ཡིས་ཁ་ལག་རང་ལ་བྲོ་བ་མྱོང་བ་མིན་ནམ།",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "མིན་ནམ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "རྣ་བ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "བརྟག"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ཁ་ལག"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "བྲོ་བ་མྱོང་"
+    },
+    {
+      "surface": "לו",
+      "gloss": "རང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:05:47.524042032Z",
+  "model": "glm-5.3"
+}

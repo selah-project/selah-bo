@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཨ་ད་ཡ་ཧ། དང་བེ་ར་ཡ་ཧ། དང་ཤིམ་ར་ཐ། ཤི་མེ་ཡི་བུ་ཚ་དག་གོ།",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "དང་ཨ་ད་ཡ་ཧ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "དང་བེ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "དང་ཤིམ་ར་ཐ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ཤི་མེ་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:08.732496880Z",
+  "model": "glm-5.3"
+}

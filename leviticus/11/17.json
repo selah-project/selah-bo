@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དང་⟨את⟩ཧ་ཀོ་ས་དང་⟨את⟩ཧ་ཤ་ལ་ཁ་དང་⟨את⟩ཧ་ཡ་ན་ཤུ་ཕ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་ཀོ་ས"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ཧ་ཀོ་ས"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་ཤ་ལ་ཁ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ཧ་ཤ་ལ་ཁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་ཡ་ན་ཤུ་ཕ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ཧ་ཡ་ན་ཤུ་ཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:28:25.820742025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 108,
+  "translation": "གླུ་དང་མ་ཤིམ་མོར་ཨིན་ ད་ཝིད་ཀྱིས།",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "གླུ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ཟུར་གྱི་གླུ་ཚིགས"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ད་ཝིད་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:44:00.160378372Z",
+  "model": "glm-5.3"
+}

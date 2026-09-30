@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཡ་ཨ་རེ་ཤ་ཡ་ཧ་དང་ཨེ་ལི་ཡ་ཧ་དང་ཙི་ཀ་རི་ ཡེ་རོ་ཧམ་གི་བུ་དག",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "ཡ་ཨ་རེ་ཤ་ཡ་ཧ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "ཨེ་ལི་ཡ་ཧ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ཙི་ཀ་རི"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་དག"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ཡེ་རོ་ཧམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:57.396341719Z",
+  "model": "glm-5.3"
+}

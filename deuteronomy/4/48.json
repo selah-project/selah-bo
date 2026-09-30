@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཨར་ནོན་ཆུ་བོའི་འགྲམ་ན་ཡོད་པའི ཨ་རོ་ཨེར་ནས། སི་ཡོན་རི་བོ་སྟེ་ཧེར་མོན་ཡིན་པ་དེའི་བར་དུའོ།",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "ཨ་རོ་ཨེར་ནས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ཡོད་པའི"
+    },
+    {
+      "surface": "על",
+      "gloss": "ན"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "འགྲམ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ཆུ་བོའི"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ཨར་ནོན"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "རི་བོ"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "སི་ཡོན"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ཧེར་མོན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:45:55.036917776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "མི་རིགས་ཐམས་ཅད་ཀྱིས་ཟེར་རོ — ཡ་ཧ་ཝེས་ས་གཞི་འདི་ལ་ཅིའི་ཕྱིར་འདི་ལྟར་བྱས། ཁྲོ་བ་ཆེན་པོ་འདིའི་ཚ་བ་འདི་ཅི་ཞིག་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ཟེར་རོ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "མི་རིགས"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨concerning⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅིའི་ཕྱིར"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "འདི་ལྟར"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ས་གཞི་ལ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ཚ་བ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ཁྲོ་བ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T09:00:13.904330716Z",
+  "model": "glm-5.3"
+}

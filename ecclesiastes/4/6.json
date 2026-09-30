@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ལག་མཐིལ་གང་ཞི་བདེ་ནི་ཁུ་ཚོར་གཉིས་ཀྱི་ངལ་རྩོལ་དང་རུ་ཨ་ཁའི་སྡུག་བསྔལ་ལས་ལེགས།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "གང"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ལག་མཐིལ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ཞི་བདེ"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ཁུ་ཚོར་གཉིས"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ངལ་རྩོལ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "སྡུག་བསྔལ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "རུ་ཨ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:50.490584937Z",
+  "model": "glm-5.3"
+}

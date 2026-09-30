@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཧུར་གིས་⟨את⟩ཨུ་རི་བཙས། ཨུ་རི་གིས་⟨את⟩བེ་ཙ་ལེལ་བཙས།",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ཧུར་གིས་"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨུ་རི"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ཨུ་རི"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ཨུ་རི་གིས་"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བེ་ཙ་ལེལ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "བེ་ཙ་ལེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:29.120060040Z",
+  "model": "glm-5.3"
+}

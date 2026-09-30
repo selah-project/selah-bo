@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ད་ཝིད་མཁར་ལ་གནས། དེའི་ཕྱིར་དེ་ལ་ད་ཝིད་ཀྱི་གྲོང་ཁྱེར་ཞེས་བཏགས།",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "མཁར་ལ"
+    },
+    {
+      "surface": "על",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "བཏགས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "གྲོང་ཁྱེར"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ད་ཝིད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:51.435499270Z",
+  "model": "glm-5.3"
+}

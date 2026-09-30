@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "ཧོ་རོ་ན་ཡིམ་ནས་ངུ་འབོད་ཀྱི་སྒྲ་⟨གྲགས⟩། འཇིག་པ་དང་ཆག་ཆེན་ནོ།",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "སྒྲ"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ངུ་འབོད"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "ཧོ་རོ་ན་ཡིམ་ནས"
+    },
+    {
+      "surface": "שד",
+      "gloss": "འཇིག་པ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ཆག"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ཆེན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:27:19.358919163Z",
+  "model": "glm-5.3"
+}

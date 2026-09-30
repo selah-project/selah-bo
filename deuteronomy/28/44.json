@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཁོས་ཁྱོད་ལ་གཡར་ཞིང་ཁྱོད་ཀྱིས་ཁོ་ལ་མི་གཡར་བ་དང་ཁོ་མགོ་བོར་འགྱུར་ལ་ཁྱོད་མཇུག་མར་འགྱུར་རོ།",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ཁོས"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "གཡར"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "དང་ཁྱོད་ཀྱིས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "གཡར"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "མགོ་བོར"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "དང་ཁྱོད"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "མཇུག་མར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:58:29.045163431Z",
+  "model": "glm-5.3"
+}

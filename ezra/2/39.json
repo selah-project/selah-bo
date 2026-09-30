@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཧ་རིམ་གྱི་བུ་ཚ་དག སྟོང་ཕྲག་གཅིག་དང་བཅུ་བདུན།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ཧ་རིམ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང་ཕྲག་གཅིག"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:34.278638713Z",
+  "model": "glm-5.3"
+}

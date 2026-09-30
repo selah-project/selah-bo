@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཀལེབ་ཀྱི་ཆུང་མ་ཕལ་པ་མ་ཨ་ཁ་ཡིས་ཤེབེར་དང་⟨את⟩ཐིར་ཆ་ན་བཙས།",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ཆུང་མ་ཕལ་པ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ཀལེབ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "མ་ཨ་ཁ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ཤེབེར"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཐིར་ཆ་ན"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ཐིར་ཆ་ན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:08.500435872Z",
+  "model": "glm-5.3"
+}

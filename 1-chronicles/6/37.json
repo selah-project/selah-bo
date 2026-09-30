@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མེ་ར་ཡོ་ཐ་དེའི་བུ། ཨ་མ་ར་ཡ་ཧ་དེའི་བུ། ཨ་ཧི་ཏུབ་དེའི་བུ།",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "མེ་ར་ཡོ་ཐ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ཨ་མ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ཨ་ཧི་ཏུབ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:38.647328723Z",
+  "model": "glm-5.3"
+}

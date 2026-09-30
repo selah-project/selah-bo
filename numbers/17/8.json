@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "མོ་ཤེ་དང་ཨ་ཧ་རོན་འཕྲད་པའི་གུར་གྱི་མདུན་དུ་བྱོན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "བྱོན"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "དང་ཨ་ཧ་རོན"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "མདུན"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "གུར"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "འཕྲད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:29:05.073121908Z",
+  "model": "glm-5.3"
+}

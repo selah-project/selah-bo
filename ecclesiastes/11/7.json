@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཡང་འོད་མངར་ལྡན་ཏེ། ཉི་མ་⟨את⟩མཐོང་བ་མིག་ལ་བཟང༌།",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "མངར་ལྡན"
+    },
+    {
+      "surface": "האור",
+      "gloss": "འོད"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "བཟང"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "མིག་ལ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "མཐོང་བ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཉི་མ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ཉི་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:38.497616756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ངའི་ཐད་དུ་བྱུང་སྟེ་ཞེས་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང་སྟེ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངའི་ཐད་དུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས་འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:35:03.687318873Z",
+  "model": "glm-5.3"
+}

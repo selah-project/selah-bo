@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ངས་⟨את⟩ཉི་མའི་འོག་ཏུ་བྱས་པའི་ལས་ཐམས་ཅད་མཐོང་། ཀྱེ་མ་ཐམས་ཅད་ཧེ་བེལ་ཏེ་རུ་ཨ་ཁའི་སྡུག་བསྔལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ངས་མཐོང་"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལས་ཐམས་ཅད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "བྱས་པ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "འོག་ཏུ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ཉི་མའི"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ཀྱེ་མ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ཧེ་བེལ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "སྡུག་བསྔལ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "རུ་ཨ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:27.838528149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡོ་ཨ་ཧ་ཁོའི་བུ། ཨི་དོ་ཁོའི་བུ། ཛེ་ར་ཧ་ཁོའི་བུ། ཡེ་ཨ་ཐེ་རའི་ཁོའི་བུ།",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "ཡོ་ཨ་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "ཨི་དོ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ཛེ་ར་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "ཡེ་ཨ་ཐེ་རའི"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:41.499796088Z",
+  "model": "glm-5.3"
+}

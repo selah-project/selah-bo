@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ལེ་ཨའི་བྲན་མོ་ཛིལ་ཕས་ཡ་ཨ་ཀོབ་ལ་བུ་གཉིས་པ་ཞིག་སྐྱེས།",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ཛིལ་ཕས"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "བྲན་མོ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ལེ་ཨའི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "གཉིས་པ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ཡ་ཨ་ཀོབ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:15:52.224966477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "མོས་ཁོ་ལ་བུ་སྐྱེས་པ་ནི་⟨את⟩ ཡེ་ཨུ་ཤ་དང་⟨את⟩ཤེ་མ་རི་ཡ་ཧ་དང་⟨את⟩ཛ་ཧམ་མོ།",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡེ་ཨུ་ཤ"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "ཡེ་ཨུ་ཤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "དང་⟨את⟩",
+      "marks": "ཤེ་མ་རི་ཡ་ཧ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ཤེ་མ་རི་ཡ་ཧ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "དང་⟨את⟩",
+      "marks": "ཛ་ཧམ"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "ཛ་ཧམ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:11:01.556989665Z",
+  "model": "glm-5.3"
+}

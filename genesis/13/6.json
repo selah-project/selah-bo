@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ས་གཞིས་ཀྱང་ཁོང་གཉིས་མཉམ་དུ་གནས་པར་⟨את⟩མ་བཟོད་དེ། ཁོང་ཚོའི་ནོར་རྫས་མང་བས་མཉམ་དུ་གནས་མ་ཐུས་སོ།",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "བཟོད"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ས་གཞི"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "གནས་པར"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "མཉམ་དུ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "དེ་བས"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ནོར་རྫས"
+    },
+    {
+      "surface": "רב",
+      "gloss": "མང་བ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ཐུས"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "མཉམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:08:19.210375765Z",
+  "model": "glm-5.3"
+}

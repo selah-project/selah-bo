@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "གལ་ཏེ་ཁྱེད་ཀྱིས་ང་ཚོ་ཡོངས་སུ་བོར་ཅིང་། ང་ཚོ་ལ་ཤིན་ཏུ་ཁྲོས་པ་ལགས་སམ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "ཡོངས་སུ"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "བོར་ཅིང་"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "ཁྲོས"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ང་ཚོ་ལ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ཤིན་ཏུ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "མཐར་ཕྱིན"
+    }
+  ],
+  "timestamp": "2026-09-30T15:02:08.922213202Z",
+  "model": "glm-5.3"
+}

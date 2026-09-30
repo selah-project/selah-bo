@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཨབ་ར་ཧམ་གྱིས་ས་དེའི་མི་ཚོའི་མདུན་དུ་ཕྱག་འཚལ་བ།",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ཕྱག་འཚལ་བ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:12:05.457666282Z",
+  "model": "glm-5.3"
+}

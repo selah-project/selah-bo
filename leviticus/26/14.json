@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཡིན་ཡང་གལ་ཏེ་ཁྱེད་ཚོས་ང་ལ་མི་ཉན་ཅིང་བཀའ་ཚིག་འདི་དག་⟨ཐམས་ཅད⟩མི་བྱེད་ན།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ཡིན་ཡང་གལ་ཏེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "ཅིང་མི"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "བྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བཀའ་ཚིག་ཐམས་ཅད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "བཀའ་ཚིག"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "འདི་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:15:42.469640404Z",
+  "model": "glm-5.3"
+}

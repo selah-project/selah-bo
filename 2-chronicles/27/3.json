@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཁོང་གིས་ཡ་ཧ་ཝེའི་ཁང་པའི་སྒོ་གོང་མ་⟨את⟩བཞེངས་ཤིང་ཨོ་ཕེལ་གྱི་ར་བ་ལ་མང་དུ་བཞེངས།",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ཁོང་གིས"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "བཞེངས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སྒོ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "གོང་མ"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "ར་བ་ལ"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "ཨོ་ཕེལ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "བཞེངས"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "མང་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:17:42.454005230Z",
+  "model": "glm-5.3"
+}

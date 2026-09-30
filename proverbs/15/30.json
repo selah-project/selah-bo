@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "མིག་གི་འོད་ཀྱིས་སེམས་སྤྲོ་བར་བྱེད་ལ། གཏམ་བཟང་གིས་རུས་པ་ལ་བཅུད་སྐྱེད་དོ།",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "འོད"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "མིག་གི"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "སྤྲོ་བར་བྱེད"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སེམས"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "གཏམ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "བཟང"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "བཅུད་སྐྱེད"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "རུས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:19.801999258Z",
+  "model": "glm-5.3"
+}

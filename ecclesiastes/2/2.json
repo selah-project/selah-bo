@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "གད་མོ་ལ་ངས་སྨྲས། ཁྱོད་སྨྱོན་པ་ཡིན། དགའ་སྐྱིད་ལ་ཡང་སྨྲས། འདིས་ཅི་ཞིག་བྱེད།",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "གད་མོ་ལ་"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ངས་སྨྲས"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "སྨྱོན་པ"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "དགའ་སྐྱིད་ལ་ཡང་"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི་ཞིག"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདིས"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "…བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T15:02:29.255784070Z",
+  "model": "glm-5.3"
+}

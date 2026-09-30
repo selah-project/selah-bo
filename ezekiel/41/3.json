@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 41,
+  "translation": "ནང་དུ་བྱོན་ནས་སྒོའི་ཀ་བ་ཨམ་མ་གཉིས་དང་སྒོ་ཨམ་མ་དྲུག་དང་སྒོའི་རྒྱར་ཨམ་མ་བདུན་ཚད་འཇལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "བྱོན་ནས"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ནང་དུ"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "ཚད་འཇལ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ཀ་བ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ཨམ་མ"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "དང་སྒོ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ཨམ་མ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "དང་རྒྱར"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ཨམ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:52:29.396296291Z",
+  "model": "glm-5.3"
+}

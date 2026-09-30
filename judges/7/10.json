@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "གལ་ཏེ་ཁྱོད་⟨རང་གི་⟩⟨དཔུང་༽དམག་སྒར་༽<<གྱི་>>་་་་",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "འཇིགས"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "བབས་པར"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ཐོངས"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད་རང"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "ཕུ་ར་ཧ"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "ཁྱོད་ཀྱི་གཞོན་ནུ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "དམག་སྒར"
+    }
+  ],
+  "timestamp": "2026-09-30T09:20:59.322518139Z",
+  "model": "glm-5.3"
+}

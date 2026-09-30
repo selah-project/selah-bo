@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ཁྱེད་ཀྱི་མིག་གིས་མཐོང་བའི་ཉམས་སད་ཆེན་པོ་དག །རྟགས་དག་དང་ངོ་མཚར་ཆེན་པོ་དེ་དག",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "ཉམས་སད"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ཁྱེད་ཀྱི་མིག"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "རྟགས"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "དང་ངོ་མཚར"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "དེ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T14:34:47.331418111Z",
+  "model": "glm-5.3"
+}

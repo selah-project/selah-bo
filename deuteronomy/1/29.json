@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ངས་⟨ཁྱེད་ཚོ་ལ་⟩⟨མི་⟩⟨བག་འཁུམ་ཞིང་⟩⟨མི་⟩⟨སྐྲག་པར་⟩⟨ཁོ་ཚོ་ལ་⟩བཤད།",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ངས་…བཤད"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ཁྱེད་ཚོ་ལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "བག་འཁུམ་ཞིང་"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "སྐྲག་པར"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ཁོ་ཚོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:43:05.100910779Z",
+  "model": "glm-5.3"
+}

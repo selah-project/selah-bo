@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཨ་ཤེར་གྱི་བུ་མོའི་མིང་ས་ར་ཁ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ཨ་ཤེར"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "ས་ར་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:35:38.706501445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ཀ་བ་ཉི་ཤུ་དང་རྨང་གཞི་ཉི་ཤུ་ཟངས། ཀ་བའི་ལྕགས་ཀྱུ་དང་དཀྲི་ཐག་ནི་དངུལ།",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "ཀ་བ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "རྨང་གཞི"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ཟངས"
+    },
+    {
+      "surface": "ואדניהם_placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "ואדניהם_placeholder2",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T07:53:48.291419623Z",
+  "model": "glm-5.3"
+}

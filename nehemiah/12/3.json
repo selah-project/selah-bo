@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཤེ་ཀ་ན་ཡ་ཧ། རེ་ཧུམ། མེ་རེ་མོ་ཐ།",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "ཤེ་ཀ་ན་ཡ་ཧ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "རེ་ཧུམ"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "མེ་རེ་མོ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:51:02.384830310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "དོན་དེ་རྒྱལ་པོ་དང་ཚོགས་ཀུན་གྱི་སྤྱན་སྔར་འགྲིག་པར་གྱུར།",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "འགྲིག་པར་གྱུར"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "དོན"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ཚོགས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:21:24.128648303Z",
+  "model": "glm-5.3"
+}

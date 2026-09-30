@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 13:1",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ལྟོས་།ངའི་མིག་གིས་ཐམས་ཅད་མཐོང་།ངའི་རྣ་བས་ཉན་ཏེ་དེ་ཤེས།",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ལྟོས་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "མཐོང་"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ངའི་མིག"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ངའི་རྣ་བ"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "לה",
+      "gloss": "དེ་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:06:41.514155071Z",
+  "model": "glm-5.3"
+}

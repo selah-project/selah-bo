@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "འདི་དག་ཐམས་ཅད་ལས་སུ་ཞིག་གིས་མི་ཤེས་ཏེ། ཡ་ཧ་ཝེའི་ལག་པས་འདི་བྱས།",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "སུ་ཞིག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ཐམས་ཅད་ལས"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:05:47.523595220Z",
+  "model": "glm-5.3"
+}

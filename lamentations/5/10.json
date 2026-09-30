@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "པགས་པ་ཐབ་ཀ་ལྟར་ཚིག་མུ་གེའི་ཚ་ཚུབ་ཀྱི་ངོས་ནས།",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "པགས་པ"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ཐབ་ཀ"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ངོས་ནས"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ཚ་ཚུབ"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "མུ་གེ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:55.412039082Z",
+  "model": "glm-5.3"
+}

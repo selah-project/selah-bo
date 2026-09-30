@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཡ་ཧ་ཝེའི་ཕོ་ཉས་ནམ་མཁའ་ནས་ཨབ་ར་ཧམ་ལ་ཐེངས་གཉིས་པར་བོས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "བོས"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ཕོ་ཉ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ཐེངས་གཉིས་པར"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ནམ་མཁའ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:13:14.099839535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ནེ་བོའི་བུ་ཚ་རྣམས་ལྔ་བཅུ་དང་གཉིས།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ནེ་བོ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "དང་གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:23.304505584Z",
+  "model": "glm-5.3"
+}

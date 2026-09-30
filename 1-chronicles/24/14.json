@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "བཅོ་ལྔ་པ་བིལ་ག་ལ། བཅུ་དྲུག་པ་ཨི་མེར་ལའོ།",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "བིལ་ག་ལ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཨི་མེར་ལ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:31.412836996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡེ་ཧུ་ད་དང་བིན་ཡ་མིན་དང་ཤ་མ་ཡ་ཧ་དང་ཡི་ར་མ་ཡ་ཧ།",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "ཡེ་ཧུ་ད"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "བིན་ཡ་མིན"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "ཤ་མ་ཡ་ཧ"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "ཡི་ར་མ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:52.618804365Z",
+  "model": "glm-5.3"
+}

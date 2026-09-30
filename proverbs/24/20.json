@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཀྱང་ངན་པ་ལ་མཐའ་མེད་ཅིང་། ངན་པ་རྣམས་ཀྱི་མར་མེ་ནི་ནུབ་པར་འགྱུར་རོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཀྱང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "མཐའ"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ངན་པ་ལ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "མར་མེ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ངན་པ་རྣམས་ཀྱི"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ནུབ་པར་འགྱུར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:59:43.881029882Z",
+  "model": "glm-5.3"
+}

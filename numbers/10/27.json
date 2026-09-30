@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ནཕ་ཐ་ལི་གྱི་བུ་ཚུ་ཡི་དཔུང་ཚོགས་ཀྱི་དམག་གི་དཔོན་ཨ་ཧི་ར་ཨེ་ནན་གྱི་བུ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "དམག"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "དཔུང་ཚོགས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚུ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ནཕ་ཐ་ལི"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ཨ་ཧི་ར"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ཨེ་ནན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:23:18.859471901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མེ་ཤུ་ལམ། ཨ་བི་ཡ་ཧ། མི་ཡ་མིན།",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "མེ་ཤུ་ལམ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ཨ་བི་ཡ་ཧ"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "མི་ཡ་མིན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:57.239540457Z",
+  "model": "glm-5.3"
+}

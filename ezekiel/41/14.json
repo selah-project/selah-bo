@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 41,
+  "translation": "དང་⟨the⟩ཁང་བའི་མདུན་དང་⟨the⟩བཀག་སའི་ཞེང་ཚད་ཤར་ཕྱོགས་སུ་ཨ་མ་བརྒྱའོ།",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "ཞེང་ཚད"
+    },
+    {
+      "surface": "פני",
+      "gloss": "མདུན"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ཁང་བ"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "བཀག་ས"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "ཤར་ཕྱོགས་སུ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ཨ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:52:24.250952374Z",
+  "model": "glm-5.3"
+}

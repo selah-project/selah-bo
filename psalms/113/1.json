@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 113,
+  "translation": "ཡ་ཧ་ལ། ཡ་ཧ་ཝེའི་བྲན་རྣམས་ཀྱིས་ཡ་ཧ་ལ་བྱོས། ཡ་ཧ་ཝེའི་⟨את⟩མཚན་ལ་ཡ་ཧ་ལ་བྱོས།",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ཡ་ཧ་ལ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ཡ་ཧ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ཡ་ཧ་ལ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "བྲན་རྣམས་ཀྱིས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ཡ་ཧ་ལ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མཚན"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མཚན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:44:02.579539549Z",
+  "model": "glm-5.3"
+}

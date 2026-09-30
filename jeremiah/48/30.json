@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "ངས་ཤེས་ཡ་ཧ་ཝེ་གསུང། དེའི་ཁྲོ་བ་ནི་དེ་ལྟར་མ་ཡིན། དེའི་རྫུན་གཏམ་རྣམས་ཀྱིས་དེ་ལྟར་མ་བྱས།",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ངས"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ཁྲོ་བ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་མིན"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "རྫུན་གཏམ་རྣམས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "བྱས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:27:55.519243035Z",
+  "model": "glm-5.3"
+}

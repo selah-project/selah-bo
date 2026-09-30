@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཙེ་ལེཀ་ ཨ་མོན་པ་དང་ ན་ཧ་རའེ་ བེ་རོ་ཐ་པ་ ཡོ་ཨབ་ ཙེ་རུ་ཡ་ཧའི་བུའི་ ཆས་ ཁུར་མཁན།",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "ཙེ་ལེཀ"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "ཨ་མོན་པ"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "ན་ཧ་རའེ"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "བེ་རོ་ཐ་པ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ཁུར་མཁན"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ཆས"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ཡོ་ཨབ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ཙེ་རུ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:39.946055149Z",
+  "model": "glm-5.3"
+}

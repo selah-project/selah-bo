@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "གྲལ་གསུམ་པ་ལ་ལེ་ཤེམ་དང་ཤེ་ཝུ་དང་ཨ་ཙ་ལ་མའོ།",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "གྲལ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "གསུམ་པ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ལེ་ཤེམ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ཤེ་ཝུ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "དང་ཨ་ཙ་ལ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:00.458606438Z",
+  "model": "glm-5.3"
+}

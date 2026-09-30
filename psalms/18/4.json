@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "བསྔགས་འོས་ཡ་ཧ་ཝེ་ལ་ངས་འབོད་དོ། དེ་ལྟར་ངའི་དགྲ་བོ་ལས་ང་ཐར།",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "བསྔགས་འོས"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ངས་འབོད"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ངའི་དགྲ་བོ"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ཐར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:22:25.522878462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡི་བ་ཧ་དང་ཨེ་ལི་ཤ་མ་ཨ་དང་ཨེ་ལི་ཕ་ལེཊ།",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ཡི་བ་ཧ"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "ཨེ་ལི་ཤ་མ་ཨ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ཨེ་ལི་ཕ་ལེཊ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:41.356072887Z",
+  "model": "glm-5.3"
+}

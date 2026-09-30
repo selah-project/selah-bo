@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཧོ་ཤེན་གྱི་སྟེང་དུ་གསེར་གྱི་དོར་བུ་གཉིས་བྱོས། དོར་བུ་གཉིས་ཧོ་ཤེན་གྱི་མཐའ་གཉིས་ལ་བཞག",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "བྱོས"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ཧོ་ཤེན"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "དོར་བུ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "དོར་བུ་གཉིས"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "དོར་བུ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "མཐའ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ཧོ་ཤེན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:42.814939043Z",
+  "model": "glm-5.3"
+}

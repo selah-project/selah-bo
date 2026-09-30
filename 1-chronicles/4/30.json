@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "དང་བེ་ཐུ་ཨེལ་ནང་དང་ཧོར་མ་ཧ་ནང་དང་ཙིག་ལ་གི་ནང་།",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "བེ་ཐུ་ཨེལ་ནང་"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "ཧོར་མ་ཧ་ནང་"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "ཙིག་ལ་གི་ནང་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:41.900230173Z",
+  "model": "glm-5.3"
+}

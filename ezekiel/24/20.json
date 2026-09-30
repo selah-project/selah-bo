@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཁོ་བོས་དེ་དག་ལ་ཡ་ཧ་ཝེའི་ཚིག་ཁོ་བོ་ལ་བྱུང་ཞིང་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ཁོ་བོས་…སྨྲས"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "དེ་དག་ལ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ཁོ་བོ་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:42:48.530041223Z",
+  "model": "glm-5.3"
+}

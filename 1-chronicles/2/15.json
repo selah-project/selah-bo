@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨོ་ཙེམ་དྲུག་པ་དང་། ད་ཝིད་བདུན་པ།",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ཨོ་ཙེམ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "དྲུག་པ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "བདུན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:05.790698728Z",
+  "model": "glm-5.3"
+}

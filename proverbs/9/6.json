@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "གཏི་མུག་ཅན་རྣམས་སྤོང་ལ་གསོན་དང་། བློ་གྲོས་ཀྱི་ལམ་དུ་སོང་ཤིག",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "སྤོང"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "གཏི་མུག་ཅན་རྣམས"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "གསོན"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ་དུ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "བློ་གྲོས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:15.858065260Z",
+  "model": "glm-5.3"
+}

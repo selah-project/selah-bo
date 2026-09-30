@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "བུད་མེད་རྙེད་པ་པོས་བཟང་པོ་རྙེད་དེ། ཡ་ཧ་ཝེ་ལས་མགུ་བ་ཐོབ་བོ།",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "རྙེད་པ་པོས"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "རྙེད་དེ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "བཟང་པོ"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ཐོབ་བོ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "མགུ་བ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:44.874866467Z",
+  "model": "glm-5.3"
+}

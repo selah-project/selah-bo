@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "མིའི་བུ། སྒྲུང་གབ་སྒྲུང་གབ་ཏུ་ཀྱིས་ལ། ཡི་སི་ར་ཨེལ་གྱི་ཁང་ལ་དཔེ་སྨྲོས།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "སྒྲུང་གབ་ཏུ་ཀྱིས"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "སྒྲུང་གབ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "དཔེ་སྨྲ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "དཔེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:39:10.020386025Z",
+  "model": "glm-5.3"
+}

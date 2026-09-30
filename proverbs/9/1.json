@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཧ་ཁ་མས་⟨את⟩ཁོ་མོའི་ཁང་བཞེངས། ཁོ་མོའི་ཀ་བ་བདུན་བརྐོས།",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ཧ་ཁ་མ"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "བཞེངས"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ཁོ་མོའི་ཁང"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "བརྐོས"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "ཁོ་མོའི་ཀ་བ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "བདུན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:30.319569192Z",
+  "model": "glm-5.3"
+}

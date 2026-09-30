@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "མོ་⟨is⟩རྒྱལ་པོའི་མཆུ་སྒྲོས་ལ་ཡོད། ཁྲིམས་ལ་ཁོའི་ཁ་ཚིག་གིས་རྐུ་ལྟ་བྱེད་མི་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "མོ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "མཆུ་སྒྲོས"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ཁྲིམས་ལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "རྐུ་ལྟ་བྱེད"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ཁོའི་ཁ་ཚིག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:30.845364711Z",
+  "model": "glm-5.3"
+}

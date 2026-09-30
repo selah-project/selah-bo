@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཤེ་ཏས་ལོ་བརྒྱ་དང་ལྔ་གསོན་ནས་⟨את⟩ཨེ་ནོ་ཤ་བཙས།",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "གསོན"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ཤེ་ཏ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨེ་ནོ་ཤ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ཨེ་ནོ་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:24.444825342Z",
+  "model": "glm-5.3"
+}

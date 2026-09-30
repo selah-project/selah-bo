@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "གསུམ་པོ་འདི་དག་ང་ལས་ངོ་མཚར་བར་གྱུར། བཞི་པོ་ནི་ངས་ཤེས་མ་མྱོང་།",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "ངོ་མཚར་བར་གྱུར"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ང་ལས"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "དང་བཞི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "ཤེས་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:02:04.056428490Z",
+  "model": "glm-5.3"
+}

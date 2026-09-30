@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "བ་བེལ་གྱི་ཁུར། ཡི་ཤ་ཡ་ཧུ་ཨ་མོ་ཙའི་བུས་མཐོང་བ།",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ཁུར"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "བ་བེལ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ཡི་ཤ་ཡ་ཧུ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ཨ་མོ་ཙ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:42:04.396069632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "དེའི་ཕྱིར་རྫི་བོ་རྣམས་ཡ་ཧ་ཝེའི་ཚིག་ཉོན།",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "རྫི་བོ་རྣམས"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:48:11.161034489Z",
+  "model": "glm-5.3"
+}

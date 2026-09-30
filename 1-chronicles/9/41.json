@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "མི་ཀ་ལ་བུ་སྲས་དྲུག་ཡོད་དེ། ཕི་ཐོན་དང་། མེ་ལེཁ་དང་། ཏ་ཧ་རེ་ཨའོ།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་སྲས་"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "མི་ཀ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ཕི་ཐོན"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "མེ་ལེཁ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "ཏ་ཧ་རེ་ཨ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:14.219925394Z",
+  "model": "glm-5.3"
+}

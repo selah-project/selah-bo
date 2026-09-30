@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 50,
+  "translation": "ས་གཞིར་འཐབ་འཛིང་གི་སྒྲ་དང་། གཏོར་བཤིག་ཆེན་པོ།",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "སྒྲ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "འཐབ་འཛིང"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞིར"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "དང་གཏོར་བཤིག"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ཆེན་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:28:21.426031866Z",
+  "model": "glm-5.3"
+}

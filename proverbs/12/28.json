@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཙེ་དེག་གི་ལམ་དུ་ཚེ་སྲོག་ཡོད། ལམ་དེའི་འཕྲང་ལམ་དུ་འཆི་བ་མེད།",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "ལམ་དུ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ཙེ་དེག་གི"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ཚེ་སྲོག"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "འཕྲང་ལམ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "מות",
+      "gloss": "འཆི་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:23.485835352Z",
+  "model": "glm-5.3"
+}

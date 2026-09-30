@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཤིམ་རོན་མེ་རོན་གྱི་རྒྱལ་པོ་གཅིག ཨ་ཁ་ཤ་ཕའི་རྒྱལ་པོ་གཅིག",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ཤིམ་རོན"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "མེ་རོན"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ཨ་ཁ་ཤ་ཕ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:37.894689922Z",
+  "model": "glm-5.3"
+}

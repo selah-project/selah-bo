@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "ཨབ་ར་ཧམ་གྱིས་<את>ཁོ་རང་ལ་ཡོད་པའི་ཡོད་ཚད་ཡི་ཙ་ཧག་ལ་སྤྲད།",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "སྤྲད"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "את",
+      "gloss": "<את>",
+      "marks": "ཡོད་ཚད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཡོད་ཚད"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…པའི"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་རང་ལ"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ཡི་ཙ་ཧག་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:14:24.915796033Z",
+  "model": "glm-5.3"
+}

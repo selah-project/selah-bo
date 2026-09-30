@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "བེ་ཙེར་དང་ཧོ་དི་དང་ཤམ་ཨ་དང་ཤིལ་ཤ་ཧ་དང་ཡི་ཐ་རན་དང་བེ་ར་ཨ།",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "བེ་ཙེར"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ཧོ་དི"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "ཤམ་ཨ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ཤིལ་ཤ་ཧ"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ཡི་ཐ་རན"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "བེ་ར་ཨ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:05.497294468Z",
+  "model": "glm-5.3"
+}

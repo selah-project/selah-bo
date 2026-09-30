@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ངའི་མི་བུ། ངས་ཁྱོད་ལ་ཅི་བྱས། ཅིས་ཁྱོད་ངལ་བར་བྱས། ང་ལ་ལན་ཐོབ།",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "ངའི་མི་བུ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "ངལ་བར་བྱས"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ལན་ཐོབ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:11:18.332957260Z",
+  "model": "glm-5.3"
+}

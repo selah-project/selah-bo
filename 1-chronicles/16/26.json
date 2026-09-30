@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "མི་རིགས་ཐམས་ཅད་ཀྱི་ལྷ་རྣམས་ནི་དོན་མེད་ཡིན་ལ། ཡ་ཧ་ཝེས་ནམ་མཁའ་བསྐྲུན།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ལྷ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "མི་རིགས"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "དོན་མེད"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ནམ་མཁའ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བསྐྲུན"
+    }
+  ],
+  "timestamp": "2026-09-30T15:05:15.896566846Z",
+  "model": "glm-5.3"
+}

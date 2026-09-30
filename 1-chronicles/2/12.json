@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "དང་ བོ་ཨཛ་གྱིས་⟨את⟩ཨོ་བེད་བསྐྲུན་ལ་ ཨོ་བེད་གྱིས་⟨את⟩ཡི་ཤའི་བསྐྲུན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "དང་ བོ་ཨཛ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བསྐྲུན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨོ་བེད"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ཨོ་བེད"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "དང་ ཨོ་བེད"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བསྐྲུན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡི་ཤའི"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ཡི་ཤའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:02.274948691Z",
+  "model": "glm-5.3"
+}

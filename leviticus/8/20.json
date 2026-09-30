@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཨ་ཡིལ་⟨את⟩ཆ་རེར་བཏབ་ནས། མོ་ཤེས་ཀྱིས་མགོ་དང་⟨את⟩ཆ་དག་དང་⟨את⟩ཚིལ་དུད་སྦར།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ཡིལ"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ཨ་ཡིལ"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "བཏབ"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ཆ་རེ"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "དུད་སྦར"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མགོ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "མགོ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཆ་དག"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ཆ་དག"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཚིལ"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ཚིལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:02:18.674284771Z",
+  "model": "glm-5.3"
+}

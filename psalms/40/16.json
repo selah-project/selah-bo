@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "ང་ལ་ཧ་ཧ་ཟེར་བ་དག་རང་གི་ངོ་ཚའི་རྒྱུ་ལས་སྟོང་ཞིང་བརླག་པར་གྱུར།",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "སྟོང་ཞིང་བརླག"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "རྒྱུ"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "རང་གི་ངོ་ཚ"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ཟེར་བ་"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ཧ་ཧ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ཧ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:27:54.389201274Z",
+  "model": "glm-5.3"
+}

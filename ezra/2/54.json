@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ནེ་ཙི་ཡ་ཁ་ཡི་བུ་རྒྱུད། ཁ་ཏི་ཕའི་བུ་རྒྱུད།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ནེ་ཙི་ཡ་ཁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ཁ་ཏི་ཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:41:39.831592704Z",
+  "model": "glm-5.3"
+}

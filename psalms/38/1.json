@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "མི་ཛ་མོར། ད་ཝིད་ཀྱི། དྲན་པར་བྱ་བའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "མི་ཛ་མོར"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ད་ཝིད་ཀྱི"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "དྲན་པར་བྱ་བའི་ཕྱིར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:27:41.792726090Z",
+  "model": "glm-5.3"
+}

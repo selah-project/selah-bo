@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཁྱོད་ཀྱི་ཉིན་མོ་ཐམས་ཅད་དུ་ནམ་ཡང་ཁོ་ཚོའི་ཞི་བདེ་དང་བདེ་སྐྱིད་མ་འཚོལ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "འཚོལ"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ཁོ་ཚོའི་ཞི་བདེ"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "བདེ་སྐྱིད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ཁྱོད་ཀྱི་ཉིན་མོ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ནམ་ཡང་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:56:35.457850169Z",
+  "model": "glm-5.3"
+}

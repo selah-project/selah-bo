@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡོ་རམ་དེའི་བུ།ཨ་ཧ་ཛི་ཡ་ཧུ་དེའི་བུ།ཡོ་ཨ་ཤ་དེའི་བུའོ།",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "ཡོ་རམ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ཨ་ཧ་ཛི་ཡ་ཧུ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ཡོ་ཨ་ཤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:43.174264395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 47,
+  "translation": "ཕར་ཨོས་ཡ་ཨ་ཀོབ་ལ་གསུངས་པ། ཁྱོད་ཀྱི་ཚེའི་ལོ་རྣམས་ཀྱི་ཉིན་མ་ག་ཚོད།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས་པ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ཕར་ཨོས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ག་ཚོད"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་མ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ལོ་རྣམས"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ཁྱོད་ཀྱི་ཚེའི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:30:21.070105900Z",
+  "model": "glm-5.3"
+}

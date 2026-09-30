@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཤམ་ཡའི་ཕ་ཡ་ད་ཀྱི་བུ་རྣམས་ནི་ཡེ་ཐེར་དང་ཡོ་ན་ཐན་ཡིན། ཡེ་ཐེར་ནི་བུ་མེད་པར་ཤི།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཡ་ད"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ཤམ་ཡ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ཡེ་ཐེར"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ཡོ་ན་ཐན"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ཤི"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ཡེ་ཐེར"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:17.539048271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "མོ་ཤེ་མྱུར་དུ་ས་ལ་ཏུད་དེ་ཕྱག་འཚལ།",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "མྱུར་དུ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "ཏུད"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ས་ལ"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ཕྱག་འཚལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:52:28.051874034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཁོའི་ལག་པ་གཡོན་པ་ངའི་མགོའི་འོག་ཏུ། ཁོའི་གཡས་པས་ང་ལ་འཁྱུད།",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ཁོའི་གཡོན་པ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…འི་འོག་ཏུ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ངའི་མགོ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ཁོའི་གཡས་པས"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ང་ལ་འཁྱུད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:19:37.851877691Z",
+  "model": "glm-5.3"
+}

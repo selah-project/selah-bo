@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "དང་གདུང་མ་⟨the⟩བར་མ་དེ་ཤིང་ལེབ་རྣམས་ཀྱི་དབུས་ན་⟨the⟩མཐའ་ནས་⟨the⟩མཐའི་བར་དུ་ཕུག་ནས་འགྲོའོ།",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "དང་གདུང་མ"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "⟨the⟩བར་མ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "དབུས་ན"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ཤིང་ལེབ་རྣམས"
+    },
+    {
+      "surface": "མבריח",
+      "gloss": "ཕུག་ནས་འགྲོ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨the⟩མཐའ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨the⟩མཐའ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:46:43.700570557Z",
+  "model": "glm-5.3"
+}

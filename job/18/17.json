@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "ཁའི་དྲན་པ་ས་གཞི་ནས་བརླག་ཅིང་། ཕྱི་རོལ་ཏུ་མིང་ཡང་མེད།",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ཁའི་དྲན་པ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "བརླག"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ཅིང་མེད"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁའི"
+    },
+    {
+      "surface": "על",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ངོས"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ཕྱི་རོལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:08:15.204990620Z",
+  "model": "glm-5.3"
+}

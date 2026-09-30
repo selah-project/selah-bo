@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "བག་ཡོད་པས་ངན་པ་མཐོང་སྟེ་སྦ་བར་བྱེད། གླེན་པ་དག་གིས་འདས་ནས་ཉེས་ཆད་མནོས།",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "བག་ཡོད"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "སྦ"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "དང་གླེན་པ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "འདས"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "ཉེས་ཆད་མནོས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:52.703920213Z",
+  "model": "glm-5.3"
+}

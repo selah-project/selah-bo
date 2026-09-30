@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "གསེར་གྱི་ཐག་པ་སྒྲིལ་གཉིས་དོར་བུ་གཉིས་ལ་ཧོ་ཤེན་གྱི་མཐའ་དག་ཏུ་བཞག",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཐག་པ་གཉིས"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "ཐག་པ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "དོར་བུ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "མཐའ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ཧོ་ཤེན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:42.815101647Z",
+  "model": "glm-5.3"
+}

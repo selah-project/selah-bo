@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "མིའི་ཁ་ཡི་འབྲས་བུ་ལས་བཟང་པོ་ཟ་ཡི། གཡོ་ཅན་རྣམས་ཀྱི་ནེ་ཕེ་ཤ་ནི་གནོད་འཚེའོ།",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "འབྲས་བུ་ལས"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "བཟང་པོ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "གཡོ་ཅན་རྣམས"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "གནོད་འཚེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:57.734792708Z",
+  "model": "glm-5.3"
+}

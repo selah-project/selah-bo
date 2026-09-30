@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཁོས་ཡ་ཧ་ཝེའི་<the>ཁང་གི་〈את〉མཛོད་ཁང་དག་དང་<the>རྒྱལ་པོའི་<the>ཁང་གི་〈את〉མཛོད་ཁང་དག་<also>ལེན་ཅིང་། <the>གསེར་གྱི་<the>གོ་ཁྲབ་<which>ཤོ་ལོ་མོ་ཧས་བཟོས་པ་<all>དག་ཀྱང་ལེན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "את",
+      "gloss": "〈את〉",
+      "marks": "མཛོད་ཁང་དག"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "མཛོད་ཁང་དག"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "〈את〉",
+      "marks": "མཛོད་ཁང་དག"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "མཛོད་ཁང་དག"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "<the>རྒྱལ་པོ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "〈את〉",
+      "marks": "<the>གསེར་གྱི་གོ་ཁྲབ་<all>དག"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "<the>གསེར་གྱི་གོ་ཁྲབ་<all>དག"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "את",
+      "gloss": "〈את⟩",
+      "marks": "<all>གོ་ཁྲབ་<which>ཤོ་ལོ་མོ་ཧས་བཟོས་པ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "<all>"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "གོ་ཁྲབ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "<the>གསེར"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<which>"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བཟོས"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤོ་ལོ་མོ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:15:24.134207553Z",
+  "model": "glm-5.3"
+}

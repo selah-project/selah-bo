@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "གནོད་སེམས་འཆར་བའི་མི་དེ་ལ་ངན་འཆར་བྱེད་པའི་བདག་པོ་ཞེས་འབོད་དོ།",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "འཆར་བའི་མི"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "གནོད་སེམས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "བདག་པོ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ངན་འཆར"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "འབོད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:59:09.865751421Z",
+  "model": "glm-5.3"
+}

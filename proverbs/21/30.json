@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཡ་ཧ་ཝེ་ལ་ཁ་གཏོད་པའི་ཤེས་རབ་མེད། བློ་གྲོས་མེད། ཇུས་གཞི་མེད།",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "བློ་གྲོས"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ཇུས་གཞི"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ལ་ཁ་གཏོད་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:36.794514062Z",
+  "model": "glm-5.3"
+}

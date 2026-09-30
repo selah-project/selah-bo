@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "བཅུ་དགུ་པ་ཕེ་ཐ་ཡ་ཧ་ལ། ཉི་ཤུ་པ་ཡེ་ཧེཛ་ཀེལ་ལའོ།",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "ཕེ་ཐ་ཡ་ཧ་ལ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "དགུ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "ཡེ་ཧེཛ་ཀེལ་ལ"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "ཉི་ཤུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:31.413164858Z",
+  "model": "glm-5.3"
+}

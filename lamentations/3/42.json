@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ང་ཚོས་ཉེས་པ་བྱས་ཤིང་ངོ་ལོག་ཀྱང་ཁྱོད་ཀྱིས་གུ་ཡངས་མ་གནང་།",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ང་ཚོ"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "ཉེས་པ་བྱས"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "དང་ངོ་ལོག"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད་ཀྱིས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "གུ་ཡངས་གནང"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:54.041951090Z",
+  "model": "glm-5.3"
+}

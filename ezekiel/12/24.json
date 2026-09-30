@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡི་སི་ར་ཨེལ་གྱི་ཁྱིམ་དབུས་སུ་ རྫུན་པའི་མཐོང་བ་དང་འཇམ་པོའི་མོ་བཤད་སླར་མེད།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "སླར"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "མཐོང་བ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "རྫུན་པའི"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "མོ་བཤད"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "འཇམ་པོའི"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "དབུས་སུ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁྱིམ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:35:25.992225950Z",
+  "model": "glm-5.3"
+}

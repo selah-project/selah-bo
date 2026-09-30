@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དེ་བས་ན་ངས་ཁྱོད་ལ་ཞེས་བཀའ་གནང་བ་ནི། ཁྱོད་རང་གི་ཆེད་དུ་གྲོང་ཁྱེར་གསུམ་དབྱེ་བར་གྱིས་ཤིག་ཅེས་སོ།",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "དེའི"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ངས"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "བཀའ་གནང"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "གྲོང་ཁྱེར"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "དབྱེ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ཀྱི་ཆེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:54:15.740976562Z",
+  "model": "glm-5.3"
+}

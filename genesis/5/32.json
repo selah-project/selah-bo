@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ནོ་ཨ་ཁ་ལོ་ལྔ་བརྒྱ་ལོན་པའི་ཚེ། ནོ་ཨ་ཁས་⟨את⟩ཤེམ་དང་⟨את⟩ཧམ་དང་⟨את⟩ཡ་ཕེ་ཐ་བཙའ་འོ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ཡིན་ནོ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "བཙའ་འོ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཤེམ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ཤེམ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཧམ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ཧམ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཕེ་ཐ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ཡ་ཕེ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:12.573941664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "obadiah 1:12",
+  "book": "obadiah",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཁྱོད་ཀྱི་སྤུན་ཟླའི་<day>ཉིན་<on the day>ལ་<calamity>གློ་བུར་<behold>བལྟ་མ་<Do not>བྱེད། <his calamity>ཁོའི་<day>ཉིན་<on the day>ལ་ཡེ་ཧུ་དའི་བུ་<over>རིས་<Do not><rejoice>དགའ་མ་བྱེད། ཁོ་ཚོ་<destroyed>བརླག་པའི་<day>ཉིན་ལ། <distress>དཀའ་<in>སའི་<day>ཉིན་ལ་ཁྱོད་ཀྱི་ཁ་ཆེན་པོར་<do not magnify>མ་<magnify>བྱེད།།",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "<Do not>མ་"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "<behold>བལྟ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "<on the day>ཉིན"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ཁྱོད་ཀྱི་སྤུན་ཟླ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "<on the day>ཉིན"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "<his calamity>གློ་བུར་<his calamity>བ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "<Do not>མ་"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "<rejoice>དགའ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "བུ་<over>"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ཡེ་ཧུ་ད"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "<on the day>ཉིན"
+    },
+    {
+      "surface": "אבדם",
+      "gloss": "ཁོ་ཚོ་<destroyed>བརླག་པ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "<Do not>མ་"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "<magnify>ཆེན་པོར་<do not magnify>བྱ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ཁྱོད་ཀྱི་ཁ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "<on the day>ཉིན"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "<distress>དཀའ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:04:24.953201999Z",
+  "model": "glm-5.3"
+}

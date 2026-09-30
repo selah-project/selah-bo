@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "ཡ་ཧ་ཝེ་གིས་ང་ལ་གསུངས། ཁོང་ཚོས་གང་བཤད་པ་ལེགས་སོ།།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "ལེགས་སོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "བཤད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:52:46.193575023Z",
+  "model": "glm-5.3"
+}

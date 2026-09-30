@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཕྱུགས་<⟨the⟩>རྣམས་<⟨the⟩>ལས་<⟨the⟩>རྨིག་པ་<⟨the⟩>གཤགས་<⟨the⟩>ཅན་<⟨the⟩>དང་<⟨the⟩>རྨིག་པ་<⟨the⟩>ཆད་ཆད་<⟨the⟩>ཅན་<⟨the⟩>ཟས་<⟨the⟩>ལྡད་བསྐྱར་<⟨the⟩>བྱེད་<⟨the⟩>པ་<⟨the⟩>དེ་<⟨the⟩>ཁྱེད་ཀྱིས་<⟨the⟩>ཟས་<⟨the⟩>ཆོག",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "རྨིག་པ་གཤགས་པ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "རྨིག་པ"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "དང་ཆད་པ"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ཆད"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "རྨིག་པ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ལྡད་བསྐྱར་བྱེད་པ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ཟས་བསྐྱར་ལྡད"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ཕྱུགས་ལ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ཕྱུགས་དེ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཁྱེད་ཀྱིས་ཟ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:03:11.477448057Z",
+  "model": "glm-5.3"
+}

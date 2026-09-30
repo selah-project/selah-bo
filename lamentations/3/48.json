@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "lamentations 3:48",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ང་ཡི་མིག་ནས་ཆུ་ཡི་ཆུ་ཕྲན་འབབ། ང་ཡི་མི་རིགས་ཀྱི་བུ་མོའི་འཐོར་ཞིག་ལ།",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ཆུ་ཕྲན"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ་ཡི"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "འབབ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ང་ཡི་མིག་ནས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "འཐོར་ཞིག"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ང་ཡི་མི་རིགས་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:07.017559767Z",
+  "model": "glm-5.3"
+}

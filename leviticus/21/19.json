@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཡང་ན་རྐང་པ་ཆག་སྐྱོན་ཅན་ནམ་ལག་པ་ཆག་སྐྱོན་ཅན་གྱི་མི།",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ཡང་ན"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡིན་ན"
+    },
+    {
+      "surface": "בו",
+      "gloss": "དེའི་ལུས་སུ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ཆག་སྐྱོན"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "རྐང་པ"
+    },
+    {
+      "surface": "או",
+      "gloss": "འམ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ཆག་སྐྱོན"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ལག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:11:35.359768452Z",
+  "model": "glm-5.3"
+}

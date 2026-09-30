@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "གང་གི་ཕྱིར་ཧེ་བེལ་དུ་འོངས་ལ་མུན་པར་འགྲོ་ཞིང་མུན་པས་ཁོའི་མིང་གཡོགས་སོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གང་གི་ཕྱིར"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ཧེ་བེལ་དུ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འོངས"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "མུན་པར"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "མུན་པས"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ཁོའི་མིང"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "གཡོགས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:37.508910548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 44,
+  "translation": "བྱའི་ཤ་རོ་དང་དུད་འགྲོའི་ཤ་དུམ་ཐམས་ཅད་ཀ་ཧེན་ཚོས་མི་བཟའ།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ཤ་རོ"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "དང་ཤ་དུམ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ལས"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "དང་…ལས"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "དུད་འགྲོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "བཟའ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ཀ་ཧེན་ཚོས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:54:15.624989608Z",
+  "model": "glm-5.3"
+}

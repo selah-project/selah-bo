@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཧ་ཤེམ་གི་བུ་ཚོ་གི་ཛོ་ནི་བ་པ། ཡོ་ན་ཐན་ཤ་གེ་ཧ་ར་རི་བ་པའི་བུ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ཧ་ཤེམ"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "གི་ཛོ་ནི་བ་པ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ཡོ་ན་ཐན"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ཤ་གེ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ཧ་ར་རི་བ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:44.654386488Z",
+  "model": "glm-5.3"
+}

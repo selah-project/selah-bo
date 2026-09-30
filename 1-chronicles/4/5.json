@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཨ་ཤ་ཧུར་སྟེ་ཏེ་ཀོ་ཨ་ཡི་ཕ་ལ་ཆུང་མ་གཉིས་ཡོད་དེ་ཧེ་ལ་ཧ་དང་ན་ཨ་ར་ཧའོ།",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "ཨ་ཤ་ཧུར་ལ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ཏེ་ཀོ་ཨ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ཆུང་མ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ཧེ་ལ་ཧ"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "དང་ན་ཨ་ར་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:50.190652323Z",
+  "model": "glm-5.3"
+}

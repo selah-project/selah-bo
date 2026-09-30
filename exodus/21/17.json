@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཕ་དང་མ་ལ་སྨོད་པ་གཏོང་བ་དེ་ཤི་བར་ངེས་པར་འཆི་བར་བྱ།",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "སྨོད་པ་གཏོང་"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "וואמו",
+      "gloss": "མ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ཤི"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ངེས་པར་འཆི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:45:35.942909413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡ་ཧུ་ད་ལ། ནག་ཤོན་ཨམི་ན་དབ་གི་བུ།",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "ཡ་ཧུ་ད་ལ"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ནག་ཤོན"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ཨམི་ན་དབ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:15:40.550198585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡི་ས་ས་ཀར་གྱི་སྡེ་ལས་ཡོ་སེཕ་གྱི་བུ་ཡིག་ཨལ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "སྡེ་ལས"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ཡི་ས་ས་ཀར"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ཡིག་ཨལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:30.683161422Z",
+  "model": "glm-5.3"
+}

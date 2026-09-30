@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "དབུལ་ཞིང་ཞན་པ་རྣམས་གཉའ་གནོན་པའི་མི་ནི་འཁྱེར་བའི་ཆར་པ་འདྲ་སྟེ་བག་ལེབ་མེད་དོ།།",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "མི"
+    },
+    {
+      "surface": "רש",
+      "gloss": "དབུལ"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "གཉའ་གནོན"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ཞན་པ་རྣམས"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ཆར་པ"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "འཁྱེར་བའི"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "བག་ལེབ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:51.064041940Z",
+  "model": "glm-5.3"
+}

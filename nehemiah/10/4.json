@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཕ་ཤ་ཧུར་དང་ཨ་མ་ར་ཡ་ཧ་དང་མལ་ཀི་ཡ་ཧའོ།",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "ཕ་ཤ་ཧུར"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ཨ་མ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "མལ་ཀི་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:54.721890392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡི་སི་ར་ཨེལ་ལྡང་ཉོན། ངེད་ཀྱི་ཨེ་ལོ་ཧིམ་ཡ་ཧ་ཝེ་ནི་ཡ་ཧ་ཝེ་གཅིག་པུ་ལགས་སོ།",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ངེད་ཀྱི་ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག་པུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:46:21.871763263Z",
+  "model": "glm-5.3"
+}

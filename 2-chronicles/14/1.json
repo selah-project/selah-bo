@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཨ་ས་ཡིས་རང་གི་ཨེ་ལོ་ཧིམ་ཡ་ཧ་ཝེ་གྱི་སྤྱན་སྔར་ལེགས་པ་དང་དྲང་པོ་མཛད།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "མཛད"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ཨ་ས"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ལེགས་པ"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "དྲང་པོ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "རང་གི་ཨེ་ལོ་ཧིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:12:36.088934481Z",
+  "model": "glm-5.3"
+}

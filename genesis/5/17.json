@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "མ་ཧ་ལ་ལེལ་གྱི་ཉིན་མ་ཐམས་ཅད་ལོ་ལྔ་དང་དགུ་བཅུ་དང་ལོ་བརྒྱད་བརྒྱ་བྱས། ཁོང་གྲོངས།",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་མ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "མ་ཧ་ལ་ལེལ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "དང་དགུ་བཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "དང་བརྒྱད"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "གྲོངས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:36.129977065Z",
+  "model": "glm-5.3"
+}

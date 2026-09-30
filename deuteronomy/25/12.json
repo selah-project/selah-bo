@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "དེ་ནས་⟨את⟩ ཁོ་མོའི་ལག་པ་གཅོད་པར་བྱ་ཞིང་། ཁྱོད་ཀྱི་མིག་གིས་བརྩེ་བར་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "གཅོད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལག་པ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ཁོ་མོའི་ལག་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "བརྩེ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ཁྱོད་ཀྱི་མིག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:55:44.672258364Z",
+  "model": "glm-5.3"
+}

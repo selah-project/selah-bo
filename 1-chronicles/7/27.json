@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ནུན་ནི་ཁོའི་བུ་དང་། ཡེ་ཧོ་ཤུ་ཨ་ནི་ཁོའི་བུའོ།",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "ནུན"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ཡེ་ཧོ་ཤུ་ཨ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:47.920424992Z",
+  "model": "glm-5.3"
+}

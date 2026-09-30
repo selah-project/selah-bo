@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "ཡོ་སེཕ་གྱིས་ལན་བཏབ་སྨྲས་པ། འདི་ནི་དེའི་འགྲེལ་བ་ཡིན། སྣོད་གསུམ་ནི་ཉིན་གསུམ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ལན་བཏབ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "འགྲེལ་བ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "སྣོད་ཚོ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:24:53.300050676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ན་བི་ཧ་གེའི་ལག་ནས་ཡ་ཧ་ཝེའི་ཚིག་བྱུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ལག་ནས"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ཧ་གེ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ན་བི"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:13:58.789119475Z",
+  "model": "glm-5.3"
+}

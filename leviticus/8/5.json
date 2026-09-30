@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "མོ་ཤེ་ཡིས་ཚོགས་ལ་བཤད་དེ། ཡ་ཧ་ཝེ་ཡིས་བྱ་བར་བཀའ་གནང་བའི་དོན་འདི་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "བཤད་དེ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ཚོགས"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "དོན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "བཀའ་གནང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "བྱ་བར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:02:50.238615707Z",
+  "model": "glm-5.3"
+}

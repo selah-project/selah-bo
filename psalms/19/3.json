@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཉིན་མོས་ཉིན་མོ་ལ་གཏམ་འབྱིན། མཚན་མོས་མཚན་མོ་ལ་ཤེས་བྱ་སྟོན།",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ཉིན་མོས"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ཉིན་མོ་ལ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "འབྱིན"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གཏམ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "དང་མཚན་མོས"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "མཚན་མོ་ལ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "སྟོན"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་བྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:23:22.725875889Z",
+  "model": "glm-5.3"
+}

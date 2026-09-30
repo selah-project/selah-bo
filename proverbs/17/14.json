@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 17:14",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཆུ་གཏོང་བ ⟨སྟེ⟩རྩོད་པའི་འགོ་ཡིན་པས། ཁ་རྩོད་མ་འབུས་གོང་དུ་རྩོད་པ་དོར།",
+  "tokens": [
+    {
+      "surface": "פוטר",
+      "gloss": "གཏོང་བ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "འགོ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "རྩོད་པ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "གོང་དུ"
+    },
+    {
+      "surface": "התגלע",
+      "gloss": "མ་འབུས"
+    },
+    {
+      "surface": "הריב",
+      "gloss": "ཁ་རྩོད"
+    },
+    {
+      "surface": "נטוש",
+      "gloss": "དོར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:54.322258941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ལ་བན་གྱིས་དེ་ལ་ཡི་གར་ཤ་ཧ་དུ་ཐ་ཟེར་ཞིང་ཡ་ཨ་ཀོབ་ཀྱིས་དེ་ལ་གལ་ཨེད་ཟེར།",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "לו",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ལ་བན"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "ཡི་གར"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "ཤ་ཧ་དུ་ཐ"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "לו",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "གལ་ཨེད"
+    }
+  ],
+  "timestamp": "2026-09-30T07:19:35.355957653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 116,
+  "translation": "བདག་གིས་ཡིད་ཆེས་པས་སྨྲའོ། བདག་ཤིན་ཏུ་མནར་ཏོ།།",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "བདག་གིས་ཡིད་ཆེས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "པས"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "སྨྲ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "བདག"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "མནར"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ཤིན་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:45:17.945702252Z",
+  "model": "glm-5.3"
+}

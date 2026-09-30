@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མི་སེར་གྱི་དཔོན་རྣམས། ཕ་རོ་ཤ། ཕ་ཧ་ཏ་མོ་ཨབ། ཨེ་ལམ། ཛ་ཏུ། བ་ནི།",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "དཔོན་རྣམས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་སེར་གྱི"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ཕ་རོ་ཤ"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ཕ་ཧ་ཏ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "མོ་ཨབ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ཨེ་ལམ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ཛ་ཏུ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བ་ནི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:18.786162797Z",
+  "model": "glm-5.3"
+}

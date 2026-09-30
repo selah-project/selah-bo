@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ལྐུགས་པས་རང་གི་ལག་པ་གཉིས་⟨את⟩ལྐུང་ཞིང་རང་གི་ཤ་⟨את⟩ཟ།",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ལྐུགས་པ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ལྐུང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལག་པ་གཉིས"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "རང་གི་ལག་པ་གཉིས"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "རང་གི་ཤ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "རང་གི་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:50.490312394Z",
+  "model": "glm-5.3"
+}

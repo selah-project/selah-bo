@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "དང་⟨את⟩ཕར་ཤན་ད་ཐ་ དང་⟨את⟩དལ་ཕོན་ དང་⟨את⟩ཨ་ས་ཕ་ཐ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཕར་ཤན་ད་ཐ"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "ཕར་ཤན་ད་ཐ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "དལ་ཕོན"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "དལ་ཕོན"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ས་ཕ་ཐ"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "ཨ་ས་ཕ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:31:23.781952990Z",
+  "model": "glm-5.3"
+}

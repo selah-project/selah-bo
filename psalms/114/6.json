@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 114,
+  "translation": "རི་ཚོས་ལུག་རྣམས་ལྟར་མཆོང་ཞིང་། ས་འབུར་ཚོས་ལུ་གུ་རྣམས་ལྟར་མཆོང་།",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "རི་ཚོས"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "མཆོང"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "ལུག་རྣམས་ལྟར"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ས་འབུར་ཚོས"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "ལུ་གུ་རྣམས་ལྟར"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "<elided-collective>"
+    }
+  ],
+  "timestamp": "2026-09-30T14:57:55.927184512Z",
+  "model": "glm-5.3"
+}

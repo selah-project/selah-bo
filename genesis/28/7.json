@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཡ་ཨ་ཀོབ་ཀྱིས་རང་གི་ཕ་དང་རང་གི་མ་གཉིས་ཀྱི་ཚིག་ལ་ཉན། པ་ཌན་ཨ་རམ་དུ་ཕྱིན།",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "རང་གི་ཕ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "རང་གི་མ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "པ་ཌན"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ཨ་རམ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:26:12.545650542Z",
+  "model": "glm-5.3"
+}

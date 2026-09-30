@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "འཇིགས་སྐྲག་འོང་། ཁོ་ཚོས་ཞི་བདེ་འཚོལ་ཡང་⟨དེ⟩མེད།",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "འཇིགས་སྐྲག"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འོང་"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ཁོ་ཚོས་འཚོལ་ཡང་"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ཞི་བདེ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "མེད"
+    }
+  ],
+  "timestamp": "2026-09-30T11:32:15.414648160Z",
+  "model": "glm-5.3"
+}

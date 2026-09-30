@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ངའི་དྲུང་དུ་འདི་སྐད་དུ་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངའི་དྲུང་དུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:15:43.729548224Z",
+  "model": "glm-5.3"
+}

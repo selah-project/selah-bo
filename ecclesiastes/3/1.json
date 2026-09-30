@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཐམས་ཅད་ལ་དུས་ཤིག་ཡོད། ནམ་མཁའི་འོག་གི་འདོད་པ་ཐམས་ཅད་ལ་ཡང་དུས་ཤིག་ཡོད།",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ཐམས་ཅད་ལ"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "དུས་ཤིག་ཡོད"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ཡང་དུས་ཤིག་ཡོད"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ཐམས་ཅད་ལ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "འདོད་པ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "འོག"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ནམ་མཁའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:43.562593377Z",
+  "model": "glm-5.3"
+}

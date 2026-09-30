@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "བཀའ་སྲུང་བ་ནི་རང་གི་ནེ་ཕེ་ཤ་སྲུང་། རང་གི་ལམ་ལ་བརྙས་པ་ནི་འཆི།",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "སྲུང་བ་"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "བཀའ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "སྲུང་"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "བརྙས་པ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "འཆི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:11.247988852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཙེ་དེག་པ་དག་གི་འོད་ནི་དགའ་བར་འབར། ངན་པ་དག་གི་མར་མེ་ནི་ཞད།",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "འོད"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ཙེ་དེག་པ་དག"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "དགའ་བར་འབར"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "མར་མེ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ངན་པ་དག"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ཞད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:10.450154477Z",
+  "model": "glm-5.3"
+}

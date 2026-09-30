@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "གྲོང་གི་⟨את⟩ ས་ཐང་དང་⟨את⟩དེའི་ར་བ་དག ཡེ་ཕུ་ནེའི་བུ་ཀེ་ལེབ་ལ་བྱིན།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ས་ཐང"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ས་ཐང"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "གྲོང་གི"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ར་བ"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "དེའི་ར་བ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "བྱིན"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ཀེ་ལེབ་ལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ཡེ་ཕུ་ནེ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:20.819794106Z",
+  "model": "glm-5.3"
+}

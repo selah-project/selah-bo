@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "བ་ཀ་བུཀ་གི་བུ་ཚ། ཧ་ཀུ་ཕ་ཨའི་བུ་ཚ། ཧར་ཧུ་རའི་བུ་ཚ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "བ་ཀ་བུཀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ཧ་ཀུ་ཕ་ཨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ཧར་ཧུ་ར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:41:40.760540270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 78,
+  "translation": "ཁོང་གིས་དྲན་བྱས་ཏེ་ཁོ་ཚོ་ཤ་ཡིན་པ་དང་། རུ་ཨ་ཁ་འགྲོ་ཞིང་ཕྱིར་མི་ལོག་པར།",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "དྲན་བྱས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ཁོ་ཚོ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "རུ་ཨ་ཁ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "འགྲོ་ཞིང"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ཕྱིར་ལོག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:36:16.814552230Z",
+  "model": "glm-5.3"
+}

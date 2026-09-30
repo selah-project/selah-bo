@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ནོར་ལ་འཚབ་པའི་མི་ནི་མིག་ངན་པ་ཅན་ཡིན་ཞིང་། དབུལ་ཕོངས་རང་ལ་འོང་བ་ཡང་མི་ཤེས་སོ།",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "འཚབ"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ནོར"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་…མི"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཅེས་པ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "དབུལ་ཕོངས"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "རང་ལ་འོང་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:36.756442005Z",
+  "model": "glm-5.3"
+}

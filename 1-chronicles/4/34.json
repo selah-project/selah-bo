@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "དང་མེ་ཤོ་བ་བ་དང་ཡམ་ལེཁ་དང་ཡོ་ཤ་ཧ་ཨ་མ་ཙ་ཡ་ཧའི་བུ།",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "མེ་ཤོ་བ་བ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ཡམ་ལེཁ"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "ཡོ་ཤ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ཨ་མ་ཙ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:05.619741278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "བདག་ནི་ཁོའི་ཁྲོ་བའི་དབྱུག་པས་སྡུག་བསྔལ་མཐོང་བའི་མི་དེ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "བདག"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "མི་དེ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "མཐོང་བའི"
+    },
+    {
+      "surface": "עני",
+      "gloss": "སྡུག་བསྔལ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "དབྱུག་པས"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ཁོའི་ཁྲོ་བའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:11.792476213Z",
+  "model": "glm-5.3"
+}

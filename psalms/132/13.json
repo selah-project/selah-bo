@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 132,
+  "translation": "ཡ་ཧ་ཝེ་གྱིས་ཙི་ཡོན་བདམས་ཤིང་། དེ་ཉིད་རང་གི་གནས་སུ་འདོད་པ་མཛད་དོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "དོ་ནས"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "བདམས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ཙི་ཡོན"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "འདོད་པ་མཛད"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "རང་གི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:47:59.487111925Z",
+  "model": "glm-5.3"
+}

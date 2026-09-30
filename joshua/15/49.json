@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "དང་དན་ན་དང་ཀི་རི་ཡ་ཐ་སན་ན་ཧ་དེ་⟨དེ་བིར་ཡིན⟩།",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "དང་དན་ན"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "དང་ཀི་རི་ཡ་ཐ"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "སན་ན་ཧ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "དེ་ཉིད"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "དེ་བིར"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:08.868139575Z",
+  "model": "glm-5.3"
+}

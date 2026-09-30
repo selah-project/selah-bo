@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 36,
+  "translation": "ཨེ་ས་ཝ་སེ་ཨིར་རི་ལ་གནས་སོ། ཨེ་ས་ཝ་ནི་ཨེ་དོམ་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "གནས་སོ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ཨེ་ས་ཝ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "རི་ལ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "སེ་ཨིར"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ཨེ་ས་ཝ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ནི"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ཨེ་དོམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:21:02.791055559Z",
+  "model": "glm-5.3"
+}

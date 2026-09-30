@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡེ་ཧུ་དའི་བུ་ཚོར་⟨the⟩གཞུ་སློབ་ཏུ་བཅུག་ཅེས་གསུང་། ལྟོས། ཡ་ཤ་རའི་དེབ་ཏུ་⟨it⟩བྲིས་ཡོད།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུང་"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "སློབ་ཏུ་བཅུག"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ཡེ་ཧུ་ད"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "གཞུ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "བྲིས་ཡོད"
+    },
+    {
+      "surface": "על",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "དེབ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ཡ་ཤ་ར"
+    }
+  ],
+  "timestamp": "2026-09-30T09:49:25.605289903Z",
+  "model": "glm-5.3"
+}

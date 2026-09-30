@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཁོང་གིས་བེ་ཨེར་ཤེ་བ་དང་མོ་ལ་ད་དང་ཧ་ཙར་ཤུ་ཨལ་⟨དུ⟩གནས་བཅས།",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "གནས་བཅས"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "བེ་ཨེར...⟨དུ⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ཤེ་བ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "དང་མོ་ལ་ད"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "དང་ཧ་ཙར"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ཤུ་ཨལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:24.899873470Z",
+  "model": "glm-5.3"
+}

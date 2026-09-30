@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "བེ་ཐ་ཨེལ་དང་ཨ་ཡིའི་མི་རྣམས། ཉིས་བརྒྱ་དང་ཉི་ཤུ་གསུམ།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་རྣམས"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "དང་ཨ་ཡི"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ཉིས་བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "གསུམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:12.270686310Z",
+  "model": "glm-5.3"
+}

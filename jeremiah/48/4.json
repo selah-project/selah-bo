@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "མོ་ཨབ་ཆག་སྟེ་ ཆུང་མ་⟨ཚོས⟩ངུ་སྒྲ་གོ་བར་བྱས་སོ།",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ཆག"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "མོ་ཨབ"
+    },
+    {
+      "surface": "ཧשמיעו",
+      "gloss": "གོ་བར་བྱས"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "ངུ་སྒྲ"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "ཆུང་མ་ཚོས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:27:19.359034131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "སུ་གླེན་པ་ཡིན། འདིར་ཞུགས་ཤིག སྙིང་ཆད་པ་ལ་ཁོ་མོས་ཟེར།",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "གླེན་པ"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ཞུགས"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "འདིར"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ཆད"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:30.320047295Z",
+  "model": "glm-5.3"
+}

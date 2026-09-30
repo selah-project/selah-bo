@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཤ་གླང་གཅིག ཁྱུའི་བུ་<Not used>། ལུག་ཕོ་དར་མ་གཅིག ལུ་གུ་གཅིག ལོ་གཅིག་གི་བུ་<Not used>། སྲེག་མཆོད་ཀྱི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ཤ་གླང"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ཁྱུ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ལུག་ཕོ་དར་མ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ལུ་གུ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ལོ་གཅིག"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "སྲེག་མཆོད་ཀྱི་ཕྱིར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:23:02.337405724Z",
+  "model": "glm-5.3"
+}

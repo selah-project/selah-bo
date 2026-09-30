@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "བི་ན་ཡ་མིན་ མ་ལུ་ཁ་ ཤེ་མ་ར་ཡ་ཧ།",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "བི་ན་ཡ་མིན"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "མ་ལུ་ཁ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ཤེ་མ་ར་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:44:12.949474388Z",
+  "model": "glm-5.3"
+}

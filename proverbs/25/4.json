@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "དངུལ་ལས་ལྕགས་བཙག་ཕྱིས་ཤིག དེ་ན་བཙོ་བྱེད་པ་ལ་སྣོད་གཅིག་འབྱུང་།",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "ཕྱིས་ཤིག"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ལྕགས་བཙག"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "དངུལ་ལས"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "བཙོ་བྱེད་པ་ལ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "སྣོད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:02.612638794Z",
+  "model": "glm-5.3"
+}

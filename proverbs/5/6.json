@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཚེ་སྲོག་གི་ལམ་གཞི་ནས་ཚོད་མི་འཇལ། ཁོ་མོའི་ལམ་དག་གཡོ་ཡང་⟨ཁོ་མོས⟩མི་ཤེས།",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ཚེ་སྲོག"
+    },
+    {
+      "surface": "פן",
+      "gloss": "གཞི་ནས"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ཚོད་འཇལ"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "གཡོ"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "ཁོ་མོའི་ལམ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ཤེས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:20.070324239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡོ་སེཕ་གི་ཚོ་བ་ལས། མིན་ཤེ་ཡི་ཚོ་བ་ལས། སུ་སིའི་བུ་གད་དི།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ཚོ་བ་ལས"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ཚོ་བ་ལས"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "མིན་ཤེ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "གད་དི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "སུ་སི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:29.168727510Z",
+  "model": "glm-5.3"
+}

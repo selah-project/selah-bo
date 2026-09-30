@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "རི་བོ་ཙི་ཡོན་སྟོང་བར་ལུས་པའི་ཕྱིར། གཡི་དག་དེའི་སྟེང་དུ་འགྲོ་བར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "הר",
+      "gloss": "རི་བོ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ཙི་ཡོན"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "སྟོང་བར་ལུས་པ"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "གཡི་དག"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "འགྲོ་བར་བྱེད"
+    },
+    {
+      "surface": "בו",
+      "gloss": "དེའི་སྟེང་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:52.876608811Z",
+  "model": "glm-5.3"
+}

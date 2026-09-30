@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "obadiah 1:11",
+  "book": "obadiah",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "<on the day>ཉིན་<on the day>ཁྱོད་<stood>ལངས་ཤིང་<opposite>མདུན་དུ་འདུག་པ་<on the day>ཉིན་... ཁྱོད་<on the day>ཉིན་ལ་<when>ག་<opposite>མདུན་དུ་ལངས་ཤིང་། ཕྱི་རྒྱལ་<strangers>བ་<on the day>ཉིན་ཁོའི་<substance><captured>འཕྲོག་ཅིང་། མི་རྒྱུད་མི་ཤེས་<foreigners>པ་དག་ཁོའི་སྒོ་<entered>རུ་<when>ལོག་ཅིང་། ཡེ་རུ་ཤ་ལ་ཡིམ་ལ་<lot>པགས་<cast>གཡུག་པའི་ཚེ། ཁྱོད་ཀྱང་ཁོ་ཚོའི་ནང་ནས་<one>གཅིག་དང་འདྲ་<were>བོ་<were>རེད།།",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "<on the day>ཉིན"
+    },
+    {
+      "surface": "עמדך",
+      "gloss": "ཁྱོད་<stood>ལངས"
+    },
+    {
+      "surface": "མנגד",
+      "gloss": "<opposite>མདུན་དུ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "<on the day>ཉིན"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "<captured>འཕྲོག"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ཕྱི་རྒྱུད་<strangers>བ"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ཁོའི་<substance>"
+    },
+    {
+      "surface": "ונכרים",
+      "gloss": "མི་རྒྱུད་མི་ཤེས་<foreigners>པ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "<entered>ལོག"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "ཁོའི་སྒོ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ཡེ་རུ་ཤ་ལ་ཡིམ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "<cast>གཡུག"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "<lot>པགས་"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "<one>གཅིག་དང་འདྲ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ཁོ་ཚོའི་ནང་ནས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:04:24.953019140Z",
+  "model": "glm-5.3"
+}

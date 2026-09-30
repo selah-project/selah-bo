@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "དང་ ཁྱོད་ཕྱིར་འགྲོ་བར་མི་འདོད་ན་ ཡ་ཧ་ཝེས་ང་ལ་བསྟན་པའི་ཚིག་འདི་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "དང་ གལ་ཏེ"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "མི་འདོད"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ཕྱིར་འགྲོ་བར"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ང་ལ་བསྟན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:23:52.366235156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མི་དེ་ལས་སྟོང་གསུམ་ཙམ་གྱི་མི་དེར་སོང་ཡང་ཨ་ཡིའི་མི་དག་གི་མདུན་དུ་བྲོས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "སྟོང་གསུམ་ཙམ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "བྲོས"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "མི་དག"
+    },
+    {
+      "surface": "ཧעי",
+      "gloss": "ཨ་ཡིའི"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:19.494387107Z",
+  "model": "glm-5.3"
+}

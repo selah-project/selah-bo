@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ལ་བན་གྱིས་ཡུལ་དེའི་མི་ཐམས་ཅད་⟨את⟩བསྡུས་ནས་དགའ་སྟོན་བྱས།",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "བསྡུས།"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ལ་བན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡུལ་དེའི་མི་ཐམས་ཅད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "མི"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ཡུལ་དེའི"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "བྱས།"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "དགའ་སྟོན།"
+    }
+  ],
+  "timestamp": "2026-09-30T07:16:08.117951742Z",
+  "model": "glm-5.3"
+}

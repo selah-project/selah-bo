@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཧ་ནན་གི་བུ་ཚ་དག །གི་དེལ་གྱི་བུ་ཚ་དག །ག་ཧ་རའི་བུ་ཚ་དག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ཧ་ནན"
+    },
+    {
+      "surface": "בני",
+      "gloss": "གི་བུ་ཚ་དག"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "གི་དེལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "གྱི་བུ་ཚ་དག"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "ག་ཧ་ར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:36.498212218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དཔྱོད་པར་ཚད་ལ་ལྗིད་ཚད་ལ་དང་གཤེར་ཚད་ལ་ལོག་སྤྱོད་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "སྤྱོད་མ་བྱེད"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "དཔྱོད་པར"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ཚད་ལ"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ལྗིད་ཚད་ལ"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "དང་གཤེར་ཚད་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:10:43.529348250Z",
+  "model": "glm-5.3"
+}

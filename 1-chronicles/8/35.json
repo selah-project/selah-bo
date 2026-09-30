@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "མི་ཁའི་བུ་རྣམས་ནི་ཕི་ཐོན་དང་མེ་ལེཁ་དང་ཐ་ཨ་རེ་དང་ཨ་ཧཛ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "མི་ཁའི"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ཕི་ཐོན"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "མེ་ལེཁ"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "ཐ་ཨ་རེ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ཨ་ཧཛ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:39.843808337Z",
+  "model": "glm-5.3"
+}

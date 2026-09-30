@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "དག་པ་⟨ཡིན⟩ཏེ་ངོ་ལོག་པ་མེད། ང་ཉེས་མེད། ང་ལ་ནག་ཉེས་ཀྱང་མེད།",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "དག་པ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ངོ་ལོག་པ"
+    },
+    {
+      "surface": "חף",
+      "gloss": "ཉེས་མེད"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ནག་ཉེས"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:01:21.502110621Z",
+  "model": "glm-5.3"
+}

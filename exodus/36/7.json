@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 36,
+  "translation": "ལས་རྫས་ཀྱིས་ལས་ཀ་ཐམས་ཅད་⟨את⟩བྱེད་པར་འདང་ཞིང་ལྷག་ཀྱང་ཡོད།",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "ལས་རྫས"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨ལེགས⟩"
+    },
+    {
+      "surface": "דים",
+      "gloss": "འདང་"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ཐམས་ཅད་ལ"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ལས་ཀ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "བྱེད་པར"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ལས་ཀ"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "ལྷག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:55:19.955345248Z",
+  "model": "glm-5.3"
+}

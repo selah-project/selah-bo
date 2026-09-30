@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ར་ལུག་གཅིག ཉེས་པའི་མཆོད་པའི་དོན་དུ།",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ར་ལུག"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ར་ཡི"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ཉེས་པའི་མཆོད་པའི་དོན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:21:36.745615227Z",
+  "model": "glm-5.3"
+}

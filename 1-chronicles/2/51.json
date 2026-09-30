@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "སལ་མ་ནི་བེཐ་ལེ་ཁེམ་གྱི་ཕ་ཡིན། ཧ་རེཕ་ནི་བེཐ་ག་དེར་གྱི་ཕ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "སལ་མ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེཐ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ལེ་ཁེམ"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ཧ་རེཕ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེཐ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ག་དེར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:42.658970726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "དཔོན་རིགས་ལག་ཏུ་དཔྱངས་རྒན་པོའི་བཞིན་ལ་གུས་མིན།",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "དཔོན་རིགས"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ལག་ཏུ"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "དཔྱངས"
+    },
+    {
+      "surface": "פני",
+      "gloss": "བཞིན"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "རྒན་པོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "གུས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:55.412280543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "སྔགས་འདེབས་མཁན་མོ་ལ་གསོན་དུ་མ་འཇུག",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "སྔགས་འདེབས་མཁན་མོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "གསོན་དུ་འཇུག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:45:16.743963827Z",
+  "model": "glm-5.3"
+}

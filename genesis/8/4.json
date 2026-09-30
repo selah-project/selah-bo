@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཟླ་བ་བདུན་པའི་ཚེས་བཅུ་བདུན་ལ་གྲུ་རི་བོ་ཨ་ར་ར་ཊའི་སྟེང་དུ་བཞག",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "གྲུ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ཟླ་བ་ལ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "བདུན་པ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཚེས"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ཟླ་བའི"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "རི་བོ་རྣམས"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ཨ་ར་ར་ཊ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:07:02.880285901Z",
+  "model": "glm-5.3"
+}

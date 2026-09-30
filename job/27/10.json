@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཤད་དའི་ལ་སེམས་དགའ་འམ། ཨེ་ལོ་ཧ་ལ་དུས་ཐམས་ཅད་དུ་འབོད་དམ།",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "འམ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ཤད་དའི"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "སེམས་དགའ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "འབོད"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ཨེ་ལོ་ཧ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "עת",
+      "gloss": "དུས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:10:39.978908327Z",
+  "model": "glm-5.3"
+}

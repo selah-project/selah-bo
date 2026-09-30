@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "རབས་ཤིག རང་གི་མིག་ཏུ་གཙང་ཡང་། རང་གི་དྲི་མ་ལས་མ་བཀྲུས་པའོ།",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "རབས་ཤིག"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "གཙང"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "རང་གི་མིག་ཏུ"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "རང་གི་དྲི་མ་ལས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "བཀྲུས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:30.391835165Z",
+  "model": "glm-5.3"
+}

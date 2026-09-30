@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཉིན་དང་པོར་ཀོ་དེ་ཤའི་ཚོགས་འདུ། ལས་ཀའི་ཞབས་ཏོག་ཅི་ཡང་མི་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་ལ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "དང་པོ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ཚོགས་འདུ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཀོ་དེ་ཤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ལས་ཀ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ཞབས་ཏོག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:19.369377313Z",
+  "model": "glm-5.3"
+}

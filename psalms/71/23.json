@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 71,
+  "translation": "placeholder",
+  "tokens": [],
+  "timestamp": "2026-09-30T12:33:36.014239745Z",
+  "model": "glm-5.3"
+}

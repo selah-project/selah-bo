@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 18:1",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "དེ་ནས་ཡ་ཧ་ཝེའི་ཚིག་ངའི་དྲུང་དུ་འོངས་ཏེ་ཞེས་གསུང་།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "དེ་ནས་བྱུང་"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངའི་དྲུང་དུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:39:08.389503941Z",
+  "model": "glm-5.3"
+}

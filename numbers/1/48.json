@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་འདི་སྐད་དུ་གསུངས་པ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་པ།"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:16:28.972806283Z",
+  "model": "glm-5.3"
+}

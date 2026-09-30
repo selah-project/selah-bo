@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 36,
+  "translation": "འདི་དག་ཤོ་བལ་གྱི་བུ་རྣམས་ཏེ། ཨལ་ཝན་དང་མ་ན་ཧath་དང་ཨེ་བལ། ཤེ་ཕོ་དང་ཨོ་ནམ་མོ།",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ཤོ་བལ"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "ཨལ་ཝན"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "དང་མ་ན་ཧath"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "དང་ཨེ་བལ"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "ཤེ་ཕོ"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "དང་ཨོ་ནམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:21:26.213703183Z",
+  "model": "glm-5.3"
+}

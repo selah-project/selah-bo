@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ཁྲོ་བའི་མི་ཡིས་རྩོད་པ་སློང་། ཞེ་སྡང་ཅན་གྱིས་ཉེས་པ་མང་དུ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ཁྲོ་བའི"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "སློང"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "རྩོད་པ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ཅན་"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ཞེ་སྡང"
+    },
+    {
+      "surface": "רב",
+      "gloss": "མང་དུ་བྱེད"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ཉེས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:59:15.153304403Z",
+  "model": "glm-5.3"
+}

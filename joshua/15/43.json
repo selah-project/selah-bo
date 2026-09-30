@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཡིཕ་ཐ་ཁ་དང་ཨཤ་ན་ཧ་དང་ནེ་ཙིབ།",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "ཡིཕ་ཐ་ཁ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "ཨཤ་ན་ཧ"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ནེ་ཙིབ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:59.649978638Z",
+  "model": "glm-5.3"
+}

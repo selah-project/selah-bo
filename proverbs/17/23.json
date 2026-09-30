@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "བྱ་སྤོད་ལ་ངན་པའི་པང་ནས་ལེན་ཏེ་ ཁྲིམས་ཀྱི་ལམ་དག་ལོག་པར་བྱེད་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "བྱ་སྤོད"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "པང་ནས"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "ལོག་པར་བྱེད"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ཁྲིམས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:32.411139162Z",
+  "model": "glm-5.3"
+}

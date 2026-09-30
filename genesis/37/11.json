@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "དེར་སྤུན་ཟླ་ཚོས་ཁོ་ལ་ཕྲག་དོག་བྱས། འོན་ཀྱང་ཕས་⟨את⟩གཏམ་དེ་སེམས་ལ་ཉར།",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "ཕྲག་དོག་བྱས"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "སྤུན་ཟླ་ཚོས"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "ཕས"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ཉར"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གཏམ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "གཏམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:21:08.768864281Z",
+  "model": "glm-5.3"
+}

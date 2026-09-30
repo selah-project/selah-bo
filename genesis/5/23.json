@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཧ་ནོཀ་གི་ཉིན་ཞག་ཐམས་ཅད་ལོ་ལྔ་དང་དྲུག་ཅུ་དང་ལོ་སུམ་བརྒྱ་གྱུར།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་ཞག"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ཧ་ནོཀ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དང་དྲུག་ཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "དང་གསུམ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:55.787863679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཛེ་བ་དི་ཡ་དང་ཨ་རད་དང་ཨེ་དེར།",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ཛེ་བ་དི་ཡ"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "ཨ་རད"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ཨེ་དེར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:22.072618811Z",
+  "model": "glm-5.3"
+}

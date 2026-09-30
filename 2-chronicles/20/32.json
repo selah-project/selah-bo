@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "ཁོས་རང་གི་ཕ་ཨ་སའི་ལམ་དུ་སོང་ཞིང་། དེ་ལས་མ་ལོག་པར་ཡ་ཧ་ཝེའི་སྤྱན་སྔར་དྲང་བ་བྱེད་པར་བྱས།",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ་དུ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "རང་གི་ཕ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ཨ་ས"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "དེ་ལས"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "བྱེད་པར"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "དྲང་བ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:16:04.478884282Z",
+  "model": "glm-5.3"
+}

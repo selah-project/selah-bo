@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཧ་མ་བུལ་གྱི་རྗེས་སུ་ནོ་ཨས་ལོ་ངོ་སུམ་བརྒྱ་ལྔ་བཅུ་བསྡད།",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "བསྡད"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨས"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "གྱི་རྗེས་སུ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ཧ་མ་བུལ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "སུམ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "དང་ལྔ་བཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:43.806286823Z",
+  "model": "glm-5.3"
+}

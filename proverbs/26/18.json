@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "སྨྱོན་པས་མེ་སྟག་དང་མདའ་དང་འཆི་བ་འཕེན་པ་ལྟར།",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "སྨྱོན་པ་ལྟར"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "འཕེན་པ་པོ"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "མེ་སྟག"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "མདའ"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "དང་འཆི་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:41.737272453Z",
+  "model": "glm-5.3"
+}

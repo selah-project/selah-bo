@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཨེལ་ཏོ་ལད་དང་ཅེ་སིལ་དང་ཧོར་མ་ཧ།",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ཨེལ་ཏོ་ལད"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ཅེ་སིལ"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ཧོར་མ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:07.515116894Z",
+  "model": "glm-5.3"
+}

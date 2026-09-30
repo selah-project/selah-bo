@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མིག་མའི་མི་རྣམས་ལ་བརྒྱ་དང་ཉི་ཤུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་རྣམས"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "མིག་མ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:49.627544585Z",
+  "model": "glm-5.3"
+}

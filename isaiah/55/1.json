@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 55,
+  "translation": "ཀྱེ་ སྐོམ་པ་རྣམས་ ཆུ་ལ་ཤོག ཁོ་ལ་དངུལ་མེད་ནའང་ཤོག ཉོ་ལ་ཟོ ཤོག་ཉོ་ དངུལ་མེད་པར་དང་རིན་མེད་པར་ ཆང་དང་འོ་མ།",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ཀྱེ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "སྐོམ་པ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ཤོག"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ཆུ་ལ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "དང"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ཤོག"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ཉོ"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ཟོ"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ཤོག"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ཉོ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "མེད་པར"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "དང་མེད་པར"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "རིན"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ཆང"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "དང་འོ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:56:51.662059571Z",
+  "model": "glm-5.3"
+}

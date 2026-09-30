@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "བྱིས་པ་ལ་བསླབ་སྟོན་མ་འགོག །ཁྱོད་ཀྱིས་དབྱུག་པས་བརྡེགས་ན་ཡང་ ཁོ་མི་འཆི།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "འགོག"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "བྱིས་པ་ལ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "བསླབ་སྟོན"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ན་ཡང"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "བརྡེགས"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "དབྱུག་པས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "འཆི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:59:36.551083695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 14:7",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ས་གཞི་ཀུན་ངལ་ཞི་ཞིང་ལྷིང་འཇགས་སུ་གནས་ལ། དགའ་དབྱངས་ཕྱུང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "נחה",
+      "gloss": "ངལ་ཞི"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ལྷིང་འཇགས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ཕྱུང"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "དགའ་དབྱངས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:41:49.453713871Z",
+  "model": "glm-5.3"
+}

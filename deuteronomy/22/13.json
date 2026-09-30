@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "གལ་ཏེ་སྐྱེས་པ་ཞིག་གིས་བུད་མེད་ཅིག་བླངས་ཏེ་མོའི་དྲུང་དུ་སོང་ནས་མོ་ལ་སྡང་ན།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "བླངས"
+    },
+    {
+      "surface": "איש",
+      "gloss": "སྐྱེས་པ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "མོའི་དྲུང་དུ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "མོ་ལ་སྡང"
+    }
+  ],
+  "timestamp": "2026-09-30T08:55:23.335191025Z",
+  "model": "glm-5.3"
+}

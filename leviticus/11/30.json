@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དང་ཨ་ན་ཀ་དང་ཀོ་ཨ་དང་ལེ་ཊ་ཨ་དང་ཧོ་མེཊ་དང་ཊེན་ཤེ་མེཊ།",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ཨ་ན་ཀ"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ཀོ་ཨ"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ལེ་ཊ་ཨ"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ཧོ་མེཊ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ཊེན་ཤེ་མེཊ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:03:19.286922555Z",
+  "model": "glm-5.3"
+}

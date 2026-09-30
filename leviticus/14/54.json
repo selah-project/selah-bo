@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "འདི་ནི་ཙ་ར་ཨ་ཐའི་ནད་ཀྱི་མདོར་ན་ཀུན་དང་རྨ་བཏབ་པ་དང་ཟགས་ནད་ཀྱི་ཏོ་རའོ།",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ཏོ་ར"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ཀུན་ལ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ནད"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ཙ་ར་ཨ་ཐ"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "ཟགས་ནད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:04:58.296703425Z",
+  "model": "glm-5.3"
+}

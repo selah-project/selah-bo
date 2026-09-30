@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "གཛ་མ་གི་བུ་ཚ་དག །ཨུ་ཛའི་བུ་ཚ་དག །ཕ་སེ་ཨ་ཁའི་བུ་ཚ་དག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "གཛ་མ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "གི་བུ་ཚ་དག"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ཨུ་ཛ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "གྱི་བུ་ཚ་དག"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ཕ་སེ་ཨ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:36.498666085Z",
+  "model": "glm-5.3"
+}

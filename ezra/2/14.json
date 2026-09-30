@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "བིག་ཝིའི་བུ་ཚ་སྟོང་གཉིས་དང་ལྔ་བཅུ་རེ་དྲུག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "བིག་ཝི"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "སྟོང་གཉིས"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "རེ་དྲུག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:18.335200777Z",
+  "model": "glm-5.3"
+}

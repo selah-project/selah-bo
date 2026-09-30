@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 32:5",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "ཨེ་ལི་ཧུ་ཡིས་མི་གསུམ་གྱི་ཁ་ནང་དུ་ལན་མེད་པ་མཐོང་ནས་ཁོའི་ཁོང་ཁྲོ་ལངས།",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "མཐོང་ནས"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ཨེ་ལི་ཧུ་ཡིས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "<अki་> ⟨གང་ཞིག་⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད་པ"
+    },
+    {
+      "surface": "མענה",
+      "gloss": "ལན",
+      "surface_orig": null
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ཁ་ནང་དུ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ་གྱི"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ལངས་"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ཁོའི་ཁོང་ཁྲོ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:01:48.571934017Z",
+  "model": "glm-5.3"
+}

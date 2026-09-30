@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཨ་ཧི་ཏུབ་ཀྱིས་⟨את⟩ཙ་དོག་བུ་སྐྱེད། ཙ་དོག་གིས་⟨את⟩ཤ་ལུམ་བུ་སྐྱེད།",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "ཨ་ཧི་ཏུབ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བུ་སྐྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཙ་དོག"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ཙ་དོག"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ཙ་དོག"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བུ་སྐྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཤ་ལུམ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ཤ་ལུམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:46.441623809Z",
+  "model": "glm-5.3"
+}

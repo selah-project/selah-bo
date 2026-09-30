@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཤེས་རབ་ལོངས། བློ་གྲོས་ལོངས། མ་བརྗེད་ཅིག ངའི་ཁའི་ཚིག་དག་ལས་མ་གཡོ་ཞིག",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "ལོངས།"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ལོངས།"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "བློ་གྲོས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "བརྗེད"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་མ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "གཡོ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ཚིག་དག"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ངའི་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:26.428375764Z",
+  "model": "glm-5.3"
+}

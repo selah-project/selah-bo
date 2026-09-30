@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 83,
+  "translation": "ཁོ་ཚོ་ཨེན་དོར་དུ་བརླག་སྟེ་ས་གཞིའི་ལུད་དུ་གྱུར།",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "བརླག"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "...དུ"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "ཨེན་དོར"
+    },
+    {
+      "surface": "היו",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ལུད"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ས་གཞིའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:36:43.011822612Z",
+  "model": "glm-5.3"
+}

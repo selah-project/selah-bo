@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "བརླག་པ་དང་ཧ་ལས་པའི་དོན་ཞིག་ས་གཞིའི་སྟེང་དུ་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "བརླག་པ"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "ཧ་ལས་པ"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞིའི་སྟེང་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:48:41.424868228Z",
+  "model": "glm-5.3"
+}

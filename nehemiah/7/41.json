@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཕ་ཤ་ཁུ་རའི་བུ་ཚ་སྟོང་ཆིག་སྟོང་བརྒྱད་བཅུ་གྱ་བདུན།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ཕ་ཤ་ཁུ་ར"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང་ཆིག་སྟོང"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "བརྒྱད་བཅུ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "གྱ་"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "བདུན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:36.057650410Z",
+  "model": "glm-5.3"
+}

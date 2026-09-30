@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མིག་ཟུམ་མཁན་གྱིས⟨he⟩སྡུག་བསྔལ་སྟེར། མཆུ་ཏོ་ཅན་གྱི་བླུན་པོ⟨he⟩ལྷུང་།",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ཟུམ་མཁན"
+    },
+    {
+      "surface": "עין",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "སྟེར"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "སྡུག་བསྔལ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "མཆུ་ཏོ་ཅན་གྱི"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ལྷུང་"
+    }
+  ],
+  "timestamp": "2026-09-30T14:59:13.541899771Z",
+  "model": "glm-5.3"
+}

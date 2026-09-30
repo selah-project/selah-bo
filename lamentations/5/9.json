@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ནེ་ཕེ་ཤ་ཡིས་⟨བདག་ཅག⟩བག་ལེབ་འཇུག་ཐང་སྟོང་གི་རལ་གྲིའི་ངོས་ནས།",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ནེ་ཕེ་ཤ་ཡིས"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "འཇུག"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "བག་ལེབ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ངོས་ནས"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "རལ་གྲི"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ཐང་སྟོང"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:55.411831288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "དོན་མེད་ཀྱི་མི་དང་ངས་མཉམ་དུ་མ་བསྡད། གཡོ་སྒྱུ་ཅན་དང་ལྷན་དུ་མི་འགྲོ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "བསྡད"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་ལྷན་དུ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "མི"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "དོན་མེད"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "དང་ལྷན་དུ"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "གཡོ་སྒྱུ་ཅན"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "འགྲོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:25:06.931053816Z",
+  "model": "glm-5.3"
+}

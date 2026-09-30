@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 103,
+  "translation": "ཁོང་གིས་ང་ཚོའི་ཆགས་ཚུལ་མཁྱུད་ཅིང་། ང་ཚོ་རྡུལ་ཡིན་པ་དྲན།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཞིང་"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོང་"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "མཁྱུད"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ང་ཚོའི་ཆགས་ཚུལ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "དྲན"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ལྟར⟩"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "རྡུལ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ང་ཚོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:41:32.083323955Z",
+  "model": "glm-5.3"
+}

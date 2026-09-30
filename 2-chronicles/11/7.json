@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དང་⟨את⟩བེ་ཐ་ཙུར་དང་⟨את⟩སོ་ཁོ་དང་⟨את⟩ཨ་དུལ་ལམ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "བེ་ཐ་ཙུར"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ཙུར"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "སོ་ཁོ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "སོ་ཁོ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་དུལ་ལམ"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ཨ་དུལ་ལམ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:09:34.437602745Z",
+  "model": "glm-5.3"
+}

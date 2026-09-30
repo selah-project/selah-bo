@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ད་ལྟ་བློ་གྲོས་ཤེས་པའི་མཁས་པའི་མི་ཞིག་ངས་བཏང་ཡོད། ཧུ་རམ་ཨ་ཕ་ང་ཡིན་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ད་ལྟ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "བཏང་ཡོད"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ཤེས་པ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "བློ་གྲོས"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "ཧུ་རམ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཨ་ཕ་ང"
+    }
+  ],
+  "timestamp": "2026-09-30T14:07:38.459365742Z",
+  "model": "glm-5.3"
+}

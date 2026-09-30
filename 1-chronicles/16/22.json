@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "ངའི་མ་ཤི་ཡ་ཁ་རྣམས་ལ་མ་རེག །ངའི་ན་བི་རྣམས་ལ་གནོད་པ་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "རེག"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ངའི་མ་ཤི་ཡ་ཁ་རྣམས་ལ"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "ངའི་ན་བི་རྣམས་ལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "གནོད་པ་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:12.426345465Z",
+  "model": "glm-5.3"
+}

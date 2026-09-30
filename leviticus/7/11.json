@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "དང་འདི་ནི་ཡ་ཧ་ཝེ་ལ་འདྲེན་པའི་ཤ་ལེ་མིམ་གྱི་ཛེ་བ་ཁའི་ཏོ་ར་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "དང་འདི"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ཏོ་ར"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ཛེ་བ་ཁ"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ཤ་ལེ་མིམ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "འདྲེན་པ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:58:25.857627595Z",
+  "model": "glm-5.3"
+}

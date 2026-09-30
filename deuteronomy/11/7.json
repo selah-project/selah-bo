@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དེ་ནི་ཁྱེད་ཀྱི་མིག་གིས་ཡ་ཧ་ཝེའི་བྱ་བ་ཆེན་པོ་⟨את⟩ ཀུན་༼את༽གཟིགས་ཤིང་གང་ཁོང་གིས་མཛད་པའོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "དེ་ནི"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ཁྱེད་ཀྱི་མིག་གིས"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "གཟིགས་"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བྱ་བ་ཀུན"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "བྱ་བ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "མཛད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:47:48.147254071Z",
+  "model": "glm-5.3"
+}

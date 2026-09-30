@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "མི་ཤ་ཀན་གྱི་གྲུ་ཟུར་གཉིས་ལ་ཤིང་ལེབ་གཉིས་བྱོས།",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "ཤིང་ལེབ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "བྱོས"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "གྲུ་ཟུར་ལ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "མི་ཤ་ཀན"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "ཟུར་གཉིས་སུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:46:17.323673480Z",
+  "model": "glm-5.3"
+}

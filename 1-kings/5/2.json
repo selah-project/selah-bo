@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཤེ་ལོ་མོ་ཧའི་ཁ་ལག་〈is〉ཉིན་གཅིག་ལ་ཞིབ་ཕྱེ་ཀོར་སུམ་ཅུ་དང་ཕྱེ་ཀོར་དྲུག་ཅུ་〈is〉།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "〈ཡིན〉"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ཁ་ལག"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤེ་ལོ་མོ་ཧ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ཉིན་གཅིག་ལ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "སུམ་ཅུ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ཀོར"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ཞིབ་ཕྱེ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དྲུག་ཅུ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ཀོར"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ཕྱེ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:09:56.857088042Z",
+  "model": "glm-5.3"
+}

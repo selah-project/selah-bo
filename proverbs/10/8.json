@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "སྙིང་ལ་བློ་གྲོས་ལྡན་པ་བཀའ་རྣམས་ལེན། མཆུ་སྒྲོག་བླུན་པོ་ལྟུང་།",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "བློ་གྲོས་ལྡན་པ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང་ལ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "བཀའ་རྣམས"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "མཆུ་སྒྲོག"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ལྟུང"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:23.552017490Z",
+  "model": "glm-5.3"
+}

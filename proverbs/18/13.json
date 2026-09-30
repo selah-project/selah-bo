@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "གོ་བ་མ་ཐོབ་པར་ཚིག་ལན་འདེབས་པ་ནི་ དེ་ལ་གཏི་མུག་དང་ངོ་ཚ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "ལན་འདེབས་པ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "མ་ཟིན་པར"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "གོ་བ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "གཏི་མུག"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "לו",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "དང་ངོ་ཚ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:35.850173182Z",
+  "model": "glm-5.3"
+}

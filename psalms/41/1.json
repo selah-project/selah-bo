@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 41,
+  "translation": "དབྱངས་མཁན་པོ་ལ། མི་ཛ་མོར། ད་ཝིད་ཀྱི།",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "དབྱངས་མཁན་པོ་ལ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "མི་ཛ་མོར"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ད་ཝིད་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:28:11.124896317Z",
+  "model": "glm-5.3"
+}

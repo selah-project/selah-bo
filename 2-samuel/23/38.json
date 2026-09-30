@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཨི་ར་ཡི་ཐྲི་པ། ག་རེབ་ཡི་ཐྲི་པའོ།",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ཨི་ར"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ཡི་ཐྲི་པ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ག་རེབ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ཡི་ཐྲི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:02:57.454105082Z",
+  "model": "glm-5.3"
+}

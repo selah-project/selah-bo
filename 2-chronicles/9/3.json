@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཤེ་བ་ཨའི་རྒྱལ་མོས་ཤ་ལོ་མོ་ཧའི་⟨את⟩ཤེས་རབ་དང་ཁོང་གིས་བཞེངས་པའི་ཁང་པ་མཐོང་།",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "མཐོང་"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "རྒྱལ་མོ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ཤེ་བ་ཨ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཤེས་རབ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤ་ལོ་མོ་ཧ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "བཞེངས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:11:41.319782445Z",
+  "model": "glm-5.3"
+}

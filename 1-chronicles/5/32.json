@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཨུ་ཛིས་⟨את⟩ཛེ་ར་ཁ་ཡ་སྐྱེད། ཛེ་ར་ཁ་ཡས་⟨את⟩མེ་ར་ཡོ་ཐ་སྐྱེད།",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "ཨུ་ཛི"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "སྐྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཛེ་ར་ཁ་ཡ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ཛེ་ར་ཁ་ཡ"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ཛེ་ར་ཁ་ཡ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "སྐྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མེ་ར་ཡོ་ཐ"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "མེ་ར་ཡོ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:19.563513810Z",
+  "model": "glm-5.3"
+}

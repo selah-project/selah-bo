@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "མེ་ཏོག་རྣམས་ས་གཞིར་ཤར། གླུ་ལེན་པའི་དུས་སླེབས། ཕ་ཝང་གི་སྒྲ་ང་ཚོའི་ཡུལ་དུ་ཐོས།",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "མེ་ཏོག་རྣམས"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "ཤར"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞིར"
+    },
+    {
+      "surface": "עת",
+      "gloss": "དུས"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "གླུ་ལེན"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "སླེབས"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "སྒྲ"
+    },
+    {
+      "surface": "התור",
+      "gloss": "ཕ་ཝང"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ཐོས"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ང་ཚོའི་ཡུལ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:16:57.559494249Z",
+  "model": "glm-5.3"
+}

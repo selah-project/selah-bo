@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 31:22",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཕྲག་པ་ལྷུ་ལས་ལྷུང་བ་དང་ལག་ངོ་རུས་པ་ལས་ཆག་པར་གྱུར།",
+  "tokens": [
+    {
+      "surface": "כתפי",
+      "gloss": "ཕྲག་པ"
+    },
+    {
+      "surface": "משכמה",
+      "gloss": "ལྷུ"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ལྷུང"
+    },
+    {
+      "surface": "ואזרעי",
+      "gloss": "ལག་ངོ"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "རུས་པ"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ཆག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:11:50.648971594Z",
+  "model": "glm-5.3"
+}

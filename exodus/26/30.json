@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "དང་⟨את⟩ གུར་དེ་རི་ལ་གང་ཁྱོད་ལ་བསྟན་པའི་དཔེ་ལྟར་བསྒྲེང་བར་བྱ།",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "བསྒྲེང་བར་བྱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གུར"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "གུར"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "དཔེ་ལྟར"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "བསྟན་པ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "རི་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:47:51.901612124Z",
+  "model": "glm-5.3"
+}

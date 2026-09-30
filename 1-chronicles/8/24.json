@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཧ་ན་ན་ཡ་ཧ། དང་ཨེ་ལམ། དང་ཨན་ཐོ་ཐི་ཡ་ཧ།",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "དང་ཧ་ན་ན་ཡ་ཧ"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "དང་ཨེ་ལམ"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "དང་ཨན་ཐོ་ཐི་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:08.733397418Z",
+  "model": "glm-5.3"
+}

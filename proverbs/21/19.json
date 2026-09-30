@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "རྩོད་པ་ཅན་གྱི་བུད་མེད་དང་ཁྲོ་བོ་ལས་⟨ནི⟩ས་སྟོང་ལ་གནས་པ་ལེགས།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "གནས་པ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "བུད་མེད་ལས"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "རྩོད་པ་ཅན"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ཁྲོ་བོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:32.622458867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "གླང་དང་བོང་བུ་མཉམ་དུ་སྦྲགས་ནས་རྨོད་མི་བྱེད་པར་གྱིས།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "རྨོད"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "གླང"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "དང་བོང་བུ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "མཉམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:52:54.428936339Z",
+  "model": "glm-5.3"
+}

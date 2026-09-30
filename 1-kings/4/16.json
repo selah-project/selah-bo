@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "བ་ཨ་ན་ ཧུ་ཤ་ཡི་བུ་ ཨ་ཤེར་⟨ལ་⟩དང་ བ་ཨ་ལོ་ཐ་⟨ལ་⟩ ⟨ཡོད།⟩",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "བ་ཨ་ན"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ཧུ་ཤ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ཨ་ཤེར"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "དང་བ་ཨ་ལོ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:05:38.619950546Z",
+  "model": "glm-5.3"
+}

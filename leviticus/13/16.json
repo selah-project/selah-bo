@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡང་ན་ཤ་གསོན་ཡང་སླར་ལོག་སྟེ་དཀར་པོར་གྱུར་ན། ཁོ་མཆོད་པ་པོའི་དྲུང་དུ་འོང་།",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ཡང་ན"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ན"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "སླར་ལོག"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "གསོན"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "དཀར་པོར"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "འོང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དྲུང་དུ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "མཆོད་པ་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:04:21.981766810Z",
+  "model": "glm-5.3"
+}

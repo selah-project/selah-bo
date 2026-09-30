@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཡ་ཨ་ཀོབ་ཀྱིས་རྡོ་ཞིག་བླངས་ཏེ་དེ་རྡོ་རིང་དུ་བཙུགས།",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "བླངས"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "རྡོ"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "བཙུགས་ཏེ་བཀྱགས"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "རྡོ་རིང"
+    }
+  ],
+  "timestamp": "2026-09-30T07:19:35.355429680Z",
+  "model": "glm-5.3"
+}

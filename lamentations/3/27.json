@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "མི་དེ་གཞོན་ནུའི་དུས་སུ་གཉའ་ཤིང་ཁུར་ན་བཟང་།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "བཟང་།"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "མི་དེ་ལ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "སྟེ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ཁུར་ན"
+    },
+    {
+      "surface": "על",
+      "gloss": "གཉའ་ཤིང་།"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "གཞོན་ནུའི་དུས་སུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:31.384050655Z",
+  "model": "glm-5.3"
+}

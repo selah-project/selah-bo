@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "དེ་ལྟར་རྟག་ཏུ་སྤྲིན་གྱིས་⟨དེ⟩སྒྲིབ་ཅིང་། མཚན་མོར་མེའི་གཟུགས་གནས་སོ།",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "རྟག་ཏུ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "སྤྲིན"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "སྒྲིབ"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "གཟུགས"
+    },
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "མཚན་མོ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:24:42.125442094Z",
+  "model": "glm-5.3"
+}

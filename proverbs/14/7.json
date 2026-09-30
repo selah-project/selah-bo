@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "བླུན་པོའི་མདུན་ནས་ཁ་ཕྱོགས་ཟུངས། ཤེས་པའི་མཆུ་སྒྲོས་⟨མི⟩རྟོགས་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ཟུངས་འགྲོ"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "མདུན་ནས"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "གལ་ཏེ་མིན"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "རྟོགས"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "མཆུ་སྒྲོས"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:57.661053593Z",
+  "model": "glm-5.3"
+}

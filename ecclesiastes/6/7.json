@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མིའི་ངལ་དུབ་ཐམས་ཅད་ཁ་ལ་ཆེད་དུ་ཡིན་ལ། ནེ་ཕེ་ཤ་ཡང་⟨ནམ་ཡང་⟩ཚིམ་པ་མེད།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ངལ་དུབ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "ཁ་ལ་ཆེད་དུ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ཚིམ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:00.094708859Z",
+  "model": "glm-5.3"
+}

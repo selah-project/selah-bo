@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ནོ་ཨ་ཁ་ཡིས་ས་གཞིའི་མི་བྱེད་པར་མགོ་བཙུགས་ནས་རྒུན་ཚལ་ཞིག་བཙུགས།",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "མགོ་བཙུགས"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "བཙུགས"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "རྒུན་ཚལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:55.321284577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཉིན་མ་དྲུག་གི་རིང་ལ་ཁྱོད་ཀྱིས་ལས་བྱས་ཏེ། ཁྱོད་ཀྱི་ལས་ཀ་ཐམས་ཅད་བྱའོ།།",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན་མ་དག"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ཁྱོད་ཀྱིས་ལས་བྱས"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "བྱའོ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ཁྱོད་ཀྱི་ལས་ཀ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:45:58.421834326Z",
+  "model": "glm-5.3"
+}

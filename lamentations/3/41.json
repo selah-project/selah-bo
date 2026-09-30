@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ང་ཚོས་རང་རེའི་སྙིང་ལག་མཐིལ་དུ་ཁྱེར་ནས་ནམ་མཁའ་ན་བཞུགས་པའི་ཨེལ་ལ་གཏོད།",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ཁྱེར"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "ང་ཚོའི་སྙིང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ལག་མཐིལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ནམ་མཁའ་ན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:54.041610726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དང་⟨את⟩ཧ་དོ་རམ་དང་⟨את⟩ཨུ་ཛལ་དང་⟨את⟩དིཀ་ལཧ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་དོ་རམ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ཧ་དོ་རམ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨུ་ཛལ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ཨུ་ཛལ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "དིཀ་ལཧ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "དིཀ་ལཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:12.947039566Z",
+  "model": "glm-5.3"
+}

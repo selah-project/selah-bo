@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཇ་མཁས་པ་ལ་རྨོངས་པ་ལས་ལྷག་པ་ཅི་ཡོད། གསོན་པོ་ཚོའི་མདུན་དུ་འགྲོ་ཤེས་པའི་དབུལ་པོ་ལ་ཅི་ཡོད།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཅེས"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ལྷག་པ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ཇ་མཁས་པ་ལ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "རྨོངས་པ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "དབུལ་པོ་ལ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ཤེས་པ"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "གསོན་པོ་ཚོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:00.094829904Z",
+  "model": "glm-5.3"
+}

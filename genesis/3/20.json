@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "མིས་རང་གི་ཆུང་མའི་མིང་ཧ་ཝ་ཞེས་བཏགས་སྟེ། གང་ཕྱིར་ཁོ་མོ་གསོན་པོ་ཀུན་གྱི་ཨ་མ་⟨ཡིན⟩།",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "བཏགས་སྟེ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "མིས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མིང་"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ཆུང་མའི"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "ཧ་ཝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་ཕྱིར"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ་མོ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨ཡིན⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ཨ་མ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "חי",
+      "gloss": "གསོན་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:16.952329069Z",
+  "model": "glm-5.3"
+}

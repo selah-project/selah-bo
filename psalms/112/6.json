@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 112,
+  "translation": "དེའི་ཕྱིར་ནམ་ཡང་གཡོ་མི་འགྱུར། ཙེ་དེག་དྲན་པའི་རྟེན་དུ་ནམ་ཡང་⟨will be⟩འགྱུར།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ནམ་ཡང་"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "གཡོ"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "དྲན་པའི་རྟེན་དུ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ནམ་ཡང་"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨will be⟩འགྱུར"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དེག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:44:32.145896953Z",
+  "model": "glm-5.3"
+}

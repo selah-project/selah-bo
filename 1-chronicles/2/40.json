@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨེལ་ཨ་ས་ཡིས་⟨את⟩སི་ས་མ་བཙས། སི་ས་མ་ཡིས་⟨את⟩ཤལ་ལུམ་བཙས།",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ཨེལ་ཨ་ས་ཡིས་"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སི་ས་མ"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "སི་ས་མ"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "སི་ས་མ་ཡིས་"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཤལ་ལུམ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ཤལ་ལུམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:56.556886436Z",
+  "model": "glm-5.3"
+}

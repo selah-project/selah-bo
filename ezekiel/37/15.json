@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ངའི་དྲུང་དུ་བྱུང་ཏེ་ཞེས་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངའི་དྲུང་དུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས་འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:50:20.071161262Z",
+  "model": "glm-5.3"
+}

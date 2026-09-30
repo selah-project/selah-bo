@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "རང་གི་ཕ་འམ་མ་ལ་བརྡུང་མཁན་ནི་ཤི་བར་བྱ་དགོས།",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "བརྡུང་མཁན"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "རང་གི་ཕ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "འམ་མ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ཤི་བ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ཤི་བར་བྱ་དགོས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:44:29.587623709Z",
+  "model": "glm-5.3"
+}

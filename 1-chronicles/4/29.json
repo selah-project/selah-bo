@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "དང་བིལ་ཧ་ནང་དང་ཨེ་ཙེམ་ནང་དང་ཏོ་ལ་དི་ནང་།",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "བིལ་ཧ་ནང་"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "ཨེ་ཙེམ་ནང་"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "ཏོ་ལ་དི་ནང་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:41.900041376Z",
+  "model": "glm-5.3"
+}

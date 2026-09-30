@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཨེག་ལོན་གྱི་རྒྱལ་པོ་གཅིག །གེ་ཛེར་གྱི་རྒྱལ་པོ་གཅིག",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ཨེག་ལོན"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "གེ་ཛེར"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:32.442369527Z",
+  "model": "glm-5.3"
+}

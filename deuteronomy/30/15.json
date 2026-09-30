@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ལྟོས་ ངས་དི་རིང་ཁྱེད་ཀྱི་མདུན་དུ་ ⟨את⟩ཚེ་དང་⟨את⟩ལེགས་པ་ དང་⟨את⟩འཆི་བ་དང་⟨את⟩ངན་པ་བཞག་ཡོད།",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ངས་བཞག"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ཁྱེད་ཀྱི་མདུན་དུ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "དི་རིང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚེ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ཚེ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ལེགས་པ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ལེགས་པ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "འཆི་བ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "འཆི་བ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ངན་པ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ངན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:00:07.151187618Z",
+  "model": "glm-5.3"
+}

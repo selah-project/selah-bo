@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཁོང་གིས་ཨབ་ར་ཧམ་གྱི་བྲན་པོ་ང་ཡིན་ཟེར།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "བྲན་པོ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:13:50.866648379Z",
+  "model": "glm-5.3"
+}

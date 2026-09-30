@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཉིན་གསུམ་པ་ལ་ལ་བན་ལ་ཡ་ཨ་ཀོབ་བྲོས་སོ་ཞེས་བརྗོད་དོ",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "བརྗོད་དོ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ལ་བན་ལ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་ལ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "གསུམ་པ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཞེས་པ་<that>"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "བྲོས"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:18:30.568443071Z",
+  "model": "glm-5.3"
+}

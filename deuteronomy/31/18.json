@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཉིན་མོ་དེར་ཨེ་ལོ་ཧིམ་གཞན་དག་ལ་གདོང་འཁོར་ནས་བྱས་པའི་ངན་པ་ཐམས་ཅད་ཀྱི་ཕྱིར་ང་⟨ཡང་⟩ངའི་གདོང་ཤིན་ཏུ་སྦས་ཏེ་སྦས་སོ།",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ང་ཡང་"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "སྦས"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "སྦས"
+    },
+    {
+      "surface": "פני",
+      "gloss": "གདོང་"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་མོར"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེའི"
+    },
+    {
+      "surface": "על",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "གདོང་འཁོར"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "གཞན་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:03:40.023520872Z",
+  "model": "glm-5.3"
+}

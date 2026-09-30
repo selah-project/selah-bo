@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "དེ་ནས་ཕྱིན་ཏེ་ཛེ་རེད་ཀྱི་ལུང་པར་གུར་བཏབ།",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "དེ་ནས"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "གུར་བཏབ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ལུང་པར"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ཛེ་རེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:30:59.996601896Z",
+  "model": "glm-5.3"
+}

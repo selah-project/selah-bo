@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "ཡ་ཧ་ཝེ་ཡིས་མོ་ཤེ་ལ་གསུངས་པ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ཡིས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "གསུང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:41:33.750609007Z",
+  "model": "glm-5.3"
+}

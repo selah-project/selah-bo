@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཧི་རམ་ གྱིས་ རྒྱལ་པོ་ ལ་ གསེར་ གྱི་ ཏ་ལེན་ བརྒྱ་ ཉི་ཤུ་ བཏང་ །",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "བཏང"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ཧི་རམ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "རྒྱལ་པོ་ལ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ו עשרים",
+      "gloss": "དང་ཉི་ཤུ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ཏ་ལེན"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    }
+  ],
+  "timestamp": "2026-09-30T10:12:39.216287954Z",
+  "model": "glm-5.3"
+}

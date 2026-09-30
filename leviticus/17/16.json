@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "གལ་ཏེ་ཁོས་བཀྲུ་བ་མ་བྱས་ལ་ལུས་ཀྱང་མ་བཀྲུ་ན། ཁོས་རང་གི་སྡིག་པ་ཁུར་བར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "བཀྲུ་བ་མ་བྱས"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ལུས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "མ་བཀྲུ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ཁུར་བར་བྱེད"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "སྡིག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:08:24.588539576Z",
+  "model": "glm-5.3"
+}

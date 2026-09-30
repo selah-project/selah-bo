@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཡོངས་གསལ་གྱི་སྐྱོན་བརྗོད་ ⟨འདི⟩སྦས་པའི་དགའ་བ་ལས་ལེགས།",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "སྐྱོན་བརྗོད"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ཡོངས་གསལ"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "དགའ་བ་ལས"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "སྦས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:25.791428414Z",
+  "model": "glm-5.3"
+}

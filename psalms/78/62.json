@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 78,
+  "translation": "ཁོའི་མི་མང་གྲི་ལ་སྤྲད། ཁོའི་ཤུལ་མ་ལ་ཁྲོས་སོ། །",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "སྤྲད"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "གྲི་ལ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "མི་མང"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "ཤུལ་མ་ལ"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "ཁྲོས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:36:35.796097309Z",
+  "model": "glm-5.3"
+}

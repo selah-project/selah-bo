@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ནོར་གྱིས་གྲོགས་མང་པོ་སྣོན་ཏེ། དབུལ་བོ་ནི་⟨his⟩གྲོགས་དང་འབྲལ་བར་འགྱུར་རོ།",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ནོར"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "སྣོན"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "གྲོགས"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "མང་པོ"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "དབུལ་བོ"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "གྲོགས"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "འབྲལ་བར་འགྱུར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:20.057588440Z",
+  "model": "glm-5.3"
+}

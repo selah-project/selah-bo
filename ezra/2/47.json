@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "གི་དེལ་གྱི་བུ་ཚ། ག་ཧ་རའི་བུ་ཚ། ར་ཨ་ཡ་ཧའི་བུ་ཚ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "གི་དེལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "ག་ཧ་ར"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ར་ཨ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:41:38.180467329Z",
+  "model": "glm-5.3"
+}

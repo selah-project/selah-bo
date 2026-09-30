@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "དངུལ་ལ་དགའ་བ་པོ་དངུལ་གྱིས་ཚིམ་མི་འགྱུར་ཞིང་། ཕུན་ཚོགས་ལ་སུ་དགའ་ཡང་ཡོང་འབབ་མེད། འདི་ཡང་ཧེ་བེལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ཚིམ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "དང་སུ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ཕུན་ཚོགས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "ཡོང་འབབ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ཧེ་བེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:19.484055321Z",
+  "model": "glm-5.3"
+}

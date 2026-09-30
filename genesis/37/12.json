@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "སྤུན་ཟླ་ཚོ་ཕའི་⟨את⟩ལུག་ཁྱུ་རྫ་འཚོ་བར་ཤེ་ཁེམ་དུ་སོང༌།",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "སྤུན་ཟླ་ཚོ"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "འཚོ་བར"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལུག"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ལུག"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "ཤེ་ཁེམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:21:08.768990424Z",
+  "model": "glm-5.3"
+}

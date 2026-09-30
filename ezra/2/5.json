@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨ་ར་ཁ་ཡི་བུ་རྒྱུད། བདུན་བརྒྱ་དོན་ལྔ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ཨ་ར་ཁ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "དོན་ལྔ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:39:51.485696037Z",
+  "model": "glm-5.3"
+}

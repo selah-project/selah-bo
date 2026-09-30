@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཏིར་ཙ་ཧའི་རྒྱལ་པོ་གཅིག རྒྱལ་པོ་ཐམས་ཅད་སུམ་ཅུ་སོ་གཅིག",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ཏིར་ཙ་ཧ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "སུམ་ཅུ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "སོ་གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:32.346304273Z",
+  "model": "glm-5.3"
+}

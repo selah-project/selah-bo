@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "འོན་ཀྱང་ཤེ་ཨོལ་ལ་ཁྱོད་⟨བབས་བྱ། བུ་གའི་མཐའ་རུ།",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "འོན་ཀྱང་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ཤེ་ཨོལ"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "བབས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "མཐའ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "བུ་ག"
+    }
+  ],
+  "timestamp": "2026-09-30T10:41:40.193352444Z",
+  "model": "glm-5.3"
+}

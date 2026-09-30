@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "བ་ནི། བི་ནུ་ཝི། ཤི་མའི།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བ་ནི"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "བི་ནུ་ཝི"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ཤི་མའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:44:10.692347224Z",
+  "model": "glm-5.3"
+}

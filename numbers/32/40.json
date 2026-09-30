@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "མོ་ཤེ་ཡིས་⟨את⟩གིལ་ཨ་ད་མ་ན་ཤེའི་བུ་མ་ཁིར་ལ་བྱིན་ནས་ཁོང་དེར་བཞུགས།",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "བྱིན་ནས"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གིལ་ཨ་ད"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "གིལ་ཨ་ད"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "མ་ཁིར་ལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "མ་ན་ཤེ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "བཞུགས"
+    },
+    {
+      "surface": "בה",
+      "gloss": "དེར"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:43.674579865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "ཡ་ཧ་ཝེས་ཡེ་ཧོ་ཤུ་ཨ་ལ་གསུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ཡེ་ཧོ་ཤུ་ཨ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T09:14:21.236855153Z",
+  "model": "glm-5.3"
+}

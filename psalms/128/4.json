@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 128,
+  "translation": "ལྟོས། ཡ་ཧ་ཝེ་ལ་འཇིགས་པའི་སྐྱེས་བུ་དེ་ལྟར་བཀྲ་ཤིས་པར་འགྱུར་རོ།",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "བཀྲ་ཤིས"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "སྐྱེས་བུ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "འཇིགས་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:47:39.361297064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "འདི་དག་གད་ཀྱི་བུ་རྣམས་ལས་ཏེ་དམག་གི་དགའ་ལྡན་མི་སྣ་༼the heads of the host༽ཡིན་ཏེ། ཆུང་བ་གཅིག་གིས་བརྒྱ་ལ་༼was equal to a hundred༽དང་། ཆེན་པོ་སྟོང་ལ་༼was over a thousand༽བའོ།",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ཀྱི་བུ་རྣམས་ལས"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གད"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "དམག་གི་དགའ་ལྡན་མི་སྣ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "དམག"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "བརྒྱ་ལ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ཆུང་བ"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "སྟོང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:51.352181496Z",
+  "model": "glm-5.3"
+}

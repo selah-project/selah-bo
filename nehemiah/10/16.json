@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "བུ་ནི། ཨ་ཛ་གཌ། བེ་བ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ནི"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ཨ་ཛ་གཌ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "བེ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:18.786310594Z",
+  "model": "glm-5.3"
+}

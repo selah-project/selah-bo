@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "འདི་ཡང་ངས་མཐོང་སྟེ་ཉི་མའི་འོག་གི་ཤེས་རབ་ཡིན་ལ་དེ་ང་ལ་ཆེན་པོ་⟨ཡིན⟩།",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ངས་མཐོང"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "འོག"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ཉི་མའི"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:26.942142519Z",
+  "model": "glm-5.3"
+}

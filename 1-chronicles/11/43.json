@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཧ་ནན་ མ་ཨ་ཁའི་བུ་དང་། ཡོ་ཤ་ཕ་ཊ་ མི་ཐ་ན་བ་པོ།",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ཧ་ནན"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…གི་བུ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "མ་ཨ་ཁ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "ཡོ་ཤ་ཕ་ཊ"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "མི་ཐ་ན་བ་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:32.674317478Z",
+  "model": "glm-5.3"
+}

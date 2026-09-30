@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོང་གིས་གས་མས་⟨ང་ཡི⟩སོ་ཕྱེས། ཁོང་གིས་ཐལ་བའི་ནང་དུ་ང་མནན།",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "ཕྱེས"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "གས་མས"
+    },
+    {
+      "surface": "שני",
+      "gloss": "⟨ང་ཡི⟩སོ"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "ང་མནན"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "ཐལ་བའི་ནང་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:52.766751103Z",
+  "model": "glm-5.3"
+}

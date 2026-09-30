@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ནེ་ཐན་ཨེལ་བཞི་པ་དང་། ར་ད་ཡ་ལྔ་པ།",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "ནེ་ཐན་ཨེལ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "བཞི་པ"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ར་ད་ཡ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ལྔ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:05.790562107Z",
+  "model": "glm-5.3"
+}

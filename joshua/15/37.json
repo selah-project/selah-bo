@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཙེ་ནན་དང་ཧ་ད་ཤ་ཧ་དང་མིག་དལ་ག་ད།",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "ཙེ་ནན"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "ཧ་ད་ཤ་ཧ"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "མིག་དལ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ག་ད"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:17.543068673Z",
+  "model": "glm-5.3"
+}

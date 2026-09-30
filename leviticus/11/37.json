@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "གལ་ཏེ་ཁོང་ཚོའི་རོ་ལས་ལྷུང་སྟེ་གཏོར་བྱའི་ས་བོན་གང་ཞིག་ལ་ཕོག་ནའང་དེ་གཙང་མ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ལྷུང"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ཁོང་ཚོའི་རོ་ལས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ས་བོན"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "གཏོར་བྱའི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "གཏོར"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "གཙང་མ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:01:17.177103015Z",
+  "model": "glm-5.3"
+}

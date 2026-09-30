@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "དམག་གི་མི་ཐམས་ཅད་མི་དམངས་ཀྱི་དབུས་ནས་འཆི་བར་རྫོགས་པ་ན་དེ་ལྟར་བྱུང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…བྱུང"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…ན"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "རྫོགས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…གི་མི"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "དམག"
+    },
+    {
+      "surface": "למות",
+      "gloss": "འཆི་བར"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "…ནས་"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་དམངས་ཀྱི་དབུས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:42:11.117361833Z",
+  "model": "glm-5.3"
+}

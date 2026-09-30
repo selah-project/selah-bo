@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "དེ་བས་སྨད་འཚོང་མ་ཁྱོད་ཀྱིས་ཡ་ཧ་ཝེའི་ཚིག་ཉོན་ཞིག",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "དེ་བས"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "སྨད་འཚོང་མ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ཉོན་ཞིག"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:52:36.622056948Z",
+  "model": "glm-5.3"
+}

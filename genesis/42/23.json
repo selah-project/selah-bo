@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 42,
+  "translation": "ཁོང་ཚོས་ཡོ་སེཕ་གོ་བ་མ་ཤེས། གང་གི་ཕྱིར་སྒྱུར་མཁན་ཁོང་གི་བར་དུ་ཡོད་དོ།",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "ཁོང་ཚོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "གོ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་གི་ཕྱིར"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "སྒྱུར་མཁན"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "ཁོང་གི་བར་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:27:57.716820504Z",
+  "model": "glm-5.3"
+}

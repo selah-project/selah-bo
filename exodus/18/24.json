@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "མོ་ཤེ་ཡིས་རང་གི་བཟའ་ཟླའི་ཕའི་ཚིག་ལ་ཉན་ནས། ཁོང་གིས་བཤད་པ་ཐམས་ཅད་བྱས་སོ།",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ཉན་ནས"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ཚིག་ལ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "བཟའ་ཟླའི་ཕ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "བཤད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:43:09.103899157Z",
+  "model": "glm-5.3"
+}

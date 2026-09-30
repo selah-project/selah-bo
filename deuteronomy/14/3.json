@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "སྐྱུགས་བྲོ་བ་གང་ཡང་ཟ་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང་ཡང་"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "སྐྱུགས་བྲོ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:38.337104640Z",
+  "model": "glm-5.3"
+}

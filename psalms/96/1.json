@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 96,
+  "translation": "ཡ་ཧ་ཝེ་ལ་གླུ་གསར་པ་ཞིག་ལེན། ཡ་ཧ་ཝེ་ལ་ས་གཞི་ཀུན་གྱིས་ལེན།",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "གླུ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "གསར་པ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན་གྱིས"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:39:58.628980453Z",
+  "model": "glm-5.3"
+}

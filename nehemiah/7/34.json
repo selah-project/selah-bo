@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨེ་ལམ་གཞན་གྱི་བུ་ཚ་རྣམས་སྟོང་གཅིག་བརྒྱ་ཚ་གཉིས་ལྔ་བཅུ་དང་བཞི།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ཨེ་ལམ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "གཞན"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང་གཅིག"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "བརྒྱ་ཚ་གཉིས"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "དང་བཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:35.459418702Z",
+  "model": "glm-5.3"
+}

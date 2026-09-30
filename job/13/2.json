@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཁྱེད་ཚོས་ཤེས་པ་ལྟར་ང་ཡང་ཤེས།ང་ཁྱེད་ཚོ་ལས་ཞན་པ་མིན།",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "ཁྱེད་ཚོས་ཤེས་པ་ལྟར"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ང་ཤེས"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ཞན་པ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "ཁྱེད་ཚོ་ལས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:06:41.514411480Z",
+  "model": "glm-5.3"
+}

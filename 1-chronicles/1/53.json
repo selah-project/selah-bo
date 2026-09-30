@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཨེ་ཌོཀ (ཨེ་ཌོམ་གྱི་) དཔོན་ཀེ་ན་ཛི་ དཔོན་ཏེ་མན་ དཔོན་མིབ་ཛར།",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ཀེ་ན་ཛི"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ཏེ་མན"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "མིབ་ཛར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:22.052777121Z",
+  "model": "glm-5.3"
+}

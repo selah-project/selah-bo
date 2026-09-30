@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡང་ཁྱེད་རྣམས་ཀྱི་དབང་གིས་ཡ་ཧ་ཝེ་ང་ལ་ཁྲོས་ཏེ་གསུངས་པ། ཁྱོད་ཀྱང་དེར་མི་འོང་།",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "ཁྲོས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "ཁྱེད་རྣམས་ཀྱི་དབང་གིས"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ཁྱོད"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "འོང"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:42:36.826124328Z",
+  "model": "glm-5.3"
+}

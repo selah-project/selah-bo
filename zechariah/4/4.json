@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ངས་ལན་བཏབ་སྟེ། ངའི་ནང་དུ་སྨྲ་བའི་ཕོ་ཉ་དེ་ལ་ཞེས་པ་ན། དཔོན་པོ་ལགས། འདི་དག་གང་ལགས་ཞུས་སོ།།",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ལན་བཏབ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ཕོ་ཉ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "སྨྲ་བ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ངའི་ནང་དུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "מה",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "དཔོན་པོ་ལགས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:15:40.166378246Z",
+  "model": "glm-5.3"
+}

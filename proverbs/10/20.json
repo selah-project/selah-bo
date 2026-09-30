@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཙེ་དེག་གི་ལྕེ་ནི་བདམས་པའི་དངུལ་ཡིན། ངན་པ་རྣམས་ཀྱི་སྙིང་ནི་ཏོལ་ཙམ།",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "བདམས་པ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ལྕེ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དེག་གི"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ངན་པ་རྣམས་ཀྱི"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ཏོལ་ཙམ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:40.048726589Z",
+  "model": "glm-5.3"
+}

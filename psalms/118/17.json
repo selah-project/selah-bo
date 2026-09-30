@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 118,
+  "translation": "ང་འཆི་བ་མིན་ ང་གསོན་པར་འགྱུར་ དང་ཡ་ཧའི་བྱ་བ་དག་གླེང་བར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "འཆི"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་གིས"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "གསོན"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "དང་གླེང"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "བྱ་བ་དག"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:45:23.651737927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 118,
+  "translation": "ངའི་དོན་དུ་ཙེ་དེག་གི་སྒོ་དག་ཕྱེས། ང་དེར་ཞུགས་ནས་ཡ་ཧ་ལ་བསྟོད་པ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "ཕྱེས"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ངའི་དོན་དུ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "སྒོ་དག"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ཞུགས"
+    },
+    {
+      "surface": "בם",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "བསྟོད་པ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:45:23.652110979Z",
+  "model": "glm-5.3"
+}

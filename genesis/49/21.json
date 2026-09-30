@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 49,
+  "translation": "ན་ཕ་ཐ་ལི་⟨ནི⟩གླ་བ་ཐོངས་པ་ལྟ་བུ། མཛེས་པའི་ཚིག་སྟེར།",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "ན་ཕ་ཐ་ལི"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "གླ་བ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ཐོངས་པ"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "སྟེར"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "མཛེས་པའི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:31:30.594806306Z",
+  "model": "glm-5.3"
+}

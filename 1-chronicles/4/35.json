@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "དང་ཡོ་ཨེལ་དང་ཡེ་ཧུ་ཨ་ཡོ་ཤི་བི་ཡ་ཧའི་བུ་སེ་ར་ཡ་ཧའི་བུ་ཨ་སི་ཨེལ་གྱི་བུ།",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ཡོ་ཨེལ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ཡེ་ཧུ་ཨ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "ཡོ་ཤི་བི་ཡ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "སེ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "ཨ་སི་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:05.619887677Z",
+  "model": "glm-5.3"
+}

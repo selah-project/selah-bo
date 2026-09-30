@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཤ་ལུམ་ཨ་མ་ར་ཡ་ཧ་ཡོ་སེཕ།",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ཤ་ལུམ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ཨ་མ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:44:56.402591555Z",
+  "model": "glm-5.3"
+}

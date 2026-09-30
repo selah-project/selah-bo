@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ཤེ་ཀེལ་སྟོང་དང་བདུན་བརྒྱ་དང་ལྔ་བཅུ་ང་ལྔ་<is>དེ་<is་>ལས་<is>ཁ་<is>ཀ挂着་<is>དང་<is>ཀ་<is>བ་<is>ལྟ་<is་>བུ་<is་>རྣམས་<is>ཀྱིས་<is>ཀ་<is>ཕུར་<is>ལ་<is><is><is><is><is><is><is><is>བྱས་<is>ཤིང་<is>དེ་<is>དག་<is>གི་<is>སྤྱི་<is>བོ་<is>རྣམས་<is><is>གཡོགས་<is>ཤིང་<is><is><is><is><is><is><is><is><is>དེ་<is>དག་<is>ལ་<is><is>འཁྱུད་<is>ལྕགས་<is><is>བཅིངས་<is>སོ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "སྟོང་ཕྲག་དང་ཤེ་ཀེལ་གྱི་ཁ་གྲངས"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "སྟོང་"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "བདུན་"
+    },
+    {
+      "surface": "ཧמאות",
+      "gloss": "བརྒྱ་"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ལྔ་"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "བདུན་ཅུ་"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "ཁ་<is>ཀ挂着་<is>ཀ་<is>བ"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "ཀ་<is>ཕུར"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "གཡོགས"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "སྤྱི་<is>བོ་<is>རྣམས"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "འཁྱུད་<is>ལྕགས་<is>བཅིངས"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "དེ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:55:40.466015151Z",
+  "model": "glm-5.3"
+}

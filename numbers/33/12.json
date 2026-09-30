@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཁོང་ཚོ་སིན་གྱི་ཐང་སྟོང་ནས་ཆས་ཏེ་དོཕ་ཀ་ཧར་ཞག་པོ་བྱས།",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ཆས་ཏེ"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ཐང་སྟོང་ནས"
+    },
+    {
+      "surface": "סין",
+      "gloss": "སིན་གྱི"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ཞག་པོ་བྱས"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "དོཕ་ཀ་ཧར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:21.464966484Z",
+  "model": "glm-5.3"
+}

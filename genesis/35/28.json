@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 35,
+  "translation": "ཡི་ཙ་ཧག་གི་ལོ་ཞག་ནི་ལོ་བརྒྱ་དང་གྱ་བརྒྱད་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ལོ་ཞག"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ཡི་ཙ་ཧག་གི"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "གྱ་བརྒྱད"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:26:06.158878107Z",
+  "model": "glm-5.3"
+}

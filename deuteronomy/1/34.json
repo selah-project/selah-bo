@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡ་ཧ་ཝེས་⟨את⟩ཁྱེད་ཀྱི་ཚིག་གི་སྒྲ་གསན་ནས་ཁྲོས་ཏེ་དམ་བཅའ་མཛད་ནས་ཞེས་གསུངས།",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "གསན་ནས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སྒྲ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "སྒྲ"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ཁྱེད་ཀྱི་ཚིག"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ཁྲོས་ཏེ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "དམ་བཅའ་མཛད"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:43:05.815800356Z",
+  "model": "glm-5.3"
+}

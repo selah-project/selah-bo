@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "གནས་ཐམས་ཅད་དུ་ཡ་ཧ་ཝེའི་སྤྱན་གྱིས་ངན་པ་དང་བཟང་པོ་〈ལ〉གཟིགས།",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ཐམས་ཅད་དུ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "སྤྱན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "གཟིགས"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "བཟང་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:16.936739423Z",
+  "model": "glm-5.3"
+}

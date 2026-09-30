@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "རླངས་པ་ཞིག་ས་གཞི་ནས་ཡར་འཕགས་ཏེ་ས་ཞིང་གི་ངོས་ཐམས་ཅད་⟨את⟩ཀུན་བརླན་པར་བྱས།",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "རླངས་པ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ཡར་འཕགས"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "བརླན་པར་བྱས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཀུན"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད་ཀུན"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ངོས"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ས་ཞིང་གི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:02:43.935096425Z",
+  "model": "glm-5.3"
+}

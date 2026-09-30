@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "གསར་པ་དག་ནམ་ལངས་རེ་ལ། ཁྱོད་ཀྱི་བློ་གཏད་ནི་རྒྱ་ཆེ།",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "གསར་པ་དག"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ནམ་ལངས་རེ་ལ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "རྒྱ་ཆེ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ཁྱོད་ཀྱི་བློ་གཏད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:51.875318551Z",
+  "model": "glm-5.3"
+}

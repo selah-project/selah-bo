@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "དན་ལ་ཡང་གསུངས། དན་ནི་སེང་གེའི་ཕྲུ་གུ་སྟེ། བ་ཤན་ནས་མཆོང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "དན་ལ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "דן",
+      "gloss": "དན"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ཕྲུ་གུ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "སེང་གེ"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "མཆོང"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "བ་ཤན"
+    }
+  ],
+  "timestamp": "2026-09-30T09:00:46.761024992Z",
+  "model": "glm-5.3"
+}

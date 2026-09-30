@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨུ་ཛ་ཨའི་བུ་ཚ། པ་སེ་ཨ་ཁའི་བུ་ཚ། བེ་སའི་བུ་ཚ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ཨུ་ཛ་ཨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "པ་སེ་ཨ་ཁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "བེ་ས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:41:40.759907037Z",
+  "model": "glm-5.3"
+}

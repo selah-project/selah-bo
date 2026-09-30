@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 104,
+  "translation": "ཡ་ཧ་ཝེའི་ཤིང་རྣམས་ངོམས། ཁོས་བཙུགས་པའི་ལེ་བ་ནོན་གྱི་ཨེ་རེཛ་ཤིང།",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "ངོམས"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ཤིང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "ཨེ་རེཛ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ལེ་བ་ནོན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "བཙུགས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:58:05.954653924Z",
+  "model": "glm-5.3"
+}

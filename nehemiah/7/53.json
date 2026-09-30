@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "བ་ཀབུཀ་གྱི་བུ་ཚ་དག ཧ་ཀུཕ་ཨ་གྱི་བུ་ཚ་དག ཧ་ར་ཧུར་གྱི་བུ་ཚ་དག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "བ་ཀབུཀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ཧ་ཀུཕ་ཨ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ཧ་ར་ཧུར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:52.137162319Z",
+  "model": "glm-5.3"
+}

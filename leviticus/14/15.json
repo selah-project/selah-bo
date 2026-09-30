@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཀུ་ཧེན་གྱིས་ལོག་མར་ཁུ་ལས་བླངས་ཏེ་ ཀུ་ཧེན་གྱི་ལག་མཐིལ་གཡོན་པོ་ལ་བླུགས་སོ །",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ཀུ་ཧེན"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "མར་ཁུ"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "བླུགས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ལག་མཐིལ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ཀུ་ཧེན་གྱི"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "གཡོན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:06:22.262983705Z",
+  "model": "glm-5.3"
+}

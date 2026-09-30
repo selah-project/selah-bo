@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཡི་ཙ་ཧག་གིས་གེ་ར་རར་གནས་སྡོད་བྱས།",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "གནས་སྡོད་བྱས"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ཡི་ཙ་ཧག"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "གེ་ར་རར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:14:46.009549597Z",
+  "model": "glm-5.3"
+}

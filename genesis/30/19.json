@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ལེ་ཨ་ཡང་བསྐྱར་ལྷན་སྐྱེས་ཏེ་ཡ་ཨ་ཀོབ་ལ་བུ་དྲུག་པ་ཞིག་སྐྱེས།",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ལྷན་སྐྱེས"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ཡང་བསྐྱར"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ལེ་ཨ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "དྲུག་པ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ཡ་ཨ་ཀོབ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:17:24.547928231Z",
+  "model": "glm-5.3"
+}

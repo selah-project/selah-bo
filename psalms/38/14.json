@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "འོན་ང་ནི་འོན་པ་ལྟར་མི་ཐོས་ཤིང་། ལྐུགས་པ་ལྟར་ཁ་མི་འབྱེད་དོ།",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ཕྱིང"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ཀཁརེཤ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ལא"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ཨཤམע"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ཕྱིངཀཨལམ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ལא"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ཙཕתח"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "པགཝ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:27:48.225840051Z",
+  "model": "glm-5.3"
+}

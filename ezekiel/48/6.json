@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "དང་ཨེ་ཕ་ར་ཡིམ་གྱི་མཐའ་མཚམས་⟨the⟩ཤར་ཕྱོགས་ནས་ནུབ་ཕྱོགས་ཀྱི་བར་རུ་བེན་གཅིག",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "སྟེང་"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "མཐའ་མཚམས"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ཨེ་ཕ་ར་ཡིམ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ཕྱོགས་ནས"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ཤར"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "དང་བར"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ཕྱོགས"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ནུབ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "རུ་བེན"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:55:35.932446480Z",
+  "model": "glm-5.3"
+}

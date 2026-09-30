@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡ་ཧ་ཝེ་གྱིས་མོ་ཤེ་ལ་གསུངས་པ། ཟེར་བ་ཞེས།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཟེར་བ་ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:01.023679043Z",
+  "model": "glm-5.3"
+}

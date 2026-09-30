@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཡེ་རེད་འཚོ་ལོ་གཉིས་དང་དྲུག་བཅུ་དང་ལོ་བརྒྱ་བརྒྱ་ལོན་ནས་⟨את⟩ཧ་ནོཀ་བཙས།",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "འཚོ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ཡེ་རེད"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དང་དྲུག་བཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "དང་བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་ནོཀ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ཧ་ནོཀ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:36.130230470Z",
+  "model": "glm-5.3"
+}

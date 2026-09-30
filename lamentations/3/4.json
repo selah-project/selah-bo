@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོས་བདག་གི་ཤ་དང་པགས་པ་ཟད་པར་བྱས། ཁོས་བདག་གི་རུས་པ་བཅག",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "ཟད་པར་བྱས"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "བདག་གི་ཤ"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "དང་པགས་པ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "བཅག"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "བདག་གི་རུས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:11.792953128Z",
+  "model": "glm-5.3"
+}

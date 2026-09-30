@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོང་གིས་གཞུ་བཀང་། ང་མདའ་ཡི་དམིགས་བྱར་བཙུགས།",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "བཀང"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ཁོང་གི་གཞུ"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "ང་...བཙུགས"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "དམིགས་བྱར"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "མདའ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:00.332358579Z",
+  "model": "glm-5.3"
+}

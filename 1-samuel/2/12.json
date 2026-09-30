@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨེ་ལིའི་བུ་དག་ནི་བྷེ་ལི་ཡལ་གྱི་བུ་དག་སྟེ། ཁོ་ཚོས་ཡ་ཧ་ཝེ་⟨את⟩མི་ཤེས།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་དག"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ཨེ་ལི"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "བྷེ་ལི་ཡལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:31:24.306704549Z",
+  "model": "glm-5.3"
+}

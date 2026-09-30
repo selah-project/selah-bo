@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཙེ་དིག་ཤིན་ཏུ་མ་འགྱུར། དང་ལྷག་པར་མཁས་མ་བྱེད། ཅིའི་ཕྱིར་ཁྱོད་བརླག་པར་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དིག"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ཤིན་ཏུ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་མ"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "མཁས་མ་བྱེད"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ལྷག་པར"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ཅིའི་ཕྱིར"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "བརླག་པར་འགྱུར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:33.288110247Z",
+  "model": "glm-5.3"
+}

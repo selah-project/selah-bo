@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 14:27",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "རྒྱལ་པོ་རེ་ཧ་བ་ཨམ་གྱིས་<in their stead>ཟངས་ཀྱི་གོ་ཁྲབ་<shields>བཟོས་ཤིང་། <the>སྒོ་<the>ཁང་<of the king><the>བསྲུང་བ་<those>པོར་<guard>རྨེག་<to the hand of>སྤྲད་དོ།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "བཟོས"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "<the>རྒྱལ་པོ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "རེ་ཧ་བ་ཨམ"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "<in their stead>"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "གོ་ཁྲབ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ཟངས"
+    },
+    {
+      "surface": "והפקיד",
+      "gloss": "སྤྲད"
+    },
+    {
+      "surface": "על",
+      "gloss": "<to>"
+    },
+    {
+      "surface": "יד",
+      "gloss": "<hand of>"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "<guard>རྨེག"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "<guard>"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "<those>བསྲུང་བ་<who keep>"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "<house>ཁང་"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "<the>རྒྱལ་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:15:24.134362544Z",
+  "model": "glm-5.3"
+}

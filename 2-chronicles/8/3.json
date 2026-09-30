@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཤ་ལོ་མོ་ཧ་ཧ་མཏ་ཙོ་བ་ཧར་བྱོན་ནས་དེ་ལས་རྒྱལ།",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "བྱོན"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤ་ལོ་མོ་ཧ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ཧ་མཏ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ཙོ་བ་ཧ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ལས་རྒྱལ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "དེ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:10:16.407614934Z",
+  "model": "glm-5.3"
+}

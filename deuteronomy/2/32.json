@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "སི་ཧོན་ཡ་ཧ་ཙར་ང་ཚོ་ལ་འཐབ་པར་ཁོ་དང་ཁོའི་མི་མང་པོ་ཀུན་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "སི་ཧོན"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ང་ཚོ་ལ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ཁོའི་མི་མང་པོ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "འཐབ་པར"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ཡ་ཧ་ཙར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:43:03.404949116Z",
+  "model": "glm-5.3"
+}

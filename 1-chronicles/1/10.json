@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཀུ་ཤ་ལ་ནི་མི་ན་རོད་འཁྲུངས། ཁོང་ས་གཞིའི་སྟེང་དཔའ་བོར་གྱུར་འགོ་ཚུགས།",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ཀུ་ཤ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "འཁྲུངས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མི་མ་རོད"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "མི་མ་རོད"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོང"
+    },
+    {
+      "surface": "החל",
+      "gloss": "འགོ་ཚུགས"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "དཔའ་བོ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞིའི་སྟེང་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:37.904930940Z",
+  "model": "glm-5.3"
+}

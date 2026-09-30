@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨེ་ས་ཐེར་གྱིས་སྨྲས། མི་<a man>གཉའ་གནོན་<adversary>ཅན་དང་དགྲ་<enemy>ནི་ཧ་མན་<is>ངན་པ་འདི་ཡིན། ཧ་མན་རྒྱལ་པོ་<before>དང་རྒྱལ་མོའི་མདུན་<before>དུ་སྐྲག<was terrified>།",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "སྨྲས།"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ཨེ་ས་ཐེར་གྱིས"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "צר",
+      "gloss": "གཉའ་གནོན"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "དང་དགྲ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ཧ་མན"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ཧ་མན"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "སྐྲག"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "མདུན"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "དང་རྒྱལ་མོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:33:35.716517174Z",
+  "model": "glm-5.3"
+}

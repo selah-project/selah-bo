@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཕྱོགས་བཞིའི་རུ་ཨ་ཁ་ལ་སྒོ་སྲུང་བ་རྣམས་⟨ཡིན⟩ཏེ། ཤར་དང་། ནུབ་དང་། བྱང་དང་། ལྷོའོ།",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "བཞིའི"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "རུ་ཨ་ཁ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨ཡིན⟩"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "སྒོ་སྲུང་བ་རྣམས"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ཤར"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ནུབ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "བྱང"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "ལྷོ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:05:04.527008404Z",
+  "model": "glm-5.3"
+}

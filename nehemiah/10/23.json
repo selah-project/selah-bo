@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཕེ་ལ་ཏི་ཡ་ཧ་ ཧ་ནན་ ཨ་ན་ཡ་ཧ།",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "ཕེ་ལ་ཏི་ཡ་ཧ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ཧ་ནན"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "ཨ་ན་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:47.139883936Z",
+  "model": "glm-5.3"
+}

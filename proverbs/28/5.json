@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ངན་པའི་མི་རྣམས་ཀྱིས་ཁྲིམས་མི་ཤེས་ ཡ་ཧ་ཝེ་འཚོལ་མཁན་རྣམས་ཀྱིས་ཐམས་ཅད་ཤེས།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་རྣམས"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "འཚོལ་མཁན་རྣམས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:36.555057127Z",
+  "model": "glm-5.3"
+}

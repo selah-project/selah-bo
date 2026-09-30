@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "གསེར་གྱི་ཕྲེང་བ་དག ཁྱོད་ལ་བྱེད་དོ། དངུལ་གྱི་ཐིག་ལེ་དག་དང་ལྷན་དུ།",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "ཕྲེང་བ་དག"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར་གྱི"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "བྱེད་དོ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་ལྷན་དུ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ཐིག་ལེ་དག"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "དངུལ་གྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:16:36.608514431Z",
+  "model": "glm-5.3"
+}

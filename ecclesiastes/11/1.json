@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཁྱོད་ཀྱི་བག་ལེབ་ཆུ་ངོས་སུ་བཏང་། ཉིན་མང་པོའི་ནང་དུ་ཁྱོད་ཀྱིས་དེ་རྙེད་པར་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "བཏང་"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ཁྱོད་ཀྱི་བག་ལེབ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ངོས"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་ཡིན་པས"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "མང་པོའི་ནང་"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ཁྱོད་ཀྱིས་དེ་རྙེད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:08.402993314Z",
+  "model": "glm-5.3"
+}

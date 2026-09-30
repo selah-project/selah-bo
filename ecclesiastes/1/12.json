@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ང་ཀོ་ཧེ་ལེཐ་ཡི་སི་ར་ཨེལ་གྱི་རྒྱལ་པོ་ཡེ་རུ་ཤ་ལ་ཡིམ་དུ་⟨གྱུར་ཏོ⟩།",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ང་"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ཀོ་ཧེ་ལེཐ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "⟨གྱུར་ཏོ⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ཀྱི"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ཡེ་རུ་ཤ་ལ་ཡིམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:22:56.739684361Z",
+  "model": "glm-5.3"
+}

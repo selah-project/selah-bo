@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མིག་གི་མཐོང་བ་ནེ་ཕེ་ཤའི་རྒྱུ་བ་ལས་ལེགས། འདི་ཡང་ཧེ་བེལ་ཡིན་ལ་རུ་ཨ་ཁའི་སྡུག་བསྔལ་ཡང་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "མཐོང་བ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "མིག་གི"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "རྒྱུ་བ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ནེ་ཕེ་ཤའི"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ཧེ་བེལ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "སྡུག་བསྔལ་ཡང"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "རུ་ཨ་ཁའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:52.896855518Z",
+  "model": "glm-5.3"
+}

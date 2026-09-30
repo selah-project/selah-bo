@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "འདི་ཡང་ནེ་ཕེ་ཤ་ཁ་བོས་འཆི་ཞིང་། བདེ་བ་ཞིག་ཀྱང་མ་ཟོས།",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "འདི་ཡང་"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "འཆི"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ཁ་བོ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ཟོས"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "བདེ་བ་ཞིག་ཀྱང་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:10:01.211403169Z",
+  "model": "glm-5.3"
+}

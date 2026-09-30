@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "དེ་བཞིན་དུ་རང་ཉིན་འདིར་ལས་གང་བྱེད་པའི་⟨את⟩ ནེ་ཕེ་ཤ་དེ་ངས་མི་རིགས་དབུས་ནས་བརླག་པར་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "དེ་བཞིན་དུ་ཐམས་ཅད"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "བྱེད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "རང"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "བརླག་པར་བྱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "དབུས་ནས"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "མི་རིགས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:14:02.403247416Z",
+  "model": "glm-5.3"
+}

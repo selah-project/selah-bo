@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཨེ་ལ་ཛར་གྱིས་⟨את⟩ཕིན་ཁ་སུ་སྐྱེད། ཕིན་ཁ་སུས་⟨את⟩ཨ་བི་ཤུ་ཨ་སྐྱེད།",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "ཨེ་ལ་ཛར"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "སྐྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཕིན་ཁ་སུ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ཕིན་ཁ་སུ"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ཕིན་ཁ་སུ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "སྐྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་བི་ཤུ་ཨ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "ཨ་བི་ཤུ་ཨ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:19.563249998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ལེ་ཨས་བསོད་ནམས་འབྱོར་ཞེས་ཟེར་ནས་ཁོའི་མིང་ལ་གཏ་ཞེས་བཏགས།",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ལེ་ཨས་"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "བསོད་ནམས་འབྱོར"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "བཏགས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོའི་མིང་"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ཁོའི་མིང་"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གཏ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:15:52.224820078Z",
+  "model": "glm-5.3"
+}

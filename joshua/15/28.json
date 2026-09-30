@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "དང་ཁ་ཙར་ཤུ་ཨལ་དང་བེར་ཤེབ་དང་བི་ཙི་ཡོཏ་ཡ།",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "དང་ཁ་ཙར"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ཤུ་ཨལ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "དང་བེར"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ཤེབ"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "དང་བི་ཙི་ཡོཏ་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:16.482642891Z",
+  "model": "glm-5.3"
+}

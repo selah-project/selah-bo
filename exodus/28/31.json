@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཁྱོད་ཀྱིས་ཨེ་ཕོད་ཀྱི་སྟོད་གོས་⟨את⟩སྔོན་པོ་ཁོ་ན་ལས་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སྟོད་གོས"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "སྟོད་གོས"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ཨེ་ཕོད"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ཁོ་ན"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "སྔོན་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:49:44.607087155Z",
+  "model": "glm-5.3"
+}

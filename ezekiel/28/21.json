@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "མིའི་བུ ཁྱོད་ཀྱི་གདོང་ཙི་དོན་ལ་གཏོད་ལ་དེ་ལ་ན་བིའི་ཚིག་སྨྲ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "שים",
+      "gloss": "གཏོད"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ཁྱོད་ཀྱི་གདོང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ཙི་དོན"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ན་བིའི་ཚིག་སྨྲ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "དེ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:46:24.898737309Z",
+  "model": "glm-5.3"
+}

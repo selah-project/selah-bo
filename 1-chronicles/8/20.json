@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཨེ་ལི་ཨེ་ན་ཡི། དང་ཛིལ་ལེ་ཐ་ཡི། དང་ཨེ་ལི་ཨེལ།",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "དང་ཨེ་ལི་ཨེ་ན་ཡི"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "དང་ཛིལ་ལེ་ཐ་ཡི"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "དང་ཨེ་ལི་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:43.395640971Z",
+  "model": "glm-5.3"
+}

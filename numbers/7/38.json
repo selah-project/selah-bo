@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "གསེར་གྱི་ཁ་པ་གཅིག ཤེ་ཀེལ་བཅུ། བདུག་སྤོས་ཀྱིས་ཁེངས་པའོ།",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ཁ་པ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ཁེངས་པ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "བདུག་སྤོས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:20:16.438667270Z",
+  "model": "glm-5.3"
+}

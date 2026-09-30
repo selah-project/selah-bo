@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 78,
+  "translation": "ཁོང་གིས་གོང་གི་སྤྲིན་དག་ལ་བཀའ་གནང་། ནམ་མཁའི་སྒོ་དག་ཕྱེ།",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "བཀའ་གནང"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "སྤྲིན་དག"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "གོང་ནས"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "སྒོ་དག"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ནམ་མཁའི"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ཕྱེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:35:51.860867070Z",
+  "model": "glm-5.3"
+}

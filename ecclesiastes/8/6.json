@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ནང་གི་འདོད་པ་ཀུན་ལ་དུས་དང་ཁྲིམས་ཡོད་དེ། མིའི་སྡིག་པ་ནི་ཁོའི་སྟེང་དུ་ཤིན་ཏུ་ལྕི་བས་སོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ནང་གི"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ཀུན་ལ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "འདོད་པ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "עת",
+      "gloss": "དུས"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "དང་ཁྲིམས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "བཞིན་དུ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "སྡིག་པ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ལྕི"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ཁོའི་སྟེང་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:53.008692791Z",
+  "model": "glm-5.3"
+}

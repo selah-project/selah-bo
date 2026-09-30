@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "དེ་ནས་ཁྱོད་རང་གི་ལམ་ལ་བདེ་བར་འགྲོ། ཁྱོད་ཀྱི་རྐང་པ་ལ་ཐོགས་པ་མེད།",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "དེ་ནས"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "བདེ་བར"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ཁྱོད་ཀྱི་ལམ་ལ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ཁྱོད་ཀྱི་རྐང་པ་ལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ཐོགས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:02.380460790Z",
+  "model": "glm-5.3"
+}

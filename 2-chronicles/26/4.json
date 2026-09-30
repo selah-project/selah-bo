@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཁོས་ཡ་ཧ་ཝེའི་སྤྱན་སྔར་དྲང་བ་⟨is⟩བྱས། ཨ་མ་ཙི་ཡ་ཧུ་ཨ་ཕས་བྱས་པ་དག་ཐམས་ཅད་ལྟར།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "དྲང་བ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ཐམས་ཅད་ལྟར"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "པ་དག"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "ཨ་མ་ཙི་ཡ་ཧུ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ཨ་ཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:17:40.702889921Z",
+  "model": "glm-5.3"
+}

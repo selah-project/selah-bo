@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་གང་ཡི་ར་མི་ཡ་ཧུའི་དྲུང་དུ་སྐམ་དུས་ཀྱི་དོན་དག་ལ་བྱུང་བའོ།",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དྲུང་དུ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ཡི་ར་མི་ཡ་ཧུ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྐོར"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "དོན་དག"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "སྐམ་དུས་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:53.550164611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཨི་ཡོབ་ཀྱིས་ལན་བཏབ་ནས་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ལན་བཏབ་ནས"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ཨི་ཡོབ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:05:17.242562455Z",
+  "model": "glm-5.3"
+}

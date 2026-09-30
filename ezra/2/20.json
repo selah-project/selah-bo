@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "གི་བ་རའི་བུ་ཚ་རྣམས་འབོར་དགུ་བཅུ་ལྔ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་རྣམས"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "གི་བ་ར"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "དགུ་བཅུ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ལྔ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:24.590239146Z",
+  "model": "glm-5.3"
+}

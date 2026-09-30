@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཁྱེད་རང་གི་ཁང་པའི་སྒོ་ཀ་དང་ རང་གི་སྒོ་རྣམས་ལ་ཡི་གེ་འདི་དག་བྲིས།",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "བྲིས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "སྒོ་ཀ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ཁང་པའི"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "སྒོ་རྣམས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:47:35.594068015Z",
+  "model": "glm-5.3"
+}

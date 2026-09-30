@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དན་ དང་ ན་ཕ་ཏ་ལི་ གད་ དང་ ཨ་ཤེར།",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "དན"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "དང་ན་ཕ་ཏ་ལི"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གད"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "དང་ཨ་ཤེར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:32:09.155763075Z",
+  "model": "glm-5.3"
+}

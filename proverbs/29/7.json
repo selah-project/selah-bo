@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ཙེ་དེག་པས་དབུལ་བོའི་ཁྲིམས་ཤེས། ངན་སྤྱོད་པས་ཤེས་བྱ་མི་གོ།",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དེག་པ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "དབུལ་བོ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ངན་སྤྱོད་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "གོ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་བྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:35.032758168Z",
+  "model": "glm-5.3"
+}

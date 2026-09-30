@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ཙི་ཕོར་གྱི་བུ་བ་ལཀ་གྱིས་ཡི་སི་ར་ཨེལ་གྱིས་ཨ་མོ་རི་ལ་⟨את⟩བྱས་པ་ཐམས་ཅད་མཐོང་།",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "བ་ལཀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ཙི་ཕོར"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཐམས་ཅད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ཨ་མོ་རི་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:33:24.280597985Z",
+  "model": "glm-5.3"
+}

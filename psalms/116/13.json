@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 116,
+  "translation": "སྐྱོབ་པའི་ཕོར་བ་ངས་སྒྲེང་། ཡ་ཧ་ཝེའི་མཚན་ལ་ངས་འབོད།",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "ཕོར་བ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "སྐྱོབ་པའི"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ངས་སྒྲེང"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "མཚན་ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ངས་འབོད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:45:26.286892870Z",
+  "model": "glm-5.3"
+}

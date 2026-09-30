@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ཡ་ཧ་ཝེ་གིས་མོ་ཤེ་ལ་གསུང་སྨྲས་ནས།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་སྨྲས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ནས་གསུང་བར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:26.903687964Z",
+  "model": "glm-5.3"
+}

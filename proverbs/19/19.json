@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཁྲོ་བ་རྩུབ་མོ་འཛིན་པོ་ཆད་པ་ཁུར་ཏེ། གལ་ཏེ་ཁྱོད་ཀྱིས་སྐྱོབ་ཀྱང་ཡང་བསྐྱར་ཁ་སྣོན་དགོས།",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "རྩུབ་མོ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ཁྲོ་བ"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ཁུར"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "ཆད་པ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ན"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "སྐྱོབ"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ཡང་བསྐྱར"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ཁ་སྣོན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:30.716197114Z",
+  "model": "glm-5.3"
+}

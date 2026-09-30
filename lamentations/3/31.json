@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "གང་ཞིག་ཨ་དོ་ནའི་ཀྱིས་ནམ་ཡང་དོར་བར་མི་མཛད།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གང་ཞིག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "དོར་བར་མཛད"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ནམ་ཡང"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ཨ་དོ་ནའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:23.680110963Z",
+  "model": "glm-5.3"
+}

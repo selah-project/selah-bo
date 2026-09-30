@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "དངུལ་གྱི་སྒྲོག་ཐག་མ་ཆད་པ་དང་། གསེར་གྱི་ཁམ་ཕོར་མ་ཆག་པ་དང་། ཆུ་མིག་གི་ཁར་རྫ་མ་མ་ཆག་པ་དང་། ཁྲོན་པར་འཁོར་ལོ་མ་ཞིག་གི་བར་དུའོ། །",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "རིང་དུ་མ་སོང"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "སྒྲོག་ཐག"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ཆད"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ཁམ་ཕོར"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "ཆག"
+    },
+    {
+      "surface": "כד",
+      "gloss": "རྫ་མ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ཁར"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "ཆུ་མིག"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "ཞིག"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "འཁོར་ལོ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ཁྲོན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:29:26.674666063Z",
+  "model": "glm-5.3"
+}

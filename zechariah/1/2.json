@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡ་ཧ་ཝེས་ཁྱེད་ཚོའི་ཕ་མེས་རྣམས་ལ་ཁྲོས་པར་མ་ཟད་ ཁྲོས་དྲག་པོར་ཁྲོས།",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ཁྲོས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ཁྱེད་ཚོའི་ཕ་མེས་རྣམས"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ཁྲོས་དྲག་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:13:53.280154510Z",
+  "model": "glm-5.3"
+}

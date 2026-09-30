@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཁོང་ལ་བུ་བདུན་དང་བུ་མོ་གསུམ་སྐྱེས།",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོང་ལ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "བུ་མོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:03:24.062687515Z",
+  "model": "glm-5.3"
+}

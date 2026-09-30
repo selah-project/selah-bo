@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཤེམ། ཨར་པཀ་ཤད། ཤེ་ལཧ།",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ཤེམ"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ཨར་པཀ་ཤད"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ཤེ་ལཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:12.947632358Z",
+  "model": "glm-5.3"
+}

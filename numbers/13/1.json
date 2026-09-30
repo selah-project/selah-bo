@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡ་ཧ་ཝེ་གིས་མོ་ཤེ་ལ་གསུང་ཞེས་མཛད།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་མཛད"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:29:47.049487899Z",
+  "model": "glm-5.3"
+}

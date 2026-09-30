@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ངས་⟨את⟩མིག་གཉིས་བཏེགས་ནས་མཐོང་བར་ཀྱེ་མ་རྭ་བཞི།",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "བཏེགས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མིག་གཉིས"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "མིག་གཉིས"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ཀྱེ་མ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "བཞི"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "རྭ་རྣམས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:16:05.568759671Z",
+  "model": "glm-5.3"
+}

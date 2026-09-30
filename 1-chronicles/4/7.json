@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཧེ་ལ་ཧའི་བུ་དག་ནི་ཙེ་རེཏ་དང་ཡི་ཙ་ཧར་དང་ཨེཏ་ནན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་དག"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ཧེ་ལ་ཧའི"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ཙེ་རེཏ"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ཡི་ཙ་ཧར་"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ཨེཏ་ནན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:50.191128261Z",
+  "model": "glm-5.3"
+}

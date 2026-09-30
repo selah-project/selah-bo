@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ལ་བན་ལ་བུ་མོ་གཉིས་ཡོད་དེ་ཆེ་བའི་མིང་ལེ་ཨ་ཡིན་ལ་ཆུང་བའི་མིང་ར་ཁེལ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "ལ་བན་ལ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ཆེ་བའི"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ལེ་ཨ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "དང་མིང"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ཆུང་བའི"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ར་ཁེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:16:49.948083280Z",
+  "model": "glm-5.3"
+}

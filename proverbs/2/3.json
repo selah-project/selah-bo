@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡང་གལ་ཏེ་ཁྱོད་ཀྱིས་བློ་ལ་འབོད་ཅིང་། བློ་གྲོས་ལ་ཁྱོད་ཀྱི་སྐད་སྦྱིན་ན།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "བློ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "འབོད"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "བློ་གྲོས"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "སྦྱིན"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ཁྱོད་ཀྱི་སྐད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:47.460927696Z",
+  "model": "glm-5.3"
+}

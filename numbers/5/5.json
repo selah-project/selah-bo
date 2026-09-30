@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་གསུང་བྱས་ཞེས་འབྱུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་བྱས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:21:18.562044899Z",
+  "model": "glm-5.3"
+}

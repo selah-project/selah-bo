@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཤ་⟨את⟩དང་པགས་པ་⟨את⟩གཉིས་མེས་བསྲེགས་ཏེ། འདུ་གནས་ཀྱི་ཕྱི་རོལ་དུའོ།།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཤ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "པགས་པ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "པགས་པ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "བསྲེགས"
+    },
+    {
+      "surface": "באש",
+      "gloss": "མེས"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ཕྱི་རོལ་དུ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "འདུ་གནས་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:01:16.837104318Z",
+  "model": "glm-5.3"
+}

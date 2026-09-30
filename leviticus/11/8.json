@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དེ་དག་གི་ཤ་མི་ཟ་ཞིང་དེ་དག་གི་ན་བ་ལ་ཧར་མི་རེག་པར་བྱ་སྟེ་དེ་དག་ཁྱེད་ཚོར་མ་གཙང་བ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ན་བ་ལ་ཧར"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "རེག"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "མ་གཙང་བ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "དེ་དག"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་ཚོར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:02:09.569103459Z",
+  "model": "glm-5.3"
+}

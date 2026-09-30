@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཡི་གལ་ན་ཐན་གྱི་བུ་ཙོ་བ་ནས། བ་ནི་ག་དི་པ།",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "ཡི་གལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ན་ཐན"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ཙོ་བ་ནས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བ་ནི"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ག་དི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:03:27.326089553Z",
+  "model": "glm-5.3"
+}

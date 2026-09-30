@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "དེ་ཁོའི་ཁྱིམ་ནས་ཕྱིན་ནས་སོང་སྟེ་མི་གཞན་ཞིག་གི་ཆུང་མར་གྱུར་ན།",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ཁྱིམ་ནས"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "མི་…ལ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "གཞན་ཞིག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:57:42.733013101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "⟨The⟩heart is deceitful above all things, and incurable ⟨is⟩ it — who can know it?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "བསླུ་བ་"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "སྙིང་"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ཐམས་ཅད་ལས་"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "དང་གསོ་མི་ཐུབ་"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུས"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ཤེས་ཐུབ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:28.164084688Z",
+  "model": "glm-5.3"
+}

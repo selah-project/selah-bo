@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "དབུལ་པོའི་ཁ་མཆུའི་ནང་ཡང་⟨ཁས་ལེན་⟩མི་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "དང་དབུལ་པོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ཁས་ལེན་བྱེད"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ཁོའི་ཁ་མཆུའི་ནང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:45:31.083295330Z",
+  "model": "glm-5.3"
+}

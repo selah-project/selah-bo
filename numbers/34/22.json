@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "དང་དན་གྱི་བུ་ཚོའི་ཚོ་བའི་དོན་དུ་དཔོན་པོ་བུ་ཀི་ནི་ཡོ་ག་ལིའི་བུའོ།",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "དང་ཚོ་བའི་དོན་དུ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "དན"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "དཔོན་པོ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "བུ་ཀི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "ཡོ་ག་ལི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:36.779878385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 52,
+  "translation": "ཁྱོད་ཀྱིས་བཟང་བ་ལས་ངན་པ་ལ་དགའ་ཞིང་། ཙེ་དེག་སྨྲ་བ་ལས་རྫུན་ལ་དགའ། སེ་ལཧ།",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "བཟང་བ་ལས"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "རྫུན"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "སྨྲ་བ་ལས"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "སེ་ལཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:31:28.134569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་དང་ཨ་ཧ་རོན་ལ་འདི་སྐད་དུ་གསུངས།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་…ལ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ཨ་ཧ་རོན"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:19:32.685090061Z",
+  "model": "glm-5.3"
+}

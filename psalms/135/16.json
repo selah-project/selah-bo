@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 135,
+  "translation": "ཁ་ཡོད་ཀྱང་སྨྲ་མི་ནུས། མིག་ཡོད་ཀྱང་མཐོང་མི་ནུས།",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ཡོད་ཀྱང"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "སྨྲ་ནུས"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ཡོད་ཀྱང"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "མཐོང་ནུས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:48:04.844902248Z",
+  "model": "glm-5.3"
+}

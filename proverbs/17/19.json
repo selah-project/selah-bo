@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "རྒྱབ་གཏོད་ལ་དགའ་བ་⟨he⟩རྩོད་པ་ལ་དགའ་ཞིང་། རང་གི་སྒོ་མཐོ་རུ་འདེགས་པ་⟨he⟩བརླག་པ་འཚོལ།",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "རྒྱབ་གཏོད"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "རྩོད་པ"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "མཐོ་རུ་འདེགས"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "རང་གི་སྒོ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "འཚོལ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "བརླག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:04.149920470Z",
+  "model": "glm-5.3"
+}

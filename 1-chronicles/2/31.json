@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨ་ཕ་ཡིམ་གྱི་བུ་ནི་ཡི་ཤི་ཡིན། ཡི་ཤིའི་བུ་ནི་ཤེ་ཤན་ཡིན། ཤེ་ཤན་གྱི་བུ་ནི་ཨ་ཧ་ལ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ཨ་ཕ་ཡིམ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ཡི་ཤི"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ཡི་ཤི"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "ཤེ་ཤན"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "ཤེ་ཤན"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ཨ་ཧ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:17.538924013Z",
+  "model": "glm-5.3"
+}

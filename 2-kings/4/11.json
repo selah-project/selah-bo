@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཉིན་ཞིག་ལ་ཁོང་དེར་ཕེབས་ནས་ཐོག་ཁང་དེར་ཕྱོགས་ཏེ་དེར་ཉལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ཕེབས"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ཕྱོགས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "ཐོག་ཁང"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ཉལ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "དེར"
+    }
+  ],
+  "timestamp": "2026-09-30T10:22:52.981515078Z",
+  "model": "glm-5.3"
+}

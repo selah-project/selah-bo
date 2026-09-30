@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 39:20",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 39,
+  "translation": "…<…>…<…>…<…>…<…>…",
+  "tokens": [
+    {
+      "surface": "התרעישנו",
+      "gloss": "…"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "…"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "…"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "…"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "…"
+    }
+  ],
+  "timestamp": "2026-09-30T13:15:24.781460792Z",
+  "model": "glm-5.3"
+}

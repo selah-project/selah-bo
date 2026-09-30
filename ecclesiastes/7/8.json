@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "དོན་ཞིག་གི་མཐའ་ནི་དེའི་ཐོག་མ་ལས་ལེགས། རུ་ཨ་ཁ་རིང་བ་ནི་རུ་ཨ་ཁ་མཐོ་བ་ལས་ལེགས།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "མཐའ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "དོན་ཞིག་གི"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "དེའི་ཐོག་མ་ལས"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "རིང་བ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "རུ་ཨ་ཁ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "མཐོ་བ་ལས"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "རུ་ཨ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:26:51.939437261Z",
+  "model": "glm-5.3"
+}

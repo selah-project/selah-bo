@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ངས་རང་ལ་ཆུའི་རྫིང་བུ་དག་བྱས། ཤིང་སྐྱེ་བཞིན་པའི་ནགས་དེ་ལ་གཤེར་གཏོང་བའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "לי",
+      "gloss": "རང་ལ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "རྫིང་བུ་དག"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "གཤེར་གཏོང་བའི་ཕྱིར"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "དེ་དག་ལས"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ནགས"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "སྐྱེ་བཞིན་པ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ཤིང་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:59.799074584Z",
+  "model": "glm-5.3"
+}

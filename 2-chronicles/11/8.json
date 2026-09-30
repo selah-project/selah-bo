@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དང་⟨את⟩གཏ་དང་⟨את⟩མ་རེ་ཤ་ཧ་དང་⟨את⟩ཙིཕ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "གཏ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "གཏ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "མ་རེ་ཤ་ཧ"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "མ་རེ་ཤ་ཧ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཙིཕ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ཙིཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:09:34.437754313Z",
+  "model": "glm-5.3"
+}

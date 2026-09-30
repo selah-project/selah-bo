@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "མ་གྱུར་ཅིག — ཁྱོད་ཟས་ཚིམས་ཤིང་ཁང་པ་ལེགས་པོ་རྣམས་བརྩིགས་ནས་དེར་གནས་པར་གྱུར་ཚེ།",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "མ་གྱུར་ཅིག"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ཚིམས"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ཁང་པ་རྣམས"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ལེགས་པོ"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "བརྩིགས"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "གནས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:46:37.198135629Z",
+  "model": "glm-5.3"
+}

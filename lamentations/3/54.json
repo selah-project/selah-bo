@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཆུ་དག་ངའི་མགོ་ལ་ཁྱབ་བྱུང་; ངས་ང་བཅད་ཟིན་ཞེས་སྨྲས།",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "ཁྱབ་བྱུང་"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ་དག"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ངའི་མགོ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ངས་སྨྲས"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "ང་བཅད་ཟིན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:31.388723556Z",
+  "model": "glm-5.3"
+}

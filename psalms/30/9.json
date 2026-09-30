@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ཁྱོད་ལ་ཡ་ཧ་ཝེ་ངས་འབོད། ཨ་དོ་ནའི་ལ་ངས་གསོལ་བ་འདེབས།",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ངས་འབོད"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་།ལ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ཨ་དོ་ནའི"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ངས་གསོལ་བ་འདེབས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:24:21.058527089Z",
+  "model": "glm-5.3"
+}

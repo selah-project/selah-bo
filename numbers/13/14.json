@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ན་ཕ་ཏ་ལིའི་ཚོ་བ་ནས་ན་ཁ་བི་ཝོབ་སིའི་བུ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ཚོ་བ་ནས"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ན་ཕ་ཏ་ལི"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "ན་ཁ་བི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ཝོབ་སི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:37.298844156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཙལ་མོན་ཨ་ཧོ་ཧི་པ། མ་ཧ་ར་ཡེ་ནེ་ཐོ་ཕ་ཐི་པ།",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ཙལ་མོན"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "ཨ་ཧོ་ཧི་པ"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "མ་ཧ་ར་ཡེ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ནེ་ཐོ་ཕ་ཐི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:03:13.344101508Z",
+  "model": "glm-5.3"
+}

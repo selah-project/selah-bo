@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "གླང་མེད་ན་དྲུང་སྟོང་བར་ལུས། གླང་གི་སྟོབས་ཀྱིས་ལོ་ཐོག་རབ་ཏུ་མང་།",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "མེད་ན"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "གླང"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "དྲུང"
+    },
+    {
+      "surface": "בר",
+      "gloss": "སྟོང་བར་ལུས"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "རབ་ཏུ་མང"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ལོ་ཐོག"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "སྟོབས་ཀྱིས"
+    },
+    {
+      "surface": "שור",
+      "gloss": "གླང་གི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:01.907861685Z",
+  "model": "glm-5.3"
+}

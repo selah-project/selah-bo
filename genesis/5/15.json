@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "མ་ཧ་ལ་ལེལ་གྱིས་ལོ་ལྔ་དང་དྲུག་ཅུ་བསྐྱལ་བ་དང་། ཡ་རེད་⟨את⟩བཙས།",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "བསྐྱལ་བ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "མ་ཧ་ལ་ལེལ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དྲུག་ཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་རེད"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ཡ་རེད"
+    }
+  ],
+  "timestamp": "2026-09-30T07:03:50.852728898Z",
+  "model": "glm-5.3"
+}

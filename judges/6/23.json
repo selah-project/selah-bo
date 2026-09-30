@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡ་ཧ་ཝེས་ཁོ་ལ་གསུངས། ཁྱོད་ལ་ཞི་བདེ། མ་འཇིགས། ཁྱོད་འཆི་མི་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ཞི་བདེ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "འཇིགས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "འཆི"
+    }
+  ],
+  "timestamp": "2026-09-30T09:20:22.150733334Z",
+  "model": "glm-5.3"
+}

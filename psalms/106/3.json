@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 106,
+  "translation": "དུས་ཐམས་ཅད་དུ་ཁྲིམས་སྲུང་ཞིང་ཙེ་དེག་བྱེད་པ་དག་ལ་བདེ་བ་ཡོད་དོ།",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "བདེ་བ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "སྲུང་ཞིང་"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱེད་པ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ཐམས་ཅད་དུ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "དུས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:43:23.198550127Z",
+  "model": "glm-5.3"
+}

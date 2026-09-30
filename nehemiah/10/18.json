@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཨ་ཏེར · ཧིཙ་ཀི་ཡ་ཧ · ཨ་ཙུར།",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "ཨ་ཏེར"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ཧིཙ་ཀི་ཡ་ཧ"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "ཨ་ཙུར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:02.622368273Z",
+  "model": "glm-5.3"
+}

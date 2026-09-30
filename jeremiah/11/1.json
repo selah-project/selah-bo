@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཡ་ཧ་ཝེའི་ཕྱོགས་ནས་ཡི་རྨི་ཡ་ཧུ་ལ་འབྱོར་བའི་ཚིག འདི་ལྟ་སྟེ ཞེས་༼གསུང༽བྱུང་།",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ཡི་རྨི་ཡ་ཧུ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:08:05.487529889Z",
+  "model": "glm-5.3"
+}

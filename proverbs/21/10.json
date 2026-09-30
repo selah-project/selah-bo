@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ངན་པའི་ནེ་ཕེ་ཤས་ངན་པ་འདོད་དེ་ཁོའི་མིག་ཏུ་གྲོགས་པོ་ལ་བརྩེ་བ་མེད།",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ངན་པའི"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "འདོད"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "བརྩེ་བ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ཁོའི་མིག་ཏུ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "གྲོགས་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:59:20.751350916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་གསུང་བྱུང་བ་སྟེ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་བྱུང་བ་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ་"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "སྟེ།"
+    }
+  ],
+  "timestamp": "2026-09-30T07:49:05.086003897Z",
+  "model": "glm-5.3"
+}

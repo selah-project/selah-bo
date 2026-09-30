@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 43,
+  "translation": "དཔོན་པོ་ལགས་ཐོག་མར་བཟའ་བཅའ་ཉོ་བར་ངེད་མར་ཡོང་བ་ཡིན་ནོ་ཞེས་ཞུས།",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ཞུས"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ལགས"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "དཔོན་པོ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ཡིན་ནོ"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "ངེད་མར་ཡོང་"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "ཐོག་མར"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ཉོ་བར་"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "བཟའ་བཅའ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:27:16.563807260Z",
+  "model": "glm-5.3"
+}

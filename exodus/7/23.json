@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཕ་རོཧ་ཕྱིར་ལོག་སྟེ་རང་གི་ཁྱིམ་དུ་ཞུགས་ཀྱང་འདི་ལའང་སེམས་མ་བཞག",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ཕྱིར་ལོག"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ཕ་རོཧ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ཞུགས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…དུ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "རང་གི་ཁྱིམ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "སེམས"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…ལའང་"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "འདི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:34:29.518968423Z",
+  "model": "glm-5.3"
+}

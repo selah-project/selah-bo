@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 105,
+  "translation": "ཁོང་གིས་རང་གི་གཡོག་མོ་ཤེ་མངགས། གང་གདམས་པའི་ཨ་ཧ་རོན་ཡང་མངགས།",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "མངགས"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "རང་གི་གཡོག"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ཨ་ཧ་རོན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "གདམས"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ཁོང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:43:07.171221406Z",
+  "model": "glm-5.3"
+}

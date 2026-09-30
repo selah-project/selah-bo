@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "I, YaHaWe, search ⟨the⟩heart, test ⟨the⟩innermost being, to give to each man according to his way, according to the fruit of his doings.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ང་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "དཔྱད་ཅིང་"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང་"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "བརྟག་པ"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "མཁལ་མ་"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "དང་སྤྲོད་པར"
+    },
+    {
+      "surface": "ལאיש",
+      "gloss": "མི་ལ"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "རང་གི་ལམ་བཞིན"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "འབྲས་བུ་བཞིན"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "རང་གི་བྱ་བའི"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:28.164375251Z",
+  "model": "glm-5.3"
+}

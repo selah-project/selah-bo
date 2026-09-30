@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ཤེ་ཨོལ་དང་། བཀག་པའི་མངལ་དང་། ཆུ་གིས་ངོམས་པ་མེད་པའི་ས་གཞི་དང་། ངོམས་སོ ⟨ཞེས⟩མི་ཟེར་བའི་མེ།",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ཤེ་ཨོལ"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "བཀག་པ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "མངལ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ངོམས"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ངོམས་སོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:48.631531520Z",
+  "model": "glm-5.3"
+}

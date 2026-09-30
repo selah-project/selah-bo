@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཁོ་མོས་⟨את⟩བཤས་གསོད། ཁོ་མོའི་ཆང་བསྲེས། ཡང་ཁོ་མོའི་ཅོག་ཙེ་བཤམས།",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "གསོད"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "བཤས"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "བསྲེས"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "ཁོ་མོའི་ཆང"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "བཤམས"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "ཁོ་མོའི་ཅོག་ཙེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:30.319800596Z",
+  "model": "glm-5.3"
+}

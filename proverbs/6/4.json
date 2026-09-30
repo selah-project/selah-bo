@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མིག་ལ་གཉིད་མ་སྤྲོད་ལ། མིག་ལྕེབས་ལ་རྔུམ་ཉལ་མ་སྤྲོད།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "སྤྲོད"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "གཉིད"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "མིག་ལ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "རྔུམ་ཉལ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "མིག་ལྕེབས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:53:10.608744344Z",
+  "model": "glm-5.3"
+}

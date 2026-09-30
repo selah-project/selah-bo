@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ན་བི་ཡེ་རུ་མི་ཡ་ཧུ་ལ་འབྱོར་ཏེ་ཞེས་གསུང༌།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨བྱུང›"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ཡེ་རུ་མི་ཡ་ཧུ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ན་བི"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:22:14.320524730Z",
+  "model": "glm-5.3"
+}

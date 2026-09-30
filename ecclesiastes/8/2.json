@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ང་༼ནས༽རྒྱལ་པོའི་ཚིག་སྲུང་། ཨེ་ལོ་ཧིམ་གྱི་དམ་བཅའི་དབང་གིས་སུ།",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོའི"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "སྲུང"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "དང་དབང་གིས"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "སླད་དུ"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "དམ་བཅའ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:23.418938232Z",
+  "model": "glm-5.3"
+}

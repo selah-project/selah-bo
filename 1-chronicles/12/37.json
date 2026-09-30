@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཨ་ཤེར་ནས་གདོང་དམག་ཏུ་འགྲོ་མཁན་གཡུལ་སྒྲིག་མཁན་བཞི་ཁྲི།",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "ཨ་ཤེར་ནས"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "འགྲོ་མཁན"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "དམག"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "སྒྲིག་མཁན"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "གཡུལ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "བཞི་ཁྲི"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "༼སྟོང་༽"
+    }
+  ],
+  "timestamp": "2026-09-30T15:05:41.773863904Z",
+  "model": "glm-5.3"
+}

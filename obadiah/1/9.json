@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "obadiah 1:9",
+  "book": "obadiah",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཏེ་མན། ཁྱོད་ཀྱི་དཔའ་བོ་རྣམས་<broken>བཅོམ་པར་<will be>འགྱུར་བས། དེའི་ཕྱིར་ཨེ་ས་ཝའི་རི་<from>ཡི་མི་ཐ་དག་དམར་གསོད་<by>ཀྱིས་བཅད་དོ།།",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "བཅོམ་པར་<will be>"
+    },
+    {
+      "surface": "גבוריך",
+      "gloss": "ཁྱོད་ཀྱི་དཔའ་བོ་རྣམས"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ཏེ་མན"
+    },
+    {
+      "surface": "למען",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "བཅད"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི་<each one>"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "རི་<from>"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ཨེ་ས་ཝ"
+    },
+    {
+      "surface": "מקטל",
+      "gloss": "དམར་གསོད་<by>"
+    }
+  ],
+  "timestamp": "2026-09-30T12:04:24.952569814Z",
+  "model": "glm-5.3"
+}

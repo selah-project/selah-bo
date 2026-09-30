@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཧེ་ཙ་རོ་ཀར་མེ་ལི་པ། ཕ་ཨ་ར་ཨར་བི་པ།",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ཧེ་ཙ་རོ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ཀར་མེ་ལི་པ"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "ཕ་ཨ་ར"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ཨར་བི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:03:27.325958800Z",
+  "model": "glm-5.3"
+}

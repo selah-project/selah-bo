@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ལན་འཇམ་པོས་ཁྲོས་པ་〈ཕྱིར〉བསྐོར། སྡུག་བསྔལ་གྱི་ཚིག་གིས་ཁོང་ཁྲོ་སློང་།",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "ལན"
+    },
+    {
+      "surface": "רך",
+      "gloss": "འཇམ་པོ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ཕྱིར་བསྐོར"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ཁྲོས་པ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "སྡུག་བསྔལ་ཅན"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "སློང"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ཁོང་ཁྲོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:16.936380618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ལྕགས་ཀྱིས་—བྱང་ནས་ཀྱི་ལྕགས་དང་ཟངས་—ཆོད་ནུས་སམ།",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ཆོད"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ལྕགས"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ལྕགས"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "བྱང་ནས"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ཟངས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:08:55.580834960Z",
+  "model": "glm-5.3"
+}

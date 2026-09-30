@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "ཕུ་ནུ་ཚོའི་དྲུང་དུ་ལོག་སྟེ་བྱིས་པ་མེད་དོ་ང་ནི་གང་དུ་འགྲོ་ཞེས་སྨྲས་སོ།",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དྲུང་དུ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ཕུ་ནུ་ཚོ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "བྱིས་པ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ང་"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "གང་དུ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང་"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འགྲོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:22:56.643522557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཨམ་ཙིའི་བུ། བ་ནིའི་བུ། ཤེ་མེར་གྱི་བུའོ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "ཨམ་ཙི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བ་ནི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ཤེ་མེར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:11.586441568Z",
+  "model": "glm-5.3"
+}

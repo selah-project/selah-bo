@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡ་ཧ་ཝེའི་གསུང་དོན་་ཡོ་ཨེལ་་ཕ་ཐུ་ཨེལ་གྱི་བུ་ལ་བྱུང་བ།",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "གསུང་དོན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ཡོ་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "ཕ་ཐུ་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:59:42.001457718Z",
+  "model": "glm-5.3"
+}

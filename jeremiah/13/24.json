@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ངས་ཐང་སྟོང་གི་རུ་ཨ་ཁའི་ཁར་སོག་མ་འདའ་བ་ལྟར་ཁོང་ཚོ་གཏོར་རོ།",
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "གཏོར"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "སོག་མ་ལྟར"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "འདའ་བ"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "རུ་ཨ་ཁའི་ཁར"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ཐང་སྟོང"
+    }
+  ],
+  "timestamp": "2026-09-30T11:08:55.736502749Z",
+  "model": "glm-5.3"
+}

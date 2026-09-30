@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "དེའི་ཚེ་ཁོའི་སྤྱན་སྔ་ནས་ལག་པའི་མཐིལ་ཞིག་མངགས་ཏེ་ཡི་གེ་འདི་བྲིས་སོ། །",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "དེའི་ཚེ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "སྤྱན་སྔ་"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "མངགས"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "ལག་པའི་མཐིལ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "ཡི་གེ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "བྲིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:34:43.458911343Z",
+  "model": "glm-5.3"
+}

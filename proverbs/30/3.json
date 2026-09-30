@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "བདག་གིས་ཤེས་རབ་ཀྱང་མ་སློབ། ཀོ་དེ་ཤ་དག་གི་ཤེས་པ་ཡང་མི་ཤེས།",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "སློབ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ཤེས་པ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ཀོ་དེ་ཤ་དག"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "མི་ཤེས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:02:06.667464892Z",
+  "model": "glm-5.3"
+}

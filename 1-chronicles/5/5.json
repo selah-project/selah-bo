@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "མི་ཀ་ཧ་ཁོའི་བུ། ར་ཨི་ཡ་ཧ་ཁོའི་བུ། བ་ཨལ་ཁོའི་བུ།",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "མི་ཀ་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ར་ཨི་ཡ་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "བ་ཨལ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:07.666265061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joel 2:18",
+  "book": "joel",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "དེ་ནས་ཡ་ཧ་ཝེ་⟨his⟩ས་གཞིར་ཕྲག་དོག་མཛད་དེ ⟨his⟩མི་དམངས་ལ་ཐུགས་རྗེ་མཛད།",
+  "tokens": [
+    {
+      "surface": "ויקנא",
+      "gloss": "ཕྲག་དོག་མཛད"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "⟨his⟩ས་གཞིར"
+    },
+    {
+      "surface": "ויחמל",
+      "gloss": "ཐུགས་རྗེ་མཛད"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨his⟩མི་དམངས"
+    }
+  ],
+  "timestamp": "2026-09-30T14:54:52.240067380Z",
+  "model": "glm-5.3"
+}

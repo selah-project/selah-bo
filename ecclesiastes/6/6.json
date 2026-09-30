@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ལོ་སྟོང་ཐེངས་གཉིས་སུ་འཚོ་ཡང་ལྷག་བདེ་མ་མཐོང་ན། ཐམས་ཅད་གནས་གཅིག་ཏུ་འགྲོ་བ་མ་ཡིན་ནམ།",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "ལྷག་པར་ཡང"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "འཚོ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ཐེངས་གཉིས"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ལྷག་བདེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "མ་ཡིན་ནམ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "འགྲོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:00.094528863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ནོ་ཨ། ཤེམ། ཧ་མ། དང་ཡ་ཕེད།",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ཤེམ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ཧ་མ"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "དང་ཡ་ཕེད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:20.766949013Z",
+  "model": "glm-5.3"
+}

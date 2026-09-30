@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "མི་ཡི་ཁ་ཡི་འབྲས་བུ་ལས་ལེགས་པས་ངོམས། མི་ཡི་ལག་གི་གླ་ཆ་ ོ(ཁོ་ལ་ ལོག་འོང་།༽",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "འབྲས་བུ་ལས"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ངོམས"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས་པ"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "གླ་ཆ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ལག"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ལོག་འོང"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:23.388977082Z",
+  "model": "glm-5.3"
+}

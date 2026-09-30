@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 81,
+  "translation": "ཁྱོད་ལ་གཞན་པོའི་ཨེལ་⟨is⟩མི་འབྱུང་། གཞན་པོའི་ཨེལ་ལ་ཁྱོད་ཀྱིས་ཕྱག་མི་འཚལ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "གཞན་པོ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་མི"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ཕྱག་འཚལ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ཨེལ་ལ"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "གཞན་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:36:44.748704446Z",
+  "model": "glm-5.3"
+}

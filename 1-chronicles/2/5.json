@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཕ་རེ་ཙའི་བུ་རྣམས། ཧེ་ཙ་རོན་དང་ཧ་མུལ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ཕ་རེ་ཙ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ཧེ་ཙ་རོན"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "དང་ཧ་མུལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:19.498167920Z",
+  "model": "glm-5.3"
+}

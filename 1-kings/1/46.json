@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ད་དུང་ཤ་ལོ་མོ་ཧ་རྒྱལ་སྲིད་ཀྱི་ཁྲི་ལ་བཞུགས་ཟིན།",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ད་དུང"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "བཞུགས"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤ་ལོ་མོ་ཧ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ཁྲི"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "རྒྱལ་སྲིད་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T10:05:17.440635350Z",
+  "model": "glm-5.3"
+}

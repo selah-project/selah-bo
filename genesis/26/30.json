@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཁོས་ཁོ་ཚོར་གསོལ་སྟོན་བྱས། ཁོ་ཚོས་ཟས་ཟོས་ཤིང་སྐོམ་བཏུང་།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ཁོ་ཚོར"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "གསོལ་སྟོན"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ཟས་ཟོས"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "སྐོམ་བཏུང་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:15:22.406898118Z",
+  "model": "glm-5.3"
+}

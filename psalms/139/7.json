@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 139,
+  "translation": "ང་གང་དུ་འགྲོ་ ཁྱོད་ཀྱི་རུ་ཨ་ཁ་ལས། གང་དུ་ཁྱོད་ཀྱི་ཞལ་ལས་བྲོས།",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "གང་དུ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "རུ་ཨ་ཁ་ལས"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "གང་དུ"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ཞལ་ལས"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "བྲོས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:49:32.661379374Z",
+  "model": "glm-5.3"
+}

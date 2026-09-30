@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "བྱུགས་པའི་མཆོད་གནས་པས་བ་ལང་གི་ཁྲག་ལས་འཕྲད་ཚོགས་གུར་དུ་འཁྱེར་ཡོང་བར་བྱ།",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "འཁྱེར་ཡོང་"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "མཆོད་གནས་པ"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "བྱུགས་པ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ཁྲག་ལས"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "བ་ལང་"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "གུར"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "འཕྲད་ཚོགས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:53.572090354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨེ་ཐན་གྱི་བུ་རྣམས། ཨ་ཙ་ར་ཡ།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "...གི་བུ་རྣམས"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ཨེ་ཐན"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ཨ་ཙ་ར་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:19.498660552Z",
+  "model": "glm-5.3"
+}

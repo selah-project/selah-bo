@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 119,
+  "translation": "ངའི་ཡིད་ཁྱེད་ཀྱི་དཔང་ཚིག་ལ་གཏད་ཅིག །གཡོ་སོགས་ལ་མ་གཏད་ཅིག",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "གཏད་ཅིག"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ངའི་ཡིད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ཁྱེད་ཀྱི་དཔང་ཚིག"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "གཡོ་སོགས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:45:43.406860507Z",
+  "model": "glm-5.3"
+}

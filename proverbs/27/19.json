@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཆུ་ལ་གདོང་ནི་གདོང་ལ་ལྟ་བ་བཞིན་དུ། དེ་བཞིན་མིའི་སྙིང་ནི་མི་ལ་ལྟ།",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "ཆུ་ལ་བཞིན"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "གདོང"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "གདོང་ལ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་བཞིན"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "མི་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:41.384501593Z",
+  "model": "glm-5.3"
+}

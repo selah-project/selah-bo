@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "ད་ནི་ཨོ་མེར་ནི་ཨེ་ཕའི་⟨ཡིན⟩བཅུ་ཆ་གཅིག།",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ཨོ་མེར"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "བཅུ་ཆ་གཅིག"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ཨེ་ཕ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ཡིན⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T07:42:20.629858193Z",
+  "model": "glm-5.3"
+}

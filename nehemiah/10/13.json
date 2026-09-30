@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 10:13",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཛ་ཀུར། ཤེ་རེབ་ཡ། ཤེ་བན་ཡ།",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ཛ་ཀུར"
+    },
+    {
+      "surface": "שרביה",
+      "gloss": "ཤེ་རེབ་ཡ"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ཤེ་བན་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:18.785756217Z",
+  "model": "glm-5.3"
+}

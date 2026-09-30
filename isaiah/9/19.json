@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "གཡས་ཕྱོགས་ནས་འཕྲོག་ཀྱང་ལྟོགས་ལ། གཡོན་ཕྱོགས་ནས་ཟ་ཡང་མི་ཚིམ་སྟེ་ རང་རང་གི་དཔུང་པའི་ཤ་ལ་ཟ།",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "འཕྲོག"
+    },
+    {
+      "surface": "על",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "གཡས་ཕྱོགས"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ལྟོགས"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "གཡོན་ཕྱོགས"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "ཚིམ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "རང་རང་"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "དཔུང་པའི"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ཟ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:41:02.391447934Z",
+  "model": "glm-5.3"
+}

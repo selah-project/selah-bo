@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 49,
+  "translation": "ཁོ་རང་གི་ཕ་ཚན་གྱི་མི་རབས་སུ་འགྲོ། རྟག་ཏུ་ནམ་ཡང་⟨དེ་ཚོས⟩འོད་མི་མཐོང་།",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ལ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "མི་རབས"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ཁོ་རང་གི་ཕ་ཚན"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ནམ་ཡང"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "རྟག་ཏུ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "אור",
+      "gloss": "འོད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:29:26.548722089Z",
+  "model": "glm-5.3"
+}

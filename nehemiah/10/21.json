@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མག་པི་ཨ་ཤ་ མི་ཤུ་ལམ་ ཁེ་ཛིར།",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "མག་པི་ཨ་ཤ"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "མི་ཤུ་ལམ"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ཁེ་ཛིར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:47.139426787Z",
+  "model": "glm-5.3"
+}

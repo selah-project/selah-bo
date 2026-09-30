@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "གལ་ཏེ་སྤྲིན་དེ་མ་འཕགས་ན་དེ་འཕགས་པའི་ཉིན་བར་དུ་ཁོང་ཚོ་⟨ཡུལ་དུ⟩མ་སོང་།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "འཕགས"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "སྤྲིན་དེ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ་...ན"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "སོང"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "འཕགས་པའི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:55:33.412422385Z",
+  "model": "glm-5.3"
+}

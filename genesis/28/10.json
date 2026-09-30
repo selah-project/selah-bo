@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཡ་ཨ་ཀོབ་བེ་ཨེར་ཤེ་བ་ནས་ཐོན་ཏེ་ཧ་རན་དུ་ཕྱིན།",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ཐོན་ཏེ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ཡ་ཨ་ཀོབ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "བེ་ཨེར་ནས"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ཤེ་བ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ཧ་རན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:16:37.979468220Z",
+  "model": "glm-5.3"
+}

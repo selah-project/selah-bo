@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "དེ་ནས་མོ་ཤེས་ཀོ་ར་ཁ་ལ་སྨྲས། ཉོན་ཞེས་ཞུ། ལེ་ཝིའི་བུ་ཚོ།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ཀོ་ར་ཁ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ཞེས་ཞུ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ལེ་ཝི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:29:50.825746517Z",
+  "model": "glm-5.3"
+}

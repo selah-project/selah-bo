@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ནོ་ཨག་ལོ་དྲུག་བརྒྱ་ལོན་པ་ན་ཆུ་ཡི་མ་བུལ་ས་གཞིའི་སྟེང་དུ་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ནོ་ཨག"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ལོན་པ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "མ་བུལ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:59.964179829Z",
+  "model": "glm-5.3"
+}

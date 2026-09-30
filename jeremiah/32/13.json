@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "ཁོ་ཚོའི་མདུན་དུ་ངས་⟨את⟩ བ་རུ་ཁུ་ལ་བཀའ་བསྒོས་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "བཀའ་བསྒོས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བ་རུ་ཁུ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "བ་རུ་ཁུ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ཁོ་ཚོའི་མདུན་དུ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:20:23.866317030Z",
+  "model": "glm-5.3"
+}

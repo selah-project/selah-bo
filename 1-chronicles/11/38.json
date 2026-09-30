@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཡོ་ཨེལ་ ན་ཐ་ནའི་སྤུན་དང་ མིབ་ཧར་ ཧག་རི་ཡི་བུ།",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ཡོ་ཨེལ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "སྤུན"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ན་ཐ་ན"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "མིབ་ཧར"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ཧག་རི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:39.945883535Z",
+  "model": "glm-5.3"
+}

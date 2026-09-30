@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 39,
+  "translation": "ཁོང་ཚོས་མི་ dwelling གུས་བསུ་མཛད་ནས་ཚོགས་ཁག་གི་གཙོ་བོ་མོ་ཤེ་ལ་ཕུལ།",
+  "tokens": [],
+  "timestamp": "2026-09-30T07:55:49.152813410Z",
+  "model": "glm-5.3"
+}

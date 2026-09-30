@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "སྡང་བ་ཡིས་རྩོད་པ་སློང་ཞིང་། བརྩེ་བ་ཡིས་ཉེས་པ་ཐམས་ཅད་སྒྲིབ་བོ།",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "སྡང་བ"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "སློང"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "རྩོད་པ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ཉེས་པ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "སྒྲིབ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "བརྩེ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:58:56.256713325Z",
+  "model": "glm-5.3"
+}

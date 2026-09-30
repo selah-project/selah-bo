@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཨེ་ཅིག་དང་ཉི་ཤུ་ལ་ཡ་ཀིན། གཉིས་དང་ཉི་ཤུ་ལ་ག་མུལ།",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ཡ་ཀིན"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ཨེ་ཅིག"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "དང་ཉི་ཤུ"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ག་མུལ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "དང་ཉི་ཤུ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:06:08.926793487Z",
+  "model": "glm-5.3"
+}

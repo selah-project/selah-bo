@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "གད་ཀྱི་བུ་རྣམས་ཁོང་གི་མདུན་ན་བ་ཤན་གྱི་ཞིང་ལ་སལ་ཀ་ཧ་བར་དུ་བསྡད་དོ།།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གད"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "མདུན་ན"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "བསྡད"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ཞིང་ལ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "བ་ཤན"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "སལ་ཀ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:35.521066476Z",
+  "model": "glm-5.3"
+}

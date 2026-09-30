@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མ་ཀ་ན་ད་བི། ཤ་ཤའི། ཤ་རའི།",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "མ་ཀ་ན་ད་བི"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ཤ་ཤའི"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ཤ་རའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:44:10.692635413Z",
+  "model": "glm-5.3"
+}

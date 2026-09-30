@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་ཡི་བྷ་ར་དང་ཨེ་ལི་ཤུ་ཝ་དང་ཨེལ་པ་ལེཏ།",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ཡི་བྷ་ར"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "ཨེ་ལི་ཤུ་ཝ"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "ཨེལ་པ་ལེཏ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:34.808990213Z",
+  "model": "glm-5.3"
+}

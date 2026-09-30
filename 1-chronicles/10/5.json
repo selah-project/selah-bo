@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཤ་ཨོལ་ཤི་བ་མཚོན་ཆ་འཁུར་མཁན་གྱིས་མཐོང་ནས་ཁོ་ཡང་རལ་གྲིའི་སྟེང་ལྷུང་སྟེ་ཤིའོ།",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "འཁུར་མཁན"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "མཚོན་ཆ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ཤི"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ཤ་ཨོལ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ལྷུང"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "རལ་གྲི"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ཤི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:10.342080957Z",
+  "model": "glm-5.3"
+}

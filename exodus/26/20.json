@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "མི་ཤ་ཀན་གྱི་ཟུར་གཉིས་པ་ལ་བྱང་ཕྱོགས་སུ་ཤིང་ལེབ་ཉི་ཤུ།",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ཟུར་ལ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "མི་ཤ་ཀན་གྱི"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "གཉིས་པ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ཕྱོགས་ལ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "བྱང"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "ཤིང་ལེབ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:47:31.550902529Z",
+  "model": "glm-5.3"
+}

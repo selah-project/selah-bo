@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 41,
+  "translation": "མུ་གུའི་ལོ་<span class=\"hebrew\">སླེབས་པའི་སྔོན་དུ་<\/span>ཡོ་སེཕ་ལ་བུ་གཉིས་སྐྱེས། ཨོ་ནའི་མཆོད་པ་པོ་པོ་ཏི་ཕེ་རའི་བུ་མོ་ཨ་སེ་ན་ཐས་ཁོང་ལ་སྐྱེས་སོ།",
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "ཡོ་སེཕ་ལ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "שני",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "སྔོན་དུ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "སླེབས"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "མུ་གུ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོང་ལ"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "ཨ་སེ་ན་ཐ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "པོ་ཏི"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "ཕེ་ར"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "མཆོད་པ་པོ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ཨོ་ན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:26:17.695421298Z",
+  "model": "glm-5.3"
+}

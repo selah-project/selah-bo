@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཧ་རིཕ · ཨ་ན་ཐོཐ · ནོ་བ་ཡི།",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ཧ་རིཕ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ཨ་ན་ཐོཐ"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "ནོ་བ་ཡི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:02.622706402Z",
+  "model": "glm-5.3"
+}

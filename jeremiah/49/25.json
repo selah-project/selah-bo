@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 49,
+  "translation": "ཇི་ལྟར་མིན་སྤངས་པ་གྲོང་ཁྱེར་བསྟོད་པ་ ངའི་དགའ་སྤྲོའི་གྲོང་།",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ཇི་ལྟར"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "སྤངས་པ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "གྲོང་ཁྱེར"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "བསྟོད་པ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "གྲོང་"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "ངའི་དགའ་སྤྲོ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:28:28.782357896Z",
+  "model": "glm-5.3"
+}

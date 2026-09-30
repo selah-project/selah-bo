@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "ག་དའི་བུ་དག་གིས་དི་བོན་⟨את⟩དང་ཨ་ཏ་རོད་⟨את⟩དང་ཨ་རོ་ཨེར་⟨את⟩བརྩིགས་སོ། །",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "བརྩིགས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་དག"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ག་ད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "དི་བོན"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "དི་བོན"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ཏ་རོད"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ཨ་ཏ་རོད"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་རོ་ཨེར"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "ཨ་རོ་ཨེར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:39:03.485463721Z",
+  "model": "glm-5.3"
+}

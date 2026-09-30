@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ད་ཝིད་ཀྱིས་མྱུལ་མཁན་བཏང་ནས། ཤ་ཨོལ་ངོ་མ་འབྱོར་བ་ཤེས།",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "བཏང"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "མྱུལ་མཁན"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འབྱོར"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ཤ་ཨོལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ངོ་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:46:38.616950193Z",
+  "model": "glm-5.3"
+}

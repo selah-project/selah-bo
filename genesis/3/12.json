@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "མིས་ཁྱོད་ཀྱིས་ང་དང་ལྷན་དུ་བཞག་པའི་<the>བུད་མེད་དེས་ང་ལ་<the>ཤིང་ལས་སྤྲད་པས་ངས་ཟས་ཞེས་སྨྲས།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ང་དང་ལྷན་དུ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "མོས"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "སྤྲད"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ཤིང"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ཟས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:03:05.333437848Z",
+  "model": "glm-5.3"
+}

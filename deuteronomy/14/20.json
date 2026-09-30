@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "གཙང་བའི་བྱ་ཐམས་ཅད་ཁྱེད་ཚོས་ཟོ།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "གཙང་བ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟོ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:33.584622862Z",
+  "model": "glm-5.3"
+}

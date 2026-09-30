@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་ཏེར་གྱི་བུ་ཚོ༑ ཡི་ཙ་ཀི་ཡ་ཧ་ཡི་⟨བུ་ཚོ༽་དགུ་བཅུ་དང་བརྒྱད།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ཨ་ཏེར"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ཡི་ཙ་ཀི་ཡ་ཧ་ཡི་"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "དགུ་བཅུ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "བརྒྱད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:33.360754536Z",
+  "model": "glm-5.3"
+}

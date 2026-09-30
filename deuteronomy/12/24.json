@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "དེ་མི་ཟ་བར། ཆུ་ལྟར་ས་གཞིའི་སྟེང་དུ་གཏོར་བར་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "དེ་ཟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "གཏོར་བར་བྱ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ཆུ་ལྟར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:50:23.959252380Z",
+  "model": "glm-5.3"
+}

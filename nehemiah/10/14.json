@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཧོ་དི་ཡ། བ་ནི། བེ་ནི་ནུ།",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ཧོ་དི་ཡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བ་ནི"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "བེ་ནི་ནུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:18.786011927Z",
+  "model": "glm-5.3"
+}

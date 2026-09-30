@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "ཚོགས་ལ་ཆུ་མེད་པས། ཁོང་ཚོ་མོ་ཤེ་ལ་དང་ཨ་ཧ་རོན་ལ་ངོ་རྒོལ་དུ་འདུས།",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "མེད་པས"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨བྱུང་⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ཚོགས་ལ"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "འདུས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "དང་...ལ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ཨ་ཧ་རོན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:32:37.349366076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "དམ་བཅའ་མི་བཅའ་བ་ནི། བཅས་ལ་མི་འཇལ་བ་ལས་ལེགས།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…བ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "བཅའ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "བཅས་ལ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "འཇལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:24:15.365591541Z",
+  "model": "glm-5.3"
+}

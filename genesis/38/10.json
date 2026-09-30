@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ཡ་ཧ་ཝེའི་སྤྱན་སྔར་ཁོས་བྱས་པ་གང་ངན་པས་ཡ་ཧ་ཝེས་⟨את⟩ཁོ་ཡང་བཀུམས་སོ།",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས་པ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "བཀུམས"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:25:07.782378495Z",
+  "model": "glm-5.3"
+}

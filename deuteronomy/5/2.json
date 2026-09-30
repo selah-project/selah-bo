@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཡ་ཧ་ཝེ་ང་ཚོའི་ཨེ་ལོ་ཧིམ་གྱིས་ཧོ་རེབ་ཏུ་ང་ཚོ་དང་བཅས་⟨את⟩བེ་རིད་བཅད།",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ང་ཚོའི་ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "བཅད"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ང་ཚོ་དང་བཅས"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "བེ་རིད"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ཧོ་རེབ་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:52.657705069Z",
+  "model": "glm-5.3"
+}

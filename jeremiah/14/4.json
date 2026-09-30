@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "ས་གཞི་གས་པའི་ཕྱིར་ཏེ་ས་གཞིར་ཆར་པ་མ་བྱུང་བས་ཞིང་པ་དག་ངོ་གནག་ནས་མགོ་བོ་བཀབ་བོ།",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "གས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ཆར་པ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞིར"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "ངོ་གནག"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "ཞིང་པ་དག"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "བཀབ"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "མགོ་བོ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:53.550820615Z",
+  "model": "glm-5.3"
+}

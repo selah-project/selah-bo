@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "དེ་བས་ཡ་ཧ་ཝེས་འདི་ལྟར་གསུང་ཞིང་། ⟨the⟩ས་གཞི་ཐམས་ཅད་ཞིག་རལ་དུ་⟨will⟩གྱུར་ཏེ། འོན་ཀྱང་མཐའ་དག་ངས་མི་བྱེད།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "དེ་བས"
+    },
+    {
+      "surface": "כה",
+      "gloss": "འདི་ལྟར"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ཞིག་རལ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨will⟩གྱུར"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ས་གཞི"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "འོན་ཀྱང་མཐའ་དག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ངས་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T11:03:49.360369528Z",
+  "model": "glm-5.3"
+}

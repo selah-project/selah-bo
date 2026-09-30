@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ད་ལྟ་ནི་སྔོན་མའི་ཉིན་མོ་ལྟར་མིན། མི་འདིའི་ལྷག་མ་ལ་བདག་ནི། ཡ་ཧ་ཝེ་ཙེ་བ་ཨོད་གསུང།",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ད་ལྟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "ཉིན་མོ་ལྟར"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "སྔོན་མ་རྣམས"
+    },
+    {
+      "surface": "אני",
+      "gloss": "བདག"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "ལྷག་མ་ལ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ཙེ་བ་ཨོད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:15:27.661325559Z",
+  "model": "glm-5.3"
+}

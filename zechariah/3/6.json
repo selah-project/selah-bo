@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེའི་ཕོ་ཉ་བས་ཡེ་ཧོ་ཤུ་ཨ་ལ་བསླབ་བྱ་ཕུལ་ཏེ་ཞེས་སྨྲས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "བསླབ་བྱ་ཕུལ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ཕོ་ཉ་བ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "ཡེ་ཧོ་ཤུ་ཨ་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས་སྨྲས་སོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:16:27.526853655Z",
+  "model": "glm-5.3"
+}

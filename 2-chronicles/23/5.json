@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 23:5",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "དང་གསུམ་ཆ་གཅིག་རྒྱལ་པོའི་ཁང་པའི་<the>ནང་དུ། དང་གསུམ་ཆ་གཅིག་རྨང་གི་<the>སྒོ་<the>རུ། དང་མི་མང་<all>་<all>ཐམས་ཅད་ཡ་ཧ་ཝེའི་ཁང་པའི་<the>ར་བ་<the>་<courts>རྣམས་<courts>སུ།",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "དང་<a>གསུམ་ཆ་<third>གཅིག"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ཁང་པའི་<the>ནང་དུ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོའི"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "དང་<a>གསུམ་ཆ་<third>གཅིག"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "སྒོ་<at>་<at>རུ"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "རྨང་<foundation>"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "དང་...<all>ཐམས་<all>ཅད"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་མང"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ར་བ་<the>་<courts>རྣམས་<courts>སུ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་པའི"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:16:35.174332343Z",
+  "model": "glm-5.3"
+}

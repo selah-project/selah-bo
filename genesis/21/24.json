@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཨབ་ར་ཧམ་གྱིས་〈འདི་སྐད་〉ཟེར། ང་〈རང་〉དམ་བཅའ་བྱེད་དོ།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ་གྱིས"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང་"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "དམ་བཅའ་བྱེད་དོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:12:07.055359504Z",
+  "model": "glm-5.3"
+}

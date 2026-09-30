@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 57,
+  "translation": "ངན་པ་ཚོར་ཞི་བདེ་མེད་ཅེས་ངའི་ཨེ་ལོ་ཧིམ་གྱིས་གསུང་།",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ཞི་བདེ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ངའི་ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ངན་པ་ཚོར"
+    }
+  ],
+  "timestamp": "2026-09-30T10:58:10.720514164Z",
+  "model": "glm-5.3"
+}

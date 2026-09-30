@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཨབ་ར་ཧམ་རང་གི་ཤི་བོའི་དྲུང་ནས་ལངས་ཏེ། ཤེཏ་ཀྱི་བུ་ཚོར་འདི་སྐད་སྨྲས།",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ལངས"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "פני",
+      "gloss": "དྲུང"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ཤི་བོ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ཤེཏ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད"
+    }
+  ],
+  "timestamp": "2026-09-30T07:12:54.117252001Z",
+  "model": "glm-5.3"
+}

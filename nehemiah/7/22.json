@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཧ་ཤུམ་གྱི་བུ་ཚོ༑ བརྒྱ་ཕྲག་གསུམ་དང་ཉི་ཤུ་དང་བརྒྱད།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ཧ་ཤུམ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ་ཕྲག"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "བརྒྱད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:33.360997395Z",
+  "model": "glm-5.3"
+}

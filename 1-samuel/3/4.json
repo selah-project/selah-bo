@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེས་ཤ་མུ་ཨེལ་ལ་བོས་པ་ན་ཁོས་ལན་བཏབ་སྟེ་བདག་མཆིས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "བོས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ཤ་མུ་ཨེལ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ལན་བཏབ་སྟེ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "བདག་མཆིས"
+    }
+  ],
+  "timestamp": "2026-09-30T09:32:27.828288280Z",
+  "model": "glm-5.3"
+}

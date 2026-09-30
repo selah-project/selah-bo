@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེ་ངས་ཁྱོད་ཀྱི་མཚན་ནས་ཐ་མའི་ཁྲོན་པ་ནས་བོས།",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "བོས"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ཁྱོད་ཀྱི་མཚན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ཁྲོན་པ་ནས"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ཐ་མའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:31.388838385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "དང་ཤི་མ་ཨོ་ནའི་བུ་ཚོའི་ཚོ་པ་ལ་ཤ་མུ་ཨེལ་ཨ་མི་ཧུ་ད་ཡི་བུ།",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "དང་ཚོ་པ་ལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ཤི་མ་ཨོ་ན"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ཤ་མུ་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ཨ་མི་ཧུ་ད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:56.958097578Z",
+  "model": "glm-5.3"
+}

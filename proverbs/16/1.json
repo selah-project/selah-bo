@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "མི་ལ་སེམས་ཀྱི་གྲ་སྒྲིག་ཡོད། ལྕེའི་ལན་ནི་ཡ་ཧ་ཝེ་ལས་ཡིན།",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "མི་ལ"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "གྲ་སྒྲིག"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སེམས་ཀྱི"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལས"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ལན"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ལྕེའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:51.131819728Z",
+  "model": "glm-5.3"
+}

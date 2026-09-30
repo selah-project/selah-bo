@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཀེ་ཧེ་ལ་ཐ་ནས་འཕོས་ཏེ་ཤེ་ཕེར་རི་ལ་འདུག",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "འཕོས་ཏེ"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "ཀེ་ཧེ་ལ་ཐ་ནས"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "འདུག"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "རི་ལ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ཤེ་ཕེར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:40:13.338614135Z",
+  "model": "glm-5.3"
+}

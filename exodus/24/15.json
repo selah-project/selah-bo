@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "མོ་ཤེ་རི་དེ་ལ་འཛེགས་པ་དང་སྤྲིན་གྱིས་⟨את⟩རི་དེ་བཀབ།",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "འཛེགས་པ་དང་"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "རི་དེ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "བཀབ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "སྤྲིན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "རི་དེ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "རི་དེ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:44:54.361582975Z",
+  "model": "glm-5.3"
+}

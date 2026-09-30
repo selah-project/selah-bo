@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡ་ཧ་ཝེའི་སྒམ་⟨ནི⟩ཕི་ལི་ཤ་ཐི་མི་ཡི་ཡུལ་དུ་ཟླ་བ་བདུན་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "སྒམ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ཡུལ་དུ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ཕི་ལི་ཤ་ཐི་མི"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ཟླ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:34:29.128715340Z",
+  "model": "glm-5.3"
+}

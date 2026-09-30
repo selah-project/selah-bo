@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 83,
+  "translation": "གླུ་དབྱངས། ཨ་ས་ཕ་ལ་མངགས་པའི་མི་ཛ་མོར།",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "གླུ་དབྱངས"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "མི་ཛ་མོར"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ཨ་ས་ཕ་ལ་"
+    }
+  ],
+  "timestamp": "2026-09-30T12:37:11.060144543Z",
+  "model": "glm-5.3"
+}

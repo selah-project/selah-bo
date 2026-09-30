@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "དང་⟨את⟩ཧ་ཝི་བ་དང་⟨את⟩ཧ་ཨར་ཀི་བ་དང་⟨את⟩སི་ནི་བ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་ཝི་བ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ཧ་ཝི་བ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་ཨར་ཀི་བ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ཧ་ཨར་ཀི་བ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "སི་ནི་བ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "སི་ནི་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:07:15.650444029Z",
+  "model": "glm-5.3"
+}

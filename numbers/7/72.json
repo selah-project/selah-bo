@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཉིན་བཅུ་གཅིག་པའི་<Not used>ཉིན་ལ་ཨ་ཤེར་གྱི་བུ་ཚུའི་<Not used><...>དཔོན་པོ་པག་ཨི་ཡེལ་ཨོ་ཀ་རན་གྱི་བུས་<Not used>མཆོད་པ་ཕུལ།",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་ལ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "བཅུ་གཅིག"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "དཔོན་པོ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "བུ་ཚུའི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ཨ་ཤེར"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "པག་ཨི་ཡེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ཨོ་ཀ་རན"
+    }
+  ],
+  "timestamp": "2026-09-30T08:23:02.338112576Z",
+  "model": "glm-5.3"
+}

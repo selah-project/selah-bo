@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཧུ་ཤིམ་ལས་ཁོས་⟨את⟩ ཨ་བི་ཏུབ་དང་⟨את⟩ ཨེལ་པ་ཨལ་བཙས།",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "དང་ཧུ་ཤིམ་ལས"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་བི་ཏུབ"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "ཨ་བི་ཏུབ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "དང་⟨את⟩",
+      "marks": "ཨེལ་པ་ཨལ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ཨེལ་པ་ཨལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:19.319646875Z",
+  "model": "glm-5.3"
+}

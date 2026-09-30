@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཇོབ་ཀྱིས་ལན་བཏབ་དེ་སྨྲས་པ།",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ལན་བཏབ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ཇོབ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:10:11.524441622Z",
+  "model": "glm-5.3"
+}

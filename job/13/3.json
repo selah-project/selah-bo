@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "འོན་ཀྱང་ང་ཤད་དའི་ལ་གཏམ་སྨྲ།ཨེལ་དང་རྩོད་པ་བྱེད་འདོད།",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "འོན་ཀྱང"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ཤད་དའི"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "གཏམ་སྨྲ"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "རྩོད་པ་བྱེད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ་དང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "འདོད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:06:41.514596574Z",
+  "model": "glm-5.3"
+}

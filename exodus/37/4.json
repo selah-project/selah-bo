@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "ཁོས་ཤི་ཏིམ་ཤིང་གི་དབྱུག་པ་བཟོས་ཏེ་⟨את⟩དེ་དག་གསེར་གྱིས་གཡོགས།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "བཟོས"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "དབྱུག་པ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ཤིང"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ཤི་ཏིམ"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "གཡོགས"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "དབྱུག་པ་དེ་དག"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:54:24.181948128Z",
+  "model": "glm-5.3"
+}

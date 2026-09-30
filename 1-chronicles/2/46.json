@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཀལེབ་ཀྱི་ཆུང་མ་ཕལ་པ་ཨེ་ཕ་ཧས་⟨את⟩ཧ་རན་དང་⟨את⟩མོ་ཙ་དང་⟨את⟩ག་ཛེཛ་བཙས། ཧ་རན་གྱིས་⟨את⟩ག་ཛེཛ་སྐྱེད།",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "དང་ཨེ་ཕ་ཧ"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "ཆུང་མ་ཕལ་པ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ཀལེབ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་རན"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ཧ་རན"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "མོ་ཙ"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "མོ་ཙ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ག་ཛེཛ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ག་ཛེཛ"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "དང་ཧ་རན"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "སྐྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ག་ཛེཛ"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ག་ཛེཛ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:08.500125611Z",
+  "model": "glm-5.3"
+}

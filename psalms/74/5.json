@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 74,
+  "translation": "ནགས་ཚལ་གྱི་ཤིང་ལ་སྟ་རེ་ཡར་ལ་འཕྱུང་བ་ལྟར་དུ་གྲགས།",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "གྲགས"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "འདྲེན་པ་ལྟར"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ཡར་ལ"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "ནགས་ཚལ་དུ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ཤིང"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "སྟ་རེ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:35:15.258666849Z",
+  "model": "glm-5.3"
+}

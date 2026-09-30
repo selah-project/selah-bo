@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "མཐོ་ཞིང་དམ་པའི་མཆུ་ནས་གནོད་པ་དང་ལེགས་པ་གཉིས་ཀ་མི་འབྱུང་ངམ།",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "མཆུ་ནས"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "མཐོ་ཞིང་དམ་པ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "འབྱུང"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "གནོད་པ"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ལེགས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:14.981074296Z",
+  "model": "glm-5.3"
+}

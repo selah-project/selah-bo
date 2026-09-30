@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "རེ་ཧུམ། ཧ་ཤབ་ན། མ་ཨ་སེ་ཡ་ཧ",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "རེ་ཧུམ"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "ཧ་ཤབ་ན"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "མ་ཨ་སེ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:58.188530355Z",
+  "model": "glm-5.3"
+}

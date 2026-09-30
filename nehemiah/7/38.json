@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "སེ་ན་ཨཧ་ཡི་བུ་ཚ་དག སྟོང་གསུམ་དགུ་བརྒྱ་སུམ་ཅུ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "སེ་ན་ཨཧ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "སྟོང"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "དགུ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "དང་སུམ་ཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:48.494731871Z",
+  "model": "glm-5.3"
+}

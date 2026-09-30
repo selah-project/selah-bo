@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "མོ་ཤེ་སོང་ནས་ཡི་སི་ར་ཨེལ་ཐམས་ཅད་ལ་⟨את⟩ཚིག་འདི་དག་སྨྲས།",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "སོང་ནས"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚིག་འདི་དག"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:34:05.028106995Z",
+  "model": "glm-5.3"
+}

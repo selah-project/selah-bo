@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "བ་གླང་གཅིག་ལའམ་ལུག་ཕོ་གཅིག་ལའམ་ལུག་རྭ་ཅན་ནམ་ར་ལུག་ཕྲུག་ལ་ཡང་དེ་ལྟར་བྱ།",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "བ་གླང"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "או",
+      "gloss": "ཡང་ན"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ལུག་ཕོ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "או",
+      "gloss": "ཡང་ན"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "ལུག་ཕྲུག"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "ལུག་རྭ་ཅན"
+    },
+    {
+      "surface": "או",
+      "gloss": "ཡང་ན"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "ར་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:28:48.934055269Z",
+  "model": "glm-5.3"
+}

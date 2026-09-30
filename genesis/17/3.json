@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཨབ་ར་ཧམ་གདོང་ས་ལ་ཕབ་སྟེ་ཨེ་ལོ་ཧིམ་གྱིས་ཁོང་དང་⟨את⟩གསུང་སWISE་བར་གླེངས་པ།",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ཕབ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ཨབ་ར་ཧམ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "གདོང"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་གླེངས"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོང"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:11:06.134504255Z",
+  "model": "glm-5.3"
+}

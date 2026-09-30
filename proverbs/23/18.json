@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "དོན་དུ་མཇུག་འབྲས་ཡོད། ཁྱོད་ཀྱི་རེ་བ་གཅོད་པར་མི་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "དོན་དུ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ངེས་པར⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "མཇུག་འབྲས"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "དང་ཁྱོད་ཀྱི་རེ་བ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "གཅོད་པར་འགྱུར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:03.159541043Z",
+  "model": "glm-5.3"
+}

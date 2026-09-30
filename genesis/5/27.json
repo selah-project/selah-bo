@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "མ་ཐུ་ཤེ་ལ་ཁའི་ཉིན་ཞག་ཀུན་ལོ་གྲངས་དགུ་བརྒྱ་དང་དྲུག་ཅུ་གླེང་དགུ་ལོན་ནས་འདས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨གྱུར⟩ལོན"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་ཞག"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "མ་ཐུ་ཤེ་ལ་ཁ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "དགུ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དྲུག་ཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "དང་དགུ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "འདས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:42.891388217Z",
+  "model": "glm-5.3"
+}

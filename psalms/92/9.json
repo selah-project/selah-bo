@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 92,
+  "translation": "འོན་ཀྱང་ཁྱོད་མཐོ་སར་བཞུགས་ཏེ་ནམ་ཡང་དེ་ལྟར་ལགས། ཡ་ཧ་ཝེ།",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "འོན་ཀྱང་ཁྱོད"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "མཐོ་སར"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ནམ་ཡང་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:39:47.213185063Z",
+  "model": "glm-5.3"
+}

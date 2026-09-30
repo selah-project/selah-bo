@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "གང་དུ་ཁོ་རང་རྒྱང་དུ་ཕྱུངས་པའི་གནས་དེར་ཁོ་ཤི་བར་འགྱུར་ཞིང་། ས་གཞི་འདི་ནི་སླར་མི་མཐོང་ངོ་། །",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "རྒྱང་དུ་ཕྱུངས་པ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོ་རང"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ཤི་བར་འགྱུར"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ས་གཞི་འདི"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "སླར"
+    }
+  ],
+  "timestamp": "2026-09-30T11:12:16.861315772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "དང་ ན་ཧ་ཤོན་གྱིས་⟨את⟩སལ་མ་བསྐྲུན་ལ་ སལ་མ་གྱིས་⟨את⟩བོ་ཨཛ་བསྐྲུན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "དང་ ན་ཧ་ཤོན"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བསྐྲུན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སལ་མ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "སལ་མ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "དང་ སལ་མ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བསྐྲུན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བོ་ཨཛ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "བོ་ཨཛ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:02.274782595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ནོ་ཨེ་རང་གི་ཨ་རག་ལས་སད་ནས་⟨את⟩རང་གི་བུ་ཆུང་གིས་རང་ལ་བྱས་པ་ཤེས།",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "སད"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨེ"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "ཨ་རག་ལས"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བྱས་པ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<>"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "לו",
+      "gloss": "རང་ལ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ཆུང"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:35.106133701Z",
+  "model": "glm-5.3"
+}

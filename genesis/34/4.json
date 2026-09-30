@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "ཤེ་ཁེམ་གྱིས་ཕ་ཧ་མོར་ལ་སྨྲས་པ་ ⟨את⟩ གཞོན་ནུ་མོ་འདི་ངའི་ཆུང་མར་ལོངས།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ཤེ་ཁེམ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ཧ་མོར"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "པ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ལོངས"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ངའི་དོན་དུ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གཞོན་ནུ་མོ་འདི"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "གཞོན་ནུ་མོ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ཆུང་མར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:21:47.980433226Z",
+  "model": "glm-5.3"
+}

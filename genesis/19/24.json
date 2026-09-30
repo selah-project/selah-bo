@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཡ་ཧ་ཝེ་ཉིད་ཀྱིས་སི་དོམ་དང་ཨ་མོ་ར་ཧ་ལ་མུ་ཟི་དང་མེ་ཆར་དུ་བབས། ཡ་ཧ་ཝེ་ཉིད་ལས་⟨את⟩ནམ་མཁའ་⟨the⟩ལས།",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "ཆར་བབས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "סדום",
+      "gloss": "སི་དོམ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "དང་ལ"
+    },
+    {
+      "surface": "עמורה",
+      "gloss": "ཨ་མོ་ར་ཧ"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "མུ་ཟི"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "དང་མེ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨the⟩ནམ་མཁའ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:11:18.908363204Z",
+  "model": "glm-5.3"
+}

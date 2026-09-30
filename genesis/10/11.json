@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ས་གཞི་དེ་ལས་ཨ་ཤུར་ཕྱིན་ནས་⟨את⟩ནིན་ཝེ་དང་⟨את⟩རེ་ ཧོ་ བོ ཐི རྒྱ་འཁོར་དང་⟨את⟩ཀེ་ལah་བཞེངས།",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ཨ་ཤུར"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "བཞེངས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ནིན་ཝེ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ནིན་ཝེ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "རེ་ཧོ་བོ་ཐི་རྒྱ་འཁོར"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "རེ་ཧོ་བོ་ཐི"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "རྒྱ་འཁོར"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཀེ་ལah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ཀེ་ལah"
+    }
+  ],
+  "timestamp": "2026-09-30T07:06:56.702776517Z",
+  "model": "glm-5.3"
+}

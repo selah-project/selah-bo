@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཆུ་ཡིས་ས་གཞི་ལ་མཐུ་དྲག་པོས་ཉིན་བརྒྱ་དང་ལྔ་བཅུའི་བར་དུ་གནས་སོ།།",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "མཐུ་དྲག་པོས་གནས"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "དང་བརྒྱ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:06:20.827085240Z",
+  "model": "glm-5.3"
+}

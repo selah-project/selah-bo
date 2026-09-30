@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཨ་དོ་ནི་ཡ་ · བིག་ཝི · ཨ་དིན།",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "ཨ་དོ་ནི་ཡ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "བིག་ཝི"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ཨ་དིན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:02.622127929Z",
+  "model": "glm-5.3"
+}

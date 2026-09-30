@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "སོངས་ལ་ཁོ་ཚོ་ལ་སྨོས། ཁྱོད་ཚོ་རང་ཁྱོད་ཚོའི་གུར་ལ་ལོག་ཅིག",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "སོངས"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "སྨོས"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ཁོ་ཚོ་ལ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ལོག་ཅིག"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱོད་ཚོ་རང"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "ཁྱོད་ཚོའི་གུར་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:45:05.435616625Z",
+  "model": "glm-5.3"
+}

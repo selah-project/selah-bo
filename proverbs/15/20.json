@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "མཁས་པའི་བུ་ཡིས་ཕ་དགའ་བར་བྱེད། རྨོངས་པའི་མི་ཡིས་རང་གི་མ་ལ་བརྙས་བྱེད།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "དགའ་བར་བྱེད"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "དང་རྨོངས་པ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "བརྙས་བྱེད"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "རང་གི་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:17.814439898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མེ་ནི་རྟག་ཏུ་མཛ་བེ་ཁའི་སྟེང་དུ་འབར་བར་བྱ། དེ་གསོད་པར་མི་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "རྟག་ཏུ"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "འབར"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "མཛ་བེ་ཁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "གསོད་པར་བྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:28:51.673456939Z",
+  "model": "glm-5.3"
+}

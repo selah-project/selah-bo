@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་ཤམ་ཤེ་ར་ཡ་དང་ཤེ་ཧ་ར་ཡ་ཧ་དང་ཨ་ཐ་ལ་ཡ་ཧ།",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "ཤམ་ཤེ་ར་ཡ"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "ཤེ་ཧ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ཨ་ཐ་ལ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:57.396222910Z",
+  "model": "glm-5.3"
+}

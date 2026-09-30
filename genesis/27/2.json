@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཁོས་གསུངས་པ་ ལྟོས་ད་ནི་བདག་རྒས་ཟིན་པས་ རང་གི་འཆི་བའི་ཉིན་མ་ཤེས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས་པ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ད"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "བདག་རྒས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན་མ"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "རང་གི་འཆི་བའི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:15:20.623326173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མི་གཙང་བ་གང་ལ་རེག་པའི་ཤ་ནི་བཟའ་མི་རུང་བས་མེས་བསྲེག་པར་བྱ། ཤ་ནི་གཙང་བ་ཀུན་གྱིས་བཟའ་བར་བྱ།",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "རེག"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "གང"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "མི་གཙང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "བཟའ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "བསྲེག"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "ཤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "གཙང"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "བཟའ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:09.860427897Z",
+  "model": "glm-5.3"
+}

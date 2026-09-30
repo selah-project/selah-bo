@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཡི་སི་ར་ཨེལ་ཨ་མོ་རིའི་ས་གཞིར་གནས་སོར་བཞུགས།",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "གནས་སོར་བཞུགས"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞིར"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ཨ་མོ་རིའི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:32:03.254870985Z",
+  "model": "glm-5.3"
+}

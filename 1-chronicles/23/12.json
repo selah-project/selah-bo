@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཀེ་ཧཐའི་བུ་སྲས་ཨམ་རམ་དང་ཡི་ཙ་ཧར་དང་ཧེབ་རོན་དང་ཨུ་ཛི་ཨེལ་སྟེ་བཞིའོ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་སྲས"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ཀེ་ཧཐ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ཨམ་རམ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ཡི་ཙ་ཧར"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ཧེབ་རོན"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ཨུ་ཛི་ཨེལ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "བཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:44.347052629Z",
+  "model": "glm-5.3"
+}

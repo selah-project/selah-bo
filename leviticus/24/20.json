@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཆག་ཆག་གི་ཚབ། མིག་མིག་གི་ཚབ། སོ་སོའི་ཚབ། མི་ལ་སྐྱོན་ཇི་ལྟར་བྱིན་པ་བཞིན་དུ་དེ་ལ་དེ་ལྟར་སྤྲོད་དགོས།",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ཆག"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ཚབ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ཆག"
+    },
+    {
+      "surface": "עין",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ཚབ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "שן",
+      "gloss": "སོ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ཚབ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "སོ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ཇི་ལྟར"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "བྱིན་པ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "སྐྱོན"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "མི་ལ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "སྤྲོད་དགོས"
+    },
+    {
+      "surface": "בו",
+      "gloss": "དེ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:12:55.614299177Z",
+  "model": "glm-5.3"
+}

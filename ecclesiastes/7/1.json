@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "མིང་ལེགས་པ་ནི་ཏིལ་མར་ལེགས་པ་ལས་ལེགས། ཤི་བའི་ཉིན་མོ་ཡང་སྐྱེས་པའི་ཉིན་མོ་ལས་ལེགས།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ཏིལ་མར་ལས"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "དང་ཉིན་མོ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ཤི་བའི"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ཉིན་མོ་ལས"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "སྐྱེས་པའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:40.681846727Z",
+  "model": "glm-5.3"
+}

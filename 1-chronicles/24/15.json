@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "བཅུ་བདུན་པ་ཧེ་ཛིར་ལ། བཅོ་བརྒྱད་པ་ཧ་ཕི་ཙེཙ་ལའོ།",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "ཧེ་ཛིར་ལ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "ཧ་ཕི་ཙེཙ་ལ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "བརྒྱད"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:31.413022090Z",
+  "model": "glm-5.3"
+}

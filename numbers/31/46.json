@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "མིའི་ནེ་ཕེ་ཤ་སྟོང་ཕྲག་བཅུ་དྲུག",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང"
+    }
+  ],
+  "timestamp": "2026-09-30T08:38:26.445057974Z",
+  "model": "glm-5.3"
+}

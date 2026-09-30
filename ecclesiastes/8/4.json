@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "གང་དུ་རྒྱལ་པོའི་ཚིག་ཡོད་པ་དེར་དབང་ཆ་ཡིན། ཁོ་ལ་སུས་༼ཁྱོད་ཀྱིས༽ཅི་བྱེད་ཅེས་ཟེར་ནུས།",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "གང་དུ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོའི"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "དབང་ཆ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "སུས"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ་ལ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:23.419234942Z",
+  "model": "glm-5.3"
+}

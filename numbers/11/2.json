@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དམངས་ཀྱིས་མོ་ཤེ་ལ་ངུ་སྐད་བཏོན། མོ་ཤེས་ཡ་ཧ་ཝེ་ལ་གསོལ་བ་བཏབ་པས་མེ་ཞི་བར་གྱུར།",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "ངུ་སྐད་བཏོན"
+    },
+    {
+      "surface": "העם",
+      "gloss": "དམངས་ཀྱིས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "གསོལ་བ་བཏབ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ལ"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "ཞི"
+    },
+    {
+      "surface": "האש",
+      "gloss": "མེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:16.499497094Z",
+  "model": "glm-5.3"
+}

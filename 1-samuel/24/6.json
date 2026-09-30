@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "དེའི་རྗེས་སུ་ད་ཝིད་ཀྱི་སྙིང་གིས་ཁོང་ལ་བརྡེགས་ཏེ། ཤ་ཨུལ་གྱི་ལྷམ་གྱི་མཐའ་⟨את⟩ཆ་ཤས་བཅད་པས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "རྗེས་སུ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེའི"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "བརྡེགས"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ད་ཝིད་"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོང་"
+    },
+    {
+      "surface": "על",
+      "gloss": "པས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "བ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "བཅད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཆ་ཤས"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "མཐའི་ཆ་ཤས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "བའི"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ཤ་ཨུལ་"
+    }
+  ],
+  "timestamp": "2026-09-30T09:43:35.457005457Z",
+  "model": "glm-5.3"
+}

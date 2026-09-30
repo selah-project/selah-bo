@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཨ་དམ། ཤེད། ཨེ་ནོ་ཤ།",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ཨ་དམ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ཤེད"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ཨེ་ནོ་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:20.766503039Z",
+  "model": "glm-5.3"
+}

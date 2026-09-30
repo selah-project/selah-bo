@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "རྙེད་པ་ཀུན་རལ་གྲིས་བསྣུན། དང་བཟུང་བ་ཀུན་རལ་གྲིས་ལྷུང་།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "རྙེད་པ"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "རལ་གྲིས་བསྣུན"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "དང་ཀུན"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "བཟུང་བ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ལྷུང་"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "རལ་གྲིས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:41:24.516641865Z",
+  "model": "glm-5.3"
+}

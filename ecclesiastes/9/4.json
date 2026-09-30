@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "གང་ཞིག་གསོན་པོ་ཀུན་དང་འབྲེལ་བ་ལ་རེ་བ་ཡོད་དེ—གསོན་པའི་ཁྱི་ནི་ཤི་བའི་སེང་གེ་ལས་ལེགས་སོ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "དེ་ཕྱིར"
+    },
+    {
+      "surface": "מי",
+      "gloss": "གང་ཞིག"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "འབྲེལ་བ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དང"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "གསོན་པོ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "རེ་བ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "དེ་ཕྱིར"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ཁྱི་ལ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "གསོན་པ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "སེང་གེ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ཤི་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:48.487353420Z",
+  "model": "glm-5.3"
+}

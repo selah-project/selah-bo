@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡ་ཧ་ཝེ་ཙེ་བ་ཨོད་ཀྱིས་འདི་ལྟར་གསུང་། ཀོ་ཧེ་ན་ཚོར་ཏོ་ར་དྲིས་ཤིག།",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "འདི་ལྟར"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ཙེ་བ་ཨོད"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "དྲིས"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ད་ལྟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཀོ་ཧེ་ན་ཚོ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ཀོ་ཧེ་ན་ཚོ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ཏོ་ར"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:13:58.967317995Z",
+  "model": "glm-5.3"
+}

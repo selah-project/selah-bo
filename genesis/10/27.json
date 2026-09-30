@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "དང་⟨את⟩ཧ་དོ་རམ་དང་⟨את⟩ཨུ་ཛལ་དང་⟨את⟩དིཀ་ལ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་དོ་རམ"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ཧ་དོ་རམ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨུ་ཛལ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ཨུ་ཛལ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "དིཀ་ལ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "དིཀ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:07:12.457500326Z",
+  "model": "glm-5.3"
+}

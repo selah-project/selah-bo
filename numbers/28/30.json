@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ར་ཕོ་གཅིག ཁྱོད་ཚོའི་དོན་དུ་བཤགས་པ་བྱེད་པར།",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ར་ཕོ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ར"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "བཤགས་པ་བྱེད་པར"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ཁྱོད་ཚོའི་དོན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:36:41.949718134Z",
+  "model": "glm-5.3"
+}

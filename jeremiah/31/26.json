@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "དེའི་ཕྱིར་ང་གཉིད་ལས་སད་དེ་བལྟས་པ་ན། ངའི་གཉིད་ང་ལ་ཞིམ་པོར་གྱུར་ཏོ།",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "དེའི་ཕྱིར"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "སད་དེ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "བལྟས"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "ངའི་གཉིད"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ཞིམ་པོར་གྱུར"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:15:45.126983539Z",
+  "model": "glm-5.3"
+}

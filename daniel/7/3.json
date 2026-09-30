@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "དང་སྲོག་ཆགས་ཆེན་པོ་བཞི་མཚོ་ལས་ཡར་འཐོངས་ཤིང་། འདི་ནས་གཅིག་ལས་གཅིག་མི་འདྲ་བ་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "དང་བཞི"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "སྲོག་ཆགས"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ཆེན་པོ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ཡར་འཐོངས"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "མཚོ"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "མི་འདྲ་བ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "דא",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:38:48.025756893Z",
+  "model": "glm-5.3"
+}

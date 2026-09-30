@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ལེ་ཝི་རྣམས་ཀྱིས་ཡི་སི་ར་ཨེལ་གྱི་མི་ཐམས་ཅད་ལ་སྐད་ཆེན་པོས་ལན་འདེབས་ཤིང་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ལན་འདེབས"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ལེ་ཝི་རྣམས"
+    },
+    {
+      "surface": "ו אמרו",
+      "gloss": "འདི་སྐད་དུ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "སྐད"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ཆེན་པོས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:57:14.689968178Z",
+  "model": "glm-5.3"
+}

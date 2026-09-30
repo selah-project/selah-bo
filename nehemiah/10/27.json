@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "དང་ཨ་ཧི་ཡ་ཧ། ཧ་ནན། ཨ་ནན",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "དང་ཨ་ཧི་ཡ་ཧ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ཧ་ནན"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ཨ་ནན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:58.188661109Z",
+  "model": "glm-5.3"
+}

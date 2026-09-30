@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "⟨את⟩ཚིལ་ཁྱེད་ཀྱིས་ཟ་ཞིང་⟨את⟩བལ་གྱོན། ཚོས་པ་ཁྱེད་ཀྱིས་བཤའ་ཞིང་ལུག་ཁྱུ་གསོ་བར་མི་བྱེད།",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚིལ"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ཚིལ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "བལ"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "བལ"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "གྱོན"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "ཚོས་པ"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "བཤའ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ལུག་ཁྱུ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "གསོ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:52:59.105663483Z",
+  "model": "glm-5.3"
+}

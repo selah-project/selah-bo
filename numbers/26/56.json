@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཤོའི་⟨mouth-word⟩ལྟར་⟨its⟩ཤུལ་བགོ་སྟེ། མང་བ་དང་ཉུང་བའི་བར་དུའོ།",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ལྟར"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ལྟར"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ཤོ"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "བགོ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ཤུལ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "མང་བ"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "ཉུང་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:35:52.605516702Z",
+  "model": "glm-5.3"
+}

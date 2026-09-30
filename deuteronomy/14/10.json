@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "གང་ལ་གཤོག་སོ་དང་ཁྲབ་ལེབ་མེད་པ་དེ་ལས་ཁྱོད་ཚོས་མ་ཟ། དེ་ཁྱོད་ཚོ་ལ་མི་གཙང་བ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད་པ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "གཤོག་སོ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ཁྲབ་ལེབ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "མི་གཙང་བ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱོད་ཚོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:29.881913005Z",
+  "model": "glm-5.3"
+}

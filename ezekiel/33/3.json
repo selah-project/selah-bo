@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཁོས་རལ་གྲི་ས་གཞིར་འོང་བ་མཐོང་ནས་དུང་འབུད་ཅིང་མི་རྣམས་ལ་⟨את⟩ཉེན་བརྡ་གཏོང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "རལ་གྲི"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "རལ་གྲི"
+    },
+    {
+      "surface": "באה",
+      "gloss": "འོང"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "འབུད"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "དུང"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "ཉེན་བརྡ་གཏོང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མི་རྣམས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་རྣམས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:47:47.148909053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མི་ཤེ་ཛ་བེལ་ ཙ་དོཀ་ ཡ་དུ་ཨ།",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "མི་ཤེ་ཛ་བེལ"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ཙ་དོཀ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ཡ་དུ་ཨ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:49:47.139694651Z",
+  "model": "glm-5.3"
+}

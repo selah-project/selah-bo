@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 29,
+  "translation": "ཤེ་མེན་མི་ཤ་ཁ་ལེན་ཅིང་ཁོང་གི་དབུ་ལ་བླུགས་ལ་ཁོང་ལ་བྱུག་གོ",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ལེན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཤེ་མེན"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ཤེ་མེན"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "མི་ཤ་ཁ"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "བླུགས"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ཁོང་གི་དབུ"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "བྱུག"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ཧ་རོན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:48.895698635Z",
+  "model": "glm-5.3"
+}

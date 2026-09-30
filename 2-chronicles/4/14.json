@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "དང་གཞི་རྟེན་ཁག་ཀྱང་བཟོས། གཞི་རྟེན་ཁག་གི་སྟེང་གི་ཆུ་ལོང་དེ་དག་ཀྱང་བཟོས།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "གཞི་རྟེན"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "གཞི་རྟེན"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བཟོས"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "ཆུ་ལོང"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "ཆུ་ལོང"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བཟོས"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "གཞི་རྟེན"
+    }
+  ],
+  "timestamp": "2026-09-30T14:07:36.771193915Z",
+  "model": "glm-5.3"
+}

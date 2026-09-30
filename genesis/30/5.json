@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "བིལ་ཧས་མངལ་འཁུར་ཞིང་ཡ་ཨ་ཀོབ་ལ་བུ་ཞིག་བཙས།",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "མངལ་འཁུར་ཞིང་"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "བིལ་ཧས་"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ཡ་ཨ་ཀོབ་ལ་"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:17:14.163469084Z",
+  "model": "glm-5.3"
+}

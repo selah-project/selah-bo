@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཕྱུག་པོ་ལ་ལུག་གི་ཁྱུ་དང་བ་ལང་ཤིན་ཏུ་མང་བོ་ཡོད།",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ཕྱུག་པོ་ལ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ལུག་གི་ཁྱུ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "དང་བ་ལང་"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "མང་"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ཤིན་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:56:00.715412385Z",
+  "model": "glm-5.3"
+}

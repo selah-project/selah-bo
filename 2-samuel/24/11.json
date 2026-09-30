@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 24:11",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ནང་པ་ད་ཝིད་ལྡང་བ་དང༌། ཡ་ཧ་ཝེའི་གསུང་ན་བི་ ད་ཝིད་ཀྱི་མཐོང་སྣང་ཅན་གད་ ལ་བྱུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ལྡང"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ནང་པ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "གད"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ན་བི"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "མཐོང་སྣང་ཅན"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:04:13.773905373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨེ་ལི་ཤས་གང་གསུངས་པའི་ཚིག་ལྟར་ཆུ་དེ་དག་ཉིན་འདིའི་བར་དུ་གསོས་སོ།།",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "གསོས"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ཚིག་ལྟར"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ཨེ་ལི་ཤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "གསུངས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:21:53.415134214Z",
+  "model": "glm-5.3"
+}

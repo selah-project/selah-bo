@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "གྲོ་དང་སོ་བ་ལ་མ་ཕོག་སྟེ་དེ་དག་ཕྱི་བ་ཡིན་པའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "གྲོ་དང་"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "སོ་བ་དང་"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ཕོག"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཅིང་"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "ཕྱི་བ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "དེ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T07:36:23.210462770Z",
+  "model": "glm-5.3"
+}

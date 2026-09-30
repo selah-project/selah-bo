@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཉེས་པ་ཞིག་ཡོད་དེ། ངས་ཉི་མའི་འོག་ཏུ་མཐོང་ཞིང་། དེ་མི་ལ་ལྕི་བ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ཉེས་པ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ངས་མཐོང་"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "འོག་ཏུ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ཉི་མ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ལྕི་བ་ཡིན"
+    },
+    {
+      "surface": "היא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "མི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:28:37.508288910Z",
+  "model": "glm-5.3"
+}

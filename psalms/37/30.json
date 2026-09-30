@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "ཙེ་དེག་པོའི་ཁ་ནས་ཡེ་ཤེས་ཟེར་ཞིང་< облег>ཁོའི་ལྕེས་<༟>ཁྲིམས་སྨྲ།",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དེག་པོ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ཟེར"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཡེ་ཤེས"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ཁོའི་ལྕེས"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "སྨྲ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ཁྲིམས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:27:06.796146539Z",
+  "model": "glm-5.3"
+}

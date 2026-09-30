@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཤ་མའི་ཡི་བུ་ནི་མ་ཨོན་ཡིན་ལ། མ་ཨོན་ནི་བེ་ཐ་ཙུར་གྱི་ཕ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "དང་བུ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ཤ་མའི"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "མ་ཨོན"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "དང་མ་ཨོན"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ཙུར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:08.499830368Z",
+  "model": "glm-5.3"
+}

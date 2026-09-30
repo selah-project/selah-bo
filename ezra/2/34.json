@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཡེ་རི་གོའི་བུ་ཚ་ སུམ་བརྒྱ་བཞི་བཅུ་དང་ལྔ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ཡེ་རི་གོ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "སུམ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "དང་ལྔ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:05.111453354Z",
+  "model": "glm-5.3"
+}

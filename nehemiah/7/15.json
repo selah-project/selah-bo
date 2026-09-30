@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "བི་ནུའི་ཡི་བུ་ཚ་དག་ དྲུག་བརྒྱ་དང་བཞི་བཅུ་བརྒྱད།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "བི་ནུའི"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "བཞི་བཅུ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "བརྒྱད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:35.815430393Z",
+  "model": "glm-5.3"
+}

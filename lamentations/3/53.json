@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁོ་ཚོས་ཁྲོན་པའི་ནང་དུ་ངའི་ཚེ་སྲོག་བཅད་ཅིང་ང་ལ་རྡོ་ཞིག་འཕངས།",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "བཅད་ཅིང"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ཁྲོན་པའི་ནང་དུ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ངའི་ཚེ་སྲོག"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "འཕངས"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "རྡོ་ཞིག"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ང་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:31.388513596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ལྔ་པ་མལ་ཀི་ཡ་ཧ་ལ། དྲུག་པ་མི་ཡ་མིན་ལ།",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "མལ་ཀི་ཡ་ཧ་ལ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ལྔ་པ"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "མི་ཡ་མིན་ལ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "དྲུག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:40.606968851Z",
+  "model": "glm-5.3"
+}

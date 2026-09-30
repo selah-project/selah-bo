@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡོ་སེཕ་དང་ཁོའི་སྤུན་ཐམས་ཅད་དང་མི་རབས་དེ་ཀུན་ཚེ་ལས་འདས།",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ཚེ་ལས་འདས"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ཁོའི་སྤུན"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "མི་རབས"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:30:59.681165374Z",
+  "model": "glm-5.3"
+}

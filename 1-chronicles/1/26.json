@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "སེ་རུག ན་ཧོར། ཊེ་ར་ཁ།",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "སེ་རུག"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ན་ཧོར"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ཊེ་ར་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:31.094912272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "ཀི་ར་ཡ་ཐ་ཡིམ་དང་བེ་ཐ་ག་མུལ་དང་བེ་ཐ་མེ་ཨོན་ལ་ཡང་།",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "ཀི་ར་ཡ་ཐ་ཡིམ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ག་མུལ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "མེ་ཨོན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:27:28.373781987Z",
+  "model": "glm-5.3"
+}

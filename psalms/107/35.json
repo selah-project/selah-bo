@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 107,
+  "translation": "⟨ཁོང་གིས་⟩ས་སྟོང་ཆུ་མཚོར་བྱ་ཞིང་སྐམ་ས་ཆུ་འབྱུང་སར་བྱ།",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ས་སྟོང་"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ཆུ་མཚོར"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ཞིང་སྐམ་ས"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "སྐམ་ས"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "ཆུ་འབྱུང་སར"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ཆུ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:43:52.146863528Z",
+  "model": "glm-5.3"
+}

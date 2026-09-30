@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཁོས་⟨את⟩རང་གི་ལག་པ་ཧ་ཊ་ཐའི་མགོ་ལ་འཇོག་ཅིང་⟨את⟩ ཧ་ཊ་ཐ་ཨོ་ལ་གསོད་སར་གསོད་དོ།",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "འཇོག་ཅིང་"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལག་པ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "རང་གི་ལག་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "མགོ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ཧ་ཊ་ཐའི་"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "གསོད་ཅིང་"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་ཊ་ཐ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ཧ་ཊ་ཐ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "སར"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ཨོ་ལ་གསོད་"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:56.958459744Z",
+  "model": "glm-5.3"
+}

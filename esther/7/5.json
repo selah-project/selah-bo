@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་ཧ་ཤ་ཝེ་རོ་ཤ་རྒྱལ་པོས་གསུངས་<and said>ནས་ཨེ་ས་ཐེར་རྒྱལ་མོར་གསུངས། འདི་སུ་ཡིན་<is>། གང་དུ་<is>ཡོད་དམ། དེ་ལྟར་བྱེད་པར་སེམས་<whose heart>ཁེངས་<has filled him>མཁན་གང་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས།"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "རྒྱལ་པོས"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "ཨ་ཧ་ཤ་ཝེ་རོ་ཤས"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ཨེ་ས་ཐེར་ལ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "རྒྱལ་མོར"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "དང་གང་དུ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "མלאו",
+      "gloss": "ཁེངས"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ཁོའི་སེམས"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "བྱེད་པར"
+    },
+    {
+      "surface": "כן",
+      "gloss": "དེ་ལྟར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:33:35.716198951Z",
+  "model": "glm-5.3"
+}

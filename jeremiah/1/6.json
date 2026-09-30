@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ངས་ཞུས་པ། ཀྱེ་ཨ་དོ་ནའི་ཡ་ཧ་ཝེ། ལྟོས། ངས་སྨྲ་མི་ཤེས་ཏེ། ང་ནི་བྱིས་པ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "དང་ངས་ཞུས་པ"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ཀྱེ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ཨ་དོ་ནའི"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ངས་ཤེས"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "སྨྲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "བྱིས་པ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང"
+    }
+  ],
+  "timestamp": "2026-09-30T11:02:03.094711924Z",
+  "model": "glm-5.3"
+}

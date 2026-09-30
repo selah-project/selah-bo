@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཁྱོད་ཀྱི་དབུ་ལ་གནས་པའི་ནམ་མཁའ་ཟངས་སུ་འགྱུར། ཁྱོད་ཀྱི་འོག་གི་ས་གཞི་ལྕགས་སུ་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ཁྱོད་ཀྱི་ནམ་མཁའ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ཁྱོད་ཀྱི་དབུ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ཟངས"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "དང་ས་གཞི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ཁྱོད་ཀྱི་འོག"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ལྕགས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:59:30.400744893Z",
+  "model": "glm-5.3"
+}

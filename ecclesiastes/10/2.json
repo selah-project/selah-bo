@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "མཁས་པའི་སྙིང་⟨ནི⟩གཡས་ཕྱོགས་ན་ཡོད། བླུན་པོའི་སྙིང་⟨ནི⟩གཡོན་ཕྱོགས་ན་ཡོད།",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པའི"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "གཡས་ཕྱོགས་ལ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "དང་སྙིང"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "བླུན་པོའི"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "གཡོན་ཕྱོགས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:30.564565459Z",
+  "model": "glm-5.3"
+}

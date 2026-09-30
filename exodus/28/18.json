@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "གྲལ་གཉིས་པ་ལ་ནོ་ཕེག་དང་ས་ཕིར་དང་ཡ་ཧ་ལོམ་མོ།",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "གྲལ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "གཉིས་པ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ནོ་ཕེག"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ས་ཕིར"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "དང་ཡ་ཧ་ལོམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:48:00.458411006Z",
+  "model": "glm-5.3"
+}

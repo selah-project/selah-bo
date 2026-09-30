@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "དེ་བས་རྫི་བོ་དག ཡ་ཧ་ཝེ་ཡི་ཚིག་ལ་ཉན་ཅིག",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "དེ་བས་"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "རྫི་བོ་དག"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ཉན་ཅིག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚིག"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ་"
+    }
+  ],
+  "timestamp": "2026-09-30T11:47:35.890138686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ལེ་ལོས་ཁང་ཐོག་འཇིག་ཅིང་། ལག་པ་གཉིས་ཀྱི་ལེ་ལོས་ཁང་པ་ཟགས་སོ།",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "ལེ་ལོས"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "འཇིག"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "ཁང་ཐོག"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ལེ་ལོས"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ལག་པ་གཉིས"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ཟགས"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ཁང་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:44.624947840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཤིང་མེད་ན་མེ་ཞི་བར་འགྱུར། ཕྱིར་ཟློག་སྨྲ་བ་པོ་མེད་ན་རྩོད་པ་ཞི།",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "མེད་ན"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ཤིང"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ཞི་བར་འགྱུར"
+    },
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "དང་མེད་ན"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "ཕྱིར་ཟློག་སྨྲ་བ་པོ"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "ཞི"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "རྩོད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:41.737604436Z",
+  "model": "glm-5.3"
+}

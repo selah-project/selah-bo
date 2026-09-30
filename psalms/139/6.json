@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 139,
+  "translation": "ཤེས་པ་འདི་ང་ལ་ངོ་མཚར་ལྷག །མཐོ་བས་ངས་དེ་མི་ནུས།",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ངོ་མཚར"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་པ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ང་ལས་ལྷག"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "མཐོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ནུས"
+    },
+    {
+      "surface": "לה",
+      "gloss": "དེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:49:32.661159985Z",
+  "model": "glm-5.3"
+}

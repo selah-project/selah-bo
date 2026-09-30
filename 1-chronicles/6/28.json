@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཡ་ཁ་ཐའི་བུ་ནས་གེ་རེ་ཤོམ་གྱི་བུ་ནས་ལེ་ཝིའི་བུ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ཡ་ཁ་ཐ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "གེ་རེ་ཤོམ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ལེ་ཝི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:32.554627364Z",
+  "model": "glm-5.3"
+}

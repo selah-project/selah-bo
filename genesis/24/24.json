@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "མོས་དེ་ལ་སྨྲས་པ། ང་ནི་ན་ཧོར་ལ་མིལ་ཀ་ཧས་སྐྱེས་པའི་བེ་ཐུ་ཨེལ་གྱི་བུ་མོ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "དེ་ལ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "བེ་ཐུ་ཨེལ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "མིལ་ཀ་ཧ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "སྐྱེས"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ན་ཧོར་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:14:31.647909501Z",
+  "model": "glm-5.3"
+}

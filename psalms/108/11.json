@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 108,
+  "translation": "སུ་གིས་ང་རུབ་མཁར་གྲོང་དུ་འཁྲིད་དམ། སུ་གིས་ང་ཨེ་དོམ་བར་འདྲེན་ནམ།",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ང་འཁྲིད"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "གྲོང"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "རུབ་མཁར"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ང་འདྲེན"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ཨེ་དོམ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:43:56.679585541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཁོང་བཞུགས་པའི་གནས་ནས་ས་གཞིའི་གནས་པ་པོ་ཐམས་ཅད་ལ་གཟིགས།",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "གནས་ནས"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "བཞུགས་པའི"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "གཟིགས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "གནས་པ་པོ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:26:18.595656043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 24:4",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཨེལ་གྱི་ཚིག་ཚོ་ཉན་པ་པོའི་ཚིག། ཤད་དའི་མཐོང་སྣང་མཐོང་ཞིང་། ལྷུང་ཡང་མིག་ཁ་ཕྱེ་བ་པོའི་ཚིག།",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ཚིག་ཚོ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "མཐོང་སྣང"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ཤད་དའི"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ལྷུང"
+    },
+    {
+      "surface": "וגלוי",
+      "gloss": "ཕྱེ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "མིག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:34:50.462961852Z",
+  "model": "glm-5.3"
+}

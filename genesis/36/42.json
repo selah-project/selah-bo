@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 36,
+  "translation": "དཔོན་པོ་ཀེ་ན་ཛ། དཔོན་པོ་ཏེ་མ་ན། དཔོན་པོ་མིབ་ཙ་ར།",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན་པོ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ཀེ་ན་ཛ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན་པོ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ཏེ་མ་ན"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན་པོ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "མིབ་ཙ་ར"
+    }
+  ],
+  "timestamp": "2026-09-30T14:26:48.696994022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "རྡོ་སྒུལ་བ་པོ་ནི་དེ་དག་གིས་རྨས། ཤིང་གཤགས་པ་པོ་ནི་དེ་དག་གིས་ཉེན་ཁར་ལྷུང་།",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "རྡོ་སྒུལ་བ་པོ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "རྡོ"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "རྨས"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "དེ་དག་གིས"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "ཤིང་གཤགས་པ་པོ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ཤིང་"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ཉེན་ཁར་ལྷུང་"
+    },
+    {
+      "surface": "בם",
+      "gloss": "དེ་དག་གིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:26:58.902964635Z",
+  "model": "glm-5.3"
+}

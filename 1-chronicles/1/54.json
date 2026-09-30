@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དཔོན་མག་དི་ཨེལ་ དཔོན་ཨི་རམ། འདི་དག་ཨེ་ཌོམ་གྱི་དཔོན་དག་ཡིན།",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "མག་དི་ཨེལ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ཨི་རམ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "དཔོན་དག"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ཨེ་ཌོམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:22.053034927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "བདུན་པ་ཧ་ཀོཛ་ལ། བརྒྱད་པ་ཨ་བི་ཡ་ཧ་ལ།",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ཧ་ཀོཛ་ལ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "བདུན་པ"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ཨ་བི་ཡ་ཧ་ལ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "བརྒྱད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:40.607213734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "མི་ཁ་ཨེལ་གྱི་བུ་ནས་བ་ཤེ་ཡ་ཧའི་བུ་ནས་མལ་ཀི་ཡ་ཧའི་བུ།",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "མི་ཁ་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "བ་ཤེ་ཡ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "མལ་ཀི་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:32.554141927Z",
+  "model": "glm-5.3"
+}

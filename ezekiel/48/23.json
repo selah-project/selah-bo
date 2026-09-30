@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "ཚོ་ལྷག་མ་རྣམས་ལ། ཤར་ཕྱོགས་ནས་ནུབ་ཕྱོགས་བར། བིན་ཡ་མིན་གཅིག",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "ལྷག་མ"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "ཚོ་རྣམས"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ཕྱོགས་ནས"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ཤར"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ཕྱོགས"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ནུབ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "བིན་ཡ་མིན"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:56:02.832687874Z",
+  "model": "glm-5.3"
+}

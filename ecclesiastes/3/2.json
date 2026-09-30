@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "སྐྱེ་བའི་དུས་དང་འཆི་བའི་དུས། འཛུགས་པའི་དུས་དང་བཙུགས་པ་འབྱིན་པའི་དུས།",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "དུས"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "སྐྱེ་བའི"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "དང་དུས"
+    },
+    {
+      "surface": "למות",
+      "gloss": "འཆི་བའི"
+    },
+    {
+      "surface": "עת",
+      "gloss": "དུས"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "འཛུགས་པའི"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "དང་དུས"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "འབྱིན་པའི"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "བཙུགས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:43.562852160Z",
+  "model": "glm-5.3"
+}

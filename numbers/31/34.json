@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "དང་བོང་བུ་སྟོང་ཕྲག་དྲུག་ཅུ་རེ་གཅིག",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "དང་བོང་བུ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དང་དྲུག་ཅུ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང་ཕྲག"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:08.267439937Z",
+  "model": "glm-5.3"
+}

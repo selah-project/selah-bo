@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "སྙིང་ལྡན་གྱི་མཁས་པ་ལ་ཤེས་ལྡན་ཞེས་འབོད་ལ། མཆུ་ཡི་མངར་མོས་བསླབ་བྱ་སྣོན།",
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "མཁས་པ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "འབོད"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ཤེས་ལྡན"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "མངར་མོ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "མཆུ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "སྣོན"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "བསླབ་བྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:24.981449550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 23:6",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "དང་ཡ་ཧ་ཝེའི་<the>ཁང་པར་<any>གཞན་<any>་<any>སུ་<other>ཡང་<any>མི་<enter>འཇུག ཀོ་ཧེན་<the>་<priests>་རྣམས་<priests>དང་ལེ་ཝི་<Levites>་<Levites>ལས་<serving>་<serving>ཀ་<serving>བྱེད་<serving>་<serving>མཁན་<serving>་<serving>རྣམས་<serving>མ་<except>གཏོགས། ཁོང་<they>་<they>ཚོ་<they>འཇུག་<enter>སྟེ་<for>ཀོ་དེ་ཤ་<holy>་<holy>ཡིན་<they>་<they>པས་<they>སོ། <but>དང་<but>མི་མང་<all>་<all>ཐམས་ཅད་ཀྱིས་ཡ་ཧ་ཝེའི་<the>སྲུང་<charge>་<charge>སྐྱོབ་<charge>་<charge>བྱ།",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "དང་...<not>མི"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "འཇུག"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་པར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "כי",
+      "gloss": "མ་<except>གཏོགས"
+    },
+    {
+      "surface": "אם",
+      "gloss": "མ་<except>གཏོགས"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ཀོ་ཧེན་<the>་<priests>རྣམས"
+    },
+    {
+      "surface": "והמשרתים",
+      "gloss": "དང་<serving>ཞབས་<serving>་<serving>ཏོག་<serving>་<serving>བྱེད་<serving>་<serving>མཁན་<serving>་<serving>རྣམས"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ལེ་ཝི་<of>་<of>ཡི"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ཁོང་<they>་<they>ཚོ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "འཇུག"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ<for>་<for>"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ཀོ་དེ་ཤ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ཁོང་<they>་<they>ཚོ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "དང་...<all>ཐམས་<all>ཅད"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་མང"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "སྲུང་<keep>་<keep>སྐྱོབ་<keep>་<keep>བྱ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "སྲུང་<charge>་<charge>སྐྱོབ་<charge>་<charge>"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:16:35.175223731Z",
+  "model": "glm-5.3"
+}

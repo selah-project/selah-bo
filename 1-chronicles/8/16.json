@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "མི་ཀ་ཨེལ་དང་ཡི་ཤ་ཕ་དང་ཡོ་ཧ། འདི་དག་བ་རི་ཨ་ཧའི་⟨the⟩བུ་རྣམས་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "མི་ཀ་ཨེལ"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ཡི་ཤ་ཕ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ཡོ་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "བ་རི་ཨ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:22.072770170Z",
+  "model": "glm-5.3"
+}

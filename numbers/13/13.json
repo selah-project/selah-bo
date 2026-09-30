@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཨ་ཤེར་གྱི་ཚོ་བ་ནས་སེ་ཐུར་མི་ཀ་ཨེལ་གྱི་བུ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ཚོ་བ་ནས"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ཨ་ཤེར"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "སེ་ཐུར"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "མི་ཀ་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:37.298621343Z",
+  "model": "glm-5.3"
+}

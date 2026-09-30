@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "བུ་ཁི་ཁོའི་བུ། ཨུ་ཛི་ཁོའི་བུ། ཛེ་ར་ཧ་ཡ་ཧ་ཁོའི་བུ།",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "བུ་ཁི"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ཨུ་ཛི"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ཛེ་ར་ཧ་ཡ་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:35.778685049Z",
+  "model": "glm-5.3"
+}

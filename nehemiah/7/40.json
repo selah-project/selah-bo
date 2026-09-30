@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨི་མེར་གྱི་བུ་ཚ་དག སྟོང་གཅིག་ལྔ་བཅུ་རྩ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ཨི་མེར"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "སྟོང་གཅིག"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "དང་གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:48.495065670Z",
+  "model": "glm-5.3"
+}

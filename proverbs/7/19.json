@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "རྒྱུ་མཚན་ནི་ཁྱོ་ག་ཁང་པར་མེད་དེ། ལམ་ཐག་རིང་པོར་སོང་ཡོད།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "རྒྱུ་མཚན་ནི"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ཁྱོ་ག"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ཁང་པར"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "སོང་ཡོད"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ཐག་རིང་པོར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:04.538848053Z",
+  "model": "glm-5.3"
+}

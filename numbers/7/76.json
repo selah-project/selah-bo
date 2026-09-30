@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ར་གཅིག ར་ཚེའུ་ཞིག་སྡིག་པ་བཤགས་མཆོད་དུ་འབུལ་བའོ།",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ར་ཚེའུ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ར་"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "སྡིག་པ་བཤགས་མཆོད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:22:54.666026769Z",
+  "model": "glm-5.3"
+}

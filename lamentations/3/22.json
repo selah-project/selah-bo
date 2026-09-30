@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེའི་ཧེ་སེད་དག་གིས་⟨ང་ཚོ⟩མ་ཟད་པར་གནས། ཁོང་གི་སྙིང་རྗེ་ཟད་པ་མེད།",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ཧེ་སེད་དག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གིས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ཟད་པར་གནས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨གོང་ལྟར⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ཟད་པ"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ཁོང་གི་སྙིང་རྗེ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:51.875184934Z",
+  "model": "glm-5.3"
+}

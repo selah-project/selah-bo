@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "ཏི་བོན་དང་ནེ་བོ་དང་བེ་ཐ་ཏི་བ་ལ་ཐ་ཡིམ་ལ་ཡང་།",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ཏི་བོན"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ནེ་བོ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "ཏི་བ་ལ་ཐ་ཡིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:27:28.373654865Z",
+  "model": "glm-5.3"
+}

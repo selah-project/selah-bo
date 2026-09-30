@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཡ་ཧ་ཝེའི་སྤྱན་སྔ་ནས་མེ་བྱུང་སྟེ་ཁོ་ན་⟨את⟩ཟ་ནས་ ཡ་ཧ་ཝེའི་སྤྱན་སྔར་ཁོ་ན་ཤི་འོ།",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "སྤྱན་སྔ་ནས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ཟས"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོ་ན"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ཤི"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:03:59.834232997Z",
+  "model": "glm-5.3"
+}

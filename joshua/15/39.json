@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ལ་ཀིཤ་དང་བོཙ་ཀ་ཐ་དང་ཨེག་ལོན།",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "ལ་ཀིཤ"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "བོཙ་ཀ་ཐ"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "ཨེག་ལོན"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:17.543401564Z",
+  "model": "glm-5.3"
+}

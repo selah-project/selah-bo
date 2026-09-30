@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "དང་⟨את⟩ཨ་དོ་ར་ཡིམ་དང་⟨את⟩ལ་ཀི་ཤ་དང་⟨את⟩ཨ་ཛེ་ཀ་ཧ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་དོ་ར་ཡིམ"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "ཨ་དོ་ར་ཡིམ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ལ་ཀི་ཤ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ལ་ཀི་ཤ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ཛེ་ཀ་ཧ"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "ཨ་ཛེ་ཀ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:09:40.132945115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཏོ་ར་གཅིག་དང་ཁྲིམས་གཅིག་ཁྱེད་ལ་ཡང་ཁྱེད་དང་⟨את⟩ལྷན་དུ་གནས་པའི་གནས་སྡོད་<sojourner> མགྲོན་ལ་ཡང་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "ཏོ་ར"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་ལ"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "མགྲོན་ལ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "གནས་སྡོད་<sojourner>"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ཁྱེད་དང"
+    }
+  ],
+  "timestamp": "2026-09-30T08:28:57.985834363Z",
+  "model": "glm-5.3"
+}

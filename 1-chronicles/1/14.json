@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "དང་⟨את⟩ཡེ་བུ་སི་པ་དང་⟨את⟩ཨ་མོ་རི་པ་དང་⟨את⟩གིར་ག་ཤི་པ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཡེ་བུ་སི་པ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ཡེ་བུ་སི་པ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་མོ་རི་པ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ཨ་མོ་རི་པ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "གིར་ག་ཤི་པ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "གིར་ག་ཤི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:37.870513933Z",
+  "model": "glm-5.3"
+}

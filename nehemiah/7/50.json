@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "རེ་ཨ་ཡའི་བུ་ཚ་དག །རེ་ཙིན་གྱི་བུ་ཚ་དག །ནེ་ཀོ་དའི་བུ་ཚ་དག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "རེ་ཨ་ཡ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "གི་བུ་ཚ་དག"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "རེ་ཙིན"
+    },
+    {
+      "surface": "בני",
+      "gloss": "གྱི་བུ་ཚ་དག"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ནེ་ཀོ་ད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:36.498496775Z",
+  "model": "glm-5.3"
+}

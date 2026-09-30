@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཤེ་ཏས་⟨את⟩ཨེ་ནོ་ཤ་བཙས་པའི་རྗེས་ལ་ལོ་བརྒྱད་བརྒྱ་དང་བདུན་གསོན་ཞིང་། བུ་དང་བུ་མོ་དག་བཙས།",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "གསོན"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ཤེ་ཏ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "རྗེས་ལ"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "བཙས་པའི"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨེ་ནོ་ཤ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ཨེ་ནོ་ཤ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "བརྒྱད"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "བུ་མོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:24.445001705Z",
+  "model": "glm-5.3"
+}

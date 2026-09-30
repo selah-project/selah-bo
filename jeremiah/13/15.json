@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཉོན་དང་རྣ་བ་གཏོད་ལ། ང་རྒྱལ་མ་བྱེད། ཡ་ཧ་ཝེས་གསུངས་ཟིན་གྱི་ཕྱིར།།",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "རྣ་བ་གཏོད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ང་རྒྱལ་བྱེད"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གྱི་ཕྱིར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "གསུངས་ཟིན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:18.782679183Z",
+  "model": "glm-5.3"
+}

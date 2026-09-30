@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "བདེན་པ་ཉོས་ལ་མ་འཚོང་ཞིག ཤེས་རབ་དང་སྦྱོང་བརྡར་དང་བློ་གྲོས་ཀྱང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "བདེན་པ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ཉོས"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "འཚོངས"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ཤེས་རབ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "སྦྱོང་བརྡར"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "བློ་གྲོས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:59:17.122785729Z",
+  "model": "glm-5.3"
+}

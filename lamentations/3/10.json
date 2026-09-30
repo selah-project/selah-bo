@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ངན་སྦྱོར་བྱེད་པའི་དྲེད་མོང་ཞིག་ཁོང་ང་ལ་ཡིན། སེང་གེ་སྦས་ས་དག་ཏུ།",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "དྲེད་མོང"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ངན་སྦྱོར་བྱེད་པ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོང"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "སེང་གེ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "སྦས་ས་དག་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:00.332084290Z",
+  "model": "glm-5.3"
+}

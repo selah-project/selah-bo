@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "དང་⟨את⟩རེ་སེན་ནིན་ཝེ་དང་ཀེ་ལ་ཧའི་བར་དུ་ཡོད། དེ⟨ནི⟩གྲོང་ཁྱེར་ཆེན་པོ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "རེ་སེན"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "རེ་སེན"
+    },
+    {
+      "surface": "בין",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ནིན་ཝེ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "ཀེ་ལ་ཧ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "གྲོང་ཁྱེར"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ཆེན་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:06:56.702933673Z",
+  "model": "glm-5.3"
+}

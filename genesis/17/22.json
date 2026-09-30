@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཁོང་དང་གསུང་བ་རྫོགས་ནས། ཨེ་ལོ་ཧིམ་ཨབ་ར་ཧམ་ལས་ཡར་བྱོན།",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "རྫོགས"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ཁོང་"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ཡར་བྱོན"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ཨབ་ར་ཧམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:10:24.693723296Z",
+  "model": "glm-5.3"
+}

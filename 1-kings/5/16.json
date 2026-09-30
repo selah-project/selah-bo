@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཤ་ལོ་མོས་ཧི་རམ་ལ་<the>ཞེས་<the>བཏང་།",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "བཏང"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤ་ལོ་མོ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ཧི་རམ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:08:34.570408395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨོ་བེད་ཀྱིས་⟨את⟩ཡེ་ཧུ་བཙས། ཡེ་ཧུ་ཡིས་⟨את⟩ཨ་ཛ་ར་ཡ་བཙས།",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ཨོ་བེད་ཀྱིས་"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡེ་ཧུ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ཡེ་ཧུ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ཡེ་ཧུ་ཡིས་"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ཛ་ར་ཡ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ཨ་ཛ་ར་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:56.556606210Z",
+  "model": "glm-5.3"
+}

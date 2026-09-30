@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཡ་ཧ་ཝེ། ཁོང་ཚོའི་ལག་པའི་བྱ་བ་ལྟར་<藏族读者请注意>ཁོང་ཚོར་<藏族读者请注意>བྱ་དགའ་སློག།",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "སློག།"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ཁོང་ཚོར།"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "བྱ་དགའ།"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ།"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ལྟར།"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ལག་པའི།"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:03.950959023Z",
+  "model": "glm-5.3"
+}

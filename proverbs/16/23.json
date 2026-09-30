@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 16:23",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "མཁས་པའི་སྙིང་གིས་ཁ་ལ་རིག་པ་སྦྱིན་ཞིང་། མཆུ་ལ་བསླབ་བྱ་སྣོན།",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པ"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "རིག་ཏུ་བྱེད"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "མཆུ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "སྣོན"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "བསླབ་བྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:24.981871775Z",
+  "model": "glm-5.3"
+}

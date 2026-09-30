@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཧ་ཊུ་ཤ། ཤེ་བ་ན་ཡ་ཧ། མ་ལུ་ཁ།",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "ཧ་ཊུ་ཤ"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ཤེ་བ་ན་ཡ་ཧ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "མ་ལུ་ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:57.238958002Z",
+  "model": "glm-5.3"
+}

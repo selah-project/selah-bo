@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "རྩྭ་སྐམ་ཞིང་མེ་ཏོག་ཉམས་ཀྱང་རང་རེའི་ཨེ་ལོ་ཧིམ་གྱི་ཚིག་ནི་ནམ་ཡང་གནས་སོ།",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "སྐམ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "རྩྭ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ཉམས"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "མེ་ཏོག"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ལ་…ཚིག"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ནམ་ཡང"
+    }
+  ],
+  "timestamp": "2026-09-30T10:51:52.017169902Z",
+  "model": "glm-5.3"
+}

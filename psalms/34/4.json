@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "ཡ་ཧ་ཝེ་⟨את⟩ ངའི་དང་ལྷན་དུ་ཆེན་པོར་སྒོམས། ང་ཚོས་ཁའི་མིང་ལྷན་དུ་མཐོར་བཀྱེད།",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "ཆེན་པོར་སྒོམས"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ངའི་དང་ལྷན་དུ",
+      "marks": "with me — H854 nearness, not the DOM"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "མཐོར་བཀྱེད"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ཁའི་མིང"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ལྷན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:56:34.857583580Z",
+  "model": "glm-5.3"
+}

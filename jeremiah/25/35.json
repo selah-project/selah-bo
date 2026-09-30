@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "རྫི་བོ་ལས་བྲོས་ས་འཇིག་ལུག་གི་དཔོན་ལས་ཐར་བ་འཇིག",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "དང་འཇིག་གོ"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "བྲོས་ས"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "རྫི་བོ་དག"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "དང་ཐར་བ"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "དཔོན་ལས"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ལུག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:13:31.862619885Z",
+  "model": "glm-5.3"
+}

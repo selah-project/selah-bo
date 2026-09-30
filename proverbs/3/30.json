@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "རྒྱུ་མེད་པར་མི་དང་རྩོད་པ་མ་བྱེད། གལ་ཏེ་ཁོས་ཁྱོད་ལ་ངན་པ་མ་བྱས་ན།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "རྩོད་པ་བྱེད"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མི"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "རྒྱུ་མེད་པར"
+    },
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ཁྱོད་ལ་བྱས"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ངན་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:59.919734366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡོ་ཨེ་ལ་ཧ་དང་། ཛེ་བ་ད་ཡ་ཧ་ ཡེ་རོ་ཧམ་གྱི་བུ་རྣམས། གེ་དོར་ནས།",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "ཡོ་ཨེ་ལ་ཧ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ཛེ་བ་ད་ཡ་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ཡེ་རོ་ཧམ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "གེ་དོར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:57:43.369255825Z",
+  "model": "glm-5.3"
+}

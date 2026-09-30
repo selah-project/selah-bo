@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཡ་ཧ་ཝེ་ཡིས་ཨ་ཧ་རོན་ལ་སྨྲས་པ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "སྨྲས་པ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ་ཡིས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ཨ་ཧ་རོན"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་ཅེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:03:02.330037694Z",
+  "model": "glm-5.3"
+}

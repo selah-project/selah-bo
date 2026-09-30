@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 43:6",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 43,
+  "translation": "ངས་ཁང་པ་ནས་ང་ལ་སྨྲ་བ་པོ་ཞིག་ཐོས། མི་ཞིག་ངའི་གམ་དུ་ལངས་ཏེ་⟨ཡོད⟩།",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "ཐོས"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "སྨྲ་བ་པོ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ཁང་པ་ནས"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "མི"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ཡོད⟩"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ལངས"
+    },
+    {
+      "surface": "אצלי",
+      "gloss": "ངའི་གམ་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:53:23.549245512Z",
+  "model": "glm-5.3"
+}

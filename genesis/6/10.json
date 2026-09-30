@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ནོ་ཨ་ཁས་བུ་གསུམ་བཙས་ཏེ། ⟨את⟩ཤེམ་དང་⟨את⟩ཁམ་དང་⟨את⟩ཡ་ཕེཏའོ།",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཤེམ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ཤེམ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཁམ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ཁམ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཕེཏ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ཡ་ཕེཏ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:09.694521078Z",
+  "model": "glm-5.3"
+}

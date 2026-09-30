@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཆུ་བོ་ཐམས་ཅད་རྒྱ་མཚོར་འབབ་ཀྱང་རྒྱ་མཚོ་གང་མི་འགྲོ། ཆུ་བོ་འབབ་སར་དེར་ཁོང་ཚོ་སླར་འབབ་པའི་ཕྱིར་ལོག་གོ །",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "ཆུ་བོ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "འབབ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "རུ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "རྒྱ་མཚ"
+    },
+    {
+      "surface": "והים",
+      "gloss": "རྒྱ་མཚོ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "ཆུ་བོ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "འབབ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ཁོང་ཚོ"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "འབབ་པའི་ཕྱིར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:47.919339864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཧེ་ལེ་ཙ་པལ་དི་པ། ཨི་ར་ཨི་ཀེ་ཤའི་བུ་ཐེ་ཀོ་ཨི་པ།",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "ཧེ་ལེ་ཙ"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "པལ་དི་པ"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ཨི་ར"
+    },
+    {
+      "surface": "בן",
+      "gloss": "...གི་བུ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ཨི་ཀེ་ཤ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ཐེ་ཀོ་ཨི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:03:13.343835879Z",
+  "model": "glm-5.3"
+}

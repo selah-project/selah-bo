@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ནེ་ཨར་ཡ་ཧའི་བུ་<PLACE>ཨེ་ལ་ཡོ་ཨེ་ན་ཡི<PLACE>དང་ཧི་ཛ་ཀི་ཡ་ཧ<PLACE>དང་ཨ་ཛ་རི་ཀམ་<PLACE>གསུམ",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "དང་...གི་བུ"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "ནེ་ཨར་ཡ་ཧ"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "ཨེ་ལ་ཡོ་ཨེ་ན་ཡི"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "དང་ཧི་ཛ་ཀི་ཡ་ཧ"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "དང་ཨ་ཛ་རི་ཀམ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "གསུམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:51.415176468Z",
+  "model": "glm-5.3"
+}

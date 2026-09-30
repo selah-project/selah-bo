@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཁོས་ཡ་ཧ་ཝེའི་སྤྱན་སྔར་ངན་པ་བྱས། ཁོའི་ཕས་བྱས་པ་ཇི་བཞིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "སྤྱན་སྔར"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ཇི་བཞིན་ཐམས་ཅད"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ཁོའི་ཕ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:35:43.219931997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 113,
+  "translation": "ཉི་མ་ཤར་བ་ནས་ནུབ་པའི་བར་དུ། ཡ་ཧ་ཝེའི་མཚན་བསྔགས།",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "ཤར་ཕྱོགས་ནས"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ཉི་མ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ནས་...བར་དུ"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ནུབ་པ"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "བསྔགས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མཚན"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:44:02.579911763Z",
+  "model": "glm-5.3"
+}

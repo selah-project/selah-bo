@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "མཐོ་བའི་རི་བོ་ཐམས་ཅད་ལ་ཡང་། བཀྱེད་པའི་ས་འབུར་ཐམས་ཅད་ལ་ཡང་།",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "རི་བོ"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "མཐོ་བ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ས་འབུར"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "བཀྱེད་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:36:07.790802488Z",
+  "model": "glm-5.3"
+}

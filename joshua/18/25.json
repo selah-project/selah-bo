@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "གི་བོན་དང་ར་མ་དང་བེ་རོཐ།",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "གི་བོན"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "དང་ར་མ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "དང་བེ་རོཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:05.830018192Z",
+  "model": "glm-5.3"
+}

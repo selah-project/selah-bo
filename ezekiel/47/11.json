@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 47:11",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 47,
+  "translation": "དེའི་འདམ་རྫབ་དང་འདམ་ས་རྣམས་གསོ་བར་མི་འགྱུར་ཏེ་ལན་ཚྭ་ལ་སྦྱིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "בצאתו",
+      "gloss": "འདམ་རྫབ"
+    },
+    {
+      "surface": "וגבאיו",
+      "gloss": "འདམ་ས"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ירפאו",
+      "gloss": "གསོ"
+    },
+    {
+      "surface": "למלח",
+      "gloss": "ལན་ཚྭ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "སྦྱིན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:55:22.714661024Z",
+  "model": "glm-5.3"
+}

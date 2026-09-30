@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ཧ་ཙར་ཤུ་ཨལ་དང་བ་ལ་དང་ཨ་ཙེམ།",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ཧ་ཙར"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ཤུ་ཨལ"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "དང་བ་ལ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "དང་ཨ་ཙེམ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:29.125229233Z",
+  "model": "glm-5.3"
+}

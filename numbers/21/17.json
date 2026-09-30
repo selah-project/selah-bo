@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "དེ་ནས་ཡི་སི་ར་ཨེལ་གྱིས་⟨את⟩གླུ་འདི་བླངས་སྟེ། ཁྲོན་པ་ཡར་ལ་ཆེད་དུ་གླུ་ལོངས།",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "དེ་ནས"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "བླངས"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གླུ་འདི"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "གླུ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ཡར་ལ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ཁྲོན་པ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ལོངས"
+    },
+    {
+      "surface": "לה",
+      "gloss": "དེ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:32:01.106922184Z",
+  "model": "glm-5.3"
+}

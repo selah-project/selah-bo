@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "དང་ཙ་ནོ་ཨ་ཁ་དང་ཨེན་གནིམ་དང་ཏབ་པུ་ཨ་ཁ་དང་ཨེ་ནམ།",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "དང་ཙ་ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "དང་ཨེན"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "གནིམ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ཏབ་པུ་ཨ་ཁ"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "དང་ཨེ་ནམ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:27.676323406Z",
+  "model": "glm-5.3"
+}

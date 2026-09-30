@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཡི་ཤ་ས་ཁ་ར་ལ། ནེ་ཐན་ཨེལ་ཙུ་ཨ་ར་གི་བུ།",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "ཡི་ཤ་ས་ཁ་ར་ལ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ནེ་ཐན་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ཙུ་ཨ་ར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:15:40.550311109Z",
+  "model": "glm-5.3"
+}

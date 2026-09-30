@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ར་ཨུ་ཨེལ་གྱི་བུ་རྣམས་ནི། ན་ཧ་ཋ་ ཛ་ར་ཧ་ ཤ་མ་ཧ་ དང་ མི་ཛ་ཧ་བཅས་ཡིན།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ར་ཨུ་ཨེལ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ན་ཧ་ཋ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ཛ་ར་ཧ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ཤ་མ་ཧ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "དང་ མི་ཛ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:19.606103376Z",
+  "model": "glm-5.3"
+}

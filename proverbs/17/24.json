@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ཤེས་ལྡན་གྱི་⟨את⟩ མདུན་དུ་བློ་གྲོས་ཡོད་ལ་ ཀླེན་པོའི་མིག་ནི་ས་གཞིའི་མཐའ་ན་ཡོད།",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མདུན"
+    },
+    {
+      "surface": "פני",
+      "gloss": "མདུན"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ཤེས་ལྡན"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "བློ་གྲོས"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ཀླེན་པོ"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "མཐའ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:32.411331730Z",
+  "model": "glm-5.3"
+}

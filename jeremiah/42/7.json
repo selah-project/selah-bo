@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 42,
+  "translation": "ཉིན་བཅུའི་མཐར་བྱུང། ཡ་ཧ་ཝེ་ཡི་ཚིག་ཡི་རེ་མི་ཡ་ཧུ་ལ་བྱུང།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "མཐར"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ཡི་རེ་མི་ཡ་ཧུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:25:35.420228940Z",
+  "model": "glm-5.3"
+}

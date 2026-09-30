@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 41,
+  "translation": "ས་གཞིས་ལོ་ལེགས་ཀྱི་ལོ་བདུན་གྱི་ནང་དུ་ཁུ་གང་རེའི་ཚད་དུ་བསྐྱེད།",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "བསྐྱེད"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞིས"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ལོ་ལེགས"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "ཁུ་གང་རེ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:26:52.084967164Z",
+  "model": "glm-5.3"
+}

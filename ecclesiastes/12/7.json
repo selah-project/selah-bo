@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "དང་ས་རྡུལ་སྔར་བཞིན་ས་གཞིར་ལོག་ཅིང་། རུ་ཨ་ཁ་དེ་སྤྲད་མཁན་ཨེ་ལོ་ཧིམ་ལ་ལོག་གོ །",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ས་རྡུལ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "སྔར་བཞིན"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "རུ་ཨ་ཁ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ལོག"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "སྤྲད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:29:26.674803243Z",
+  "model": "glm-5.3"
+}

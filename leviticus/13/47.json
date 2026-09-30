@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ནོག་པོའི་བལ་གྱི་གོས་སམ་་་ཐག་པའི་གོས་ལའོ།",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "ན་གོས"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡོད་ན"
+    },
+    {
+      "surface": "בו",
+      "gloss": "དེའི་ནང་དུ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ནེ་ག"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ཙ་ར་ཨ་ཏ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "གོས་ན"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "བལ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ཡང་ན"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "གོས་ན"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "ཐག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:04:35.418619409Z",
+  "model": "glm-5.3"
+}

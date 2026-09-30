@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཨ་ཐའི་ཡིས་⟨את⟩ན་ཐན་བཙས། ན་ཐན་གྱིས་⟨את⟩ཛ་བད་བཙས་སོ།",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "་ཨ་ཐའི་ཡིས"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ན་ཐན"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ན་ཐན"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "་དང་ན་ཐན་གྱིས"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཛ་བད"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ཛ་བད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:10.802988597Z",
+  "model": "glm-5.3"
+}

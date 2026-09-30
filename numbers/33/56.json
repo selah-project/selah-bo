@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "དེ་ལྟར་ན་ངས་དེ་དག་ལ་བྱེད་པར་བསམས་པ་ལྟར་ཁྱེད་ཚོ་ལ་བྱེད་པར་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "འགྱུར"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ལྟར"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "བསམས་པ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "བྱེད་པར"
+    },
+    {
+      "surface": "להם",
+      "gloss": "དེ་དག་ལ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "བྱེད"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ཁྱེད་ཚོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:41:19.224927550Z",
+  "model": "glm-5.3"
+}

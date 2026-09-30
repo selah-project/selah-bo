@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 112,
+  "translation": "རང་གི་སེམས་⟨is⟩བརྟན་པས་མི་དགོས། མཐར་རང་གི་དགྲ་བོ་དག་⟨upon them⟩མཐོང་གི་བར་དུའོ།",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "བརྟན"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "རང་གི་སེམས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "དགོས"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "རང་གི་དགྲ་བོ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:44:32.146213360Z",
+  "model": "glm-5.3"
+}

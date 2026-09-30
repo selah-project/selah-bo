@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "གལ་ཏེ་ཁྱོད་ཀྱི་དབུས་སུ་ན་བི་ཞིག་ལངས་སམ་རྨི་ལམ་རྨི་མཁན་ཞིག་གིས་ཁྱོད་ལ་རྟགས་སམ་མཚན་མ་ཞིག་སྟོན་ན།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ལངས"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "དབུས་སུ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ན་བི"
+    },
+    {
+      "surface": "או",
+      "gloss": "འམ"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "རྨི་མཁན"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "རྨི་ལམ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "སྟོན"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ཁྱོད་ལ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "རྟགས"
+    },
+    {
+      "surface": "או",
+      "gloss": "འམ"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "མཚན་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:51:18.580045381Z",
+  "model": "glm-5.3"
+}

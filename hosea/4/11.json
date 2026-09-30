@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "འཆལ་སྤྱོད་དང་ཆང་དང་ཆང་གསར་གྱིས་སེམས་ཕྲོག་གོ།",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "འཆལ་སྤྱོད"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ཆང"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ཆང་གསར"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ཕྲོག"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སེམས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:56:38.680580962Z",
+  "model": "glm-5.3"
+}

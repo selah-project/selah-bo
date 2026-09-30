@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ནུབ་ཕྱོགས་སུ་ཡོལ་བ་ལྔ་བཅུ་ཨ་མ། ཀ་བ་བཅུ་དང་རྨང་གཞི་བཅུ། ཀ་བའི་ལྕགས་ཀྱུ་དང་དཀྲི་ཐག་ནི་དངུལ།",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "ཕྱོགས་སུ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ནུབ"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "ཡོལ་བ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ཨ་མ"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "ཀ་བ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "རྨང་གཞི"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "ואדניהם_placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "ואדניהם_placeholder2",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-30T07:53:48.291724156Z",
+  "model": "glm-5.3"
+}

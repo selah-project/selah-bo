@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "གལ་ཏེ་མི་ཞིག་གིས་མིའི་ནེ་ཕེ་ཤ་གང་ལ་ཡང་རྡུང་ན། ཁ་ཤི་བ་གཏོང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "གལ་ཏེ་མི་ཞིག་གིས་"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "རྡུང་ན"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང་ལ་ཡང་"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ཤི་བ་"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ཁ་ཤི་བ་གཏོང་ངོ་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:12:55.613651904Z",
+  "model": "glm-5.3"
+}

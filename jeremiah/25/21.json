@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "དང་⟨את⟩ཨེ་དོམ་དང་⟨את⟩མོ་ཨབ་དང་⟨את⟩ཨ་མོན་གྱི་བུ་རྣམས།",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨེ་དོམ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ཨེ་དོམ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "དང་⟨את⟩",
+      "marks": "མོ་ཨབ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "མོ་ཨབ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "དང་⟨את⟩",
+      "marks": "ཨ་མོན་གྱི་བུ་རྣམས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ཨ་མོན"
+    }
+  ],
+  "timestamp": "2026-09-30T11:13:02.082381511Z",
+  "model": "glm-5.3"
+}

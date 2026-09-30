@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཧམ་གྱི་བུ་རྣམས་ནི། ཀུ་ཤ་དང་། མི་ཙ་རིམ་དང་། པུ་ཏ་དང་། ཀ་ན་ན་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "དང་བུ་རྣམས"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ཧམ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ཀུ་ཤ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "དང་མི་ཙ་རིམ"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "དང་པུ་ཏ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "དང་ཀ་ན་ན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:25.255406836Z",
+  "model": "glm-5.3"
+}

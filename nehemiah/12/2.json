@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཨ་མ་ར་ཡ་ཧ། མ་ལུ་ཁ། ཧ་ཏུ་ཤ།",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "ཨ་མ་ར་ཡ་ཧ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "མ་ལུ་ཁ"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "ཧ་ཏུ་ཤ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:51:02.384676646Z",
+  "model": "glm-5.3"
+}

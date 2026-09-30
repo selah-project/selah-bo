@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་དིན་གྱི་བུ་ཚ་དྲུག་བརྒྱ་དང་ལྔ་བཅུ་དང་ལྔ་ཏེ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ཨ་དིན"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "དང་ལྔ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:38.146978106Z",
+  "model": "glm-5.3"
+}

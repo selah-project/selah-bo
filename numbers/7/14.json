@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "གསེར་གྱི་ལག་སྣོད་གཅིག་སྟེ་ཤེ་ཀེལ་བཅུ་བ། བདུག་སྤོས་ཀྱིས་གང་བའོ།",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ལག་སྣོད"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "གང་བ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "བདུག་སྤོས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:20:33.579444738Z",
+  "model": "glm-5.3"
+}

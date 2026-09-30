@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "གྲོང་ནང་འཇིག་པ་ལུས། ཉམས་ཆག་གིས་སྒོ་བཅག",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "ལུས་"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "གྲོང་ནང་"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "འཇིག་པ་"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "ཉམས་ཆག་གིས"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "བཅག"
+    },
+    {
+      "surface": "שער",
+      "gloss": "སྒོ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:45:42.559824062Z",
+  "model": "glm-5.3"
+}

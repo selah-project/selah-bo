@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཚིག་ཐམས་ཅད་ངལ་བ་ཡིན། མིས་བརྗོད་མི་ནུས། མཐོང་བས་མིག་ཚིམ་མི་འགྱུར་ལ་ཐོས་པས་རྣ་བ་གང་མི་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ངལ་བ་ཡིན"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ནུས"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མིས"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "བརྗོད"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "ཚིམ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "མཐོང་བས"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "གང"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "རྣ་བ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ཐོས་པས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:47.919538020Z",
+  "model": "glm-5.3"
+}

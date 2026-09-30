@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཨ་ད་ཀྱིས་⟨את⟩ཡ་བལ་བཙས། ཁོ⟨is⟩སྦྲ་ནང་གནས་མཁན་དང་ཕྱུགས་འཛིན་མཁན་གྱི་ཕ་གྱུར།",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ཨ་ད་ཀྱིས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་བལ"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "ཡ་བལ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ཁོ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "གྱུར"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "གནས་མཁན"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "སྦྲ"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ཕྱུགས་འཛིན་མཁན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:13.706417202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཁོས་བུད་མེད་ལང་ཚོ་སོ་མ་ཞིག་བག་མར་ལེན་པར་བྱ།",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ཁོས་"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "ལང་ཚོ་སོ་མའི་དུས་སུ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ལེན་པར་བྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:10:17.403379808Z",
+  "model": "glm-5.3"
+}

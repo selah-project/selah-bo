@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "ཅེས་ ཙོ་ཨན་དུ་དཔོན་རྣམས་གནས་ ཧ་ནེས་ལ་ཕོ་ཉ་རྣམས་འབྱོར་⟨་⟩།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཅེས་"
+    },
+    {
+      "surface": "היו",
+      "gloss": "གནས་"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "ཙོ་ཨན་དུ"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "དཔོན་རྣམས"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ཕོ་ཉ་རྣམས"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "ཧ་ནེས་"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "འབྱོར་"
+    }
+  ],
+  "timestamp": "2026-09-30T10:48:46.050078745Z",
+  "model": "glm-5.3"
+}

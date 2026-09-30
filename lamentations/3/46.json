@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ང་ཚོའི་དགྲ་བོ་ཀུན་གྱིས་ང་ཚོའི་སྟེང་དུ་རང་རང་གི་ཁ་གདངས།",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "གདངས"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ང་ཚོའི་སྟེང་དུ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ང་ཚོའི་དགྲ་བོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:07.017238750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "མོ་ཙས་⟨את⟩བི་ནེ་ཨ་བསྐྲུན། ར་ཕ ⟨is⟩ཁོའི་བུ། ཨེལ་ཨ་ཤ་ཁོའི་བུ། ཨ་ཙེལ་ཁོའི་བུ།",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "མོ་ཙས་"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "བསྐྲུན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བི་ནེ་ཨ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "བི་ནེ་ཨ"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ར་ཕ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ཨེལ་ཨ་ཤ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ཨ་ཙེལ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ཁོའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:38.322469229Z",
+  "model": "glm-5.3"
+}

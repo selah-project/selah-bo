@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཀ་ལྟོས་མང་པོ་ལས་རྨི་ལམ་འབྱུང་ལ། ཚིག་མང་པོ་ལས་བླུན་པོའི་སྒྲ་འབྱུང་།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཞེས་པ་ནི་"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འབྱུང་"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "རྨི་ལམ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "མང་པོ་ལས་"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ཀ་ལྟོས"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "སྒྲ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "མང་པོ་ལས་"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ཚིག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:24:15.365273807Z",
+  "model": "glm-5.3"
+}

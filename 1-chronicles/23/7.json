@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "གེར་ཤོན་ པ་ རྣམས་ ལ་ ལ་ཨ་དན་ དང་ ཤི་མི་ ⟨ཡིན་ནོ⟩།",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "གེར་ཤོན་པ་ལ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ལ་ཨ་དན"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "དང་ཤི་མི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:02:40.293884321Z",
+  "model": "glm-5.3"
+}

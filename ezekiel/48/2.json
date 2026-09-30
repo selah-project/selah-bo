@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "དན་གྱི་མཐའ་མཚམས་ལ་ཤར་གྱི་ཕྱོགས་ནས་ནུབ་ཀྱི་ཕྱོགས་ཁ་བར་དུ་ཨ་ཤེར་ལ་གཅིག་གོ།",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "མཐའ་མཚམས"
+    },
+    {
+      "surface": "דן",
+      "gloss": "དན"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ཕྱོགས་ནས"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ཤར་གྱི"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ཁ་བར་དུ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ཕྱོགས"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ནུབ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ཨ་ཤེར"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:55:22.984145769Z",
+  "model": "glm-5.3"
+}

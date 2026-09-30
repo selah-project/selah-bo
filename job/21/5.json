@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ངའི་ཕྱོགས་ལ་གཏད་ལ་ཧ་ལས་ཤིག ཁ་ལ་ལག་པ་འཇོག་ཅིག།",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "ཕྱོགས་ལ་གཏད"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངའི་"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "ཧ་ལས"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "འཇོག"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ཁ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:09:06.953398516Z",
+  "model": "glm-5.3"
+}

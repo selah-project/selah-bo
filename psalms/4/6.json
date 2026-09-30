@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ཙེ་དེག་གི་མཆོད་པ་ཕུལ་ལ་ཡ་ཧ་ཝེ་ལ་ཡིད་ཆེས་བྱོས།",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "མཆོད་པ་ཕུལ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "མཆོད་པ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "དང་ཡིད་ཆེས་བྱོས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:19:46.810811423Z",
+  "model": "glm-5.3"
+}

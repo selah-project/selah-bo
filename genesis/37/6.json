@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 37,
+  "translation": "དེས་ཁོ་ཚོ་ལ་སྨྲས་པ། ཀྱེ་ཉོན་དང་⟨the⟩རྨི་ལམ་འདི་གང་ངས་རྨིས་པ།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "སྨྲས"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ཁོ་ཚོ་ལ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ཉོན"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ཀྱེ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "རྨི་ལམ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ངས་རྨིས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:22:26.660698142Z",
+  "model": "glm-5.3"
+}

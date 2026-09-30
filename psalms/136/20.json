@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 136,
+  "translation": "དང་བ་ཤན་གྱི་རྒྱལ་པོ་ཨོག་ལ། ཁོང་གི་ཧེ་སེད་གཏན་དུ་གནས།",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "དང་ཨོག་ལ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "བ་ཤན་"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གང་ཕྱིར"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "གཏན་དུ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ཧེ་སེད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:49:01.235125575Z",
+  "model": "glm-5.3"
+}

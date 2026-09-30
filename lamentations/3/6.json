@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "མུན་ནག་ཏུ་ང་བཞག འདས་པའི་ཡུན་རིང་གི་ཤི་བོ་རྣམས་བཞིན་དུ།",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "མུན་ནག་ཏུ"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ང་བཞག"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ཤི་བོ་རྣམས་བཞིན"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "འདས་པའི་ཡུན་རིང"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:49.867302467Z",
+  "model": "glm-5.3"
+}

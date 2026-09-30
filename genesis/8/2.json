@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཏེ་ཧོམ་གྱི་ཆུ་མགོ་རྣམས་དང་ནམ་མཁའི་སྒོ་རྣམས་བཀག་ཅིང་། ནམ་མཁའ་ལས་ཆར་ཆད།",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "བཀག"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "ཆུ་མགོ་རྣམས"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ཏེ་ཧོམ"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "སྒོ་རྣམས"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ནམ་མཁའི"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "ཆད"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ཆར"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ནམ་མཁའ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:07:02.879965863Z",
+  "model": "glm-5.3"
+}

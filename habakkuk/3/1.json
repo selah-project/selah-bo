@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ན་བི་ཧ་བ་ཀུ་ཀུག་གི་གསོལ་བ། ཤི་ག་ཡོ་ནོ་ཐའི་སྟེང་དུ།",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "གསོལ་བ"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ཧ་བ་ཀུ་ཀུག་གི"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ན་བི"
+    },
+    {
+      "surface": "על",
+      "gloss": "སྟེང་དུ"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "ཤི་ག་ཡོ་ནོ་ཐའི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:12:08.080626489Z",
+  "model": "glm-5.3"
+}

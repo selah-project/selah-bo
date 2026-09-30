@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཀོ་ཕེར་གྱི་ཕུང་མ་⟨is⟩བདག་གི་མཛའ་བོ་བདག་ལ། ཨེན་གེ་དིའི་ལྡུམ་ར་རྣམས་སུའོ།",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "ཕུང་མ"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ཀོ་ཕེར"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "བདག་གི་མཛའ་བོ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "བདག་ལ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ལྡུམ་ར་རྣམས་སུ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ཨེན"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "གེ་དི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:16:49.557066546Z",
+  "model": "glm-5.3"
+}

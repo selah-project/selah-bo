@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 8:18",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཡ་ཧ་ཝེ་ཙེ་བ་ཨོད་ཀྱི་ཚིག་བདག་ལ་བྱུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ཙེ་བ་ཨོད"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "བདག་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:16:28.945685088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཁོང་ཚོས་⟨את⟩བ་གླང་བཤས་ནས་⟨את⟩བྱིས་པ་ཨེ་ལིའི་དྲུང་དུ་ཁྲིད་དོ།",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "བཤས་ནས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བ་གླང"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "བ་གླང"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ཁྲིད་དོ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བྱིས་པ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "བྱིས་པ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དྲུང་དུ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ཨེ་ལི"
+    }
+  ],
+  "timestamp": "2026-09-30T09:31:22.835386651Z",
+  "model": "glm-5.3"
+}

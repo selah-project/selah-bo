@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་ན་ཐོ་ཐ་ཡི་མི་དག་བརྒྱ་དང་ཉི་ཤུ་བརྒྱད།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་དག"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ཨ་ན་ཐོ་ཐ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "བརྒྱད"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:41.683254434Z",
+  "model": "glm-5.3"
+}

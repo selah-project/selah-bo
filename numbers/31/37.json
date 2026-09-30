@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 31,
+  "translation": "ལུག་རྣམས་ལས་ཡ་ཧ་ཝེའི་ཁྲལ་ནི་དྲུག་བརྒྱ་དང་བདུན་ཅུ་རྩ་ལྔ་⟨བྱུང་⟩།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨བྱུང་⟩"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "ཁྲལ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ལུག"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "དང་བདུན་ཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:38:31.143665598Z",
+  "model": "glm-5.3"
+}

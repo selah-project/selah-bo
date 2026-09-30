@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཧལ་ཧུལ། བེ་ཏ་ཙུར། གེ་དོར། །",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ཧལ་ཧུལ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེ་ཏ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ཙུར"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "གེ་དོར"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:17.176116315Z",
+  "model": "glm-5.3"
+}

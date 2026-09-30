@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ངོ་མ་བདག་ཁོ་ནའི་ཕྱོགས་སུ་ཁོ་ཕྱིར་ལོག་སྟེ། ཉིན་ཧྲིལ་པོར་ཁོས་ལག་པ་བསྒྱུར།",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ངོ་མ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "བདག་ཁོ་ནའི་ཕྱོགས་སུ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ཕྱིར་ལོག"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ལག་པ་བསྒྱུར"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ཁོའི་ལག་པ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཉིན་ཧྲིལ་པོར"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ཉིན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:11.792826425Z",
+  "model": "glm-5.3"
+}

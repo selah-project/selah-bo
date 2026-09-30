@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "དང་པ་ལུའི་བུ་ཚ་ནི་ཨེ་ལི་ཨབ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "དང་...བུ་ཚ"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "པ་ལུ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ཨེ་ལི་ཨབ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:34:17.291136547Z",
+  "model": "glm-5.3"
+}

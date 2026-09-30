@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "དེ་བས་ངའི་སྙིང་དགའ་ཞིང་ངའི་གཟི་བརྗིད་སྤྲོ་ལ། ངའི་ཤ་ཡང་བདེ་བར་གནས།",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "དེ་བས"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "དགའ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ངའི་སྙིང"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "སྤྲོ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ངའི་གཟི་བརྗིད"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ངའི་ཤ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "ལבטח",
+      "gloss": "བདེ་བར"
+    }
+  ],
+  "timestamp": "2026-09-30T12:21:23.274686115Z",
+  "model": "glm-5.3"
+}

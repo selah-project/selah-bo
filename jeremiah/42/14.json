@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 42:14",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 42,
+  "translation": "ཞེས་མ་ཡིན་ཏེ་ང་ཚོ་དམག་མི་མཐོང་བ་དང་དུང་གི་སྒྲ་མི་ཐོས་པ་དང་བག་ལེབ་ལ་མི་ལྟོགས་པའི་མི་ཙ་ר་ཡིམ་གྱི་སར་འགྲོ་སྟེ་དེར་སྡོད་ཅེས།",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ་ཡིན"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཏེ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ས"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "མི་ཙ་ར་ཡིམ"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "དམག"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "སྒྲ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "དུང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ཐོས"
+    },
+    {
+      "surface": "וללחם",
+      "gloss": "བག་ལེབ་ལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "נרעב",
+      "gloss": "ལྟོགས"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "དེར"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "སྡོད"
+    }
+  ],
+  "timestamp": "2026-09-30T11:26:10.544170944Z",
+  "model": "glm-5.3"
+}

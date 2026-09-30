@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཨ་མམ་དང་ཤེ་མ་དང་མོ་ལ་ད།",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "ཨ་མམ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "དང་ཤེ་མ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "དང་མོ་ལ་ད"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:16.482085162Z",
+  "model": "glm-5.3"
+}

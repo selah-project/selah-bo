@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "གནའ་བོའི་མཐའ་མཚམས་མ་སྤོ། དྭ་ལོ་དག་གི་ཞིང་དུ་མ་འཛུལ།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "སྤོ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "མཐའ་མཚམས"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "གནའ་བོའི"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "དང་…ཞིང་དུ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "དྭ་ལོ་དག་གི"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "འཛུལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:59:43.068278004Z",
+  "model": "glm-5.3"
+}

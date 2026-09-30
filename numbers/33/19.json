@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཁོང་རི་ཐ་མ་ཧ་ནས་འགྲོ་ཞིང་རི་མོན་ཕེ་རེས་སུ་འཛུགས།",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "འགྲོ་ཞིང་"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "རི་ཐ་མ་ཧ་ནས"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "འཛུགས"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "རི་མོན"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ཕེ་རེས་སུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:39.645171246Z",
+  "model": "glm-5.3"
+}

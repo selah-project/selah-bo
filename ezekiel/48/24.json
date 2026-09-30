@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "བིན་ཡ་མིན་གྱི་མཐའ་མཚམས་ལ། ཤར་ཕྱོགས་ནས་ནུབ་ཕྱོགས་བར། ཤི་མེ་ཨོན་གཅིག",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "མཐའ་མཚམས"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "བིན་ཡ་མིན"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ཕྱོགས་ནས"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ཤར"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ཕྱོགས"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ནུབ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ཤི་མེ་ཨོན"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:56:02.832810176Z",
+  "model": "glm-5.3"
+}

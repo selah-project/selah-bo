@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "རྩངས་པ་ལག་པས་འཛིན་ནུས་ཀྱང་དེ་རྒྱལ་པོའི་ཕོ་བྲང་ནང་དུ་གནས།",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "རྩངས་པ"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "ལག་པས"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "འཛིན་ནུས"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "ཕོ་བྲང་ནང་དུ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོའི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:04.150834168Z",
+  "model": "glm-5.3"
+}

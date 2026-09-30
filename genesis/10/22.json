@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཤེམ་གྱི་སྲས་རྣམས་ནི་ཨེ་ལམ་དང་ཨ་ཤུར་དང་ཨར་པ་ཀ་ཤད་དང་ལུད་དང་ཨ་རམ་མོ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "སྲས་རྣམས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ཤེམ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ཨེ་ལམ"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ཨ་ཤུར"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ཨར་པ་ཀ་ཤད"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ལུད"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ཨ་རམ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:06:48.401232886Z",
+  "model": "glm-5.3"
+}

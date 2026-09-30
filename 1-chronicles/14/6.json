@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་ནོ་ག་དང་ནེ་ཕེག་དང་ཡ་ཕི་ཡ།",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ནོ་ག"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ནེ་ཕེག"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ཡ་ཕི་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:58:34.809213514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་⟨את⟩ཡ་ཨ་ནའི་བུ་མོ། དང་⟨את⟩ཧ་ཐ་མ་ས། དང་⟨את⟩ཤ་ཧ་ཕ། དང་⟨את⟩ནེ་ཚ་རང་རིགས་ལ།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཨ་ནའི་བུ་མོ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ཡ་ཨ་ན"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཧ་ཐ་མ་ས"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ཧ་ཐ་མ་ས"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཤ་ཧ་ཕ"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ཤ་ཧ་ཕ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ནེ་ཚ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ནེ་ཚ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "རང་རིགས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:30.689937253Z",
+  "model": "glm-5.3"
+}

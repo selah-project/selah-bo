@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཧ་རོ་རིའི་ཤམོ་ཐ་དང་། པ་ལོ་ནིའི་ཧེ་ལེད་དོ།",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ཤམོ་ཐ"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ཧ་རོ་རི"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ཧེ་ལེད"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "པ་ལོ་ནི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:50.226175525Z",
+  "model": "glm-5.3"
+}

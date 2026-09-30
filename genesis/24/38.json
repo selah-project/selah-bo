@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "དེ་ལྟར་མིན་པར་ཁྱོད་ངའི་ཕའི་ཁྱིམ་དུ་དང་ངའི་ཚང་ relatives ལ་འགྲོ་ཞིང་ངའི་བུ་ལ་བུད་མེད་ཅིག་ལོང་།",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "དེ་ལྟར་མིན་པར"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁྱིམ་"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ངའི་ཕའི་"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "འགྲོ་ཞིང་"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "དང་...ལ"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "ངའི་ཚང་"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ལོང་"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "བུད་མེད"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ངའི་བུ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:14:19.253831054Z",
+  "model": "glm-5.3"
+}

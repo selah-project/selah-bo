@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "གདུག་རྩུབ་འབར་བ་སྟོབས་ལྡན་ལ་འཁྱུག གདུག་རྩུབ་བཙན་གནས་ལ་འོང་།",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "འབར་བ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "གདུག་རྩུག"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "སྟོབས་ལྡན"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "གདུག་རྩུག"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "བཙན་གནས"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "འོང"
+    }
+  ],
+  "timestamp": "2026-09-30T12:03:06.800774856Z",
+  "model": "glm-5.3"
+}

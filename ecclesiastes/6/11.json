@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཚིག་མང་པོ་ཞིག་གིས་ཧེ་བེལ་མང་དུ་འཕེལ་བས། མི་ལ་ཅི་ཞིག་ལྷག་ཡོད་དམ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "བས"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "མང་པོ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "མང་དུ་འཕེལ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ཧེ་བེལ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ལྷག"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "མི་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:52.897295834Z",
+  "model": "glm-5.3"
+}

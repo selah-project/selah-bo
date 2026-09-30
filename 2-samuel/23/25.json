@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཤམ་ཧ་ཧ་རོ་དི་པ། ཨེ་ལི་ཀ་ཧ་རོ་དི་པ།",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ཤམ་ཧ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ཧ་རོ་དི་པ"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "ཨེ་ལི་ཀ"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ཧ་རོ་དི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:03:13.343603847Z",
+  "model": "glm-5.3"
+}

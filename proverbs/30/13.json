@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 30,
+  "translation": "རབས་ཤིག ⟨ནི⟩ མིག་དག་མཐོན་པོར་འགྱུར། དེའི་མིག་ལྤགས་དག་ཀྱང་བཏེགས་པར་འགྱུར།",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "རབས"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི་འདྲ"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "མཐོ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "མིག་ལྤགས"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "བཏེགས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:01:48.631001380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཏེ་ཀོའི་ཨི་ར་ཨི་ཀེཤ་ཀྱི་བུ་དང་། ཨ་ན་ཐོ་ཐིའི་ཨ་བི་ཨེ་ཛེར་ལ་སོགས་པའོ།",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ཨི་ར"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ཨི་ཀེཤ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ཏེ་ཀོའི"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ཨ་བི་ཨེ་ཛེར"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ཨ་ན་ཐོ་ཐི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:50.226287490Z",
+  "model": "glm-5.3"
+}

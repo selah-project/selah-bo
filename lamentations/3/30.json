@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཉེས་སྤོང་བྱེད་མཁན་ལ་ཁོའི་ངོ་ལག་སྦྱིན་བྱེད། སྨད་པས་ཁོ་ངང་གིས་ཚིམ།",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "སྦྱིན་བྱེད"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ཉེས་སྤོང་བྱེད་མཁན་ལ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ངོ་ལག"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ཚིམ"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "སྨད་པས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:23.679969034Z",
+  "model": "glm-5.3"
+}

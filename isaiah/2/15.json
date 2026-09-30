@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "མཐོ་བའི་མཁར་རྩེ་ཐམས་ཅད་ལ་ཡང་། བཙན་བཟོས་ཀྱི་རྩིག་པ་ཐམས་ཅད་ལ་ཡང་།",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "མཁར་རྩེ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "མཐོ་བ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ལ་ཡང་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "རྩིག་པ"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "བཙན་བཟོས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:36:07.790929260Z",
+  "model": "glm-5.3"
+}

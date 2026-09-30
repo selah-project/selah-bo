@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཕྱི་དྲོད་ཉེ་བ་ན་ཆུས་ཁྲུས་བྱ་ཉི་མ་ནུབ་པ་ན་སྒར་གྱི་དབུས་སུ་འཇུག་པར་བྱ།",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ན་"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ཉེ་བ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ཕྱི་དྲོད"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ཁྲུས་བྱ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ཆུས"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "ནུབ་པ་ན"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ཉི་མ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "འཇུག་པར་བྱ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "སུ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "དབུས"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "སྒར་གྱི་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:55:47.479084303Z",
+  "model": "glm-5.3"
+}

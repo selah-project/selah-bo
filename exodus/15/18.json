@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཡ་ཧ་ཝེ་དུས་ཀུན་ཏུ་དང་གཏན་དུ་རྒྱལ་སྲིད་མཛད།",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "རྒྱལ་སྲིད་མཛད"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "དུས་ཀུན་ཏུ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "དང་གཏན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:40:36.596343151Z",
+  "model": "glm-5.3"
+}

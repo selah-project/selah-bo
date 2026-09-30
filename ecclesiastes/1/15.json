@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "འཁྱོག་པོ་དེ་དྲང་པོར་བྱེད་མི་ནུས། ཆད་ལྷག་དེ་གྲངས་སུ་འཇུག་མི་ནུས་སོ།",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "འཁྱོག་པོ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ནུས"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "དྲང་པོར་བྱེད"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ཆད་ལྷག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ནུས"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "གྲངས་སུ་འཇུག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:27.838723580Z",
+  "model": "glm-5.3"
+}

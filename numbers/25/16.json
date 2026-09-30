@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 25:16",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "དང་ཡ་ཧ་ཝེ་ཡིས་མོ་ཤེ་ལ་འདི་སྐད་གསུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:33:31.119918865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "⟨את⟩ཨོ་རེབ་ཐམས་ཅད་རང་གི་རིགས་ལ།",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཨོ་རེབ་ཐམས་ཅད"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ཨོ་རེབ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "རང་གི་རིགས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:00:59.054432534Z",
+  "model": "glm-5.3"
+}

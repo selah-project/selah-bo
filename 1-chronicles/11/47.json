@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཨེ་ལི་ཨེལ་དང་ ཨོ་བེད་དང་ མེ་ཙོ་བ་ཡ་ཧ་ཨཱ་ཤི་ཨེལ།",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "ཨེ་ལི་ཨེལ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ཨོ་བེད"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "ཡཱ་ཤི་ཨེལ"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "མེ་ཙོ་བ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:52.348373847Z",
+  "model": "glm-5.3"
+}

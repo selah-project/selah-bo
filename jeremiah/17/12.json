@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "A throne of glory, high from ⟨the⟩beginning, ⟨is⟩ the place of our sanctuary.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "ཁྲི"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "གཟི་བརྗིད་"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "མཐོན་པོར"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "ཐོག་མ་ནས"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "གནས"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "ཀོ་དེ་ཤ་ངེད་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T11:09:28.164681880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཧ་རིམ་གྱི་བུ་ཚ་རྣམས་སུམ་བརྒྱ་དང་ཉི་ཤུ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ཧ་རིམ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "སུམ་བརྒྱ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "དང་ཉི་ཤུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:40:23.305003105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "དེ་ཉིན་དེ་ལ་མོ་ཤེ་ཡིས་⟨את⟩མི་མང་ལ་བཀའ་བསྒོ་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "བཀའ་བསྒོ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ་ཡིས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མི་མང"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་མང་ལ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ཉིན་ལ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:56:18.391552408Z",
+  "model": "glm-5.3"
+}

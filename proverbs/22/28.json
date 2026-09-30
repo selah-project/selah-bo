@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "མེས་པོ་ཚོས་བཙུགས་པའི་གནའ་བོའི་མཚམས་རྟགས་མ་སྤོ་ཞིག།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "སྤོ་ཞིག"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "མཚམས་རྟགས"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "གནའ་བོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨which⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "བཙུགས་པའི"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "མེས་པོ་ཚོས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:59:10.926256945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "ཡེ་ཧུ་དས་རང་གི་བུ་ཆེ་བ་ཨེར་ལ་བཟའ་མི་ཞིག་བླངས་ཤིང་མོའི་མིང་ལ་ཏ་མར་ཞེས་ཟེར།",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "བླངས"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ཡེ་ཧུ་ད"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "བཟའ་མི"
+    },
+    {
+      "surface": "לער",
+      "gloss": "ཨེར"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "བུ་ཆེ་བ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "མིང"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ཏ་མར"
+    }
+  ],
+  "timestamp": "2026-09-30T07:23:00.142192237Z",
+  "model": "glm-5.3"
+}

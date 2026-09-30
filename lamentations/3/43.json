@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁྱོད་ཀྱིས་ཁྲོས་པས་སྒྲིབ་ནས་ང་ཚོ་བདའ་བར་མཛད། གསོད་པར་མཛད་ཀྱི་སྙིང་རྗེ་གཏོང་མ་གནང་།",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "སྒྲིབ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ཁྲོས་པས"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "ང་ཚོ་བདའ"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "གསོད"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "སྙིང་རྗེ་གཏོང"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:54.042095255Z",
+  "model": "glm-5.3"
+}

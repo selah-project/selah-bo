@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "དངུལ་གྱིས་ཉོས་པའི་མིའི་བྲན་གང་ཡིན་ཡང་ཁྱོད་ཀྱིས་དེ་ལ་ཚེམས་བཤེར་བྱས་ན་དེའི་ཚེ་དེ་ལས་ཟ་ཆོག",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "གང་ཡིན་ཡང་"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "བྲན"
+    },
+    {
+      "surface": "איש",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "ཉོས་པའི"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ཚེམས་བཤེར་བྱས"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "དེ་ལ (the circumcised servant)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "དེའི་ཚེ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ཟ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "དེ་ལས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:38:45.728222648Z",
+  "model": "glm-5.3"
+}

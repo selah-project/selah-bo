@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 42,
+  "translation": "མང་པོ་མཐོང་ཡང་ཉར་མི་བྱེད། རྣ་བ་⟨གཉིས⟩ཁ་ཕྱེ་ཡང་ཉན་མི་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "མཐོང"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "མང་པོ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ཡང་མི"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ཉར་བྱེད"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ཁ་ཕྱེ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "རྣ་བ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ཡང་མི"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ཉན་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T14:46:39.057917457Z",
+  "model": "glm-5.3"
+}

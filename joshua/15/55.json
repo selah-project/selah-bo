@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "མ་ཨོན་ ཀར་མེལ་ ཛིཕ་ དང་ཡུ་ཐ་ཧ།",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "མ་ཨོན"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "ཀར་མེལ"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "ཛིཕ"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "ཡུ་ཐ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:19.607130676Z",
+  "model": "glm-5.3"
+}

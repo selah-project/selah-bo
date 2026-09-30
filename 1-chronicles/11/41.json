@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཨུ་རི་ཡ་ཧ་ ཧི་ཏ་བ་ཡི། ཛ་བ་ད་ ཨ་ཀ་ལ་ཡི་བུ།",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ཨུ་རི་ཡ་ཧ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ཧི་ཏ་བ་པོ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ཛ་བ་ད"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…གི་བུ"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ཨ་ཀ་ལ་ཡ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:32.673873879Z",
+  "model": "glm-5.3"
+}

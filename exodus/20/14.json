@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 20,
+  "translation": "ཁྱོད་ཀྱིས་ངེས་པར་དུ་ལོག་གཡེམ་མི་བྱེད་མི་ཉན།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ལོག་གཡེམ་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T07:41:15.796553203Z",
+  "model": "glm-5.3"
+}

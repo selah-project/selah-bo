@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཧ་ག་བའི་བུ་ཚ། ཤམ་ལའི་བུ་ཚ། ཧ་ནན་གྱི་བུ་ཚ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "ཧ་ག་བ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "ཤམ་ལ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ཧ་ནན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:41:38.180351173Z",
+  "model": "glm-5.3"
+}

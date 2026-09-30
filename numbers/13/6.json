@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཡ་ཧུ་དའི་སྡེ་ལས་ཡེ་ཕུན་ནེའི་བུ་ཀ་ལེབ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "སྡེ་ལས"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ཡ་ཧུ་ད"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ཀ་ལེབ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ཡེ་ཕུན་ནེ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:30.683018725Z",
+  "model": "glm-5.3"
+}

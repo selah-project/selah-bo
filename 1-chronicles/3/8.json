@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཨེ་ལི་ཤ་མ་ཨ་དང་ཨེ་ལི་ཡ་ད་ཨ་དང་ཨེ་ལི་ཕེ་ལེཊ་སྟེ་དགུའོ།",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ཨེ་ལི་ཤ་མ་ཨ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ཨེ་ལི་ཡ་ད་ཨ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ཨེ་ལི་ཕེ་ལེཊ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "དགུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:41.356335233Z",
+  "model": "glm-5.3"
+}

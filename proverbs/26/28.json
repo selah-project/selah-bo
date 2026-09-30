@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 26:28",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "རྫུན་གྱི་ལྕེ་ཡིས་རྨེད་པ་རྣམས་ལ་སྡང་ཞིང་། འཇམ་མཉེན་ཁ་ཡིས་བརླག་པ་བྱེད་དོ།།",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "ལྕེ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "རྫུན"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "སྡང"
+    },
+    {
+      "surface": "דכיו",
+      "gloss": "རྨེད་པ་རྣམས"
+    },
+    {
+      "surface": "ופה",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "འཇམ་མཉེན"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "བྱེད"
+    },
+    {
+      "surface": "מדחה",
+      "gloss": "བརླག་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:00:40.469680119Z",
+  "model": "glm-5.3"
+}

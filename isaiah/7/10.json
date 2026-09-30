@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཡ་ཧ་ཝེ་ཡིས་སླར་ཡང་ཨ་ཧ་ཛ་ལ་གསུང་ཞེས།",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "དང་སླར་ཡང་།"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ཨ་ཧ་ཛ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:38:03.957235393Z",
+  "model": "glm-5.3"
+}

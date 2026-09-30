@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "གོ་ཤེན་གྱི་ས་གཞི་ཁོ་ནར་སེར་བ་མ་བྱུང་། ཡི་སི་ར་ཨེལ་གྱི་བུ་ཚོ་དེ་ན་གནས།",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ཁོ་ནར"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞི་ན"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "གོ་ཤེན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེ་ན"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "སེར་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:36:47.623113825Z",
+  "model": "glm-5.3"
+}

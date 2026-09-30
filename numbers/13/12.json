@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "དན་གྱི་ཚོ་བ་ལས། གི་མལ་ལིའི་བུ་ཨམ་མི་ཨེལ།",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ཚོ་བ་ལས"
+    },
+    {
+      "surface": "דן",
+      "gloss": "དན"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ཨམ་མི་ཨེལ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "གི་མལ་ལི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:29.168881802Z",
+  "model": "glm-5.3"
+}

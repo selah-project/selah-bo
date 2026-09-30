@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "མོ་ཤེ་གི་བུ་རྒྱུད་གེར་ཤོམ་དང་ཨེ་ལི་ཨེ་ཛེར་ཡིན།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "གེར་ཤོམ"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "དང་ཨེ་ལི་ཨེ་ཛེར"
+    }
+  ],
+  "timestamp": "2026-09-30T14:03:10.184051749Z",
+  "model": "glm-5.3"
+}

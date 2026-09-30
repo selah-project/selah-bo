@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "⟨את⟩སུ་ལ་ཚིག་རྣམས་གླེངས། སུའི་དབུགས་ཁྱོད་ལས་བྱུང་།",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སུ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ་ལ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "གླེངས"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ཚིག་རྣམས"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "དང་དབུགས"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུའི"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ཁྱོད་ལས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:10:54.784072666Z",
+  "model": "glm-5.3"
+}

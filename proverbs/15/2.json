@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "མཁས་པའི་ལྕེས་ཤེས་པ་ལེགས་པར་བྱེད། བླུན་པོའི་〈ཁ〉ཡིས་བླུན་རྨོངས་〈འཕེན〉།",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "ལྕེ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "མཁས་པ"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "ལེགས་པར་བྱེད"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ཤེས་པ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ཁ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "འཕེན"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "བླུན་རྨོངས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:16.936604827Z",
+  "model": "glm-5.3"
+}

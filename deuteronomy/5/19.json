@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "རྐུ་བ་ཡང་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ཡང་མ་"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "རྐུ་བ་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T08:44:01.445857221Z",
+  "model": "glm-5.3"
+}

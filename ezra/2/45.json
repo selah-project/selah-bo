@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ལེ་བ་ན་ཧའི་བུ་ཚ། ཧ་ག་བ་ཧའི་བུ་ཚ། ཨ་ཀུ་བའི་བུ་ཚ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ལེ་བ་ན་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ཧ་ག་བ་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "ཨ་ཀུ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:41:38.180138699Z",
+  "model": "glm-5.3"
+}

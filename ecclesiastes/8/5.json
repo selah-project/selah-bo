@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "བཀའ་སྲུང་བ་པོས་སྡིག་པའི་དོན་མི་ཤེས་ཤིང་། དུས་དང་ཁྲིམས་ཤེས་པ་ནི་མཁས་པའི་སྙིང་གིས་ཡིན།",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "སྲུང་བ་པོ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "བཀའ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "དོན"
+    },
+    {
+      "surface": "רע",
+      "gloss": "སྡིག་པ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "དང་དུས"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "དང་ཁྲིམས"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:53.008440923Z",
+  "model": "glm-5.3"
+}

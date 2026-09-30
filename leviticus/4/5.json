@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "བྱུགས་པའི་མཆོད་པ་པོས་གླང་གི་ཁྲག་ལས་བླངས་ཏེ་དེ་ཚོགས་ཀྱི་གུར་ནང་དུ་ཁྱེར་རོ།",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "བླངས་ཏེ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "མཆོད་པ་པོས"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "བྱུགས་པའི"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ཁྲག་ལས"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "གླང་གི"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ཁྱེར་རོ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "དེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ནང་དུ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "གུར"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ཚོགས་ཀྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:59:56.712446814Z",
+  "model": "glm-5.3"
+}

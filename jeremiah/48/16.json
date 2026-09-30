@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 48,
+  "translation": "མོ་ཨ་བའི་ཆག་སྟེར་ཉེ་བར་འོང་ཞིང་ཁོའི་གནོད་པ་ཤིན་ཏུ་མྱུར་བར་འོང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ཉེ་བ"
+    },
+    {
+      "surface": "איד",
+      "gloss": "ཆག་སྟེར"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "མོ་ཨ་བ"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "འོང"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "ཁོའི་གནོད་པ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "མྱུར་བ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ཤིན་ཏུ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:27:20.563463947Z",
+  "model": "glm-5.3"
+}

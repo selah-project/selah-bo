@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "འདི་ནི་ཁྱེད་ཀྱིས་ཟ་རུང་བའི་དུད་འགྲོ་སྟེ། བ་གླང་དང་། ལུག་གི་ལུ་གུ། ར་ཡི་ལུ་གུ་ལ་བུ་ཡིན་ནོ།",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "དུད་འགྲོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ཟ་རུང་བ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "བ་གླང"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ལུ་གུ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ལུག་གི"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "དང་ལུ་གུ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ར་ཡི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:38.337254392Z",
+  "model": "glm-5.3"
+}

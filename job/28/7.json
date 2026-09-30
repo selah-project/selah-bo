@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཤྭ་ཝས་ལམ་དེ་མ་ཤེས། ཁྱུང་གི་མིག་གིས་ཀྱང་མ་མཐོང་།",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "ཤྭ་ཝ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ཀྱང་མ"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "མ་མཐོང"
+    },
+    {
+      "surface": "עין",
+      "gloss": "མིག"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ཁྱུང"
+    }
+  ],
+  "timestamp": "2026-09-30T13:10:57.467195368Z",
+  "model": "glm-5.3"
+}

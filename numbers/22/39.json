@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "བིལ་ཨམ་བ་ལཀ་དང་ལྷན་དུ་ཕྱིན། ཁོང་གཉིས་ཀི་རི་ཡ་ཐ་ཧུ་ཙོཐ་ལ་འབྱོར།",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "བིལ་ཨམ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་ལྷན་དུ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "བ་ལཀ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "འབྱོར"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ཀི་རི་ཡ་ཐ"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ཧུ་ཙོཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:36.026245840Z",
+  "model": "glm-5.3"
+}

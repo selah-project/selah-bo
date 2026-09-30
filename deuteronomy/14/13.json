@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 14,
+  "translation": "དང་ཧ་ར་ཨ་ཧ། དང་⟨את⟩ཨ་ཡ་ཡ། དང་ད་ཡ་ཡ་རང་རིགས་ལ།",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ཧ་ར་ཨ་ཧ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ཨ་ཡ་ཡ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ཨ་ཡ་ཡ"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ད་ཡ་ཡ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "རང་རིགས་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:49:30.689510837Z",
+  "model": "glm-5.3"
+}

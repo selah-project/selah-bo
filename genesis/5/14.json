@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཅེ་ནན་གྱི་ཉིན་མ་ཡོངས་རྫོགས་ལོ་བཅུ་དང་ལོ་དགུ་བརྒྱ་བྱས་པ་དང་། ཁོ་འདས།",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཡོངས་རྫོགས"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་མ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ཅེ་ནན"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "དགུ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "འདས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:03:50.852578238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "དང་ ཀོ་ཧེན་གྱིས་ ⟨את⟩ན་ག་ལུ་བལྟ་ཞིནམ་ད་ ⟨את⟩ན་ག་དེ་ ཉིནམོ་བདུན་གྱི་རིང་ལུ་བཀག་བཞག",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ལྟ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ཀོ་ཧེན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ན་ག"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ན་ག"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "བཀག་བཞག"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ན་ག"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ན་ག"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིནམོ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:05:42.677995697Z",
+  "model": "glm-5.3"
+}

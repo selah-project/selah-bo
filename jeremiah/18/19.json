@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 18:19",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "ཡ་ཧ་ཝེ། ངེད་ལ་གསོན་ཅིག ངའི་རྒོལ་བ་ཚོའི་སྒྲ་ལ་མནོས་ཤིག།",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "གསོན་ཅིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ངེད་ལ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "མནོས་ཤིག"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "སྒྲ་ལ"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "རྒོལ་བ་ཚོའི"
+    }
+  ],
+  "timestamp": "2026-09-30T11:11:15.196437924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་ར་ཁའི་བུ་རྒྱུད་རྣམས། བརྒྱ་ཕྲག་དྲུག་དང་ལྔ་བཅུ་ང་གཉིས།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད་རྣམས"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ཨ་ར་ཁ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "དྲུག"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ་ཕྲག"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ང་གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:05.487676994Z",
+  "model": "glm-5.3"
+}

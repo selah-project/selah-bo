@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཙེ་དེག་གིས་སྐྱོན་མེད་པའི་ལམ་སྲུང་། མི་ཙུག་པས་ཉེས་པ་ཅན་ལོག་པར་བྱེད།",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "ཙེ་དེག"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "སྲུང"
+    },
+    {
+      "surface": "תם",
+      "gloss": "སྐྱོན་མེད"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "མི་ཙུག་པ"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ལོག་པར་བྱེད"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ཉེས་པ་ཅན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:54.664180366Z",
+  "model": "glm-5.3"
+}

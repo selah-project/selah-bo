@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ལེ་ལོ་ཅན་གྱིས་ཞེས་སྨྲ་སྟེ་ལམ་དུ་སེང་གེ་ཡོད་ཐང་ཆེན་དུ་སེང་གེ་ཡོད་ཅེས།",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "སྨྲ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ལེ་ལོ་ཅན"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "སེང་གེ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ་དུ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "སེང་གེ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ནང་དུ"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "ཐང་ཆེན"
+    }
+  ],
+  "timestamp": "2026-09-30T14:58:53.422611556Z",
+  "model": "glm-5.3"
+}

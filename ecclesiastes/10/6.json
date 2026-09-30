@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "བླུན་པོ་གོ་གནས་མཐོན་པོ་མང་པོར་བཞག་ཅིང་། ཕྱུག་པོ་དག་དམའ་བ་ན་འདུག",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "བཞག"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "གོ་གནས་མཐོན་པོ་"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "མང་པོར་"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ཕྱུག་པོ་དག"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "དམའ་བ་ན་"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "འདུག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:26:56.987451078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་གེ་དོར་དང་། ཨ་ཧི་ཡོ་དང་། ཙེ་ཁེར་རོ།",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "དང་གེ་དོར"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "དང་ཨ་ཧི་ཡོ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "དང་ཙེ་ཁེར"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:10.503323170Z",
+  "model": "glm-5.3"
+}

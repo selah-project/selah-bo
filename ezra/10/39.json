@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཤེ་ལེ་མ་ཡ་ཧ། ན་ཏ་ན། ཨ་ད་ཡ་ཧ།",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "ཤེ་ལེ་མ་ཡ་ཧ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ན་ཏ་ན"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "ཨ་ད་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:44:10.692470714Z",
+  "model": "glm-5.3"
+}

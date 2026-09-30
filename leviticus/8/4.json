@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "མོ་ཤེ་ཡིས་ཡ་ཧ་ཝེས་⟨את⟩ཁོ་ལ་བཀའ་གནང་བ་ལྟར་བྱས་ཤིང་། ཚོགས་པ་ཡང་མཇལ་འཛོམས་གུར་གྱི་སྒོ་ནང་དུ་འདུས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ལྟར"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "བཀའ་གནང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོ"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "འདུས"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ཚོགས་པ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ནང་དུ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "གུར"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "མཇལ་འཛོམས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:00:41.078461590Z",
+  "model": "glm-5.3"
+}

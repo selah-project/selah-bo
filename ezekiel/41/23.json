@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 41,
+  "translation": "དང་སྒོ་གཉིས་ཧེ་ཁལ་ལ་དང་ཀོ་དེ་ཤ་ལ།",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "དང་གཉིས"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ཧེ་ཁལ་ལ"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "དང་ཀོ་དེ་ཤ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:52:02.530024943Z",
+  "model": "glm-5.3"
+}

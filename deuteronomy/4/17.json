@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ས་གཞིའི་སྟེང་གི་དུད་འགྲོ་ཐམས་ཅད་ཀྱི་དབྱིབས། གནམ་ལ་འཕུར་བའི་གཤོག་ལྡན་བྱ་ཐམས་ཅད་ཀྱི་དབྱིབས།",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "དབྱིབས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "དུད་འགྲོ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ས་གཞིའི་སྟེང"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "དབྱིབས"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "གཤོག་ལྡན"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "འཕུར"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "གནམ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:45:43.757739027Z",
+  "model": "glm-5.3"
+}

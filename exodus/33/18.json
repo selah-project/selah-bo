@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 33,
+  "translation": "ཁྱོད་ཀྱི་ལ་བཟང⟨את⟩ང་ལ་སྟོན་ཅིག་ཞུ།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "གསུངས"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ང་ལ་སྟོན"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ཞུ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ལ་བཟང"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ཁྱོད་ཀྱི་ལ་བཟང"
+    }
+  ],
+  "timestamp": "2026-09-30T07:52:38.755079880Z",
+  "model": "glm-5.3"
+}

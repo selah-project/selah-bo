@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 36,
+  "translation": "འདི་དག་ཨེ་ཙེར་གྱི་བུ་རྣམས་ཏེ། བིལ་ཧན་དང་ཛ་ཨ་ཝན་དང་ཨ་ཀན་ནོ།",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "འདི་དག"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྣམས"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ཨེ་ཙེར"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "བིལ་ཧན"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "དང་ཛ་ཨ་ཝན"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "དང་ཨ་ཀན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:20:26.527837131Z",
+  "model": "glm-5.3"
+}

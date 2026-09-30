@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 34,
+  "translation": "བཞུས་བཟོས་ཀྱི་ལྷ་ཁྱོད་རང་གི་དོན་དུ་བཟོ་མི་དགོས།",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ལྷ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "བཞུས་བཟོས་ཀྱི"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་དགོས"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "བཟོ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ཁྱོད་རང་གི་དོན་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:27:18.503729931Z",
+  "model": "glm-5.3"
+}

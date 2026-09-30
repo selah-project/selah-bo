@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "མགྲོན་དང་དྭ་ཕྲུག་གི་ཁྲིམས་འཁྱོག་ཏུ་མ་བྱེད། ཁྱོ་མེད་མའི་གོས་གཏའ་མར་མ་ལེན།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "འཁྱོག་ཏུ་བྱེད"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "גר",
+      "gloss": "མགྲོན"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "དྭ་ཕྲུག"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "དང་མ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "གཏའ་མར་ལེན"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "གོས"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ཁྱོ་མེད་མ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:33:45.545382563Z",
+  "model": "glm-5.3"
+}

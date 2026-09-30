@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "ལེ་ལོས་གཉིད་ཟབ་མོ་འབེབས། ལེ་ལོ་ཅན་གྱི་ནེ་ཕེ་ཤ་ལྟོགས་སོ།",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "ལེ་ལོ"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "འབེབས"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "གཉིད་ཟབ་མོ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ལེ་ལོ་ཅན"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "ལྟོགས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:11.247867039Z",
+  "model": "glm-5.3"
+}

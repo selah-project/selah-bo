@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "འོན་ཀྱང་ཨམ་མོན་གྱི་བུ་ཚོའི་རྒྱལ་པོས་ཡི་ཕ་ཊས་ཁོ་ལ་བཏང་བའི་ཚིག་དེ་དག་ལ་ཉན་པ་མ་བྱས།",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚོའི"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ཨམ་མོན"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ཡི་ཕ་ཊ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "བཏང"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ཁོ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:26:01.117195294Z",
+  "model": "glm-5.3"
+}

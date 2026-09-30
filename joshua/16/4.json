@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "ཡོ་སེཕ་གི་བུ་ཚ་མ་ན་ཤེ་དང་ཨེཕ་ར་ཡིམ་གྱིས་ཤུལ་ནོས་སོ།",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "ཤུལ་ནོས"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ཡོ་སེཕ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "མ་ན་ཤེ"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ཨེཕ་ར་ཡིམ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:47.477741300Z",
+  "model": "glm-5.3"
+}

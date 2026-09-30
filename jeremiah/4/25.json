@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "ངས་བལྟས་པ་དང་། ལྟོས། ⟨the⟩མི་མེད་ཅིང་། ནམ་མཁའི་བྱ་ཐམས་ཅད་བྲོས་སོ།།",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ངས་བལྟས"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ལྟོས་དང་"
+    },
+    {
+      "surface": "אין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨the⟩མི"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "དང་ཐམས་ཅད"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "བྱ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ནམ་མཁའི"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "བྲོས་སོ"
+    }
+  ],
+  "timestamp": "2026-09-30T11:03:49.359928304Z",
+  "model": "glm-5.3"
+}

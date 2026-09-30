@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "མོ་ཤེ་ཡིས་⟨את⟩རང་གི་སྒྱུག་པོ་བཏང་། ཁོ་རང་གི་ཡུལ་དུ་ཕྱིན།",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "བཏང"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "སྒྱུག་པོ"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "སྒྱུག་པོ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ཕྱིན"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དུ"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ཁོའི་ཡུལ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:42:21.056083874Z",
+  "model": "glm-5.3"
+}

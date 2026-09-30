@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "འདི་དག་ལ་⟨the⟩ས་གཞི་ཤུལ་དུ་མིང་གི་གྲངས་ལྟར་བགོ་བར་བྱའོ།",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "འདི་དག་ལ"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "བགོ་བར་བྱ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ཤུལ་དུ"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "གྲངས་ལྟར"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "མིང་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:35:52.604903025Z",
+  "model": "glm-5.3"
+}

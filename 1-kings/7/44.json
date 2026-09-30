@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "དང་⟨את⟩མཚོ་གཅིག་དང་། མཚོ་དེའི་འོག་⟨ལ⟩⟨את⟩ བ་གླང་བཅུ་གཉིས།",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "དང་⟨את⟩",
+      "marks": "མཚོ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "མཚོ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "དང་⟨את⟩",
+      "marks": "བ་གླང"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "བ་གླང"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "གཉིས"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "འོག"
+    },
+    {
+      "surface": "הים",
+      "gloss": "མཚོ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:08:26.502517517Z",
+  "model": "glm-5.3"
+}

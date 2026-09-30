@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "དང་གི་ར་དང་ཤེ་ཕུ་ཕན་དང་ཧུ་རམ།",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "དང་གི་ར"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "དང་ཤེ་ཕུ་ཕན"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "དང་ཧུ་རམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:55:33.607188154Z",
+  "model": "glm-5.3"
+}

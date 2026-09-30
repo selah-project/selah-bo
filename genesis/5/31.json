@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ལ་མེ་ཁའི་ཉིན་མ་ཐམས་ཅད་ལོ་བདུན་བརྒྱ་དང་བདུན་ཅུ་དོན་བདུན་ཡིན་ཞིང་། ཁོ་ཤི་འོ།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ཡིན་ཞིང"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ཉིན་མ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ལ་མེ་ཁ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "དང་བདུན་ཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "དང་བདུན"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ཤི་འོ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:12.573776336Z",
+  "model": "glm-5.3"
+}

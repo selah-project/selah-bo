@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཨི་དོ། གི་ནེ་ཐོན། ཨ་བི་ཡ་ཧ།",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "ཨི་དོ"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "གི་ནེ་ཐོན"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ཨ་བི་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:51:02.384990818Z",
+  "model": "glm-5.3"
+}

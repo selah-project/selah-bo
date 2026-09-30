@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཡ་ནུམ་དང་བེ་ཐ་ཕུ་ཨ་ཁ་དང་ཨ་ཕེ་ཀ་ཧ།",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "ཡ་ནུམ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ཕུ་ཨ་ཁ"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "ཨ་ཕེ་ཀ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:19.606176007Z",
+  "model": "glm-5.3"
+}

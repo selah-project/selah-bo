@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཁོང་གིས་ཡང་ཉིན་གཞན་བདུན་བསྒུགས་ཏེ་གྲུ་གཟིངས་ནས་⟨את⟩ཕ་ག་ཁ་སླར་ཡང་སྐྱེལ་ལོ།",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "བསྒུགས"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "གཞན"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "སླར་ཡང་"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "སྐྱེལ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཕ་ག་ཁ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ཕ་ག་ཁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "གྲུ་གཟིངས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:05:46.050105038Z",
+  "model": "glm-5.3"
+}

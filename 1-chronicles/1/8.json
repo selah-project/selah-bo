@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཧ་མའི་བུ་ཚ་དག་ནི་ཀུ་ཤ་དང་མི་ཙ་ར་ཡིམ་དང་ཕུ་ཐ་དང་ཀེ་ན་ཨན་བཅས་སོ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ཧ་མ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ཀུ་ཤ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "མི་ཙ་ར་ཡིམ"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "ཕུ་ཐ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ཀེ་ན་ཨན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:12.880361101Z",
+  "model": "glm-5.3"
+}

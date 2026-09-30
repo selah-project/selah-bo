@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 32,
+  "translation": "ཁོང་ཚོ་ཞུམ་ནས་ད་ཕྱིན་ལན་མི་འདེབས་ཚིག་ཀྱང་ཁོང་ལས་འདས་སོ།",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "ཞུམ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ལན་འདེབས"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ད་ཕྱིན"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "འདས"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ཁོང་ལས"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ཚིག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:12:35.317334089Z",
+  "model": "glm-5.3"
+}

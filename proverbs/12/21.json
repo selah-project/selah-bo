@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཙེ་དེག་པ་ལ་ནག་ཉེས་གང་ཡང་མི་འབྱུང་། ངན་ལས་ཅན་དག་ནི་ངན་པས་ཁེངས་སོ།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི་"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "འབྱུང་"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ཙེ་དེག་པ་ལ་"
+    },
+    {
+      "surface": "כל",
+      "gloss": "གང་ཡང་"
+    },
+    {
+      "surface": "און",
+      "gloss": "ནག་ཉེས་"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ངན་ལས་ཅན་དག"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ཁེངས་"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ངན་པས་"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:54.828896348Z",
+  "model": "glm-5.3"
+}

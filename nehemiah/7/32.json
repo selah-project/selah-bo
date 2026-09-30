@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "བེད་ཨེལ་དང་ཨ་ཡིའི་མི་རྣམས་ལ་བརྒྱ་དང་ཉི་ཤུ་གསུམ།",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "མི་རྣམས"
+    },
+    {
+      "surface": "בית",
+      "gloss": "བེད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "དང་ཨ་ཡི"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ཉི་ཤུ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "གསུམ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:49.627665700Z",
+  "model": "glm-5.3"
+}

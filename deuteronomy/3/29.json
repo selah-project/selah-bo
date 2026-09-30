@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ང་ཚོས་བེ་ཐ་ཕ་ཨོར་གྱི་མདུན་དུ་ལུང་གཤོངས་སུ་སྡོད་པར་བྱས།",
+  "tokens": [
+    {
+      "surface": "וַנֵּ֣שֶׁב",
+      "gloss": "སྡོད་པར་བྱས"
+    },
+    {
+      "surface": "בַּגָּ֔יְא",
+      "gloss": "ལུང་གཤོངས་སུ"
+    },
+    {
+      "surface": "מ֖וּל",
+      "gloss": "མདུན་དུ"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "བེ་ཐ"
+    },
+    {
+      "surface": "פְּעֽוֹר",
+      "gloss": "ཕ་ཨོར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:43:50.144025428Z",
+  "model": "glm-5.3"
+}

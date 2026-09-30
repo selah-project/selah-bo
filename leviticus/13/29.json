@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "ཕོ་གཅིག་གམ་ཡང་ན་མོ་གཅིག གལ་ཏེ་ཁོའི་མགོའམ་ཡང་ན་ཁ་སྐྱེས་སུ་ནད་ནག ⟨is⟩ཅིག་ཡོད་ན།",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ཕོ་གཅིག"
+    },
+    {
+      "surface": "או",
+      "gloss": "གམ་ཡང་ན"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "མོ་གཅིག"
+    },
+    {
+      "surface": "כי",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ཡོད་ན"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ཁོའི་"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ནད་ནག"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "མགོའམ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ཡང་ན"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ཁ་སྐྱེས་སུ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:06:11.311993188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཧ་དད་ཀྱང་འདས། ཨེ་དོམ་གྱི་དཔོན་ཚོགས་རྣམས་ནི། དཔོན་ཏིམ་ན། དཔོན་ཨལ་ཝ། དཔོན་ཡ་ཐེཐ་བཅས་ཡིན།",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "འདས"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ཧ་དད"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "དཔོན་ཚོགས"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ཨེ་དོམ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ཏིམ་ན"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ཨལ་ཝ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "དཔོན"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "ཡ་ཐེཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:52:46.670630098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ད་ལྟ་ནི་བཀའ་⟨འདི་⟩ ཁྱེད་ཀོ་ཧེ་ནིམ་དག་གི་དོན་དུ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ད་ལྟ་"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ཁྱེད་ཚོའི་དོན་དུ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "བཀའ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ཀོ་ཧེ་ནིམ་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T12:18:48.253553693Z",
+  "model": "glm-5.3"
+}

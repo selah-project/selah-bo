@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "གེར་ཤོམ་གྱི་བུ་རྒྱུད་ཤེ་བུ་ཨེལ་དང་པོ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "གེར་ཤོམ"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "ཤེ་བུ་ཨེལ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "དང་པོ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:03:10.184158545Z",
+  "model": "glm-5.3"
+}

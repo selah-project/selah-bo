@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "གང་ཕྱིར་ཁོ་ཚོས་ངན་པའི་བག་ལེབ་ཟོས་ཤིང་དྲག་ཤུགས་ཀྱི་ཆང་འཐུང་།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "གང་ཕྱིར"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ཟོས་ཤིང"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "བག་ལེབ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ངན་པའི"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "དང་ཆང"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "དྲག་ཤུགས་ཀྱི"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "འཐུང་"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:43.766883054Z",
+  "model": "glm-5.3"
+}

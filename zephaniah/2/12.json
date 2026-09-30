@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཁྱོད་ཚོ་ཡང་ — ཀུ་ཤི་མི་རྣམས — ངའི་རལ་གྲིས་བརྒྱལ་བ་⟨ཡིན⟩། ཁོ་ཚོ་⟨ཡིན⟩།",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ཡང་"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ཁྱོད་ཚོ"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "ཀུ་ཤི་མི་རྣམས"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "བརྒྱལ་བ"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ངའི་རལ་གྲིས"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ཁོ་ཚོ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:55:28.650453557Z",
+  "model": "glm-5.3"
+}

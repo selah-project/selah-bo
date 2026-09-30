@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 35,
+  "translation": "ཨེ་ལི་ཧུས་ལན་བཏབ་ནས་འདི་སྐད་དུ།",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ལན་བཏབ་ནས"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ཨེ་ལི་ཧུས"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "འདི་སྐད་དུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:13:20.025068420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "གྲུ་ནས་ཐོན་པའི་ནོ་ཨ་ཁའི་བུ་རྒྱུད་ནི་ཤེམ་དང་ཧམ་དང་ཡ་ཕེཐ་ཡིན། ཧམ་ནི་ཀ་ན་ཨན་གྱི་ཕ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་རྒྱུད"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ནོ་ཨ་ཁ"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ཐོན་པ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ནས"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "གྲུ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ཤེམ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ཧམ"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ཡ་ཕེཐ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ཧམ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ནི"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ཕ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ཀ་ན་ཨན"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:55.321043955Z",
+  "model": "glm-5.3"
+}

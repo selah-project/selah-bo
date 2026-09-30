@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཀི་ན་ཧ་དང་ཌི་མོ་ན་ཧ་དང་ཨད་ཨད་ཧ་ལགས།",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "དང་ཀི་ན་ཧ"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "དང་ཌི་མོ་ན་ཧ"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "དང་ཨད་ཨད་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:07.347300490Z",
+  "model": "glm-5.3"
+}

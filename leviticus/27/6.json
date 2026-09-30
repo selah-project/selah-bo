@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 27:6",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 27,
+  "translation": "ཟླ་བ་གཅིག་ནས་ལོ་ལྔའི་བར་དུ་ཕོའི་རིན་ཐང་དངུལ་ཤེ་ཀེལ་ལྔ་དང་མོའི་རིན་ཐང་དངུལ་ཤེ་ཀེལ་གསུམ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ནས་"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ཟླ་བ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ལོ་"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ཡིན"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "རིན་ཐང་"
+    },
+    {
+      "surface": "הזכר",
+      "gloss": "ཕོ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "ཤེ་ཀེལ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    },
+    {
+      "surface": "ולנקבה",
+      "gloss": "མོ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "རིན་ཐང་"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "ཤེ་ཀེལ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "དངུལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:17:19.379255551Z",
+  "model": "glm-5.3"
+}

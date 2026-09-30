@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ནོ་ག་ཧ་དང་ནེ་ཕེ་གུ་དང་ཡ་ཕི་ཨ།",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ནོ་ག་ཧ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ནེ་ཕེ་གུ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ཡ་ཕི་ཨ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:53:41.356191487Z",
+  "model": "glm-5.3"
+}

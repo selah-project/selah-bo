@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "བླུན་པོའི་ལམ་ ༼དེའི༽ མིག་ཏུ་དྲང་། འོན་ཀྱང་བློ་གྲོས་ ༼ལ༽ ཉན་པ་ ༼ནི༽ མཁས་པ།",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ལམ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "བླུན་པོ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "དྲང"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "དེའི་མིག་ཏུ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ཉན་པ"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "བློ་གྲོས་ལ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "མཁས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:55:23.389154423Z",
+  "model": "glm-5.3"
+}

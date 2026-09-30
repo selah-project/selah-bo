@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 119,
+  "translation": "འདི་ང་ལ་བྱུང་བ་ནི། ངས་ཁྱོད་ཀྱི་བཀའ་རྣམས་སྲུང་བའི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ནི"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ཁྱོད་ཀྱི་བཀའ་རྣམས"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ངས་སྲུང་"
+    }
+  ],
+  "timestamp": "2026-09-30T12:45:57.226682029Z",
+  "model": "glm-5.3"
+}

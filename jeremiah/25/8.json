@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "དེ་བས་ན་དམག་གི་ཚོགས་པ་རྣམས་ཀྱི་ཡ་ཧ་ཝེས་འདི་སྐད་གསུང་ངོ་། ཁྱོད་ཚོས་⟨את⟩ངའི་ཚིག་མ་ཉན་པའི་ཕྱིར་རོ།",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "དེ་བས་ན"
+    },
+    {
+      "surface": "כה",
+      "gloss": "འདི་སྐད"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ཙ་བ་ཨོད"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "ཉན"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཚིག"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ངའི་ཚིག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:13:16.400397211Z",
+  "model": "glm-5.3"
+}

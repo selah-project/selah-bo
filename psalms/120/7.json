@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 120,
+  "translation": "ང་⟨ནི⟩ཞི་བདེ་ཡིན་ལ་ ངས་སྨྲ་བ་ན་ ཁོ་ཚོ་ འཐབ་འཁྲུག་⟨ལ་༽དགའ།",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ཞི་བདེ"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "⟨ལ་...ན⟩"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "སྨྲ་བ་ན"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ཁོ་ཚོ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "འཐབ་འཁྲུག་⟨ལ་༽"
+    }
+  ],
+  "timestamp": "2026-09-30T12:47:12.675566729Z",
+  "model": "glm-5.3"
+}

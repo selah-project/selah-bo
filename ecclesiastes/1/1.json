@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཀོ་ཧེ་ལེཐ་ཀྱི་ཚིག་དག་སྟེ། ད་ཝིད་ཀྱི་བུ། ཡེ་རུ་ཤ་ལ་ཡིམ་ནང་གི་རྒྱལ་པོའི་ཡིན།",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ཚིག་དག"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ཀོ་ཧེ་ལེཐ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ཡེ་རུ་ཤ་ལ་ཡིམ་ནང་"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:27.126209288Z",
+  "model": "glm-5.3"
+}

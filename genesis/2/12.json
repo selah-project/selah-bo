@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ས་གཞི་དེའི་གསེར་ལེགས། དེ་རུ་བད་ལོ་ལད་དང་ཤོ་ཧམ་གྱི་རྡོ་ཡོད་དོ།",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "གསེར"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེའི"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "དེ་རུ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "བད་ལོ་ལད"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "རྡོ"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ཤོ་ཧམ་གྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:02:29.681421293Z",
+  "model": "glm-5.3"
+}

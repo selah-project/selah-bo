@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "དང་ཁ་ཙར་ག་ད་དང་ཁེ་ཤ་མོན་དང་བེཏ་པ་ལེཏ།",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "དང་ཁ་ཙར"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "ག་ད"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "དང་ཁེ་ཤ་མོན"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "དང་བེཏ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "པ་ལེཏ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:16.482465340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 55,
+  "translation": "ལྟོས། བདག་ཐག་རིང་དུ་བྲོས་ཏེ་ཐང་སྟོང་དུ་བདག་སྡོད་སྲིད། སེ་ལ།",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ཐག་རིང་དུ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "བྲོས"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "བདག་སྡོད"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ཐང་སྟོང་དུ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "སེ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:30:31.438866551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཀུན་གནས་ཡུལ་གཅིག་ཏུ་འགྲོ་སྟེ། ཀུན་རྡུལ་ལས་བྱུང་ལ། ཀུན་ཡང་བསྐྱར་རྡུལ་ལ་འབྱུང་།",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཏུ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "གནས་ཡུལ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ཀུན"
+    },
+    {
+      "surface": "היה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ལས"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "རྡུལ"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ཀུན་ཡང"
+    },
+    {
+      "surface": "שב",
+      "gloss": "བསྐྱར་འབྱུང"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "རྡུལ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:49.203863741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "གད་གི་ས་ནས། ཨེལ་ཡ་ས་ཕ་ནི་དེ་ཨུ་ཨེལ་གི་བུ།",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "གད་གི་ས་ནས"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ཨེལ་ཡ་ས་ཕ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "དེ་ཨུ་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:16:17.851961960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 5,
+  "translation": "ཧ་ནོཀ་གིས་ལོ་ལྔ་དང་དྲུག་ཅུ་བཞུགས་ཏེ་⟨את⟩མ་ཐུ་ཤ་ལ་ཧ་བཙས།",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "བཞུགས"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ཧ་ནོཀ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ལྔ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དང་དྲུག་ཅུ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "བཙས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མ་ཐུ་ཤ་ལ་ཧ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "མ་ཐུ་ཤ་ལ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T07:04:55.787465272Z",
+  "model": "glm-5.3"
+}

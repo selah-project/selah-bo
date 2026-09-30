@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཨེ་ལི་ཡོན་གྱི་ཞལ་སྔར་དུ་མིའི་ཁྲིམས་ལུགས་ལོག་པར་སྒྱུར་བ་སྟེ།",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "ལོག་པར་སྒྱུར"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ཁྲིམས"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "མིའི"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ཞལ་སྔར་དུ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ཞལ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ཨེ་ལི་ཡོན"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:55.682974482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 25,
+  "translation": "དེའི་མིང་ཡི་སི་ར་ཨེལ་དུ་རྐང་སྒྲོག་ཕུད་པའི་ཁྱིམ་ཞེས་འབོད་དོ།",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "འབོད"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ཁོའི་མིང་"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ་དུ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁྱིམ"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ཕུད་པ"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "རྐང་སྒྲོག"
+    }
+  ],
+  "timestamp": "2026-09-30T08:55:44.671918768Z",
+  "model": "glm-5.3"
+}

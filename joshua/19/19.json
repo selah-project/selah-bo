@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དེ་བཞིན་ཧ་ཕ་ར་ཡིམ་དང་། ཤི་ཡོན་དང་། ཨ་ན་ཧ་ར་ཐ་བཅས།",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "ཧ་ཕ་ར་ཡིམ"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "ཤི་ཡོན"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "ཨ་ན་ཧ་ར་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:13:59.104781854Z",
+  "model": "glm-5.3"
+}

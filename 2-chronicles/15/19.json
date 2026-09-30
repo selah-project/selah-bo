@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཨ་སའི་རྒྱལ་སྲིད་ཀྱི་ལོ་སུམ་ཅུ་སོ་ལྔའི་བར་དུ་དམག་འཁྲུག་མ་བྱུང།",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "དམག་འཁྲུག"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "བྱུང"
+    },
+    {
+      "surface": "עד",
+      "gloss": "བར་དུ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ལོ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "སུམ་ཅུ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "སོ་ལྔ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "རྒྱལ་སྲིད་ཀྱི"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ཨ་སའི"
+    }
+  ],
+  "timestamp": "2026-09-30T14:12:16.545029539Z",
+  "model": "glm-5.3"
+}

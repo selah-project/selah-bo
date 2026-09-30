@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 3:20",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ད་ཨཏ་ཡིས་ཟབ་མོ་དག་གཤགས་སོ། སྤྲིན་དག་གིས་ཟིལ་པ་འབབ་བོ།",
+  "tokens": [
+    {
+      "surface": "בדעתו",
+      "gloss": "ད་ཨཏ་ཡིས"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ཟབ་མོ་དག"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "གཤགས"
+    },
+    {
+      "surface": "ושחקים",
+      "gloss": "སྤྲིན་དག་གིས"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "འབབ"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ཟིལ་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:56.905782206Z",
+  "model": "glm-5.3"
+}

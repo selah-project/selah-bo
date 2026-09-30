@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 18,
+  "translation": "དང་ བེད་ཧ་ཨ་ར་བ་ ཛེ་མ་ར་ཡིམ་ བེད་ཨེལ་བཅས།",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "དང་ བེད"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ཧ་ཨ་ར་བ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "དང་ ཛེ་མ་ར་ཡིམ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "དང་ བེད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:12:07.912045307Z",
+  "model": "glm-5.3"
+}

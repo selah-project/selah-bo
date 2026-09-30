@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཡང་ཉིན་མང་པོར་ཁྱོད་རང་གི་སྙིང་གིས་ཤེས་ཏེ། ཁྱོད་ཀྱིས་ཀྱང་གཞན་དག་ལ་དམོད་པ་བོར་ཟིན།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "མང་པོར"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ཤེས"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ཁྱོད་ཀྱི་སྙིང"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཀྱང"
+    },
+    {
+      "surface": "את",
+      "gloss": "ཁྱོད་ཀྱིས"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "དམོད་པ་བོར"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "གཞན་དག་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:02:49.881618482Z",
+  "model": "glm-5.3"
+}

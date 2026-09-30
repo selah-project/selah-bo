@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "ཕ་རོ་ཡིས་⟨את⟩ཁོའི་སེམས་བཙོས། ད་རེས་ཀྱི་ཐེངས་འདིར་ཡང་། དེ་བས་⟨את⟩ མི་དམངས་མ་བཏང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "བཙོས"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ཕ་རོ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཁོའི་སེམས"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ཁོའི་སེམས"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང་"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ཐེངས་ལ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "བཏང"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མི་དམངས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "མི་དམངས"
+    }
+  ],
+  "timestamp": "2026-09-30T07:36:55.425244827Z",
+  "model": "glm-5.3"
+}

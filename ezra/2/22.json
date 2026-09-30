@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ནེ་ ཏོ་ཕའི་སྐྱེས་པ་ལྔ་བཅུ་རྩ་དྲུག",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "སྐྱེས་པ"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "ནེ་ཏོ་ཕ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ལྔ་བཅུ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "རྩ་དྲུག"
+    }
+  ],
+  "timestamp": "2026-09-30T13:39:42.670558769Z",
+  "model": "glm-5.3"
+}

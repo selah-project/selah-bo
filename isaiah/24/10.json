@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "ཏོ་ཧུའི་གྲོང་ཆག་རོབ་ཏུ་གྱུར། འཛུལ་བ་ལས་ཁང་པ་ཐམས་ཅད་བཀག",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ཆག་རོབ་ཏུ་གྱུར་"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "གྲོང་"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ཏོ་ཧུ་"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "བཀག"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད་"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ཁང་པ་"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "འཛུལ་བ་ལས"
+    }
+  ],
+  "timestamp": "2026-09-30T10:45:42.559506886Z",
+  "model": "glm-5.3"
+}

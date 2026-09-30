@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ངས་རང་གི་མལ་ས་མོ་ར་དང་ཨ་ཧ་ལིམ་དང་ཀི་ན་མོན་གྱིས་བཏབ་བོ།",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "བཏབ་བོ"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "རང་གི་མལ་ས"
+    },
+    {
+      "surface": "מר",
+      "gloss": "མོ་ར"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ཨ་ཧ་ལིམ"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "དང་ཀི་ན་མོན"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:04.538456281Z",
+  "model": "glm-5.3"
+}

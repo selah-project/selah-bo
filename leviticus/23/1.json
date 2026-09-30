@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 23,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་གསུངས་ཏེ་འདི་སྐད་ཅེས་གསུངས་སོ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུངས་སོ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "འདི་སྐད་ཅེས"
+    }
+  ],
+  "timestamp": "2026-09-30T08:12:36.433816515Z",
+  "model": "glm-5.3"
+}

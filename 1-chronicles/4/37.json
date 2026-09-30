@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 4,
+  "translation": "དང་ ཙི་ཛ་ ཤིཕི་་ཡི་བུ་ ཨལོན་གྱི་བུ་ ཡེ་ད་ཡ་ཧ་ཡི་བུ་ ཤིམ་རི་་ཡི་བུ་ ཤེ་མ་ཡ་ཧ་་ཡི་བུ།",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "དང་ཙི་ཛ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "ཤིཕི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "ཨལོན"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "ཡེ་ད་ཡ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ཤིམ་རི"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ཤེ་མ་ཡ་ཧ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:24.438380748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "མི་རབས་ཤིག་འགྲོ་ལ་མི་རབས་ཤིག་འོང་། ས་གཞི་ནི་གཏན་དུ་གནས་སོ།",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "མི་རབས"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "འགྲོ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "མི་རབས"
+    },
+    {
+      "surface": "בא",
+      "gloss": "འོང"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "གཏན་དུ"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "གནས"
+    }
+  ],
+  "timestamp": "2026-09-30T13:23:27.126793139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "མོ་རང་གི་ཁྱིམ་གྱི་སྒོ་འགྲམ་དུ་དང་གྲོང་གི་མཐོ་ས་ན་ཁྲི་ལ་སྡོད་ཅིང་།",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "སྡོད་ཅིང"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "སྒོ་འགྲམ་དུ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ཁོ་མོའི་ཁྱིམ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ཁྲི"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "མཐོ་ས"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "གྲོང"
+    }
+  ],
+  "timestamp": "2026-09-30T12:54:16.924450160Z",
+  "model": "glm-5.3"
+}

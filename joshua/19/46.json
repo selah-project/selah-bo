@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དང་མེ་ཧ་ཡ་རཀོན་དང་རཀོན་⟨the⟩མཐའ་མཚམས་དང་བཅས་ཡ་ཕོའི་མདུན་ན།",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "དང་མེ་ཧ"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "ཡ་རཀོན"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "དང་རཀོན"
+    },
+    {
+      "surface": "עם",
+      "gloss": "དང་བཅས"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "མཐའ་མཚམས"
+    },
+    {
+      "surface": "מול",
+      "gloss": "མདུན་ན"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "ཡ་ཕོ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:14:38.125629416Z",
+  "model": "glm-5.3"
+}

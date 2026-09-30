@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 16,
+  "translation": "ཁོང་གི་དྲུང་དུ་ས་གཞི་ཐམས་ཅད་འདར། ཡང་འཛམ་བུའི་གཞི་བརྟན་པར་གནས་ཏེ་གཡོ་བ་མེད།",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "འདར"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "ཁོང་གི་དྲུང་དུ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ཐམས་ཅད"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "བརྟན་པར་གནས"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "འཛམ་བུའི་གཞི"
+    },
+    {
+      "surface": "בל",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "གཡོ"
+    }
+  ],
+  "timestamp": "2026-09-30T15:05:01.226651532Z",
+  "model": "glm-5.3"
+}

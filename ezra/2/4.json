@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཤེ་ཕ་ཏ་ཡའི་བུ་ཚ་⟨རྣམས⟩ བརྒྱ་གསུམ་དང་བདུན་ཅུ་དང་གཉིས།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ཤེ་ཕ་ཏ་ཡ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "གསུམ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "བདུན་ཅུ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "དང་གཉིས"
+    }
+  ],
+  "timestamp": "2026-09-30T15:03:29.963810332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "འཁོན་འཛིང་གི་བུད་མེད་དང་ཡངས་པའི་ཁང་པར་ལས་རྒྱ་ཕིབས་ཀྱི་ཟུར་ཁར་སྡོད་པ་བཟང་།",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "བཟང་"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "སྡོད་པ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ཁར"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ཟུར"
+    },
+    {
+      "surface": "גג",
+      "gloss": "རྒྱ་ཕིབས"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "བུད་མེད་ལས"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "འཁོན་འཛིང་"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ཡངས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:59:20.751101772Z",
+  "model": "glm-5.3"
+}

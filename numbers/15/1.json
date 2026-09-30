@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 15:1",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཡ་ཧ་ཝེ་གྱིས་མོ་ཤེ་ལ་〈ཞེས་〉གསུང་།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "〈ཞེས〉"
+    }
+  ],
+  "timestamp": "2026-09-30T08:29:47.739294596Z",
+  "model": "glm-5.3"
+}

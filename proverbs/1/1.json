@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "མི་ཤ་ལེ་ ཤེ་ལོ་མོ་ཧ་ ད་ཝིད་ཀྱི་བུ་ ཡི་སི་ར་ཨེལ་གྱི་རྒྱལ་པོའི་།",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "མི་ཤ་ལེ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ཤེ་ལོ་མོ་ཧ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "བུ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ད་ཝིད"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "རྒྱལ་པོ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ཡི་སི་ར་ཨེལ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:51:45.230385054Z",
+  "model": "glm-5.3"
+}

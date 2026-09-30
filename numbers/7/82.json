@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ར་གན་གཅིག །སྡིག་མཆོད་ཀྱི་ཕྱིར།",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ར་གན"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ར་ཡི་"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "སྡིག་མཆོད་ཀྱི་ཕྱིར"
+    }
+  ],
+  "timestamp": "2026-09-30T08:23:14.140903100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "bo",
+  "chapter": 2,
+  "translation": "ཧོ། ཙི་ཡོན། བ་བི་ལོན་གྱི་བུ་མོའི་⟨དྲུང་⟩ན་གནས་པ་མ་ཁྱོད། བྲོས་ཤིག།",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ཧོ།"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ཙི་ཡོན"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "བྲོས་ཤིག"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "གནས་པ་མ་ཁྱོད"
+    },
+    {
+      "surface": "בת",
+      "gloss": "བུ་མོ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "བ་བི་ལོན"
+    }
+  ],
+  "timestamp": "2026-09-30T14:55:02.369070986Z",
+  "model": "glm-5.3"
+}

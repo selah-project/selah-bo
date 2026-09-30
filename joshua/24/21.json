@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 24,
+  "translation": "དང་ཨམ་གྱིས་ཡོ་ཤུ་ལ་ཞེས་སྨྲས། མིན་ནོ། ཡ་ཧ་ཝེ་ལ་⟨את⟩ང་ཚོས་བྲན་བྱེད།",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ཞེས་སྨྲས"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ཨམ་གྱིས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ཡོ་ཤུ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མིན"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ནོ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "བྲན་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T09:17:19.301490128Z",
+  "model": "glm-5.3"
+}

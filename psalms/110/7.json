@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 110,
+  "translation": "ལམ་⟨གྱི་⟩བརྒྱུད་ཀྱི་ཆུ་ཕྲན་ལས་⟨ཁོས⟩འཐུང་། དེའི་ཕྱིར་མགོ་བཏེག་གོ །",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "ཆུ་ཕྲན་ལས"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ལམ་བརྒྱུད"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "འཐུང"
+    },
+    {
+      "surface": "על",
+      "gloss": "དེའི་"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ཕྱིར"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "བཏེག"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "མགོ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:44:32.391161891Z",
+  "model": "glm-5.3"
+}

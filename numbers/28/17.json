@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "ཟླ་བ་འདིའི་ཚེས་བཅོ་ལྔའི་ཉིན་ལ་དུས་སྟོན། ཉིན་བདུན་གྱི་རིང་ལ་མ་ཙོ་ཏ་ཟ་དགོས།",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "དང་ལྔ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "བཅུ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ཟླ་བའི"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "འདིའི"
+    },
+    {
+      "surface": "חג",
+      "gloss": "དུས་སྟོན"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ཉིན"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "མ་ཙོ་ཏ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ཟ་བ"
+    }
+  ],
+  "timestamp": "2026-09-30T14:31:19.369114408Z",
+  "model": "glm-5.3"
+}

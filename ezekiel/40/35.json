@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 40:35",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 40,
+  "translation": "ཁོང་གིས་ང་བྱང་སྒོའི་དྲུང་དུ་ཁྲིད་ནས་ཚད་འདི་དག་ལྟར་བཀMeasure།",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "ཁོང་གིས་ང་ཁྲིད"
+    },
+    {
+      "surface": "אל",
+      "gloss": "དྲུང་དུ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "སྒོ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "བྱང་"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "ཚད་བཀMeasure"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "ཚད་ལྟར"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "འདི་དག"
+    }
+  ],
+  "timestamp": "2026-09-30T11:51:48.614527338Z",
+  "model": "glm-5.3"
+}

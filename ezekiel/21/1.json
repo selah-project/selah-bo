@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ཡ་ཧ་ཝེའི་ཚིག་ང་ལ་འོངས་ཏེ་ཞེས་གསུང་ངོ་།",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ཚིག"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:40:32.129019243Z",
+  "model": "glm-5.3"
+}

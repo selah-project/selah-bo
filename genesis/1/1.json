@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "bo",
+  "chapter": 1,
+  "translation": "ཐོག་མར་ཨེ་ལོ་ཧིམ་གྱིས་⟨את⟩ནམ་མཁའ་དང་⟨את⟩ས་གཞི་བསྐྲུན།",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ཐོག་མར"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "བསྐྲུན"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ནམ་མཁའ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ནམ་མཁའ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ས་གཞི"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ས་གཞི"
+    }
+  ],
+  "timestamp": "2026-09-30T07:03:07.542068498Z",
+  "model": "glm-5.3"
+}

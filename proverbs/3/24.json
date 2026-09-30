@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "གལ་ཏེ་ཉལ་ན་འཇིགས་པ་མེད། ཉལ་ཞིང་གཉིད་ཀྱང་ཁྱོད་ལ་ཞིམ་མངར་ལྡན།",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ཉལ་ན"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "འཇིགས་པ"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ཉལ་ཞིང"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "ཞིམ་མངར་ལྡན"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "ཁྱོད་ཀྱི་གཉིད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:52:02.380635966Z",
+  "model": "glm-5.3"
+}

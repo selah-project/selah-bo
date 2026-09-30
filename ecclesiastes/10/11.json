@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "གལ་ཏེ་སྦྲུལ་གྱིས་སྔགས་མེད་པར་རྨུགས་ན། ལྕེ་ཡི་བདག་པོ་ལ་ཕན་ཐོགས་ཅི་ཡང་མེད།",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "གལ་ཏེ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "རྨུགས"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "སྦྲུལ་"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "མེད་པར"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "སྔགས"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "མེད"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ཕན་ཐོགས"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "བདག་པོ་ལ"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "ལྕེ་ཡི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:26:58.903422761Z",
+  "model": "glm-5.3"
+}

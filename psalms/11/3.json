@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཀྱེ་རྨང་གཞི་དག་བཤིག་ན། ཙེ་དིག་པོས་ཅི་བྱ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཀྱེ"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "རྨང་གཞི་དག"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "བཤིག་ན"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ཙེ་དིག་པོས"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ཅི"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "བྱ"
+    }
+  ],
+  "timestamp": "2026-09-30T12:22:19.282888711Z",
+  "model": "glm-5.3"
+}

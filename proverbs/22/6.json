@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "ན་གཞོན་ལ་དེའི་ལམ་གྱི་ངོ་བོ་ལྟར་གོམས་པར་སྦྱོངས། དེ་རྒས་ཀྱང་དེ་ལས་མི་འདའ།",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "གོམས་པར་སྦྱོངས"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ན་གཞོན་ལ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ལྟར"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ངོ་བོ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "དེའི་ལམ་གྱི"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཀྱང"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "རྒས"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "འདའ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "དེ་ལས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:58:48.619062234Z",
+  "model": "glm-5.3"
+}

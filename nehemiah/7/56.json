@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ནེ་ཙི་ཡ་ཧའི་བུ་ཚ་དག ཧ་ཏི་ཕ་ཨ་གྱི་བུ་ཚ་དག",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ནེ་ཙི་ཡ་ཧ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ཧ་ཏི་ཕ་ཨ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:52.137620585Z",
+  "model": "glm-5.3"
+}

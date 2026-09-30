@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ཁྱོད་ཀྱིས་ངའི་ནེ་ཕེ་ཤ་ཞི་བ་ལས་རིང་དུ་སྤངས། ངས་ལེགས་པ་བརྗེད་དོ།",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "སྤངས"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "ཞི་བ་ལས"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ངའི་ནེ་ཕེ་ཤ"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "བརྗེད"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ལེགས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:21:10.766136729Z",
+  "model": "glm-5.3"
+}

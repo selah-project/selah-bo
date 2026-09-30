@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨ་དོ་ནའི་ཡ་ཧ་ཝེ་གིས་འདི་སྐད་དུ་གསུང་། ངན་པ་གཅིག །ངན་པ་གཅིག །ལྟོས། དེ་འོངས།",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "འདི་ལྟར"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "གསུང"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ཨ་དོ་ནའི"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "གཅིག"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ངན་པ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "באה",
+      "gloss": "འོངས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:32:50.385267655Z",
+  "model": "glm-5.3"
+}

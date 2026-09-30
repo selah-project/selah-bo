@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "bo",
+  "chapter": 21,
+  "translation": "ང་ཡང་བདག་གི་ལག་པ་ལག་པ་ལ་བརྡབ་སྟེ། ཁྲོ་བ་བསྙོལ་བར་བྱའོ། ང་ཡ་ཧ་ཝེ་ཡིས་གསུངས་སོ།",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ཡང"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "བརྡབ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ལག་པ"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "བསྙོལ་བར་བྱེད"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ཁྲོ་བ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ང"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "གསུངས"
+    }
+  ],
+  "timestamp": "2026-09-30T11:39:47.296017444Z",
+  "model": "glm-5.3"
+}

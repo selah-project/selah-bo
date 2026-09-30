@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "རེ་མེཐ་དང་ཨེན་ག་ནིམ་དང་ཨེན་ཧ་ད་དང་བེཐ་ཕ་ཙེས།",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "རེ་མེyth"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ཨེན"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ག་ནིམ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ཨེན"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ཧ་ད"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "བེཐ"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "ཕ་ཙེས"
+    }
+  ],
+  "timestamp": "2026-09-30T09:14:22.969417614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "bo",
+  "chapter": 9,
+  "translation": "ཁོང་གིས་⟨את⟩མཆོད་སྲེག་ཕུལ་ནས། སྒྲིག་གཞི་ལྟར་མཆོད་འབུལ་བྱས།",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ཕུལ་ནས་"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "མཆོད་སྲེག"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "མཆོད་སྲེག"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "བྱས"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "སྒྲིག་གཞི་ལྟར་"
+    }
+  ],
+  "timestamp": "2026-09-30T08:01:45.996845202Z",
+  "model": "glm-5.3"
+}

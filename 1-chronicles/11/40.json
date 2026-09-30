@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ཨི་ར་ ཡི་ཐི་པ་དང་ ག་རེབ་ ཡི་ཐི་པ།",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ཨི་ར"
+    },
+    {
+      "surface": "ཧיתרי",
+      "gloss": "ཡི་ཐི་པ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ག་རེབ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ཡི་ཐི་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:56:39.946196799Z",
+  "model": "glm-5.3"
+}

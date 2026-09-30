@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 62,
+  "translation": "གཉའ་གནོན་ལ་བློ་མ་གཏད། རྐུ་བ་ལ་སྟོང་པར་མ་གྱུར། ནོར་ནི་འཕེལ་ནའང་དེ་ལ་སྙིང་མ་འཆང་།",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "བློ་གཏད"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "གཉའ་གནོན་ལ"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "རྐུ་བ་ལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "སྟོང་པར་གྱུར"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ནོར"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ནའང"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "འཕེལ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "མ་"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "འཆང"
+    },
+    {
+      "surface": "לב",
+      "gloss": "སྙིང"
+    }
+  ],
+  "timestamp": "2026-09-30T12:32:33.484657999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 19,
+  "translation": "དང་ཨེལ་ཐེ་ཀེ་དང་གིབ་ཐོན་དང་བ་ཨ་ལ་ཐ།",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "ཨེལ་ཐེ་ཀེ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "གིབ་ཐོན"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "བ་ཨ་ལ་ཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:14:43.669887651Z",
+  "model": "glm-5.3"
+}

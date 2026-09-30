@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "bo",
+  "chapter": 3,
+  "translation": "ངའི་མིག་བཞུར་ཞིང་མཚམས་མི་འཇོག ངལ་གསོ་མེད་པར།",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ངའི་མིག"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "བཞུར"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "མཚམས་འཇོག"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "མེད་པར"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ངལ་གསོ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:20:45.532656908Z",
+  "model": "glm-5.3"
+}

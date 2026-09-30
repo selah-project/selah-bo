@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཨེ་ལོ་ཧིམ་གྱི་⟨את⟩བྱ་བ་ལ་ལྟོས། ཡིན་ཏེ་སུ་ཞིག་གིས་ཁོས་འཁྱོག་པོར་བྱས་པའི་⟨את⟩གང་དྲང་པོར་བྱེད་ནུས།",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ལྟོས"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "བྱ་བ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "བྱ་བ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ཨེ་ལོ་ཧིམ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཡིན་ཏེ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུ་ཞིག"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ནུས"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "དྲང་པོར་བྱེད"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "གང་"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "འཁྱོག་པོར་བྱས་པ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:27:33.287418273Z",
+  "model": "glm-5.3"
+}

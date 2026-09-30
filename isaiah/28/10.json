@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "bo",
+  "chapter": 28,
+  "translation": "བཞིན་དུ་ཙ་བ་ལ་ཙ་བ། ཙ་བ་ལ་ཙ་བ། ཀ་བ་ལ་ཀ་བ། ཀ་བ་ལ་ཀ་བ། ཛེ་ཨཱར་ཤམ། ཛེ་ཨཱར་ཤམ།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "བཞིན་དུ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ཙ་བ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ལ་ཙ་བ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ཙ་བ"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ལ་ཙ་བ"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ཀ་བ"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ལ་ཀ་བ"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ཀ་བ"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ལ་ཀ་བ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ཛེ་ཨཱར"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ཤམ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ཛེ་ཨཱར"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ཤམ"
+    }
+  ],
+  "timestamp": "2026-09-30T10:46:04.600341557Z",
+  "model": "glm-5.3"
+}

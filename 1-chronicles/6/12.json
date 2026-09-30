@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "bo",
+  "chapter": 6,
+  "translation": "ཨེ་ལི་ཨ་བ་དེའི་བུ་ཡེ་རོ་ཧམ་དེའི་བུ་ཨེལ་ཀ་ན་ཧ་དེའི་བུ།",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ཨེ་ལི་ཨ་བ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ཡེ་རོ་ཧམ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ཨེལ་ཀ་ན་ཧ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "དེའི་བུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:54:49.336656417Z",
+  "model": "glm-5.3"
+}

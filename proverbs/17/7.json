@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 17,
+  "translation": "ལྷག་པའི་ཚིག་ནི་གླེན་པ་ལ་མི་མཛེས། ལྷག་པར་དུ་མི་དྲག་ལ་རྫུན་གྱི་མཆུ་ཏོ་ཡིན།",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "མི"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "མཛེས"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "གླེན་པ་ལ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "མཆུ་ཏོ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ལྷག་པའི"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ལྷག་པར་དུ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ན"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "མི་དྲག་ལ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "མཆུ་ཏོ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "རྫུན་གྱི"
+    }
+  ],
+  "timestamp": "2026-09-30T12:57:02.872375146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "bo",
+  "chapter": 13,
+  "translation": "དང་ཡ་ཧ་ཙ་ཧ་དང་ཀེ་དེ་མོཐ་དང་མེ་ཕ་ཨཐ།",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "དང་ཡ་ཧ་ཙ་ཧ"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "དང་ཀེ་དེ་མོཐ"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "དང་མེ་ཕ་ཨཐ"
+    }
+  ],
+  "timestamp": "2026-09-30T09:09:58.507563822Z",
+  "model": "glm-5.3"
+}

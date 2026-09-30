@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 10:19",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 10,
+  "translation": "ཧོ་དི་ཡ་ཧ · ཧ་ཤུམ · བེ་ཙ་ཡི།",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ཧོ་དི་ཡ་ཧ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ཧ་ཤུམ"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "བེ་ཙ་ཡི"
+    }
+  ],
+  "timestamp": "2026-09-30T13:50:02.622499026Z",
+  "model": "glm-5.3"
+}

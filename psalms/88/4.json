@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 88,
+  "translation": "བདེ་བ་དང་།",
+  "tokens": [],
+  "timestamp": "2026-09-30T12:38:09.122989549Z",
+  "model": "glm-5.3"
+}

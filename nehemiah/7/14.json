@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 7,
+  "translation": "ཛ་ཀའི་ཡི་བུ་ཚ་དག་ བདུན་བརྒྱ་དང་དྲུག་བཅུ།",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "བུ་ཚ་དག"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ཛ་ཀའི"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "བདུན"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "བརྒྱ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "དྲུག་བཅུ"
+    }
+  ],
+  "timestamp": "2026-09-30T13:48:35.815275612Z",
+  "model": "glm-5.3"
+}

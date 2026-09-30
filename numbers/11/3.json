@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 11,
+  "translation": "ས་དེའི་མིང་ཐ་བེ་ར་ཧ་ཞེས་བཏགས། ཡ་ཧ་ཝེའི་མེ་དེ་དག་ལ་འབར་བས་སོ།",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "བཏགས"
+    },
+    {
+      "surface": "שם",
+      "gloss": "མིང་"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ས"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "དེའི"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "ཐ་བེ་ར་ཧ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ཞེས་པས"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "འབར"
+    },
+    {
+      "surface": "בם",
+      "gloss": "དེ་དག་ལ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "མེ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེའི"
+    }
+  ],
+  "timestamp": "2026-09-30T08:25:16.499658092Z",
+  "model": "glm-5.3"
+}

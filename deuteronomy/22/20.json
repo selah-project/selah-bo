@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "bo",
+  "chapter": 22,
+  "translation": "འོན་ཏེ་གཏམ་དེ་བདེན་པ་⟨ཡིན་ལ⟩གཞོན་ནུ་མ་ལ་གཞོན་ནུ་མའི་རྟགས་མ་རྙེད་ན།",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "འོན་ཏེ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "བདེན་པ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ཡིན་ལ⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "གཏམ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "དེ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "མ"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "རྙེད"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "གཞོན་ནུ་མའི་རྟགས"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "གཞོན་ནུ་མ་ལ"
+    }
+  ],
+  "timestamp": "2026-09-30T08:55:46.942070334Z",
+  "model": "glm-5.3"
+}

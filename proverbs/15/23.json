@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 15,
+  "translation": "ཁ་ནས་འོང་བའི་ལན་གྱིས་མི་ལ་དགའ་སྟེ། ཚོད་དང་ལྡན་པའི་ཚིག་ནི་གང་ཞིག་ལེགས།",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "དགའ་བ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "མི་ལ"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "ལན་གྱིས"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ཁ་ནས"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "དང་ཚིག"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ཚོད་དང་ལྡན་པའི"
+    },
+    {
+      "surface": "מה",
+      "gloss": "གང་ཞིག"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ལེགས"
+    }
+  ],
+  "timestamp": "2026-09-30T12:56:12.424582892Z",
+  "model": "glm-5.3"
+}

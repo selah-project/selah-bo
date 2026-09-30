@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "bo",
+  "chapter": 8,
+  "translation": "བསླབ་བྱ་ཐོས་ལ་མཁས་པར་གྱིས་ཤིག དེ་དོར་བར་མ་བྱེད།",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ཐོས་ལ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "བསླབ་བྱ"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "མཁས་པར་གྱིས་ཤིག"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "མ"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "དོར་བར་བྱེད"
+    }
+  ],
+  "timestamp": "2026-09-30T12:53:40.233686633Z",
+  "model": "glm-5.3"
+}
