@@ -73,3 +73,5 @@ in every entry, so that a reader without the Tibetan prose can still check each 
 - **`משיח יהוה`** Saul སྐོར · `མ་ཤི་ཡ་ཁ` སམ *བསྐུ་བྱུག་བྱས་པ*།
 - **`חכמה`** · `ཤེས་རབ` · `བློ་གྲོས` · ཡང་ན་མིང་ལྟར།
 - **LICENSE / NOTES** · བོད་ཡིག་གམ་དབྱིན་ཡིག
+
+- **Exod 38:10–12 · 1 Kgs 6:36 · Dan 11:26** · ལག་པས་བྲིས, 2026-09-30 23:5x, after the row-count clean (37 verses whose row count ≠ the Hebrew token count).
