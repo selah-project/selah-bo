@@ -5,8 +5,57 @@
   "book": "ruth",
   "lang": "bo",
   "chapter": 3,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-09-30T13:19:21.425335978Z",
+  "translation": "ད་ལྟ་ནི་བདེན་པར་ང་ཉིད་གོ་ཨེལ་ཡིན་⟨ལ⟩ང་ལས་ཀྱང་ཉེ་བའི་གོ་ཨེལ་ཞིག་ཡོད།",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ད་ལྟ་ནི"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ལ⟩"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "བདེན་པར"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ལ⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ཉིད"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "གོ་ཨེལ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ང"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ད་དུང"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ཡོད"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "གོ་ཨེལ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ཉེ་བ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ང་ལས"
+    }
+  ],
+  "timestamp": "2026-10-01T01:50:00.060902702Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "bo",
   "chapter": 23,
-  "translation": "དང་ཡ་ཧ་ཝེའི་<the>ཁང་པར་<any>གཞན་<any>་<any>སུ་<other>ཡང་<any>མི་<enter>འཇུག ཀོ་ཧེན་<the>་<priests>་རྣམས་<priests>དང་ལེ་ཝི་<Levites>་<Levites>ལས་<serving>་<serving>ཀ་<serving>བྱེད་<serving>་<serving>མཁན་<serving>་<serving>རྣམས་<serving>མ་<except>གཏོགས། ཁོང་<they>་<they>ཚོ་<they>འཇུག་<enter>སྟེ་<for>ཀོ་དེ་ཤ་<holy>་<holy>ཡིན་<they>་<they>པས་<they>སོ། <but>དང་<but>མི་མང་<all>་<all>ཐམས་ཅད་ཀྱིས་ཡ་ཧ་ཝེའི་<the>སྲུང་<charge>་<charge>སྐྱོབ་<charge>་<charge>བྱ།",
+  "translation": "དང་ཡ་ཧ་ཝེའི་ཁང་བར་མི་སུ་ཡང་མི་འཛུལ་ཏེ་ཀོ་ཧེ་ནིམ་དང་ལེ་ཝིའི་ཞབས་ཏོག་པ་རྣམས་ཁོ་ན་འཛུལ་བར་བྱ་སྟེ་ཁོང་རྣམས་ཀོ་དེ་ཤ་ཡིན་ནོ། །དང་མི་མང་ཐམས་ཅད་ཀྱིས་ཡ་ཧ་ཝེའི་སྲུང་བྱ་སྲུང་བར་བྱ།",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "དང་...<not>མི"
+      "gloss": "དང་…མི་འཛུལ"
     },
     {
       "surface": "יבוא",
-      "gloss": "འཇུག"
+      "gloss": "འཛུལ"
     },
     {
       "surface": "בית",
-      "gloss": "ཁང་པར"
+      "gloss": "ཁང་བར"
     },
     {
       "surface": "יהוה",
@@ -25,35 +25,35 @@
     },
     {
       "surface": "כי",
-      "gloss": "མ་<except>གཏོགས"
+      "gloss": "ཏེ"
     },
     {
       "surface": "אם",
-      "gloss": "མ་<except>གཏོགས"
+      "gloss": "ཁོ་ན"
     },
     {
       "surface": "הכהנים",
-      "gloss": "ཀོ་ཧེན་<the>་<priests>རྣམས"
+      "gloss": "ཀོ་ཧེ་ནིམ"
     },
     {
       "surface": "והמשרתים",
-      "gloss": "དང་<serving>ཞབས་<serving>་<serving>ཏོག་<serving>་<serving>བྱེད་<serving>་<serving>མཁན་<serving>་<serving>རྣམས"
+      "gloss": "དང་ཞབས་ཏོག་པ་རྣམས"
     },
     {
       "surface": "ללוים",
-      "gloss": "ལེ་ཝི་<of>་<of>ཡི"
+      "gloss": "ལེ་ཝིའི"
     },
     {
       "surface": "המה",
-      "gloss": "ཁོང་<they>་<they>ཚོ"
+      "gloss": "ཁོང་རྣམས"
     },
     {
       "surface": "יבאו",
-      "gloss": "འཇུག"
+      "gloss": "འཛུལ་བར་བྱ"
     },
     {
       "surface": "כי",
-      "gloss": "ཏེ<for>་<for>"
+      "gloss": "སྟེ"
     },
     {
       "surface": "קדש",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "המה",
-      "gloss": "ཁོང་<they>་<they>ཚོ"
+      "gloss": "ཁོང་རྣམས"
     },
     {
       "surface": "וכל",
-      "gloss": "དང་...<all>ཐམས་<all>ཅད"
+      "gloss": "དང་…ཐམས་ཅད་ཀྱིས"
     },
     {
       "surface": "העם",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "ישמרו",
-      "gloss": "སྲུང་<keep>་<keep>སྐྱོབ་<keep>་<keep>བྱ"
+      "gloss": "སྲུང་བར་བྱ"
     },
     {
       "surface": "משמרת",
-      "gloss": "སྲུང་<charge>་<charge>སྐྱོབ་<charge>་<charge>"
+      "gloss": "སྲུང་བྱ"
     },
     {
       "surface": "יהוה",
       "gloss": "ཡ་ཧ་ཝེའི"
     }
   ],
-  "timestamp": "2026-09-30T14:16:35.175223731Z",
+  "timestamp": "2026-10-01T01:51:14.557977760Z",
   "model": "glm-5.3"
 }

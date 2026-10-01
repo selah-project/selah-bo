@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "bo",
   "chapter": 23,
-  "translation": "<did>ལེ་ཝི་<the>་<Levites>རྣམས་དང་ཡེ་ཧུ་ད་<whole>་<Judah><whole>ཡོངས་ཀྱིས་<priest>ཀོ་ཧེན་<the>་<priest>ཡེ་ཧོ་ཡ་ད་<Jehoiada>་<Jehoiada>ཀྱིས་<commanded>བཀའ་<all>་<all>ཇི་<all>བཞིན་<all>་<all>བྱས། <each>མི་<each>་<each>སོ་སོས་<his>⟨את⟩<his>མི་<his>་<his>རྣམས་<his>་<his>ཤ་བད<sabbath>་<sabbath>འགྲུབ་<sabbath>་<sabbath>དུ་<sabbath>འཇུག<incoming>་<incoming>མཁན་<incoming>་<incoming>ཤ་བད<outgoing>་<outgoing>ནས་<outgoing>་<outgoing>འགྲོ་<outgoing>་<outgoing>མཁན་<outgoing>་<outgoing>དང་<outgoing>མཉམ་<with>དུ་<with>ཁྱེར། <for>ཏེ་<for>་<for>ཀོ་ཧེན་<priest>་<priest>ཡེ་ཧོ་ཡ་ད་<Jehoiada>་<Jehoiada>ཀྱིས་<the>⟨את⟩<courses>་<courses>ཚན་<divisions>་<divisions>རྣམས་<divisions>མ་<dismissed>གྲོལ་<dismissed>།",
+  "translation": "ལེ་ཝི་ཚོ་དང་ཡེ་ཧུ་ད་ཐམས་ཅད་ཀྱིས་མཆོད་པ་པོ་ཡེ་ཧོ་ཡ་དས་བཀའ་སྩལ་པ་ཇི་ལྟར་བྱས་ཏེ། མི་རེ་རེས་ཤ་བད་ཉིན་ལས་འཛུལ་མཁན་རྣམས་ཤ་བད་ཉིན་འགྲོ་མཁན་དང་ལྷན་དུ་⟨את⟩རང་གི་མི་དག་བླངས་སོ།། གང་ལགས་ཤེ་ན་མཆོད་པ་པོ་ཡེ་ཧོ་ཡ་དས་⟨את⟩སྡེ་ཚན་དག་མ་བཏང་ངོ་།།",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "བྱས<did>"
+      "gloss": "བྱས་ཏེ"
     },
     {
       "surface": "הלוים",
-      "gloss": "ལེ་ཝི་<the>་<Levites>རྣམས"
+      "gloss": "ལེ་ཝི་ཚོ་"
     },
     {
       "surface": "וכל",
-      "gloss": "དང་...<whole>ཡོངས"
+      "gloss": "དང་…ཐམས་ཅད་"
     },
     {
       "surface": "יהודה",
@@ -25,91 +25,91 @@
     },
     {
       "surface": "ככל",
-      "gloss": "ཇི་<all>བཞིན་<all>་<as>ལྟར"
+      "gloss": "ཇི་ལྟར"
     },
     {
       "surface": "אשר",
-      "gloss": "ནི<which>་<which>"
+      "gloss": "གང་"
     },
     {
       "surface": "צוה",
-      "gloss": "བཀའ་<commanded>་<commanded>རྒྱ་<commanded>་<commanded>བསྩལ"
+      "gloss": "བཀའ་སྩལ་པ"
     },
     {
       "surface": "יהוידע",
-      "gloss": "ཡེ་ཧོ་ཡ་ད"
+      "gloss": "ཡེ་ཧོ་ཡ་དས"
     },
     {
       "surface": "הכהן",
-      "gloss": "ཀོ་ཧེན་<the>"
+      "gloss": "མཆོད་པ་པོ"
     },
     {
       "surface": "ויקחו",
-      "gloss": "ཁྱེར<took>"
+      "gloss": "བླངས་སོ"
     },
     {
       "surface": "איש",
-      "gloss": "མི་<each>་<each>སོ་སོ"
+      "gloss": "མི་རེ་རེས"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "<his>མི་<his>་<his>རྣམས"
+      "marks": "རང་གི་མི་དག"
     },
     {
       "surface": "אנשיו",
-      "gloss": "<his>མི་<his>་<his>རྣམས"
+      "gloss": "རང་གི་མི་དག"
     },
     {
       "surface": "באי",
-      "gloss": "ཤ་བད<incoming>...<sabbath>ལ་<sabbath>་<sabbath>འཇུག<incoming>་<incoming>མཁན"
+      "gloss": "འཛུལ་མཁན་རྣམས"
     },
     {
       "surface": "השבת",
-      "gloss": "ཤ་བད<sabbath>"
+      "gloss": "ཤ་བད་ཉིན་ལས་"
     },
     {
       "surface": "עם",
-      "gloss": "མཉམ་<with>དུ"
+      "gloss": "དང་ལྷན་དུ"
     },
     {
       "surface": "יוצאי",
-      "gloss": "ཤ་བད<outgoing>་<outgoing>ནས་<outgoing>་<outgoing>འགྲོ་<outgoing>་<outgoing>མཁན"
+      "gloss": "འགྲོ་མཁན"
     },
     {
       "surface": "השבת",
-      "gloss": "ཤ་བད<sabbath>"
+      "gloss": "ཤ་བད་ཉིན"
     },
     {
       "surface": "כי",
-      "gloss": "ཏེ<for>་<for>"
+      "gloss": "གང་ལགས་ཤེ་ན"
     },
     {
       "surface": "לא",
-      "gloss": "མ<not>་<not>"
+      "gloss": "མ་"
     },
     {
       "surface": "פטר",
-      "gloss": "གྲོལ་<dismissed>་<dismissed>བཏང་"
+      "gloss": "བཏང་"
     },
     {
       "surface": "יהוידע",
-      "gloss": "ཡེ་ཧོ་ཡ་ད"
+      "gloss": "ཡེ་ཧོ་ཡ་དས"
     },
     {
       "surface": "הכהן",
-      "gloss": "ཀོ་ཧེན་<the>"
+      "gloss": "མཆོད་པ་པོ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "<the>ཚན་<divisions>་<divisions>རྣམས"
+      "marks": "སྡེ་ཚན་དག"
     },
     {
       "surface": "המחלקות",
-      "gloss": "ཚན་<the>་<divisions>རྣམས"
+      "gloss": "སྡེ་ཚན་དག"
     }
   ],
-  "timestamp": "2026-09-30T14:16:35.175849071Z",
+  "timestamp": "2026-10-01T01:51:26.298175749Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "bo",
   "chapter": 23,
-  "translation": "དང་ལེ་ཝི་<the>་<Levites>རྣམས་ཀྱིས་⟨את⟩རྒྱལ་པོ་<the>་<king>མཐའ་<around>་<around>འཁོར་<around>་<around>དུ་<around>བསྐོར། མི་<each>་<each>སོ་སོས་<each>རང་<his>་<his>ལག་<his>་<his>པར་<his>རང་<his>་<his>མཚོན་<weapon>་<weapon>ཆ་<weapon>་<weapon>ཐོགས། <the>ཁང་པའི་<the>ནང་དུ་<whoever>འཇུག་<whoever>་<whoever>མཁན་<whoever>་<whoever>བསད་<put to death>་<put to death>པར་<put to death>་<put to death>བྱ། དང་<be ye>རྒྱལ་པོ་<the>་<king>དྲུང་དུ་<with>་<with>ཁོང་<king>་<king>འབྱོར་<comes in>་<comes in>བའི་<comes in>་<comes in>སྐབས་<when>་<when>དང་<when>ཁོང་<king>་<king>གཤེགས་<goes out>་<goes out>པའི་<goes out>་<goes out>སྐབས་<when>་<when>སུ་<be>་<be>སྡོད་<be>།",
+  "translation": "ལེ་ཝི་ཚོས་⟨את⟩རྒྱལ་པོ་མཐའ་ནས་བསྐོར་ཞིང་། མི་རེ་རེས་ལག་ཏུ་རང་གི་མཚོན་ཆ་ཐོགས། ཁང་པའི་ནང་དུ་འཛུལ་མཁན་གང་ཡིན་བསད་དགོས། རྒྱལ་པོ་འཛུལ་བའི་ཚེ་དང་འབུད་པའི་ཚེ་ཁོང་⟨את⟩ དང་ལྷན་དུ་སྡོད་ཅིག",
   "tokens": [
     {
       "surface": "והקיפו",
-      "gloss": "དང་<surround>མཐའ་<surround>་<surround>བསྐོར"
+      "gloss": "བསྐོར་ཞིང་"
     },
     {
       "surface": "הלוים",
-      "gloss": "ལེ་ཝི་<the>་<Levites>རྣམས"
+      "gloss": "ལེ་ཝི་ཚོས"
     },
     {
       "surface": "את",
@@ -22,61 +22,61 @@
     },
     {
       "surface": "המלך",
-      "gloss": "རྒྱལ་པོ་<the>"
+      "gloss": "རྒྱལ་པོ"
     },
     {
       "surface": "סביב",
-      "gloss": "མཐའ་<around>་<around>འཁོར"
+      "gloss": "མཐའ་ནས་བསྐོར་བ"
     },
     {
       "surface": "איש",
-      "gloss": "མི་<each>་<each>སོ་སོ"
+      "gloss": "མི་རེ་རེས"
     },
     {
       "surface": "וכליו",
-      "gloss": "དང་<his>མཚོན་<weapons>་<weapons>ཆ"
+      "gloss": "དང་རང་གི་མཚོན་ཆ"
     },
     {
       "surface": "בידו",
-      "gloss": "<his>ལག་<his>་<his>པར"
+      "gloss": "ལག་ཏུ་ཐོགས"
     },
     {
       "surface": "והבא",
-      "gloss": "དང་<the one>འཇུག་<entering>་<entering>མཁན"
+      "gloss": "འཛུལ་མཁན"
     },
     {
       "surface": "אל",
-      "gloss": "ཏེ<to>་<to>"
+      "gloss": "དུ"
     },
     {
       "surface": "הבית",
-      "gloss": "ཁང་པའི་<the>ནང་དུ"
+      "gloss": "ཁང་པའི་ནང་"
     },
     {
       "surface": "יומת",
-      "gloss": "བསད་<put to death>་<put to death>པར་<put to death>བྱ"
+      "gloss": "བསད་དགོས"
     },
     {
       "surface": "והיו",
-      "gloss": "དང་<be>"
+      "gloss": "སྡོད་ཅིག"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ དང་<with>ལྷན་<with>དུ"
+      "gloss": "⟨את⟩ དང་ལྷན་དུ"
     },
     {
       "surface": "המלך",
-      "gloss": "རྒྱལ་པོ་<the>"
+      "gloss": "རྒྱལ་པོ་"
     },
     {
       "surface": "בבאו",
-      "gloss": "ཁོང་<his>་<his>འབྱོར་<coming in>་<coming in>བའི་<when>་<when>སྐབས"
+      "gloss": "འཛུལ་བའི་ཚེ"
     },
     {
       "surface": "ובצאתו",
-      "gloss": "དང་<his>ཁོང་<his>་<his>གཤེགས་<going out>་<going out>པའི་<when>་<when>སྐབས"
+      "gloss": "འབུད་པའི་ཚེ"
     }
   ],
-  "timestamp": "2026-09-30T14:16:35.175641486Z",
+  "timestamp": "2026-10-01T01:51:26.297844820Z",
   "model": "glm-5.3"
 }

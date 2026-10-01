@@ -1,87 +1,83 @@
 {
-  "tier": "glm-5.2",
+  "tier": "hand",
   "verse": 26,
   "ref": "1-kings 14:26",
   "book": "1-kings",
   "lang": "bo",
   "chapter": 14,
-  "translation": "ཁོས་ཡ་ཧ་ཝེའི་<the>ཁང་གི་〈את〉མཛོད་ཁང་དག་དང་<the>རྒྱལ་པོའི་<the>ཁང་གི་〈את〉མཛོད་ཁང་དག་<also>ལེན་ཅིང་། <the>གསེར་གྱི་<the>གོ་ཁྲབ་<which>ཤོ་ལོ་མོ་ཧས་བཟོས་པ་<all>དག་ཀྱང་ལེན་ནོ།",
+  "translation": "ཁོས་ཡ་ཧ་ཝེའི་ཁང་པའི་⟨את⟩མཛོད་དང་། རྒྱལ་པོའི་ཁང་པའི་⟨את⟩མཛོད་བླངས། ⟨את⟩ཐམས་ཅད་བླངས། ཤ་ལོ་མོ་ཧས་བཟོས་པའི་གསེར་གྱི་ཕུབ་⟨את⟩ཐམས་ཅད་ཀྱང་ཁོས་བླངས།",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "ལེན"
+      "gloss": "བླངས"
     },
     {
       "surface": "את",
-      "gloss": "〈את〉",
-      "marks": "མཛོད་ཁང་དག"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "אצרות",
-      "gloss": "མཛོད་ཁང་དག"
+      "gloss": "མཛོད"
     },
     {
       "surface": "בית",
-      "gloss": "ཁང་"
+      "gloss": "ཁང་པ"
     },
     {
       "surface": "יהוה",
-      "gloss": "ཡ་ཧ་ཝེ"
+      "gloss": "ཡ་ཧ་ཝེའི"
     },
     {
       "surface": "ואת",
-      "gloss": "〈את〉",
-      "marks": "མཛོད་ཁང་དག"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "אוצרות",
-      "gloss": "མཛོད་ཁང་དག"
+      "gloss": "མཛོད"
     },
     {
       "surface": "בית",
-      "gloss": "ཁང་"
+      "gloss": "ཁང་པ"
     },
     {
       "surface": "המלך",
-      "gloss": "<the>རྒྱལ་པོ"
+      "gloss": "རྒྱལ་པོའི"
     },
     {
       "surface": "ואת",
-      "gloss": "〈את〉",
-      "marks": "<the>གསེར་གྱི་གོ་ཁྲབ་<all>དག"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "הכל",
-      "gloss": "<the>གསེར་གྱི་གོ་ཁྲབ་<all>དག"
+      "gloss": "ཐམས་ཅད"
     },
     {
       "surface": "לקח",
-      "gloss": "ལེན"
+      "gloss": "བླངས"
     },
     {
       "surface": "ויקח",
-      "gloss": "ལེན"
+      "gloss": "ཁོས་བླངས"
     },
     {
       "surface": "את",
-      "gloss": "〈את⟩",
-      "marks": "<all>གོ་ཁྲབ་<which>ཤོ་ལོ་མོ་ཧས་བཟོས་པ"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "כל",
-      "gloss": "<all>"
+      "gloss": "ཐམས་ཅད"
     },
     {
       "surface": "מגני",
-      "gloss": "གོ་ཁྲབ"
+      "gloss": "ཕུབ"
     },
     {
       "surface": "הזהב",
-      "gloss": "<the>གསེར"
+      "gloss": "གསེར་གྱི"
     },
     {
       "surface": "אשר",
-      "gloss": "<which>"
+      "gloss": "གང"
     },
     {
       "surface": "עשה",
@@ -89,9 +85,9 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "ཤོ་ལོ་མོ་ཧ"
+      "gloss": "ཤ་ལོ་མོ་ཧས"
     }
   ],
-  "timestamp": "2026-09-30T10:15:24.134207553Z",
-  "model": "glm-5.3"
+  "timestamp": "2026-10-01T01:59:58.852589Z",
+  "model": "shovel (claude-opus-5-5), by hand"
 }

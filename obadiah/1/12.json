@@ -5,43 +5,43 @@
   "book": "obadiah",
   "lang": "bo",
   "chapter": 1,
-  "translation": "ཁྱོད་ཀྱི་སྤུན་ཟླའི་<day>ཉིན་<on the day>ལ་<calamity>གློ་བུར་<behold>བལྟ་མ་<Do not>བྱེད། <his calamity>ཁོའི་<day>ཉིན་<on the day>ལ་ཡེ་ཧུ་དའི་བུ་<over>རིས་<Do not><rejoice>དགའ་མ་བྱེད། ཁོ་ཚོ་<destroyed>བརླག་པའི་<day>ཉིན་ལ། <distress>དཀའ་<in>སའི་<day>ཉིན་ལ་ཁྱོད་ཀྱི་ཁ་ཆེན་པོར་<do not magnify>མ་<magnify>བྱེད།།",
+  "translation": "ཁྱོད་ཀྱི་སྤུན་ཟླའི་ཉིན་མོར། ཁོའི་ཆག་སྒོའི་ཉིན་མོར་མ་ལྟ་བར་གྱིས། ཡེ་ཧུ་དའི་བུ་རྒྱུད་རྣམས་བརླག་པའི་ཉིན་མོར་དགའ་བར་མ་བྱེད། དཀའ་སྡུག་གི་ཉིན་མོར་ཁྱོད་ཀྱི་ཁ་ཆེར་མ་བྱེད་པར་གྱིས།།",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "<Do not>མ་"
+      "gloss": "མ་...བྱེད"
     },
     {
       "surface": "תרא",
-      "gloss": "<behold>བལྟ"
+      "gloss": "ལྟ"
     },
     {
       "surface": "ביום",
-      "gloss": "<on the day>ཉིན"
+      "gloss": "ཉིན་མོར"
     },
     {
       "surface": "אחיך",
-      "gloss": "ཁྱོད་ཀྱི་སྤུན་ཟླ"
+      "gloss": "ཁྱོད་ཀྱི་སྤུན་ཟླའི"
     },
     {
       "surface": "ביום",
-      "gloss": "<on the day>ཉིན"
+      "gloss": "ཉིན་མོར"
     },
     {
       "surface": "נכרו",
-      "gloss": "<his calamity>གློ་བུར་<his calamity>བ"
+      "gloss": "ཁོའི་ཆག་སྒོའི"
     },
     {
       "surface": "ואל",
-      "gloss": "<Do not>མ་"
+      "gloss": "མ་...བྱེད"
     },
     {
       "surface": "תשמח",
-      "gloss": "<rejoice>དགའ"
+      "gloss": "དགའ་བར"
     },
     {
       "surface": "לבני",
-      "gloss": "བུ་<over>"
+      "gloss": "བུ་རྒྱུད་ལ"
     },
     {
       "surface": "יהודה",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "ביום",
-      "gloss": "<on the day>ཉིན"
+      "gloss": "ཉིན་མོར"
     },
     {
       "surface": "אבדם",
-      "gloss": "ཁོ་ཚོ་<destroyed>བརླག་པ"
+      "gloss": "ཁོ་ཚོ་བརླག་པའི"
     },
     {
       "surface": "ואל",
-      "gloss": "<Do not>མ་"
+      "gloss": "མ་...བྱེད"
     },
     {
       "surface": "תגדל",
-      "gloss": "<magnify>ཆེན་པོར་<do not magnify>བྱ"
+      "gloss": "ཆེར་བྱེད"
     },
     {
       "surface": "פיך",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "ביום",
-      "gloss": "<on the day>ཉིན"
+      "gloss": "ཉིན་མོར"
     },
     {
       "surface": "צרה",
-      "gloss": "<distress>དཀའ"
+      "gloss": "དཀའ་སྡུག"
     }
   ],
-  "timestamp": "2026-09-30T12:04:24.953201999Z",
+  "timestamp": "2026-10-01T01:49:54.535387191Z",
   "model": "glm-5.3"
 }

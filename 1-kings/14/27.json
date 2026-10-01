@@ -5,23 +5,23 @@
   "book": "1-kings",
   "lang": "bo",
   "chapter": 14,
-  "translation": "རྒྱལ་པོ་རེ་ཧ་བ་ཨམ་གྱིས་<in their stead>ཟངས་ཀྱི་གོ་ཁྲབ་<shields>བཟོས་ཤིང་། <the>སྒོ་<the>ཁང་<of the king><the>བསྲུང་བ་<those>པོར་<guard>རྨེག་<to the hand of>སྤྲད་དོ།",
+  "translation": "རཱ་ཧ་བ་ཨམ་རྒྱལ་པོས་དེ་དག་གི་ཚབ་ཏུ་ཟངས་ཀྱི་གོ་ཁྲབ་⟨ལག་པའི་མདུན་དུ⟩བྱས་ལ་རྒྱལ་པོའི་ཁང་པའི་སྒོ་མོ་སྲུང་བའི་རྒྱུག་མཁན་གྱི་དཔོན་པོ་ཚོའི་ལག་ཏུ་གཏད་དོ།",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "བཟོས"
+      "gloss": "བྱས"
     },
     {
       "surface": "המלך",
-      "gloss": "<the>རྒྱལ་པོ"
+      "gloss": "རྒྱལ་པོ"
     },
     {
       "surface": "רחבעם",
-      "gloss": "རེ་ཧ་བ་ཨམ"
+      "gloss": "རཱ་ཧ་བ་ཨམ"
     },
     {
       "surface": "תחתם",
-      "gloss": "<in their stead>"
+      "gloss": "དེ་དག་གི་ཚབ་ཏུ"
     },
     {
       "surface": "מגני",
@@ -33,41 +33,41 @@
     },
     {
       "surface": "והפקיד",
-      "gloss": "སྤྲད"
+      "gloss": "གཏད"
     },
     {
       "surface": "על",
-      "gloss": "<to>"
+      "gloss": "ལ"
     },
     {
       "surface": "יד",
-      "gloss": "<hand of>"
+      "gloss": "ལག་པ"
     },
     {
       "surface": "שרי",
-      "gloss": "<guard>རྨེག"
+      "gloss": "དཔོན་པོ་ཚོ"
     },
     {
       "surface": "הרצים",
-      "gloss": "<guard>"
+      "gloss": "རྒྱུག་མཁན་"
     },
     {
       "surface": "השמרים",
-      "gloss": "<those>བསྲུང་བ་<who keep>"
+      "gloss": "སྲུང་བ་"
     },
     {
       "surface": "פתח",
-      "gloss": "སྒོ"
+      "gloss": "སྒོ་མོ"
     },
     {
       "surface": "בית",
-      "gloss": "<house>ཁང་"
+      "gloss": "ཁང་པ"
     },
     {
       "surface": "המלך",
-      "gloss": "<the>རྒྱལ་པོ"
+      "gloss": "རྒྱལ་པོའི"
     }
   ],
-  "timestamp": "2026-09-30T10:15:24.134362544Z",
+  "timestamp": "2026-10-01T01:46:14.634230448Z",
   "model": "glm-5.3"
 }

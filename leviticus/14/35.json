@@ -1,12 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "hand",
   "verse": 35,
   "ref": "leviticus 14:35",
   "book": "leviticus",
   "lang": "bo",
   "chapter": 14,
-  "translation": "དེ་ནས་ཁང་པ་<span>…<\/span>",
-  "tokens": [],
-  "timestamp": "2026-09-30T14:29:12.702140510Z",
-  "model": "glm-5.3"
+  "translation": "ཁང་པ་གང་ཁོའི་ཡིན་པ་དེའི་བདག་པོ་འོངས་ཏེ་ཀོ་ཧེན་ལ། ཁང་པའི་ནང་དུ་ནད་ལྟ་བུ་ཞིག་ང་ལ་སྣང་ཞེས་ཞུས།",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "འོངས་ཏེ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "གང"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ཁོའི་ཡིན་པ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ཁང་པ"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "ཞུས"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ཀོ་ཧེན་ལ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "ནད་ལྟ་བུ་ཞིག"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "སྣང"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ང་ལ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ཁང་པའི་ནང་དུ"
+    }
+  ],
+  "timestamp": "2026-10-01T01:59:58.852589Z",
+  "model": "shovel (claude-opus-5-5), by hand"
 }

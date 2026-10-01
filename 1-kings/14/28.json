@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "bo",
   "chapter": 14,
-  "translation": "དེ་ལྟར་<as often as>རྒྱལ་པོ་<the>ཡ་ཧ་ཝེའི་<house>ཁང་<to>འགྲོ་<went><the>ཚེ། <the>སྲུང་<guard>པ་དག་གིས་<them><bore>ཐོགས་ཤིང་། <the>སྲུང་<guard>པའི་<chamber>ཁང་<unto>ཡང་<them>ཕྱིར་<brought>འཇོག་གོ།",
+  "translation": "རྒྱལ་པོ་ཡ་ཧ་ཝེའི་ཁང་པར་འགྲོ་རེས་བྱེད་དུས་རྒྱུག་མཁན་ཚོས་དེ་དག་ཁུར་ཏེ་རྒྱུག་མཁན་གྱི་ཁང་པར་ཕྱིར་འཁྱེར་འགྲོ་བ་བྱུང་།",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "<so it was>"
+      "gloss": "བྱུང་"
     },
     {
       "surface": "מדי",
-      "gloss": "<as often as>"
+      "gloss": "རེས"
     },
     {
       "surface": "בא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "<the>རྒྱལ་པོ"
+      "gloss": "རྒྱལ་པོ"
     },
     {
       "surface": "בית",
-      "gloss": "<house>ཁང་"
+      "gloss": "ཁང་པར"
     },
     {
       "surface": "יהוה",
@@ -33,29 +33,29 @@
     },
     {
       "surface": "ישאום",
-      "gloss": "<them><bore>ཐོགས"
+      "gloss": "ཁུར"
     },
     {
       "surface": "הרצים",
-      "gloss": "<the>སྲུང་<guard>པ"
+      "gloss": "རྒྱུག་མཁན་"
     },
     {
       "surface": "והשיבום",
-      "gloss": "<them>ཕྱིར་འཇོག"
+      "gloss": "ཕྱིར་འཁྱེར"
     },
     {
       "surface": "אל",
-      "gloss": "<unto>"
+      "gloss": "ཏེ"
     },
     {
       "surface": "תא",
-      "gloss": "<chamber>ཁང་"
+      "gloss": "ཁང་པ"
     },
     {
       "surface": "הרצים",
-      "gloss": "<the>སྲུང་<guard>པ"
+      "gloss": "རྒྱུག་མཁན་གྱི"
     }
   ],
-  "timestamp": "2026-09-30T10:15:24.134510061Z",
+  "timestamp": "2026-10-01T01:46:14.634490420Z",
   "model": "glm-5.3"
 }

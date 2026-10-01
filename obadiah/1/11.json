@@ -5,51 +5,51 @@
   "book": "obadiah",
   "lang": "bo",
   "chapter": 1,
-  "translation": "<on the day>ཉིན་<on the day>ཁྱོད་<stood>ལངས་ཤིང་<opposite>མདུན་དུ་འདུག་པ་<on the day>ཉིན་... ཁྱོད་<on the day>ཉིན་ལ་<when>ག་<opposite>མདུན་དུ་ལངས་ཤིང་། ཕྱི་རྒྱལ་<strangers>བ་<on the day>ཉིན་ཁོའི་<substance><captured>འཕྲོག་ཅིང་། མི་རྒྱུད་མི་ཤེས་<foreigners>པ་དག་ཁོའི་སྒོ་<entered>རུ་<when>ལོག་ཅིང་། ཡེ་རུ་ཤ་ལ་ཡིམ་ལ་<lot>པགས་<cast>གཡུག་པའི་ཚེ། ཁྱོད་ཀྱང་ཁོ་ཚོའི་ནང་ནས་<one>གཅིག་དང་འདྲ་<were>བོ་<were>རེད།།",
+  "translation": "ཁྱོད་མདུན་དུ་ལངས་པའི་ཉིན་མོར། མི་རིགས་གཞན་དག་གིས་ཁོའི་དཔུང་བཟུང་བའི་ཉིན་མོར། མཐའ་མེད་པ་དག་ཁོའི་སྒོ་མོར་འཛུལ་ཅིང་། ཡེ་རུ་ཤ་ལ་ཡིམ་ལ་གཡའ་རྡེའུ་བོར་བའི་ཚེ། ཁྱོད་ཀྱང་དེ་དག་གི་གཅིག་དང་འདྲའོ།།",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "<on the day>ཉིན"
+      "gloss": "ཉིན་མོར"
     },
     {
       "surface": "עמדך",
-      "gloss": "ཁྱོད་<stood>ལངས"
+      "gloss": "ཁྱོད་ལངས"
     },
     {
-      "surface": "མנגד",
-      "gloss": "<opposite>མདུན་དུ"
+      "surface": "מנגד",
+      "gloss": "མདུན་དུ"
     },
     {
       "surface": "ביום",
-      "gloss": "<on the day>ཉིན"
+      "gloss": "ཉིན་མོར"
     },
     {
       "surface": "שבות",
-      "gloss": "<captured>འཕྲོག"
+      "gloss": "བཟུང"
     },
     {
       "surface": "זרים",
-      "gloss": "ཕྱི་རྒྱུད་<strangers>བ"
+      "gloss": "མི་རིགས་གཞན་དག་གིས"
     },
     {
       "surface": "חילו",
-      "gloss": "ཁོའི་<substance>"
+      "gloss": "ཁོའི་དཔུང"
     },
     {
       "surface": "ונכרים",
-      "gloss": "མི་རྒྱུད་མི་ཤེས་<foreigners>པ"
+      "gloss": "མཐའ་མེད་པ་དག་ཀྱང"
     },
     {
       "surface": "באו",
-      "gloss": "<entered>ལོག"
+      "gloss": "འཛུལ"
     },
     {
       "surface": "שערו",
-      "gloss": "ཁོའི་སྒོ"
+      "gloss": "ཁོའི་སྒོ་མོར"
     },
     {
       "surface": "ועל",
-      "gloss": "ལ"
+      "gloss": "ལ་ཡང"
     },
     {
       "surface": "ירושלם",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "ידו",
-      "gloss": "<cast>གཡུག"
+      "gloss": "བོར"
     },
     {
       "surface": "גורל",
-      "gloss": "<lot>པགས་"
+      "gloss": "གཡའ་རྡེའུ"
     },
     {
       "surface": "גם",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "כאחד",
-      "gloss": "<one>གཅིག་དང་འདྲ"
+      "gloss": "གཅིག་དང་འདྲ"
     },
     {
       "surface": "מהם",
-      "gloss": "ཁོ་ཚོའི་ནང་ནས"
+      "gloss": "དེ་དག་གི"
     }
   ],
-  "timestamp": "2026-09-30T12:04:24.953019140Z",
+  "timestamp": "2026-10-01T01:49:54.535106614Z",
   "model": "glm-5.3"
 }

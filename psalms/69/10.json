@@ -1,12 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "hand",
   "verse": 10,
   "ref": "psalms 69:10",
   "book": "psalms",
   "lang": "bo",
   "chapter": 69,
-  "translation": "ཡ་ཧ་ཝེ absent —",
-  "tokens": [],
-  "timestamp": "2026-09-30T12:33:32.482413870Z",
-  "model": "glm-5.3"
+  "translation": "ཅི་ལ་ཞེ་ན། ཁྱོད་ཀྱི་ཁྱིམ་གྱི་ཞེན་པས་ང་ཟོས། ཁྱོད་ལ་སྨོད་མཁན་རྣམས་ཀྱི་སྨོད་ཚིག་ང་ལ་བབས།",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ཅི་ལ་ཞེ་ན"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ཞེན་པས"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ཁྱོད་ཀྱི་ཁྱིམ་གྱི"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "ང་ཟོས"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "སྨོད་ཚིག"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "ཁྱོད་ལ་སྨོད་མཁན་རྣམས་ཀྱི"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "བབས"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ང་ལ"
+    }
+  ],
+  "timestamp": "2026-10-01T01:59:58.852589Z",
+  "model": "shovel (claude-opus-5-5), by hand"
 }

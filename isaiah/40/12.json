@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "bo",
   "chapter": 40,
-  "translation": "སུ་<lhug>ཡིས་<lhug>ཁོའི་<lhug>མཐིལ་<lhug>ལ་ཆུ་རྣམས་<lhug>འཇལ། ནམ་མཁའ་<lhug>ཁྲུ་<lhug>གང་<lhug>གིས་<lhug>ཚད། ས་གཞིའི་ཐལ་བ་སོར་གསུམ་<lhug>གྱིས་<lhug>བླངས། རི་<lhug>བོ་རྣམས་<lhug>སྲང་<lhug>གིས་<lhug>ལྗིད། སིབ་<lhug>རྣམས་<lhug>སྲང་<lhug>ཁྱེར་<lhug>གྱིས།",
+  "translation": "སུ་ཡིས་ལག་མཐིལ་གྱིས་⟨the⟩ཆུ་ཚད་པར་བྱས། ཁྲུ་གང་གྱིས་ནམ་མཁའ་འཇལ་བར་བྱས། ཚད་གསུམ་གྱིས་ས་གཞིའི་⟨the⟩རྡུལ་བཅིར་བ་དང་། སྲང་གིས་⟨the⟩རི་ལྗིད་འཇལ་བར་བྱས། གདོང་ལྡན་གྲོང་རྣམས་སྲང་མདའིས་འཇལ་བར་བྱས།",
   "tokens": [
     {
       "surface": "מי",
@@ -13,65 +13,65 @@
     },
     {
       "surface": "מדד",
-      "gloss": "འཇལ"
+      "gloss": "ཚད་པར་བྱས"
     },
     {
       "surface": "בשעלו",
-      "gloss": "ཁོའི་<lhug>མཐིལ་<lhug>ལ"
+      "gloss": "ལག་མཐིལ་གྱིས"
     },
     {
       "surface": "מים",
-      "gloss": "ཆུ་<lhug>རྣམས"
+      "gloss": "ཆུ"
     },
     {
       "surface": "ושמים",
-      "gloss": "དང་ནམ་མཁའ"
+      "gloss": "ནམ་མཁའ"
     },
     {
       "surface": "בזרת",
-      "gloss": "ཁྲུ་<lhug>གང་<lhug>གིས"
+      "gloss": "ཁྲུ་གང་གིས"
     },
     {
       "surface": "תכן",
-      "gloss": "ཚད"
+      "gloss": "འཇལ་བར་བྱས"
     },
     {
       "surface": "וכל",
-      "gloss": "དང་<lhug>ཀུན"
+      "gloss": "ཚད་ཀྱིས"
     },
     {
       "surface": "בשלש",
-      "gloss": "སོར་<lhug>གསུམ་<lhug>གྱིས"
+      "gloss": "སྲིད་གསུམ"
     },
     {
       "surface": "עפר",
-      "gloss": "ཐལ་<lhug>བ"
+      "gloss": "རྡུལ"
     },
     {
       "surface": "הארץ",
-      "gloss": "ས་<lhug>གཞིའི"
+      "gloss": "ས་གཞི"
     },
     {
       "surface": "ושקל",
-      "gloss": "དང་<lhug>ལྗིད"
+      "gloss": "ལྗིད་འཇལ་བར་བྱས"
     },
     {
       "surface": "בפלס",
-      "gloss": "སྲང་<lhug>གིས"
+      "gloss": "སྲང་གིས"
     },
     {
       "surface": "הרים",
-      "gloss": "རི་<lhug>བོ་<lhug>རྣམས"
+      "gloss": "རི"
     },
     {
       "surface": "וגבעות",
-      "gloss": "དང་<lhug>སིབ་<lhug>རྣམས"
+      "gloss": "གྲོང"
     },
     {
       "surface": "במאזנים",
-      "gloss": "སྲང་<lhug>ཁྱེར་<lhug>གྱིས"
+      "gloss": "སྲང་མདའིས"
     }
   ],
-  "timestamp": "2026-09-30T10:52:20.609211172Z",
+  "timestamp": "2026-10-01T01:46:15.475783846Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,41 @@
   "book": "psalms",
   "lang": "bo",
   "chapter": 38,
-  "translation": "འོན་ང་ནི་འོན་པ་ལྟར་མི་ཐོས་ཤིང་། ལྐུགས་པ་ལྟར་ཁ་མི་འབྱེད་དོ།",
+  "translation": "ང་ནི་འོན་པ་ལྟར་མི་ཐོས་ལ། ལྐུགས་པ་ལྟར་ཁ་མི་འབྱེད་དོ།",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "ཕྱིང"
+      "gloss": "ང"
     },
     {
       "surface": "כחרש",
-      "gloss": "ཀཁརེཤ"
+      "gloss": "འོན་པ་ལྟར"
     },
     {
       "surface": "לא",
-      "gloss": "ལא"
+      "gloss": "མི"
     },
     {
       "surface": "אשמע",
-      "gloss": "ཨཤམע"
+      "gloss": "ཐོས"
     },
     {
       "surface": "וכאלם",
-      "gloss": "ཕྱིངཀཨལམ"
+      "gloss": "ལྐུགས་པ་ལྟར"
     },
     {
       "surface": "לא",
-      "gloss": "ལא"
+      "gloss": "མི"
     },
     {
       "surface": "יפתח",
-      "gloss": "ཙཕתח"
+      "gloss": "འབྱེད"
     },
     {
       "surface": "פיו",
-      "gloss": "པགཝ"
+      "gloss": "ཁ"
     }
   ],
-  "timestamp": "2026-09-30T12:27:48.225840051Z",
+  "timestamp": "2026-10-01T01:49:37.092813258Z",
   "model": "glm-5.3"
 }

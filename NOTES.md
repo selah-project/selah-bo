@@ -21,6 +21,12 @@ in every entry, so that a reader without the Tibetan prose can still check each 
   the machine did not answer them in any of three tries. `tier: hand` in each file. Lev 14:36 keeps
   `ཀོ་ཧེན` and `ནད` as in 14:37, ⟨את⟩ on all three `את`; Neh 12:19 Jedaiah `ཡེ་ད་ཡ་ཧ` as in 12:21.
   **བོད་སྐད་ཤེས་པའི་རྣ་བ་ལ་སྒུག་བཞིན།**
+- **ཚིག་རྐང་ ༢༡ (2026-09-30, the pre-seating clean):** Gen 5:29 · 38:24 · Lev 14:35 · 17:8 · Num 3:12 ·
+  Deut 32:29 · 1 Sam 14:49 · 26:21 · 2 Sam 3:27 · 1 Kgs 9:7 · 14:25–26 · Isa 3:6 · 66:9 · Jer 37:7 ·
+  Ezek 23:35 · Ps 69:10 · Song 4:8 · 1 Chr 18:10 · 2 Chr 2:2 · Josh 4:7 — written by hand after the
+  re-render left them missing or broken. ⟨את⟩ only on H853; `אתו` *with him* (2 Sam 3:27), `אתי`
+  *with me* (Song 4:8) and `את` *you* (Ezek 23:35) carry none. Deut 32:29 `חכמו` → `མཁས་པ` (the
+  *wisdom* question stands); 1 Chr 18:10 `ולברכו` → `བཀྲ་ཤིས་ཞུ` *congratulate* (the *bless* question stands).
 
 ## ༢ · ལས་ཀ་བྱེད་བཞིན་པའི་སྐབས་ཀྱི་ཐག་གཅོད (the pins, 2026-09-30)
 
@@ -50,6 +56,7 @@ in every entry, so that a reader without the Tibetan prose can still check each 
 
 ## ༥ · ཡང་བསྐྱར་བཟོ་དགོས་པ (open — the re-press list)
 
+- **Gen 41:46** · `שלשים` *thirty* → `སུམ་ཅུ་སོ་ལྔ` *thirty-five* — ནོར། · **Exod 8:3** · *the magicians* → *people*, and `ཨེ་ལོ་ཧིམ` added — ནོར། (2026-09-30, the clean re-render)
 - **Eccl 4:1** · `עשוקים` *oppressed* ↔ `עשקיהם` *oppressors* ལྡོག་འདུག — **སྔོན་ལ།**
 - **`ཨེ་ལོ་ཧིམ` མཚན་གྱི་གནས་སུ** · 2 Kgs 2:1 · Zeph 1:12 · Ezra 8:29.
 - **དབྱིན་ཡིག་ནང་བྱུང་བ** · ཚིག་རྐང་ 14 (Hab 1:17 · Jer 17:9–12 · Obad 1:11–12 …).
