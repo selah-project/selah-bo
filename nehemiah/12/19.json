@@ -1,0 +1,29 @@
+{
+  "tier": "hand",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "bo",
+  "chapter": 12,
+  "translation": "ཡོ་ཡ་རིབ་ཀྱི་སྐོར་ལ་མ་ཏེ་ནཱ་ཡི། ཡེ་ད་ཡ་ཧའི་སྐོར་ལ་ཨུ་ཛི།",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "ཡོ་ཡ་རིབ་ཀྱི་སྐོར་ལ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "མ་ཏེ་ནཱ་ཡི"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "ཡེ་ད་ཡ་ཧའི་སྐོར་ལ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ཨུ་ཛི"
+    }
+  ],
+  "timestamp": "2026-10-01T01:20:19.726568Z",
+  "model": "shovel (claude-opus-5-5), by hand"
+}

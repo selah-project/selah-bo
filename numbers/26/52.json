@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "bo",
+  "chapter": 26,
+  "translation": "ཡ་ཧ་ཝེས་མོ་ཤེ་ལ་གསུང་ཞེས་བྱས་ཏེ།",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "གསུང་བྱས"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ཡ་ཧ་ཝེས"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ལ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "མོ་ཤེ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ཞེས"
+    }
+  ],
+  "timestamp": "2026-10-01T01:13:55.101934590Z",
+  "model": "glm-5.3"
+}

@@ -15,7 +15,12 @@ in every entry, so that a reader without the Tibetan prose can still check each 
 
 ## ༡ · ལག་པས་བྲིས་པའི་ཚིག་རྐང
 
-ཡིག་སྒྱུར་དང་པོའི་ནང་ཚིག་རྐང་གཅིག་ཀྱང་ལག་པས་མ་བྲིས། ཚང་མ་སྒྲིག་གཞིའི་འོག་ཏུ་འཕྲུལ་ཆས་ཀྱིས་བྱས།
+ཚིག་རྐང་བཞི་ལག་པས་བྲིས། གཞན་ཚང་མ་སྒྲིག་གཞིའི་འོག་ཏུ་འཕྲུལ་ཆས་ཀྱིས་བྱས།
+
+- **Lev 14:36 · Ps 73:16 · Neh 12:19–20** · ལག་པས་བྲིས (the shovel, claude-opus-5-5) · 2026-09-30 ·
+  the machine did not answer them in any of three tries. `tier: hand` in each file. Lev 14:36 keeps
+  `ཀོ་ཧེན` and `ནད` as in 14:37, ⟨את⟩ on all three `את`; Neh 12:19 Jedaiah `ཡེ་ད་ཡ་ཧ` as in 12:21.
+  **བོད་སྐད་ཤེས་པའི་རྣ་བ་ལ་སྒུག་བཞིན།**
 
 ## ༢ · ལས་ཀ་བྱེད་བཞིན་པའི་སྐབས་ཀྱི་ཐག་གཅོད (the pins, 2026-09-30)
 

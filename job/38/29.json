@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 38:29",
+  "book": "job",
+  "lang": "bo",
+  "chapter": 38,
+  "translation": "མངལ་ནས་གང་གིས་འཁྱག་པ་བྱུང་། གནམ་གྱི་བ་མོ་ནི་སུས་བཙས།",
+  "tokens": [
+    {
+      "surface": "מבטן",
+      "gloss": "མངལ་ནས"
+    },
+    {
+      "surface": "מי",
+      "gloss": "གང་"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "བྱུང་"
+    },
+    {
+      "surface": "הקרח",
+      "gloss": "འཁྱག་པ"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "དང་བ་མོ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "གནམ་གྱི"
+    },
+    {
+      "surface": "מי",
+      "gloss": "སུས"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "བཙས"
+    }
+  ],
+  "timestamp": "2026-10-01T01:14:51.472805479Z",
+  "model": "glm-5.3"
+}

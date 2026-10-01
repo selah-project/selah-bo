@@ -1,0 +1,37 @@
+{
+  "tier": "hand",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "bo",
+  "chapter": 73,
+  "translation": "ངས་འདི་ཤེས་པར་བྱེད་པ་ལ་བསམ་བློ་བཏང་བ་ན། དེ་ནི་ངའི་མིག་ལ་དཀའ་སྤྱད་ཡིན།",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ངས་བསམ་བློ་བཏང"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ཤེས་པར་བྱེད་པ་ལ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "འདི"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "དཀའ་སྤྱད"
+    },
+    {
+      "surface": "היא",
+      "gloss": "དེ་ནི"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ངའི་མིག་ལ"
+    }
+  ],
+  "timestamp": "2026-10-01T01:20:19.726568Z",
+  "model": "shovel (claude-opus-5-5), by hand"
+}
